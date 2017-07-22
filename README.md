@@ -1,6 +1,9 @@
 # omoon
 The official website for Ocampo's Moon.
 
-My [tumblr](https://ocamposmoon.tumblr.com) is here, along with my [Wordpress](https://ocamposbook.wordpress.com).
+I have a [tumblr](tumblr), and a [Wordpress](wordpress) blog.
 
 Website still under construction.
+
+[tumblr]: https://ocamposmoon.tumblr.com/
+[wordpress]: https://ocamposbook.wordpress.com
