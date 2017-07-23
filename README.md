@@ -8,5 +8,5 @@ Website still under construction.
 
 [tumblr]: https://ocamposmoon.tumblr.com/
 [wp]: https://ocamposbook.wordpress.com
-[lbp]: http://lbp.me
+[lbp]: http://lbp.me/u/OcamposMoon
 [indeb]: https://intensedebate.com/people/OcamposMoon
