@@ -1,5 +1,6 @@
 {
   "name": "quswan.net",
+  "build": "node ./index.js",
   "private": true,
   "dependencies": {
     "handlebars": "^4.0.5",
@@ -9,6 +10,9 @@
     "metalsmith-permalinks": "^0.5.0"
   },
   "plugins": {
+    "metalsmith-layouts": {
+      "engine": "pug"
+    },
     "metalsmith-pug": {
       "pretty": false
     }
