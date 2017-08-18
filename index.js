@@ -61,7 +61,7 @@ Metalsmith(dir.base)
       layout: '_layouts/page.pug'
     },
     liveblogs: {
-      pattern: 'liveblogs/**/*'
+      pattern: 'liveblogs/**/*',
       sortBy: 'date',
       reverse: true,
       layout: '_layouts/post.pug'
