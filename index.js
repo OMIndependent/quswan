@@ -82,6 +82,7 @@ Metalsmith(dir.base)
   }))
   .use(assets({
     source: './assets/'
+    destination: './bin/'
   })) // Add assets to site
   .use(browsersync({
     server: './bin/',
