@@ -1,7 +1,7 @@
 ---
-layout: liveblogs
 title: "Part 4: Tarn's Manor"
 date: 2016-02-01 -0700
+publish: 2017-08-18 -0700
 ---
 
 [Here is the music for Tarn's Manor](https://www.youtube.com/watch?v=SX8Mr1TbkMI)

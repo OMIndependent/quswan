@@ -81,7 +81,7 @@ Metalsmith(dir.base)
     raw: word
   }))
   .use(assets({
-    source: './assets/'
+    source: './assets/',
     destination: './bin/'
   })) // Add assets to site
   .use(browsersync({

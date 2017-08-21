@@ -1,7 +1,7 @@
 ---
-layout: liveblogs
 title: "Part 3: Road to Tarn's Manor"
 date: 2016-02-01 -0700
+publish: 2017-08-18 -0700
 ---
 
 There's a church here, but the door is locked, I wonder if I'm able to get in there soon...
