@@ -22,7 +22,7 @@
   },
   "plugins": {
     "metalsmith-layouts": {
-      "engine": 'pug'
+      "engine": "pug"
     },
     "metalsmith-pug": {
       "pretty": false
