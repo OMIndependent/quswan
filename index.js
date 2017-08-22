@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 
-const pkg           = require("./package.json");
+'use strict'; // Do not use any unneeded vars when running
+
+const pkg           = require('./package.json');
 
 const Metalsmith    = require('metalsmith');
 const assets        = require('metalsmith-assets');
@@ -12,6 +14,7 @@ const publish       = require('metalsmith-publish');
 const permalinks    = require('metalsmith-permalinks');
 const wordcount     = require('metalsmith-word-count');
 const mapsite       = require('metalsmith-mapsite');
+const htmlmin       = require('metalsmith-html-minifier');
 const browsersync   = require('metalsmith-browser-sync');
 const pug           = require('metalsmith-pug');
 
@@ -30,8 +33,8 @@ const meta = {
 
 const dir = {
   base:   __dirname,
-  source:    "./src/",
-  dest:  "./bin/"
+  source:    './src/',
+  dest:  './bin/'
 }; // Directory paths here
 
 const opts = {
@@ -44,15 +47,20 @@ const perm = {
 
 const configTemplate = {
   engine: 'pug',
-  directory: "_layouts/",
-  partials: "_includes/",
+  directory: '_layouts',
+  partials: '_includes',
   default: 'home.pug'
 }; // Config template
 
 var clean = true; // Clean build or not?
 var word = false; // Output word count
 
-var log = true; // Toggle debug log
+var minify = {
+  collapseBooleanAttributes: false,
+  collapseWhitespace: false
+}; // Settings for html-minifier here
+
+var log = false; // Toggle debug log
 
 Metalsmith(dir.base)
   .clean(clean)  // Clean the build
@@ -69,21 +77,29 @@ Metalsmith(dir.base)
     posts: {
       pattern: 'posts/*.md',
       sortBy: 'date',
-      layout: '_layouts/post.pug'
+      metadata: {
+        layout: '_layouts/post.pug'
+      }
     },
     transcripts: {
       pattern: 'transcripts/**/*.md',
-      layout: '_layouts/page.pug'
+      metadata: {
+        layout: '_layouts/page.pug'
+      }
     },
     liveblogs: {
       pattern: 'liveblogs/**/*.md',
       sortBy: 'date',
       reverse: true,
-      layout: '_layouts/post.pug'
+      metadata: {
+        layout: '_layouts/post.pug'
+      }
     },
     trivia: {
       pattern: 'trivia/**/**/*',
-      layout: '_layouts/page.pug'
+      metadata: {
+        layout: '_layouts/page.pug'
+      }
     }
   }))
   .use(layouts(configTemplate)) // Add layout to site
@@ -96,11 +112,12 @@ Metalsmith(dir.base)
   })) // Add assets to site
   .use(browsersync({
     server: './bin/',
-    files:  ['./src/' + '**/*'],
+    files:  ['./src/**/*'],
     port: 8080
   }), function(err) {
     if (err) { throw err; }
   })
+  .use(htmlmin('*.html',minify))
   .build(function(err) {
     if (err) { throw err; }
     console.log("Build complete.\n")
