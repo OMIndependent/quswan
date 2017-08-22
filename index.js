@@ -4,7 +4,6 @@ var pkg           = require("./package.json");
 
 var Metalsmith    = require('metalsmith');
 var assets        = require('metalsmith-assets');
-var server        = require('metalsmith-serve');
 var markdown      = require('metalsmith-markdown');
 var layouts       = require('metalsmith-layouts');
 var collections   = require('metalsmith-collections');
@@ -27,10 +26,6 @@ var meta = {
   generator: "Metalsmith",
   version:  pkg.version
 }; // Metadata here
-
-var host = {
-  port: 8080
-}; // localhost server here
 
 var dir = {
   base:   __dirname,
@@ -61,7 +56,6 @@ Metalsmith(dir.base)
   .metadata(meta) // Get metadata
   .source(dir.source) // Place source files into '/src/' directory
   .destination(dir.dest) // Place final web files into '/bin/' directory
-  .use(serve(host)) // Set local server host to different port
   .use(debug(true)) // Debug and print any errors in console
   .use(pug(opts)) // Add pug-to-HTML plugin
   .use(markdown()) // Add markdown-to-HTML plugin
@@ -98,7 +92,8 @@ Metalsmith(dir.base)
   })) // Add assets to site
   .use(browsersync({
     server: './bin/',
-    files:  ['./src/' + '**/*']
+    files:  ['./src/' + '**/*'],
+    port: 8080
   }), function(err) {
     if (err) { throw err; }
   })
