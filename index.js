@@ -24,8 +24,8 @@ const pug           = require('metalsmith-pug');
 const meta = {
   title: "Ocampo's Moon",
   sitetitle: "Ocampo's Moon",
-  siteurl: "http://quswan.net/",
-  domain:  "http://quswan.net/",
+  url: "http://quswan.net/",
+  domain:  "http://127.0.0.1",
   description: "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
   generator: "Metalsmith",
   version:  pkg.version
