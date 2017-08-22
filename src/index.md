@@ -1,12 +1,17 @@
 ---
-layouts: home.pug
+layout: home.pug
 title: "Ocampo's Moon"
 permalink: false
 ---
 
-The official website for me, the still Socially Aware Magic Swordsman! This website contains my playthroughs, trivia, and other stuff that I find interesting enough to post here.
+The official website for me, the still Socially Aware Magic Swordsman!
+
+
+This website contains my playthroughs, trivia, and other stuff that I find interesting enough to post here.
+
 
 I have a [tumblr][tumblr], and a [Wordpress][wordpress] blog. You can also find me on [IntenseDebate][intensedebate]!
+
 
 Website still under construction.
 

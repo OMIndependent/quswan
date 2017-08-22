@@ -51,12 +51,14 @@ var configTemplate = {
 var clean = true; // Clean build or not?
 var word = false; // Output word count
 
+var log = true; // Toggle debug log
+
 Metalsmith(dir.base)
   .clean(clean)  // Clean the build
   .metadata(meta) // Get metadata
   .source(dir.source) // Place source files into '/src/' directory
   .destination(dir.dest) // Place final web files into '/bin/' directory
-  .use(debug(true)) // Debug and print any errors in console
+  .use(debug(log)) // Debug and print any errors in console
   .use(pug(opts)) // Add pug-to-HTML plugin
   .use(markdown()) // Add markdown-to-HTML plugin
   .use(permalinks(perm)) // Add permalinks to site
@@ -99,6 +101,7 @@ Metalsmith(dir.base)
   })
   .build(function(err) {
     if (err) { throw err; }
+    console.log("Build complete.\n")
   }); // Call exceptions when things go wrong loading site
 
 // Debug function to check if website loads correctly
