@@ -1,5 +1,14 @@
 //- page.pug
-article
-  header
-    h1(class="post-title").
-  div
+include ../_includes/head.pug
+
+body
+  article
+    div(class="wrapper")
+      header
+        include ../_includes/header.pug
+        h1(class="post-title").
+      div(class="content")
+        block content
+      footer
+        include ../_includes/footer.pug
+    
