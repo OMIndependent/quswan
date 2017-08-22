@@ -1,5 +1,5 @@
 ---
-title: "Part 3: Road to Tarn's Manor"
+title: "OM Plays Alundra - Part 3: Road to Tarn's Manor"
 date: 2016-02-01 -0700
 publish: 2017-08-18 -0700
 ---

@@ -1,0 +1,15 @@
+//- home.pug - The default home page layout.
+doctype html
+html(lang='en')
+  head
+    include ../_includes/head.pug
+  
+  body
+    include ../_includes/header.pug
+    
+    main(class='page-content' aria-label='Content')
+      div(class='wrapper')
+        block content
+    
+    footer
+      include ../_includes/footer.pug

@@ -37,6 +37,13 @@ var opts = {
   pretty: false
 }; // For pug plugin options
 
+var configTemplate = {
+  engine: 'pug',
+  directory: "_layouts/",
+  partials: "_includes/",
+  default: 'home.pug'
+}; // Config template
+
 var clean = true; // Clean build or not?
 var word = false; // Output word count
 
@@ -45,8 +52,8 @@ Metalsmith(dir.base)
   .metadata(meta) // Get metadata
   .source(dir.source) // Place source files into '/src/' directory
   .destination(dir.dest) // Place final web files into '/bin/' directory
-  .use(markdown()) // Add markdown-to-HTML plugin
   .use(pug(opts)) // Add pug-to-HTML plugin
+  .use(markdown()) // Add markdown-to-HTML plugin
   .use(permalinks()) // Add permalinks to site
   .use(debug(true)) // Debug and print any errors in console
   .use(publish())
@@ -71,23 +78,20 @@ Metalsmith(dir.base)
       layout: '_layouts/page.pug'
     }
   }))
-  .use(layouts({
-    engine: 'pug',
-    directory: "_layouts/",
-    partials: "_includes/",
-    default: 'page.pug'
-  })) // Add 'handlebars' layout to site
+  .use(layouts(configTemplate)) // Add layout to site
   .use(wordcount({
     raw: word
   }))
   .use(assets({
     source: './assets/',
-    destination: './bin/'
+    destination: './assets/'
   })) // Add assets to site
   .use(browsersync({
     server: './bin/',
     files:  ['./src/' + '**/*']
-  }))
+  }), function(err) {
+    if (err) { throw err; }
+  })
   .build(function(err) {
     if (err) { throw err; }
   }); // Call exceptions when things go wrong loading site

@@ -1,7 +1,8 @@
 ---
-title: "Part 2: Inoa Village"
+title: "OM Plays Alundra - Part 2: Inoa Village"
 date: 2016-02-01 -0700
 publish: 2017-08-18 -0700
+categories: playthroughs
 ---
 
 I now go outside after talking to Jess and trying (and failing!) to open the locked blue chest near him, where I'm greeted by a white haired, red eyed girl named Sybill.

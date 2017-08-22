@@ -1,13 +1,12 @@
-//- post.pug
-include ../_includes/head.pug
+//- _layouts/post.pug
+extends home.pug
 
-body
-  article
-    div(class="wrapper")
-      header
-        include ../_includes/header.pug
-        h1(class="post-title").
-      p
-        block content
-      footer
-        include ../_includes/footer.pug
+article
+  div(class='post-wrapper')
+    
+    header(class='post-header')
+      h1(class='post-title')
+      h2(class='post-meta')
+        
+    p(class='post-content')
+      block content

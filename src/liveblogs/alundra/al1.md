@@ -1,7 +1,8 @@
 ---
-title: "Part 1: A New Beginning"
+title: "OM Plays Alundra - Part 1: A New Beginning"
 date: 2016-02-01 -0700
 publish: 2017-08-18 -0700
+categories: playthroughs
 ---
 
 Since I can't take screenshots on a PS1 game on a PS3, I'll have to liveblog this by text only.
