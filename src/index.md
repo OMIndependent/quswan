@@ -7,7 +7,7 @@ The official website for me, the still Socially Aware Magic Swordsman! This webs
 
 I have a [tumblr][tumblr], and a [Wordpress][wordpress] blog. You can also find me on [IntenseDebate][intensedebate]!
 
-Website's still under construction.
+Website still under construction.
 
 [tumblr]: https://ocamposmoon.tumblr.com/
 [wordpress]: https://ocamposbook.wordpress.com/
