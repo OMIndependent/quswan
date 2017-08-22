@@ -23,7 +23,7 @@ const meta = {
   sitetitle: "Ocampo's Moon",
   siteurl: "http://quswan.net/",
   domain:  "http://quswan.net/",
-  description: "My personal blog site made by Metalsmith",
+  description: "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
   generator: "Metalsmith",
   version:  pkg.version
 }; // Metadata here

@@ -1,7 +1,7 @@
 {
   "name": "quswan.net",
-  "title": "Ocampo's Moon |",
-  "description": "The Socially Aware Magic Swordsman's personal blog site made by Metalsmith",
+  "title": "Ocampo's Moon",
+  "description": "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
   "version": "0.5.0",
   "private": true,
   "dependencies": {

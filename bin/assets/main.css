@@ -2,6 +2,19 @@
   background-color: #2a5420; /* Background color: sort-of dark forest green */
 }
 
+a { /* Links in-site */
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.home-link:hover {
+  text-decoration: none;
+}
+
 body {
     font-family: "Optima", "Palatino Linotype", Arial, Helvetica, sans-serif;
     font-size: 1em;
@@ -37,7 +50,12 @@ h2 {
 
 p {
   font-size: 1em;
-  margin: 1em 1em;
+  margin: 0 0 1em 0;
+}
+
+p:link {
+  text-decoration: none;
+  color: #fff;
 }
 
 h1.post-title {
