@@ -4,6 +4,7 @@ var pkg           = require("./package.json");
 
 var Metalsmith    = require('metalsmith');
 var assets        = require('metalsmith-assets');
+var server        = require('metalsmith-serve');
 var markdown      = require('metalsmith-markdown');
 var layouts       = require('metalsmith-layouts');
 var collections   = require('metalsmith-collections');
@@ -27,6 +28,10 @@ var meta = {
   version:  pkg.version
 }; // Metadata here
 
+var host = {
+  port: 8080
+}; // localhost server here
+
 var dir = {
   base:   __dirname,
   source:    "./src/",
@@ -36,6 +41,10 @@ var dir = {
 var opts = {
   pretty: false
 }; // For pug plugin options
+
+var perm = {
+  pattern: ':collection/:title'
+}; // Permalink pattern here
 
 var configTemplate = {
   engine: 'pug',
@@ -52,10 +61,11 @@ Metalsmith(dir.base)
   .metadata(meta) // Get metadata
   .source(dir.source) // Place source files into '/src/' directory
   .destination(dir.dest) // Place final web files into '/bin/' directory
+  .use(serve(host)) // Set local server host to different port
+  .use(debug(true)) // Debug and print any errors in console
   .use(pug(opts)) // Add pug-to-HTML plugin
   .use(markdown()) // Add markdown-to-HTML plugin
-  .use(permalinks()) // Add permalinks to site
-  .use(debug(true)) // Debug and print any errors in console
+  .use(permalinks(perm)) // Add permalinks to site
   .use(publish())
   .use(collections({
     posts: {
