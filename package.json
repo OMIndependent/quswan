@@ -1,5 +1,6 @@
 {
   "name": "quswan.net",
+  "title": "Ocampo's Moon |",
   "description": "The Socially Aware Magic Swordsman's personal blog site made by Metalsmith",
   "version": "0.5.0",
   "private": true,
@@ -25,7 +26,9 @@
     }
   },
   "scripts": {
-    "build": "node ./index.js",
-    "preview": "http-server build -p 8080"
+    "build": "node index.js",
+    "preview": "http-server build -p 8080",
+    "clean": "rm -rf bin",
+    "start": "npm run"
   }
 }
