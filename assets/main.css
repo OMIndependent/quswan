@@ -11,7 +11,7 @@ a:hover {
   text-decoration: none;
 }
 
-.home-link:hover { /* For the header title */
+.home-link { /* For the header title */
   text-decoration: none;
 }
 

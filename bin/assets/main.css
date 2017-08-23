@@ -3,15 +3,15 @@
 }
 
 a { /* Links in-site */
-  text-decoration: none;
+  text-decoration: underline;
   color: #fff;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
-.home-link:hover {
+.home-link { /* For the header title */
   text-decoration: none;
 }
 
@@ -44,22 +44,17 @@ h1.title {
   text-align: center;
 }
 
+h1.post-title {
+  font-size: 1.5em;
+  margin: 0 0 1em 0;
+}
+
 h2 {
   font-size: 2em;
 }
 
 p {
   font-size: 1em;
-  margin: 0 0 1em 0;
-}
-
-p:link {
-  text-decoration: none;
-  color: #fff;
-}
-
-h1.post-title {
-  font-size: 1.5em;
   margin: 0 0 1em 0;
 }
 

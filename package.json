@@ -4,7 +4,7 @@
   "description": "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
   "version": "0.5.0",
   "private": true,
-  "dependencies": {
+  "devDependencies": {
     "metalsmith": "^2.3.0",
     "metalsmith-assets": "^0.1.0",
     "metalsmith-layouts": "^1.4.1",
@@ -12,10 +12,13 @@
     "metalsmith-collections": "^0.9.0",
     "metalsmith-publish": "^0.1.5",
     "metalsmith-word-count": "^0.0.4",
-    "metalsmith-browser-sync": "^1.0.0",
     "metalsmith-permalinks": "^0.5.0",
     "metalsmith-mapsite": "^1.0.4",
-    "metalsmith-pug": "^2.0.0"
+    "metalsmith-pug": "^2.0.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "dependencies": {
+    "metalsmith-browser-sync": "^1.0.0"
   },
   "plugins": {
     "metalsmith-layouts": {
@@ -29,6 +32,6 @@
     "build": "node index.js",
     "preview": "http-server build -p 8080",
     "clean": "rm -rf bin",
-    "start": "npm run"
+    "start": "npm run build"
   }
 }
