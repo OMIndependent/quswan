@@ -19,7 +19,8 @@
   },
   "plugins": {
     "metalsmith-layouts": {
-      "engine": 'pug'
+      "engine": "pug",
+      "default": "_layouts"
     },
     "metalsmith-pug": {
       "pretty": false
