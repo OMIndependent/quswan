@@ -112,7 +112,7 @@ Metalsmith(dir.base)
   })) // Add assets to site
   .use(browsersync({
     server: './bin/',
-    files:  ['./src/**/*'],
+    files:  ['./src/**/*', './src/*', 'assets/*', '_layouts/*.pug'],
     port: 8080
   }), function(err) {
     if (err) { throw err; }

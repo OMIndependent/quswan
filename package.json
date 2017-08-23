@@ -11,14 +11,11 @@
     "metalsmith-collections": "^0.9.0",
     "metalsmith-publish": "^0.1.5",
     "metalsmith-word-count": "^0.0.4",
+    "metalsmith-browser-sync": "^1.0.0",
     "metalsmith-permalinks": "^0.5.0",
     "metalsmith-mapsite": "^1.0.4",
     "metalsmith-pug": "^2.0.0",
     "pug": "^2.0.0-beta6"
-  },
-  "dependencies": {
-    "metalsmith": "^2.3.0",
-    "metalsmith-browser-sync": "^1.0.0"
   },
   "plugins": {
     "metalsmith-layouts": {
