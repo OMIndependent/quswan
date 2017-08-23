@@ -1,47 +1,48 @@
 #!/usr/bin/env node
 
-var pkg           = require("./package.json");
+const pkg           = require("./package.json");
 
-var Metalsmith    = require('metalsmith');
-var assets        = require('metalsmith-assets');
-var markdown      = require('metalsmith-markdown');
-var layouts       = require('metalsmith-layouts');
-var collections   = require('metalsmith-collections');
-var publish       = require('metalsmith-publish');
-var permalinks    = require('metalsmith-permalinks');
-var wordcount     = require('metalsmith-word-count');
-var mapsite       = require('metalsmith-mapsite');
-var browsersync   = require('metalsmith-browser-sync');
-var pug           = require('metalsmith-pug');
+const Metalsmith    = require('metalsmith');
+const assets        = require('metalsmith-assets');
+const markdown      = require('metalsmith-markdown');
+const layouts       = require('metalsmith-layouts');
+const collections   = require('metalsmith-collections');
+const drafts        = require('metalsmith-drafts');
+const publish       = require('metalsmith-publish');
+const permalinks    = require('metalsmith-permalinks');
+const wordcount     = require('metalsmith-word-count');
+const mapsite       = require('metalsmith-mapsite');
+const browsersync   = require('metalsmith-browser-sync');
+const pug           = require('metalsmith-pug');
 
 // Custom plugins
 //var setdate       = require('metalsmith-date');
 
-var meta = {
+const meta = {
   title: "Ocampo's Moon",
   sitetitle: "Ocampo's Moon",
   siteurl: "http://quswan.net/",
   domain:  "http://quswan.net/",
-  description: "My personal blog site made by Metalsmith",
+  description: "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
   generator: "Metalsmith",
   version:  pkg.version
 }; // Metadata here
 
-var dir = {
+const dir = {
   base:   __dirname,
   source:    "./src/",
   dest:  "./bin/"
 }; // Directory paths here
 
-var opts = {
+const opts = {
   pretty: false
 }; // For pug plugin options
 
-var perm = {
+const perm = {
   pattern: ':collection/:title'
 }; // Permalink pattern here
 
-var configTemplate = {
+const configTemplate = {
   engine: 'pug',
   directory: "_layouts/",
   partials: "_includes/",
@@ -62,6 +63,7 @@ Metalsmith(dir.base)
   .use(pug(opts)) // Add pug-to-HTML plugin
   .use(markdown()) // Add markdown-to-HTML plugin
   .use(permalinks(perm)) // Add permalinks to site
+  .use(drafts()) // Add enabling of drafted posts
   .use(publish())
   .use(collections({
     posts: {
@@ -74,7 +76,7 @@ Metalsmith(dir.base)
       layout: '_layouts/page.pug'
     },
     liveblogs: {
-      pattern: 'liveblogs/**/*',
+      pattern: 'liveblogs/**/*.md',
       sortBy: 'date',
       reverse: true,
       layout: '_layouts/post.pug'

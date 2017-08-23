@@ -2,6 +2,19 @@
   background-color: #2a5420; /* Background color: sort-of dark forest green */
 }
 
+a { /* Links in-site */
+  text-decoration: underline;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.home-link { /* For the header title */
+  text-decoration: none;
+}
+
 body {
     font-family: "Optima", "Palatino Linotype", Arial, Helvetica, sans-serif;
     font-size: 1em;
@@ -31,17 +44,17 @@ h1.title {
   text-align: center;
 }
 
+h1.post-title {
+  font-size: 1.5em;
+  margin: 0 0 1em 0;
+}
+
 h2 {
   font-size: 2em;
 }
 
 p {
   font-size: 1em;
-  margin: 1em 1em;
-}
-
-h1.post-title {
-  font-size: 1.5em;
   margin: 0 0 1em 0;
 }
 

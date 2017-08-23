@@ -1,12 +1,13 @@
 //- _layouts/post.pug
 extends home.pug
 
-article
-  div.post-wrapper
+block content
+  article
+    div.post-wrapper
     
-    header.post-header
-      h1.post-title
-      h2.post-meta
+      header.post-header
+        h1.post-title
+        h2.post-meta
         
-    p.post-content
-      block content
+      div.post-content
+        p= contents
