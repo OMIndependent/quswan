@@ -25,6 +25,7 @@ const meta = {
   title: "Ocampo's Moon",
   sitetitle: "Ocampo's Moon",
   url: "http://quswan.net/",
+  domain:  "http://127.0.0.1",
   description: "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
   generator: "Metalsmith",
   version:  pkg.version
@@ -47,7 +48,8 @@ const perm = {
 const configTemplate = {
   engine: 'pug',
   directory: '_layouts',
-  partials: '_includes'
+  partials: '_includes',
+  default: 'home.pug'
 }; // Config template
 
 var clean = true; // Clean build or not?
