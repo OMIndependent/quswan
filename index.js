@@ -50,7 +50,7 @@ const perm = {
 
 const configTemplate = {
   engine: 'pug',
-  directory: '_layouts'
+  directory: '_layouts',
   partials: '_includes'
 }; // Config template
 
