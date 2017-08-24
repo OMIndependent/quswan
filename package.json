@@ -37,7 +37,7 @@
   },
   "scripts": {
     "build": "node index",
-    "clean": "rm -rf bin",
+    "clean": "rm -rf .bin",
     "start": "npm install && npm run build",
     "deploy": "git-directory-deploy --directory bin --username CayabyabsRose --email atticlsilver@gmail.com "
   }
