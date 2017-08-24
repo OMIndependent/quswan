@@ -38,7 +38,7 @@
   "scripts": {
     "build": "node index",
     "clean": "rm -rf .bin",
-    "start": "npm install && npm run deploy && npm run build",
-    "deploy": "git add .\ngit commit -am \"deploy website\"\n git pull \"https://github.com/CayabyabsRose/quswan\" gh-pages\n git push \"git@github.com:CayabyabsRose/quswan\" gh-pages --force"
+    "start": "npm install && npm run build && npm run deploy",
+    "deploy": "./deploy.sh"
   }
 }
