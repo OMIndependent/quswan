@@ -16,7 +16,7 @@ const wordcount     = require('metalsmith-word-count');
 const mapsite       = require('metalsmith-mapsite');
 const htmlmin       = require('metalsmith-html-minifier');
 const browsersync   = require('metalsmith-browser-sync');
-const pug           = require('metalsmith-pug/lib/node6');
+const pug           = require('metalsmith-pug');
 
 // Custom plugins
 //var setdate       = require('metalsmith-date');
@@ -50,7 +50,7 @@ const perm = {
 
 const configTemplate = {
   engine: 'pug',
-  directory: '_layouts'
+  directory: '_layouts',
   partials: '_includes'
 }; // Config template
 
