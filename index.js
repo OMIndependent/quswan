@@ -48,7 +48,7 @@ const perm = {
 const configTemplate = {
   engine: 'pug',
   directory: '_layouts'
-  //partials: '_includes'
+  partials: '_includes'
 }; // Config template
 
 var clean = true; // Clean build or not?
