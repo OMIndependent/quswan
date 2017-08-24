@@ -16,14 +16,16 @@ const wordcount     = require('metalsmith-word-count');
 const mapsite       = require('metalsmith-mapsite');
 const htmlmin       = require('metalsmith-html-minifier');
 const browsersync   = require('metalsmith-browser-sync');
-const pug           = require('metalsmith-pug');
+const pug           = require('metalsmith-pug/lib/node6');
 
 // Custom plugins
 //var setdate       = require('metalsmith-date');
 
 const meta = {
   title: "Ocampo's Moon",
-  sitetitle: "Ocampo's Moon",
+  site: {
+    title: "Ocampo's Moon",
+  },
   url: "http://quswan.net/",
   domain:  "http://127.0.0.1",
   description: "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
@@ -38,7 +40,8 @@ const dir = {
 }; // Directory paths here
 
 const opts = {
-  pretty: false
+  pretty: false,
+  useMetadata: true
 }; // For pug plugin options
 
 const perm = {
