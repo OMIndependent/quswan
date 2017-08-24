@@ -121,7 +121,7 @@ Metalsmith(dir.base)
   .use(htmlmin('*.html',minify))
   .build(function(err) {
     if (err) { throw err; }
-    console.log("Build complete.\n")
+    else { console.log("Build complete.\n") }
   }); // Call exceptions when things go wrong loading site
 
 // Debug function to check if website loads correctly
