@@ -16,7 +16,7 @@ const wordcount     = require('metalsmith-word-count');
 const mapsite       = require('metalsmith-mapsite');
 const htmlmin       = require('metalsmith-html-minifier');
 const browsersync   = require('metalsmith-browser-sync');
-const pug           = require('metalsmith-pug');
+const pug           = require('metalsmith-pug/lib/node6');
 
 // Custom plugins
 //var setdate       = require('metalsmith-date');
