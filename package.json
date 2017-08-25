@@ -23,8 +23,7 @@
   "plugins": {
     "metalsmith-layouts": {
       "engine": "pug",
-      "default": "_layouts",
-      "partials": "_includes"
+      "default": "_layouts"
     },
     "metalsmith-pug": {
       "pretty": false,
