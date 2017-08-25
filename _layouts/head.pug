@@ -2,10 +2,9 @@ head
   meta(charset='utf-8').
   meta(name='HandheldFriendly' content='true').
   meta(name='viewport' content='width-device-width, initial-scale=1').
-  meta(name='viewport' content='')
   link(rel='stylesheet' href='/assets/main.css' type='text/css').
-  title= title + ' |' ? title + ' |' : ' ' + post.title + ' ' 
-  meta(name='author' content=author)
+  title= title + ' |' ? title + ' |' : site.title + ' | Home' 
+  meta(name='author' content=title)
   meta(name='description' content=description)
   meta(name='version' content=version)
   //-meta(property='og:image' content='/.ico')
