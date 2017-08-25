@@ -23,7 +23,7 @@ const browsersync   = require('metalsmith-browser-sync');
 
 const meta = {
   site: {
-    title: "Ocampo's Moon",
+    title: "Ocampo's Moon |",
     url: "http://quswan.net/"
   },
   domain:  "http://quswan.net",

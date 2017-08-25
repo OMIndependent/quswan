@@ -19,7 +19,7 @@ body {
     font-family: "Optima", "Palatino Linotype", Arial, Helvetica, sans-serif;
     font-size: 1em;
     color: #fff; /* Text color is pure white */
-    line-height: 1px;
+    line-height: 1.25em;
 }
 
 nav {
