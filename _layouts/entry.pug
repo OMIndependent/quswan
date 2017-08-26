@@ -1,0 +1,21 @@
+//- entry.pug - A post for liveblogs.
+extends layout.pug
+
+block body
+  body
+    main.page-content(aria-label='Content')
+      div.wrapper
+        article
+          div.entry-wrapper
+            header.entry-header
+              h2.entry-title= title
+              h3.entry-meta
+          
+            div.entry-content
+              != contents
+
+    block footer
+      footer.web-footer
+        div.footer-wrapper
+          a.home-link(href='/')
+            p.home= "Home"
