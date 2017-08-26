@@ -1,13 +1,15 @@
 ---
+layout: entry.pug
 title: "OM Plays Alundra - Part 2: Inoa Village"
 date: 2016-02-01 -0700
-publish: 2017-08-18 -0700
-categories: playthroughs
+publishDate: 2017-08-18 -0700
+categories: playthroughs alundra
 ---
 
 I now go outside after talking to Jess and trying (and failing!) to open the locked blue chest near him, where I'm greeted by a white haired, red eyed girl named Sybill.
 
 <img src="http://vignette3.wikia.nocookie.net/alundra/images/a/aa/Sybill_artwork.png/revision/latest?cb=20110302184545" alt="sybill" width="59" height="166" />
+
 (Image taken from the [Alundra wikia page](http://alundra.wikia.com/wiki/Sybill))
 
 Sybill says she knows me from her dreams as the hero that would save Inoa, but she notes I'm shorter than she expected. At least I, or my character, looks pretty.
