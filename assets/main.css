@@ -19,7 +19,7 @@ body {
     font-family: "Optima", "Palatino Linotype", Arial, Helvetica, sans-serif;
     font-size: 1em;
     color: #fff; /* Text color is pure white */
-    line-height: 1px;
+    line-height: 1.25em;
 }
 
 nav {
@@ -56,6 +56,12 @@ h2 {
 p {
   font-size: 1em;
   margin: 0 0 1em 0;
+}
+
+p.home {
+  font-size: 1em;
+  text-decoration: underline;
+  line-height: 1.5em;
 }
 
 footer {

@@ -1,7 +1,9 @@
 ---
+layout: entry.pug
 title: "OM Plays Alundra - Part 3: Road to Tarn's Manor"
 date: 2016-02-01 -0700
-publish: 2017-08-18 -0700
+publishDate: 2017-08-18 -0700
+categories: playthroughs alundra
 ---
 
 There's a church here, but the door is locked, I wonder if I'm able to get in there soon...

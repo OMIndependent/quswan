@@ -7,6 +7,7 @@ const pkg           = require('./package.json');
 const Metalsmith    = require('metalsmith');
 const assets        = require('metalsmith-assets');
 const markdown      = require('metalsmith-markdown');
+const pug           = require('metalsmith-pug');
 const layouts       = require('metalsmith-layouts');
 const collections   = require('metalsmith-collections');
 const drafts        = require('metalsmith-drafts');
@@ -16,17 +17,16 @@ const wordcount     = require('metalsmith-word-count');
 const mapsite       = require('metalsmith-mapsite');
 const htmlmin       = require('metalsmith-html-minifier');
 const browsersync   = require('metalsmith-browser-sync');
-const pug           = require('metalsmith-pug/lib/node6');
 
 // Custom plugins
-//var setdate       = require('metalsmith-date');
+//const setdate       = require('metalsmith-date');
 
 const meta = {
   site: {
-    title: "Ocampo's Moon",
+    title: "Ocampo's Moon |",
     url: "http://quswan.net/"
   },
-  domain:  "http://127.0.0.1",
+  domain:  "http://quswan.net",
   description: "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
   generator: "Metalsmith",
   version:  pkg.version

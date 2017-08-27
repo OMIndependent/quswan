@@ -1,10 +1,12 @@
 ---
+layout: entry.pug
 title: "OM Plays Alundra - Part 4: Tarn's Manor"
 date: 2016-02-01 -0700
-publish: 2017-08-18 -0700
+publishDate: 2017-08-18 -0700
+categories: playthroughs alundra
 ---
 
-[Here is the music for Tarn's Manor](https://www.youtube.com/watch?v=SX8Mr1TbkMI)
+[Here is the music for Tarn's Manor.](https://www.youtube.com/watch?v=SX8Mr1TbkMI)
 
 I head back to Tarn's Manor, and as soon as I'm at the gates, some monkeys with wolverine claws came from the manor and jumped at me! Nothing was stolen and no harm done though!
 
