@@ -36,7 +36,6 @@
   },
   "scripts": {
     "build": "node index",
-    "clean": "rm -rf .bin",
     "start": "npm install && npm run build && npm run deploy",
     "deploy": "deploy.sh"
   }
