@@ -29,7 +29,7 @@ body {
     line-height: 1.25em;
 }
 
-nav.home-nav {
+nav.nav-bar {
     font-family: "Optima", Arial, Helvetica, sans-serif;
     font-size: 0.9em;
     text-align: left;
@@ -42,8 +42,9 @@ nav.home-nav {
     -webkit-box-layout: 1em;
 }
 
-li {
+li.nav-bar {
     list-style-type: none; /* Take out bullets in list */
+    display: inline; /* Make items in list horizontally */
 }
 
 a.nav-bar {
