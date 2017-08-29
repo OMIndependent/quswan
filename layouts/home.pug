@@ -1,0 +1,18 @@
+//- _layouts/home.pug - Home page layout.
+extends layout.pug
+
+block body
+  body
+    include header.pug
+    
+    nav.home-nav
+      ul.nav-bar
+        for entry in collections
+          li
+            a.nav-bar(href='/' + entry + '/')!= entry
+  
+    main.page-content(aria-label='Content')
+      div.wrapper
+        div!= contents
+        
+    include footer.pug

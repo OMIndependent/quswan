@@ -1,3 +1,10 @@
+/* $bg-forest-green: #2a5420;
+   $bg-mint-green: #71e540;
+   $text-white: #fff;
+   $text-gray: #808080;
+   $nav-border-color: #111;
+*/
+
 * {
   background-color: #2a5420; /* Background color: sort-of dark forest green */
 }
@@ -22,11 +29,22 @@ body {
     line-height: 1.25em;
 }
 
-nav {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1em;
-    color: #fff; /* Text color is pure white */
+nav.home-nav {
+    font-family: "Optima", Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    text-align: left;
+    border: 1px ridge #111; /* Border color is black */
+    -webkit-box-layout: 1em;
+    color: #808080; /* Text color is dark gray */
     text-decoration: none;
+}
+
+nav.home-nav:hover {
+    color: #fff; /* Text color is pure white */
+}
+
+ul.home-nav-bar {
+    list-style-type: none;
 }
 
 h1, h2 {
@@ -37,7 +55,7 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2.75em;
 }
 
 h1.title {

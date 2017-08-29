@@ -53,7 +53,7 @@ const configTemplate = {
   default: 'layout.pug'
 }; // Config template
 
-var clean = false; // Clean build or not?
+var clean = true; // Clean build or not?
 var word = false; // Output word count
 
 var minify = {
