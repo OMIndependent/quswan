@@ -23,7 +23,7 @@
   "plugins": {
     "metalsmith-layouts": {
       "engine": "pug",
-      "directory": "_layouts",
+      "directory": "layouts",
       "default": "layout.pug"
     },
     "metalsmith-pug": {
