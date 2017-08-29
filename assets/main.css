@@ -35,7 +35,10 @@ nav.home-nav {
     text-align: left;
     text-decoration: none;
     line-height: 1em;
-    border: 1px ridge #111; /* Border color is black */
+    border: 1px solid #121; /* Border color is black */
+    border-radius: 0.25em; /* Rounds out corners */
+    background-color: #121;
+    margin: 1em 1em 1em 0;
     -webkit-box-layout: 1em;
 }
 

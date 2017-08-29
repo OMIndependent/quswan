@@ -1,7 +1,7 @@
 /* $bg-forest-green: #2a5420;
    $bg-mint-green: #71e540;
-   $text-white: #fff;
-   $text-gray: #808080;
+   $pure-white: #fff;
+   $dark-gray: #808080;
    $nav-border-color: #111;
 */
 
@@ -23,7 +23,7 @@ a:hover {
 }
 
 body {
-    font-family: "Optima", "Palatino Linotype", Arial, Helvetica, sans-serif;
+    font-family: "Optima", Arial, Helvetica, sans-serif;
     font-size: 1em;
     color: #fff; /* Text color is pure white */
     line-height: 1.25em;
@@ -33,18 +33,25 @@ nav.home-nav {
     font-family: "Optima", Arial, Helvetica, sans-serif;
     font-size: 0.9em;
     text-align: left;
-    border: 1px ridge #111; /* Border color is black */
-    -webkit-box-layout: 1em;
-    color: #808080; /* Text color is dark gray */
     text-decoration: none;
+    line-height: 1em;
+    border: 1px solid #121; /* Border color is black */
+    border-radius: 0.25em; /* Rounds out corners */
+    background-color: #121;
+    margin: 1em 1em 1em 0;
+    -webkit-box-layout: 1em;
 }
 
-nav.home-nav:hover {
+li {
+    list-style-type: none; /* Take out bullets in list */
+}
+
+a.nav-bar {
+    color: #808080; /* Text color is dark gray */
+}
+
+a.nav-bar:hover {
     color: #fff; /* Text color is pure white */
-}
-
-ul.home-nav-bar {
-    list-style-type: none;
 }
 
 h1, h2 {
