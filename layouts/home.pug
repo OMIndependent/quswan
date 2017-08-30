@@ -5,12 +5,7 @@ block body
   body
     include header.pug
     
-    div.nav-bar
-      nav.nav-bar
-        ul.nav-bar
-          for entry in collections
-            li.nav-bar
-              a.nav-bar(href='/' + entry + '/')!= entry
+    include nav.pug
   
     main.page-content(aria-label='Content')
       div.wrapper
