@@ -78,7 +78,7 @@ Metalsmith(dir.base)
     home: {
       pattern: '',
       metadata: {
-        name: 'Home',
+        name: '',
         layout: 'home.pug'
       }
     },

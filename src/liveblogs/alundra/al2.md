@@ -33,6 +33,6 @@ After saving, I leave and visit a house south of Jess, where an herbalist named 
 
 I don't know how the shop system works though...
 
-I finally manage to throw the item I'm supposed to buy on the table and pay for the items. I get a medicinal herb and a tonic, 20 gilders total. I wonder what would've happened if I actually left the shop with the item I was carrying... *thinks about Link's Awakening and shudders*
+I finally manage to throw the item I'm supposed to buy on the table and pay for the items. I get a medicinal herb and a tonic, 20 gilders total. I wonder what would've happened if I actually left the shop with the item I was carrying... \**thinks about Link's Awakening and shudders*\*
 
 I now leave for the manor.
