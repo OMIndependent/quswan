@@ -1,0 +1,10 @@
+//- nav.pug - Navigation bar layout.
+//- mixin for navbar links
+mixin navlink(path,name)
+  li.nav-bar
+    a.nav-bar(href='/' + path)= name
+    
+nav.nav-bar
+  ul.nav-bar
+    for entry in collections
+      +navlink(entry.path,entry.name)

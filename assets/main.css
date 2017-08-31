@@ -29,24 +29,33 @@ body {
     line-height: 1.25em;
 }
 
+.nav-bar {
+   text-align: left;
+   text-decoration: none;
+   -webkit-box-layout: 1em;
+}
+
 nav.nav-bar {
-    font-family: "Optima", Arial, Helvetica, sans-serif;
-    font-size: 0.9em;
-    text-align: left;
-    text-decoration: none;
     border: 1px solid #121; /* Border color is black */
     border-radius: 0.25em; /* Rounds out corners */
     background-color: #121;
     margin: 0 0 1em 0;
-    -webkit-box-layout: 1em;
+}
+
+ul.nav-bar {
+    list-style-type: none; /* Take out bullets in list */
+    display: flex; /* Make items in list horizontally */
+    flex-wrap: wrap; /* Wrap items in nav bar */
 }
 
 li.nav-bar {
-    list-style-type: none; /* Take out bullets in list */
-    display: inline; /* Make items in list horizontally */
+    font-family: "Optima", Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    display: inline;
 }
 
 a.nav-bar {
+    text-align: center;
     color: #808080; /* Text color is dark gray */
 }
 
@@ -70,17 +79,41 @@ h1.title {
   line-height: 1em;
 }
 
+@media (min-width: 16em) {
+  h1.title {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 32em) {
+  h1.title {
+    font-size: 2.25em;
+  }
+}
+
+@media (min-width: 48em) {
+  h1.title {
+    font-size: 2.5em;
+  }
+}
+
+@media (min-width: 64em) {
+  h1.title {
+    font-size: 2.75em;
+  }
+}
+
 h1.post-title {
   font-size: 1.75em;
   margin: 0 0 1em 0;
 }
 
-h2.entry-title {
-  font-size: 1.75em;
-}
-
 .entry-title {
   line-height: 1em;
+}
+
+h2.entry-title {
+  font-size: 1.75em;
 }
 
 p {
@@ -96,7 +129,7 @@ p.home {
 
 footer {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 0.9em;
+  font-size: 0.75em;
   text-align: center;
   margin: 0 0 2em 0;
 }

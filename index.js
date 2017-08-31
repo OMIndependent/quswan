@@ -75,31 +75,45 @@ Metalsmith(dir.base)
   .use(drafts()) // Add enabling of drafted posts
   .use(publish())
   .use(collections({
-    posts: {
-      pattern: 'posts/*.md',
-      sortBy: 'date',
+    home: {
+      pattern: '',
       metadata: {
-        layout: '_layouts/post.pug'
+        name: 'Home',
+        layout: 'home.pug'
       }
     },
-    transcripts: {
-      pattern: 'transcripts/**/*.md',
+    /*posts: {
+      pattern: 'posts/*',
+      sortBy: 'date',
+      reverse: true,
+      refer: true,
       metadata: {
-        layout: '_layouts/page.pug'
+        layout: 'post.pug'
+      }
+    },*/
+    transcripts: {
+      pattern: 'transcripts/**/*',
+      metadata: {
+        name: 'Transcripts',
+        layout: 'page.pug'
       }
     },
     liveblogs: {
-      pattern: 'liveblogs/**/*.md',
+      pattern: 'liveblogs/**/**/*.md',
       sortBy: 'date',
       reverse: true,
+      refer: true,
       metadata: {
-        layout: '_layouts/post.pug'
+        name: 'Liveblogs',
+        layout: 'entry.pug'
       }
     },
     trivia: {
       pattern: 'trivia/**/**/*',
+      refer: true,
       metadata: {
-        layout: '_layouts/page.pug'
+        name: 'Trivia',
+        layout: 'post.pug'
       }
     }
   }))
