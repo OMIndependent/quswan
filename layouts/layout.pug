@@ -7,16 +7,13 @@ html(lang='en')
 
   block body
     body
-      block header
-        include header.pug
-        
-      block nav
-        include nav.pug
-                  
-      main.page-content(aria-label='Content')
-        div.wrapper
+      div.wrapper
+        block header
+          include header.pug
+
+        main.page-content(aria-label='Content')
           block content
             div!= contents
 
-      block footer
-        include footer.pug
+        block footer
+          include footer.pug

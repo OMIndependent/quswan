@@ -1,6 +1,11 @@
+//- header.pug - Site header layout.
 header.web-header(role='pic-banner')
   div.wrap-header
     a.home-link(href='/')
       h1.title= 'Ocampo\'s Moon'
       
-    
+    nav.nav-bar
+      ul.nav-bar
+        for entry in collections
+          li.nav-bar
+            a.nav-bar(href='/' + entry.path)!= entry.name

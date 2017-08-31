@@ -3,12 +3,10 @@ extends layout.pug
 
 block body
   body
-    include header.pug
-    
-    include nav.pug
+    div.wrapper
+      include header.pug
   
-    main.page-content(aria-label='Content')
-      div.wrapper
+      main.page-content(aria-label='Content')
         div!= contents
         
-    include footer.pug
+      include footer.pug
