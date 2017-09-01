@@ -33,34 +33,34 @@ body {
    text-align: left;
    text-decoration: none;
    -webkit-box-layout: 1em;
+}
 
-    nav {
-     border: 1px solid #121; /* Border color is dark gray */
-     border-radius: 0.25em; /* Rounds out corners */
-     background-color: #121;
-     margin: 0 0 1em 0;
-    }
+nav.nav-bar {
+  border: 1px solid #121; /* Border color is dark gray */
+  border-radius: 0.25em; /* Rounds out corners */
+  background-color: #121;
+  margin: 0 0 1em 0;
+}
 
-    ul {
-      list-style-type: none; /* Take out bullets in list */
-      display: flex; /* Make items in list horizontally */
-      flex-wrap: wrap; /* Wrap items in nav bar */
-    }
+ul.nav-bar {
+  list-style-type: none; /* Take out bullets in list */
+  display: flex; /* Make items in list horizontally */
+  flex-wrap: wrap; /* Wrap items in nav bar */
+}
 
-    li {
-      font-family: "Optima", Arial, Helvetica, sans-serif;
-      font-size: 0.9em;
-      display: inline;
-    }
+li.nav-bar {
+  font-family: "Optima", Arial, Helvetica, sans-serif;
+  font-size: 0.9em;
+  display: inline;
+}
 
-    a {
-      text-align: center;
-      color: #808080; /* Text color is light gray */
-    }
+a.nav-bar {
+  text-align: center;
+  color: #808080; /* Text color is light gray */
+}
 
-    a:hover {
-      color: #fff; /* Text color is pure white */
-    }
+a.nav-bar:hover {
+  color: #fff; /* Text color is pure white */
 }
 
 h1, h2 {
@@ -77,12 +77,6 @@ h1 {
 h1.title {
   text-align: center;
   line-height: 1em;
-}
-
-@media (min-width: 12em) {
-    h1.title {
-      font-size: 1.75em;
-    }
 }
 
 @media (min-width: 16em) {
