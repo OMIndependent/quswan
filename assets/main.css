@@ -1,8 +1,8 @@
 /* $bg-forest-green: #2a5420;
    $bg-mint-green: #71e540;
    $pure-white: #fff;
-   $dark-gray: #808080;
-   $nav-border-color: #4a4a4a;
+   $light-gray:  #808080;
+   $nav-border-color: #121;
 */
 
 * {
@@ -33,34 +33,34 @@ body {
    text-align: left;
    text-decoration: none;
    -webkit-box-layout: 1em;
-}
 
-nav.nav-bar {
-    border: 1px solid #4a4a4a; /* Border color is black */
-    border-radius: 0.25em; /* Rounds out corners */
-    background-color: #4a4a4a;
-    margin: 0 0 1em 0;
-}
+    nav {
+     border: 1px solid #121; /* Border color is dark gray */
+     border-radius: 0.25em; /* Rounds out corners */
+     background-color: #121;
+     margin: 0 0 1em 0;
+    }
 
-ul.nav-bar {
-    list-style-type: none; /* Take out bullets in list */
-    display: flex; /* Make items in list horizontally */
-    flex-wrap: wrap; /* Wrap items in nav bar */
-}
+    ul {
+      list-style-type: none; /* Take out bullets in list */
+      display: flex; /* Make items in list horizontally */
+      flex-wrap: wrap; /* Wrap items in nav bar */
+    }
 
-li.nav-bar {
-    font-family: "Optima", Arial, Helvetica, sans-serif;
-    font-size: 0.9em;
-    display: inline;
-}
+    li {
+      font-family: "Optima", Arial, Helvetica, sans-serif;
+      font-size: 0.9em;
+      display: inline;
+    }
 
-a.nav-bar {
-    text-align: center;
-    color: #808080; /* Text color is dark gray */
-}
+    a {
+      text-align: center;
+      color: #808080; /* Text color is light gray */
+    }
 
-a.nav-bar:hover {
-    color: #fff; /* Text color is pure white */
+    a:hover {
+      color: #fff; /* Text color is pure white */
+    }
 }
 
 h1, h2 {
@@ -77,6 +77,12 @@ h1 {
 h1.title {
   text-align: center;
   line-height: 1em;
+}
+
+@media (min-width: 12em) {
+    h1.title {
+      font-size: 1.75em;
+    }
 }
 
 @media (min-width: 16em) {
