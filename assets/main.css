@@ -18,15 +18,16 @@ a:hover {
   text-decoration: none;
 }
 
-.home-link { /* For the header title */
-  text-decoration: none;
-}
-
-body {
+body, h1, h2 {
     font-family: "Optima", Arial, Helvetica, sans-serif;
     font-size: 1em;
+    font-weight: normal;
     color: #fff; /* Text color is pure white */
     line-height: 1.25em;
+}
+
+.home-link { /* For the header title */
+  text-decoration: none;
 }
 
 .nav-bar {
@@ -63,17 +64,6 @@ a.active:hover {
   color: #fff; /* Text color is pure white */
 }
 
-h1, h2 {
-  font-family: "Optima", Arial, Helvetica, sans-serif;
-  font-weight: normal;
-  text-decoration: none;
-  color: #fff; /* Text color is pure white */
-}
-
-h1 {
-  font-size: 2.75em;
-}
-
 h1.title {
   text-align: center;
   line-height: 1em;
@@ -83,11 +73,17 @@ h1.title {
   h1.title {
     font-size: 2em;
   }
+  h2.entry-title {
+    font-size: 1em;
+  }
 }
 
 @media (min-width: 32em) {
   h1.title {
     font-size: 2.25em;
+  }
+  h2.entry-title {
+    font-size: 1.25em;
   }
 }
 
@@ -95,17 +91,34 @@ h1.title {
   h1.title {
     font-size: 2.5em;
   }
+  h2.entry-title {
+    font-size: 1.5em;
+  }
 }
 
 @media (min-width: 64em) {
   h1.title {
     font-size: 2.75em;
   }
+  h2.entry-title {
+    font-size: 1.75em;
+  }
 }
 
-h1.post-title {
+/*.post-wrapper {
+    border: 1px solid #121; /* Make a solid dark border
+    display: flex;
+    flex-wrap: wrap;
+}*/
+
+.post-title {
   font-size: 1.75em;
+  text-decoration: none;
   margin: 0 0 1em 0;
+}
+
+.post-title:hover {
+  text-decoration: underline;
 }
 
 .entry-title {
