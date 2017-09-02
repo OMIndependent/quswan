@@ -82,15 +82,15 @@ Metalsmith(dir.base)
         layout: 'home.pug'
       }
     },
-    /*posts: {
-      pattern: 'posts/*',
+    posts: {
+      pattern: '/*',
       sortBy: 'date',
       reverse: true,
       refer: true,
       metadata: {
         layout: 'post.pug'
       }
-    },*/
+    },
     transcripts: {
       pattern: 'transcripts/**/*',
       metadata: {
