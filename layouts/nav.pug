@@ -2,7 +2,7 @@
 //- mixin for navbar links
 mixin navlink(path,name)
   li.nav-bar
-    a.nav-bar(href='/' + path)= name
+    a(href='/' + path class={active: name === current})= name
     
 nav.nav-bar
   ul.nav-bar
