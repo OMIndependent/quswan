@@ -3,7 +3,7 @@ head
   meta(name='HandheldFriendly' content='true').
   meta(name='viewport' content='width-device-width, initial-scale=1').
   link(rel='stylesheet' href='/assets/main.css' type='text/css').
-  title= title ? title : site.title
+  title= title ? site.title + title : site.title
   meta(name='author' content=title)
   meta(name='description' content=description)
   meta(name='version' content=version)
