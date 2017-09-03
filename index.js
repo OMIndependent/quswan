@@ -21,9 +21,9 @@ const browsersync   = require('metalsmith-browser-sync');
 // Custom plugins
 //const setdate       = require('metalsmith-date');
 
-const meta = {
+var meta = {
   site: {
-    title: "Ocampo's Moon |",
+    title: "Ocampo's Moon | ",
     url: "http://quswan.net/"
   },
   domain:  "http://quswan.net",
@@ -32,22 +32,22 @@ const meta = {
   version:  pkg.version
 }; // Metadata here
 
-const dir = {
+var dir = {
   base:   __dirname,
   source:    './src/',
   dest:  './bin/'
 }; // Directory paths here
 
-const opts = {
+var opts = {
   pretty: false,
   useMetadata: true
 }; // For pug plugin options
 
-const perm = {
+var perm = {
   pattern: ':collection/:title'
 }; // Permalink pattern here
 
-const configTemplate = {
+var configTemplate = {
   engine: 'pug',
   directory: 'layouts',
   default: 'layout.pug'
@@ -61,7 +61,7 @@ var minify = {
   collapseWhitespace: false
 }; // Settings for html-minifier here
 
-var log = false; // Toggle debug log
+var log = true; // Toggle debug log
 
 Metalsmith(dir.base)
   .clean(clean)  // Clean the build
@@ -78,7 +78,7 @@ Metalsmith(dir.base)
     home: {
       pattern: '',
       metadata: {
-        name: '',
+        title: '',
         layout: 'home.pug'
       }
     },
@@ -94,7 +94,7 @@ Metalsmith(dir.base)
     transcripts: {
       pattern: 'transcripts/**/*',
       metadata: {
-        name: 'Transcripts',
+        title: 'Transcripts',
         layout: 'page.pug'
       }
     },
@@ -104,7 +104,7 @@ Metalsmith(dir.base)
       reverse: true,
       refer: true,
       metadata: {
-        name: 'Liveblogs',
+        title: 'Liveblogs',
         layout: 'entry.pug'
       }
     },
@@ -112,15 +112,15 @@ Metalsmith(dir.base)
       pattern: 'trivia/**/**/*',
       refer: true,
       metadata: {
-        name: 'Trivia',
+        title: 'Trivia',
         layout: 'post.pug'
       }
     }
   }))
-  .use(layouts(configTemplate)) // Add layout to site
   .use(wordcount({
     raw: word
   }))
+  .use(layouts(configTemplate)) // Add layout to site
   .use(assets({
     source: './assets/',
     destination: './assets/'
@@ -145,10 +145,13 @@ function debug(log) {
       console.log("\nMETADATA:");
       console.log(Metalsmith.metadata());
 
-        for (var f in files) {
-          console.log("\nFILE:");
-          console.log(files[f]);
-        }
+      console.log("\nCOLLECTIONS:");
+      console.log(Metalsmith.metadata().collections);
+
+      for (var f in files) {
+        console.log("\nFILE:");
+        console.log(files[f]);
+      }
     }
     done();
   };
