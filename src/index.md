@@ -1,6 +1,5 @@
 ---
 layout: home.pug
-title: "Ocampo's Moon"
 permalink: false
 ---
 
