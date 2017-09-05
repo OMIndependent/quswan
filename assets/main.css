@@ -2,11 +2,35 @@
    $bg-mint-green: #71e540;
    $pure-white: #fff;
    $light-gray:  #808080;
+   $dark-gray: #233;
    $nav-border-color: #121;
+
+   $screen-width: 1024px;
+   $margin-left: 30px;
+
+   $length: .5s;
 */
 
 * {
   background-color: #205425; /* Background color: dark calm green */
+}
+
+/* Set the defaults for the types */
+body, h1, h2, h3, h4, h5, h6,
+p, pre, ul, ol, blockquote,
+figure  {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper { /* wrapper class settings */
+  max-width: 1024px;
+  max-width: calc(1024px - 30px);
+  margin: 0 auto 0 auto; /* Set left and right margin automatically */
+  float: center;
+  padding: 1em 3em 1em 3em; /* 3em padding on left and right */
+  box-sizing: border-box;
+  position: relative; /* Change position based on screen size. */
 }
 
 a { /* Links in-site */
@@ -18,12 +42,31 @@ a:hover {
   text-decoration: none;
 }
 
+img {
+
+}
+
+/* Code formatting */
+/*pre, code {
+  border: 1px solid #808080;
+  border-radius: 0.3em;
+  background-color: #808080;
+}
+
+pre {
+  padding: 8px 12px;
+}
+
+code {
+  padding: 1px 4px;
+}*/
+
 body, h1, h2 {
-    font-family: "Optima", Arial, Helvetica, sans-serif;
-    font-size: 1em;
-    font-weight: normal;
-    color: #fff; /* Text color is pure white */
-    line-height: 1.25em;
+  font-family: "Optima", Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+  color: #fff; /* Text color is pure white */
+  line-height: 1.25em;
 }
 
 .home-link { /* For the header title */
@@ -31,37 +74,50 @@ body, h1, h2 {
 }
 
 .nav-bar {
-   text-align: left;
    text-decoration: none;
-   -webkit-box-layout: 1em;
+   display: block;
+   float: left;
+   background: #121;
+   box-sizing: border-box; /* Gives a border per link */
+   padding: 0 1em;
+   position: relative;
+}
+
+.nav-check {
+  display: none;
 }
 
 nav.nav-bar {
+  width: 100%; /* Take up the screen within the wrapper. */
   border: 1px solid #121; /* Border color is dark gray */
   border-radius: 0.25em; /* Rounds out corners */
-  background-color: #121;
-  margin: 0 0 1em 0;
+  margin: 1em 0 1em -0.5em;
 }
 
 ul.nav-bar {
   list-style-type: none; /* Take out bullets in list */
-  display: flex; /* Make items in list horizontally */
-  flex-wrap: wrap; /* Wrap items in nav bar */
 }
 
 li.nav-bar {
   font-family: "Optima", Arial, Helvetica, sans-serif;
-  font-size: 0.9em;
-  display: inline;
+  font-size: 1em;
+  padding: 0; /* Ensures link is clickable if not hovering on text */
 }
 
-a.active {
-  text-align: center;
-  color: #808080; /* Text color is light gray */
-}
-
-a.active:hover {
+li.nav-bar:hover,
+a.nav-bar:hover {
+  background-color: #808080; /* Background color is light-gray */
   color: #fff; /* Text color is pure white */
+  border-radius: 0;
+}
+
+a.nav-bar {
+  box-sizing: border-box;
+  text-decoration: none;
+  color: #808080; /* Text color is light gray */
+  background: #121;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 h1.title {
@@ -76,6 +132,39 @@ h1.title {
   h2.entry-title {
     font-size: 1em;
   }
+  .wrapper {
+    padding-right: 1em;
+  }
+  nav.nav-bar {
+    display: block;
+  }
+  /*.nav-check {
+    display: block;
+    cursor: pointer;
+    width: 48px;
+    height: 32px;
+  }
+  .nav-icon {
+    display: block;
+    float: right;
+    width: 48px;
+    height: 32px;
+    transition: .5s ease-in-out;
+    background: #808080;
+  }
+  .nav-icon:hover {
+    background: #233;
+    cursor: pointer;
+  }
+  input[type=checkbox] ~ .nav-icon {
+    display: none;
+  }
+  input[type=checkbox]:checked ~ .nav-icon {
+    display: block;
+  }*/
+  a.nav-bar {
+    display: block;
+  }
 }
 
 @media (min-width: 32em) {
@@ -84,6 +173,17 @@ h1.title {
   }
   h2.entry-title {
     font-size: 1.25em;
+  }
+  .wrapper {
+    margin: 0 auto 0 auto;
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+  /*.nav-icon {
+    display: none;
+  }*/
+  a.nav-bar {
+    display: block;
   }
 }
 
@@ -106,6 +206,7 @@ h1.title {
 }
 
 /*.post-wrapper {
+    max-width: 800px;
     border: 1px solid #121; /* Make a solid dark border
     display: flex;
     flex-wrap: wrap;
@@ -140,7 +241,7 @@ p.home {
   line-height: 1.5em;
 }
 
-footer {
+.web-footer {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 0.75em;
   text-align: center;
