@@ -1,6 +1,7 @@
 /*
 SCSS variables:
    $bg-dark-calm-green: #205425;
+   $bg-dark-gray: #505050;
    $bg-mint-green: #71e540;
    $pure-white: #fff;
    $gray: #606060;
@@ -16,8 +17,8 @@ SCSS variables:
    $transition: .5s;
 */
 
-* {
-  background-color: #205425; /* Background color: dark calm green */
+/** {
+  background-color: #205425; /* Background color: dark calm green
 }
 
 /* Set the defaults for the tags */
@@ -31,9 +32,10 @@ figure  {
 .wrapper { /* wrapper class settings */
   max-width: 1024px;
   max-width: calc(1024px - 30px);
+  background: #205425;
   margin: 0 auto 0 auto; /* Set left and right margin automatically */
   float: center;
-  padding: 1em 3em 1em 3em; /* 3em padding on left and right */
+  padding: 1em; /* 3em padding on left and right */
   box-sizing: border-box;
   position: relative; /* Change position based on screen size. */
 }
@@ -74,6 +76,10 @@ body, h1, h2 {
   line-height: 1.25em;
 }
 
+body {
+  background: #505050; /* Make a dark gray background */
+}
+
 .home-link { /* For the header title */
   text-decoration: none;
 }
@@ -95,11 +101,12 @@ nav.nav-bar {
   width: 100%; /* Take up the screen within the wrapper. */
   border: 1px solid #121; /* Border color is dark gray */
   border-radius: 0.25em; /* Rounds out corners */
-  margin: 1em 0 1em -0.6em;
+  margin: 1em 0 1em 0;
 }
 
 .nav-bar ul {
   list-style-type: none; /* Take out bullets in list */
+  display: flex; /* Resizes nav bar based on screen size and fills bg gap */
   overflow: hidden; /* Prevent nav links from overflow of bar when dropped-down */
   padding: 0;  /* Ensures link is clickable if not hovering on text */
 }
@@ -116,7 +123,7 @@ nav.nav-bar {
 }
 
 .nav-bar li a:hover {
-  background-color: #606060; /* Background color is darker light-gray */
+  background-color: #505050; /* Background color is dark gray */
   color: #fff; /* Text color is pure white */
 }
 
@@ -163,8 +170,8 @@ h1.title {
     background: #808080;
     opacity: 0.7;
   }
-  .nav-menu .nav-icon::before,
-  .nav-menu .nav-icon::after {
+  .nav-menu .nav-icon:before,
+  .nav-menu .nav-icon:after {
     position: absolute;
     display: block;
     float: right;
@@ -175,7 +182,7 @@ h1.title {
     opacity: 0.7;
   }
   .nav-menu .nav-icon:before {
-    top: 0.25em;
+    top: -0.25em;
   }
   .nav-menu .nav-icon:after {
     top: 0.25em;
@@ -240,8 +247,6 @@ h1.title {
 /*.post-wrapper {
     max-width: 800px;
     border: 1px solid #121; /* Make a solid dark border
-    display: flex;
-    flex-wrap: wrap;
 }*/
 
 .post-title {
@@ -281,10 +286,7 @@ p.home {
 }
 
 /* Clearfix */
-.wrapper::before {
-  content: "";
-}
-
 .wrapper::after {
+  content: "";
   clear: both;
 }
