@@ -40,11 +40,11 @@ figure  {
 
 a { /* Links on post */
   text-decoration: underline;
-  color: #606060; /* Linked text is gray */
+  color: #fff; /* Linked text is pure white */
 }
 
 a:hover {
-  color: #fff; /* Hovered text is pure white */
+  text-decoration: none;
 }
 
 img {
