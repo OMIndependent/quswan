@@ -1,10 +1,16 @@
 //- nav.pug - Navigation bar layout.
 //- mixin for navbar links
 mixin navlink(path,name)
-  li.nav-bar
-    a(href='/' + path class={active: name === current})= name
+  li
+    a(href='/' + path)= name
     
-nav.nav-bar
-  ul.nav-bar
-    for entry in collections
-      +navlink(entry.path,entry.name)
+nav.nav-bar    
+  input.nav-check(id='nav-check' type='checkbox')
+  label.nav-menu(for='nav-check')
+    span.nav-icon
+  
+  ul.nav-list
+    +navlink('', 'Home')
+    +navlink('liveblogs/','Liveblogs')
+    +navlink('','Transcripts')
+    +navlink('','Trivia')
