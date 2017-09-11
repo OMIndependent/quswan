@@ -23,11 +23,11 @@ const browsersync   = require('metalsmith-browser-sync');
 
 var meta = {
   site: {
-    title: "Ocampo's Moon | ",
+    title: "Quesada's Swan | ",
     url: "http://quswan.net/"
   },
   domain:  "http://quswan.net",
-  description: "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
+  description: "The Socially Aware Magic Swordsman's independent blog site powered by Metalsmith",
   generator: "Metalsmith",
   version:  pkg.version
 }; // Metadata here
@@ -91,6 +91,12 @@ Metalsmith(dir.base)
         layout: 'post.pug'
       }
     },
+    pages: {
+      pattern: '/*',
+      metadata: {
+        layout: 'page.pug'
+      }
+    },
     transcripts: {
       pattern: 'transcripts/**/*',
       metadata: {
@@ -127,7 +133,8 @@ Metalsmith(dir.base)
   })) // Add assets to site
   .use(browsersync({
     server: './bin/',
-    files:  ['./src/**/*', './src/*', 'assets/*', '_layouts/*.pug'],
+    files:  ['./src/**/**/*', './src/**/*', './src/*',
+      'assets/*'],
     port: 8080
   }), function(err) {
     if (err) { throw err; }
@@ -136,7 +143,7 @@ Metalsmith(dir.base)
   .build(function(err) {
     if (err) { throw err; }
     else { console.log("Build complete.\n") }
-  }); // Call exceptions when things go wrong loading site
+  }); // Call exceptions when things go wrong
 
 // Debug function to check if website loads correctly
 function debug(log) {
