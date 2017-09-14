@@ -1,6 +1,6 @@
 /*
 SCSS variables:
-   $bg-dark-calm-green: #205425;
+   $bg-dark-calm-green: #244f21;
    $bg-dark-gray: #505050;
    $bg-mint-green: #71e540;
    $pure-white: #fff;
@@ -18,7 +18,7 @@ SCSS variables:
 */
 
 /** {
-  background-color: #205425; /* Background color: dark calm green
+  background-color: #244f21; /* Background color: dark calm green
 }
 
 /* Set the defaults for the tags */
@@ -69,7 +69,7 @@ code {
 }*/
 
 body, h1, h2 {
-  font-family: "Optima", Arial, Helvetica, sans-serif;
+  font-family: "Palatino Linotype", "Optima", "Goudy Old Style", "Garamond", serif;
   font-size: 1em;
   font-weight: normal;
   color: #fff; /* Text color is pure white */
@@ -267,7 +267,8 @@ h2.entry-title {
   font-size: 1.75em;
 }
 
-p {
+h3, p {
+  font-family: "Optima", Arial, Helvetica, sans-serif;
   font-size: 1em;
   margin: 0 0 1em 0;
 }
@@ -279,7 +280,7 @@ p.home {
 }
 
 .web-footer {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Optima", Arial, Helvetica, sans-serif;
   font-size: 0.75em;
   text-align: center;
   margin: 0 0 2em 0;
