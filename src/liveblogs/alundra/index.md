@@ -1,6 +1,6 @@
 ---
 layout: post.pug
-title: "Ocampo's Moon Plays Alundra"
+title: "Ocampo's Moon/Quesada's Swan Plays Alundra"
 permalink: /alundra/
 ---
 

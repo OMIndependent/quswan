@@ -1,5 +1,5 @@
 ---
-title: "OM Plays Alundra - Part 1: A New Beginning"
+title: "Alundra - Part 1: A New Beginning"
 date: 2016-02-01 -0700
 publishDate: 2017-08-18 -0700
 categories: playthroughs alundra
