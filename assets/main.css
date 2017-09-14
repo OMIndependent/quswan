@@ -1,6 +1,6 @@
 /*
 SCSS variables:
-   $bg-dark-calm-green: #244f21;
+   $bg-dark-calm-green: #104b15;
    $bg-dark-gray: #505050;
    $bg-mint-green: #71e540;
    $pure-white: #fff;
@@ -18,7 +18,7 @@ SCSS variables:
 */
 
 /** {
-  background-color: #244f21; /* Background color: dark calm green
+  background-color: #104b15; /* Background color: dark calm green
 }
 
 /* Set the defaults for the tags */
@@ -32,7 +32,7 @@ figure  {
 .wrapper { /* wrapper class settings */
   max-width: 1024px;
   max-width: calc(1024px - 30px);
-  background: #205425;
+  background: #104b15;
   margin: 0 auto 0 auto; /* Set left and right margin automatically */
   float: center;
   padding: 1em; /* 3em padding on left and right */
