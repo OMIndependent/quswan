@@ -1,3 +1,6 @@
 footer.web-footer
   div.footer-wrapper
-    p.copyright!= 'Generated with ' + generator + '. &copy; 2017 Quesada\'s Swan.'
+    p.copyright
+      | Generated with 
+      a(href="http://metalsmith.io")= generator
+      | . &copy; 2017 Quesada's Swan.
