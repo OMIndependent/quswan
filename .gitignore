@@ -1,7 +1,5 @@
 node_modules
 bin
 deploy.sh
-liveblogs/index.md
-_layouts/page.pug
 *.log
 *.npm
