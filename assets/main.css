@@ -5,7 +5,7 @@ SCSS variables:
    $bg-mint-green: #71e540;
    $pure-white: #fff;
    $gray: #606060;
-   $light-gray:  #808080;
+   $light-gray:  #c0c0c0;
    $dark-gray: #233;
    $nav-border-color: #121;
 
@@ -16,10 +16,6 @@ SCSS variables:
 
    $transition: .5s;
 */
-
-/** {
-  background-color: #104b15; /* Background color: dark calm green
-}
 
 /* Set the defaults for the tags */
 body, h1, h2, h3, h4, h5, h6,
@@ -55,9 +51,9 @@ img {
 
 /* Code formatting */
 /*pre, code {
-  border: 1px solid #808080;
+  border: 1px solid #c0c0c0;
   border-radius: 0.3em;
-  background-color: #808080;
+  background-color: #c0c0c0;
 }
 
 pre {
@@ -69,7 +65,7 @@ code {
 }*/
 
 body, h1, h2 {
-  font-family: "Palatino Linotype", "Optima", "Goudy Old Style", "Garamond", serif;
+  font-family: "Optima", Arial, Helvetica, sans-serif;
   font-size: 1em;
   font-weight: normal;
   color: #fff; /* Text color is pure white */
@@ -77,15 +73,10 @@ body, h1, h2 {
 }
 
 body {
-  background: #505050; /* Make a dark gray background */
+  background: #505050; /* Background color: dark gray */
 }
-
 .home-link { /* For the header title */
   text-decoration: none;
-}
-
-.nav-check {
-  display: none;
 }
 
 .nav-bar {
@@ -93,7 +84,7 @@ body {
    float: left;
    background: #121;
    box-sizing: border-box; /* Nav bar measured based on border */
-   padding: 0 1em;
+   padding: 1em;
    z-index: 3;
 }
 
@@ -104,7 +95,8 @@ nav.nav-bar {
   margin: 1em 0 1em 0;
 }
 
-.nav-bar ul {
+.nav-bar ul.nav-list {
+  clear: both; /* Move nav links below navicon */
   list-style-type: none; /* Take out bullets in list */
   display: flex; /* Resizes nav bar based on screen size and fills bg gap */
   overflow: hidden; /* Prevent nav links from overflow of bar when dropped-down */
@@ -117,7 +109,7 @@ nav.nav-bar {
   display: block;
   box-sizing: border-box;
   text-decoration: none;
-  color: #808080; /* Text color is light gray */
+  color: #c0c0c0; /* Text color is light gray */
   background: #121;
   padding: 1em;
 }
@@ -125,6 +117,69 @@ nav.nav-bar {
 .nav-bar li a:hover {
   background-color: #505050; /* Background color is dark gray */
   color: #fff; /* Text color is pure white */
+}
+
+.nav-menu {
+  display: inline-block;
+  cursor: pointer;
+  float: right;
+  width: 2em;
+  height: 1em;
+  border: 0.09em solid #c0c0c0;
+  border-radius: 0.25em;
+  background: #121;
+  padding: 1em;
+}
+
+.nav-menu .nav-icon { /* Draw the lines of the navicon */
+  position: relative;
+  display: block;
+  float: right;
+  width: 2em;
+  height: 0.25em;
+  z-index: 1;
+  transition: .5s ease-in-out;
+  background: #c0c0c0;
+  opacity: 0.7;
+}
+
+.nav-menu .nav-icon:before,
+.nav-menu .nav-icon:after {
+  position: absolute;
+  display: block;
+  float: right;
+  width: inherit;
+  height: inherit;
+  transition: all .5s ease-in-out;
+  background: #c0c0c0;
+  opacity: 0.7;
+}
+
+.nav-menu .nav-icon:before {
+  top: -1px;
+}
+
+.nav-menu .nav-icon:after {
+  bottom: 1px;
+}
+
+.nav-menu .nav-icon:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.nav-check {
+  display: none;
+}
+
+.nav-check ~ ul.nav-list {
+  display: none;
+}
+
+.nav-check:checked ~ ul.nav-list {
+  display: block;
+  transition: all .5s ease;
+  max-height: 220px; /* Hard-code max-height into nav bar when navicon checked. */
 }
 
 h1.title {
@@ -139,66 +194,6 @@ h1.title {
   h2.entry-title {
     font-size: 1em;
   }
-  .wrapper {
-    padding-right: 1em;
-  }
-  .nav-bar {
-    padding: 1em;
-  }
-  .nav-list {
-    clear: both; /* Move nav links below navicon */
-  }
-  .nav-menu {
-    display: inline-block;
-    cursor: pointer;
-    float: right;
-    width: 2em;
-    height: 1em;
-    border: 0.09em solid #808080;
-    border-radius: 0.25em;
-    background: #121;
-    padding: 1em;
-  }
-  .nav-menu .nav-icon { /* Draw the lines of the navicon */
-    position: relative;
-    display: block;
-    float: right;
-    width: 2em;
-    height: 0.25em;
-    z-index: 1;
-    transition: .5s ease-in-out;
-    background: #808080;
-    opacity: 0.7;
-  }
-  .nav-menu .nav-icon:before,
-  .nav-menu .nav-icon:after {
-    position: absolute;
-    display: block;
-    float: right;
-    width: inherit;
-    height: inherit;
-    transition: all .5s ease-in-out;
-    background: #808080;
-    opacity: 0.7;
-  }
-  .nav-menu .nav-icon:before {
-    top: -0.25em;
-  }
-  .nav-menu .nav-icon:after {
-    top: 0.25em;
-  }
-  .nav-menu .nav-icon:hover {
-    opacity: 1;
-    cursor: pointer;
-  }
-  .nav-check ~ .nav-list {
-    display: none;
-  }
-  .nav-check:checked ~ .nav-list {
-    display: block;
-    transition: all .5s ease;
-    max-height: 220px; /* Hard-code max-height into nav bar when navicon checked. */
-  }
 }
 
 @media screen and (min-width: 32em) {
@@ -208,22 +203,6 @@ h1.title {
   h2.entry-title {
     font-size: 1.25em;
   }
-  .wrapper {
-    margin: 0 auto 0 auto;
-    padding-left: 3em;
-    padding-right: 3em;
-  }
-  .nav-bar {
-    padding: 0 1em;
-  }
-  .nav-bar li a {
-    clear: none; /* Ensure links are in same row, not moved down */
-    float: left;
-    display: block;
-  }
-  .nav-menu {
-    display: none;
-  }
 }
 
 @media screen and (min-width: 48em) {
@@ -232,6 +211,21 @@ h1.title {
   }
   h2.entry-title {
     font-size: 1.5em;
+  }
+  .wrapper {
+    margin: 0 auto 0 auto;
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+  .nav-bar {
+    padding: 0 1em;
+  }
+  .nav-bar ul.nav-list {
+    clear: none; /* Ensure links are in same row, not moved down */
+    display: flex;
+  }
+  .nav-menu {
+    display: none;
   }
 }
 
@@ -281,13 +275,14 @@ p.home {
 
 .web-footer {
   font-family: "Optima", Arial, Helvetica, sans-serif;
-  font-size: 0.75em;
+  font-size: 0.8em;
   text-align: center;
   margin: 0 0 2em 0;
 }
 
 /* Clearfix */
-.wrapper::after {
+.wrapper:before,
+.wrapper:after {
   content: "";
-  clear: both;
+  clear: none;
 }
