@@ -137,8 +137,9 @@ nav.nav-bar {
   float: right;
   width: 2em;
   height: 0.25em;
+  top: 6px;
   z-index: 1;
-  transition: .5s ease-in-out;
+  transition: .5s ease-out;
   background: #c0c0c0;
   opacity: 0.7;
 }
@@ -146,23 +147,24 @@ nav.nav-bar {
 .nav-menu .nav-icon:before,
 .nav-menu .nav-icon:after {
   position: absolute;
+  content: ""; /* This pseudo element allows extra bars above/below navicon */
   display: block;
   float: right;
   width: inherit;
   height: inherit;
-  transition: all .5s ease-in-out;
+  transition: inherit;
   background: #c0c0c0;
-  opacity: 0.7;
 }
 
 .nav-menu .nav-icon:before {
-  top: -1px;
+  top: 10px;
 }
 
 .nav-menu .nav-icon:after {
-  bottom: 1px;
+  top: -10px;
 }
 
+.nav-menu:hover,
 .nav-menu .nav-icon:hover {
   opacity: 1;
   cursor: pointer;
@@ -178,7 +180,7 @@ nav.nav-bar {
 
 .nav-check:checked ~ ul.nav-list {
   display: block;
-  transition: all .5s ease;
+  transition: all .2s ease-out;
   max-height: 220px; /* Hard-code max-height into nav bar when navicon checked. */
 }
 
@@ -223,6 +225,7 @@ h1.title {
   .nav-bar ul.nav-list {
     clear: none; /* Ensure links are in same row, not moved down */
     display: flex;
+    max-height: none;
   }
   .nav-menu {
     display: none;
