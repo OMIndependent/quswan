@@ -281,8 +281,8 @@ p.home {
 }
 
 /* Clearfix */
-.wrapper:before,
-.wrapper:after {
+.clearfix::after {
   content: "";
-  clear: none;
+  display: table;
+  clear: both;
 }
