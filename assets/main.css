@@ -131,7 +131,7 @@ nav.nav-bar {
   padding: 1em;
 }
 
-.nav-menu .nav-icon { /* Draw the lines of the navicon */
+.nav-menu .nav-icon { /* Draw center line of the navicon */
   position: relative;
   display: block;
   float: right;
@@ -147,7 +147,7 @@ nav.nav-bar {
 .nav-menu .nav-icon:before,
 .nav-menu .nav-icon:after {
   position: absolute;
-  content: ""; /* This pseudo element allows extra bars above/below navicon */
+  content: ""; /* This pseudo element allows lines above/below navicon */
   display: block;
   float: right;
   width: inherit;
