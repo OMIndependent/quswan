@@ -157,11 +157,11 @@ nav.nav-bar {
 }
 
 .nav-menu .nav-icon:before {
-  top: 10px;
+  bottom: -10px;
 }
 
 .nav-menu .nav-icon:after {
-  top: -10px;
+  bottom: 10px;
 }
 
 .nav-menu:hover,
@@ -176,11 +176,11 @@ nav.nav-bar {
 
 .nav-check ~ ul.nav-list {
   display: none;
+  transition: all .5s ease-out;
 }
 
 .nav-check:checked ~ ul.nav-list {
   display: block;
-  transition: all .2s ease-out;
   max-height: 220px; /* Hard-code max-height into nav bar when navicon checked. */
 }
 
