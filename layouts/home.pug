@@ -1,12 +1,20 @@
 //- _layouts/home.pug - Home page layout.
 extends layout.pug
 
+mixin postlink(path,name,date)
+  header.post-header
+    h2.post-title
+      a.post-title(href='/' + path)= name
+    span.post-meta= date
+
 block body
   body
     div.wrapper
       include header.pug
   
       main.page-content(aria-label='Content')
-        div!= contents
-        
+        div.posts-list
+          for post in collections.posts
+            +postlink(post.path,post.name,post.date)
+                
       include footer.pug
