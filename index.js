@@ -16,6 +16,7 @@ const permalinks    = require('metalsmith-permalinks');
 const wordcount     = require('metalsmith-word-count');
 const mapsite       = require('metalsmith-mapsite');
 const htmlmin       = require('metalsmith-html-minifier');
+const cssmin        = require('metalsmith-clean-css');
 const browsersync   = require('metalsmith-browser-sync');
 
 // Custom plugins
@@ -44,7 +45,18 @@ var opts = {
 }; // For pug plugin options
 
 var perm = {
-  pattern: ':collection/:title'
+  pattern: ':collection/:title',
+  relative: false,
+  linksets: [{
+    match: { collection: 'liveblogs' },
+    pattern: 'liveblogs/:title'
+  },{
+    match: { collection: 'posts' },
+    pattern: ':title'
+  },{
+    match: { collection: 'pages' },
+    pattern: ':title'
+  }]
 }; // Permalink pattern here
 
 var configTemplate = {
@@ -61,6 +73,10 @@ var minify = {
   collapseWhitespace: false
 }; // Settings for html-minifier here
 
+var cssminify = {
+  files: ['assets/*.css', 'assets/**/*.css']
+}; // Settings for css minifier here
+
 var log = true; // Toggle debug log
 
 Metalsmith(dir.base)
@@ -76,9 +92,7 @@ Metalsmith(dir.base)
   .use(publish())
   .use(collections({
     home: {
-      pattern: '',
       metadata: {
-        title: '',
         layout: 'home.pug'
       }
     },
@@ -98,27 +112,24 @@ Metalsmith(dir.base)
       }
     },
     transcripts: {
-      pattern: 'transcripts/**/*',
+      pattern: 'transcripts/**/*.',
       metadata: {
-        title: 'Transcripts',
         layout: 'page.pug'
       }
     },
     liveblogs: {
-      pattern: 'liveblogs/**/**/*.md',
+      pattern: 'liveblogs/**/*.md',
       sortBy: 'date',
       reverse: true,
       refer: true,
       metadata: {
-        title: 'Liveblogs',
         layout: 'entry.pug'
       }
     },
     trivia: {
-      pattern: 'trivia/**/**/*',
+      pattern: 'trivia/**/*.md',
       refer: true,
       metadata: {
-        title: 'Trivia',
         layout: 'post.pug'
       }
     }
@@ -140,6 +151,7 @@ Metalsmith(dir.base)
     if (err) { throw err; }
   })
   .use(htmlmin('*.html',minify))
+  .use(cssmin(cssminify))
   .build(function(err) {
     if (err) { throw err; }
     else { console.log("Build complete.\n") }
@@ -152,12 +164,15 @@ function debug(log) {
       console.log("\nMETADATA:");
       console.log(Metalsmith.metadata());
 
-      console.log("\nCOLLECTIONS:");
-      console.log(Metalsmith.metadata().collections);
-
       for (var f in files) {
         console.log("\nFILE:");
         console.log(files[f]);
+      }
+
+      console.log("\nCOLLECTIONS:");
+      var collections = Metalsmith.metadata().collections;
+      for (var c in collections) {
+        console.log(collections[c]);
       }
     }
     done();
