@@ -47,6 +47,17 @@ a:hover {
 
 img {
   width: auto;
+  height: 100%;
+  margin: 0 0 1em 0;
+  line-height: 1em;
+}
+
+img.banner {
+  box-shadow: 2px 2px #121;
+}
+
+img.banner:hover {
+  background: #121;
 }
 
 /* Code formatting */
@@ -236,6 +247,9 @@ nav.nav-bar {
   }
   .nav-menu {
     display: none;
+  }
+  img {
+    overflow: hidden;
   }
 }
 
