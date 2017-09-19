@@ -1,7 +1,7 @@
 ---
-layout: post.pug
+collection: pages
 title: "Ocampo's Moon/Quesada's Swan Plays Alundra"
-permalink: /alundra/
+categories: alundra
 ---
 
 [*Alundra*][al-link] is a PlayStation action-RPG video game in the vein of *The Legend of Zelda*, released on April 11, 1997 in Japan, and developed by Matrix Software. The game was released in North America on December 31, 1997, by [Working Designs][wds], well-known later for their English translation of both *Lunar: The Silver Star* on the Sega CD and its remake, *Lunar: Silver Star Story Complete*, also for the PlayStation. The game was later shipped to Europe as *The Adventures of Alundra* in 1998.

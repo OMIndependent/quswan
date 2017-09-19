@@ -1,5 +1,5 @@
 ---
-layout: home.pug
+collection: home
 permalink: false
 ---
 
