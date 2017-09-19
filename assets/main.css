@@ -46,7 +46,7 @@ a:hover {
 }
 
 img {
-
+  width: auto;
 }
 
 /* Code formatting */
@@ -75,6 +75,12 @@ body, h1, h2 {
 body {
   background: #505050; /* Background color: dark gray */
 }
+
+h1.title {
+  text-align: center;
+  line-height: 1em;
+}
+
 .home-link { /* For the header title */
   text-decoration: none;
 }
@@ -184,9 +190,10 @@ nav.nav-bar {
   max-height: 220px; /* Hard-code max-height into nav bar when navicon checked. */
 }
 
-h1.title {
-  text-align: center;
-  line-height: 1em;
+.page-content {
+  clear: both;
+  display: block;
+  float: left;
 }
 
 @media screen and (min-width: 16em) {
@@ -246,6 +253,21 @@ h1.title {
     border: 1px solid #121; /* Make a solid dark border
 }*/
 
+.page-content {
+  display: block;
+}
+
+.posts-list {
+  display: block;
+}
+
+.post-header {
+  border: 1.5px solid #121;
+  border-radius: 0.25em;
+  background: #121;
+  box-shadow: 5px 5px black;
+}
+
 .post-title {
   font-size: 1.75em;
   text-decoration: none;
@@ -256,8 +278,17 @@ h1.title {
   text-decoration: underline;
 }
 
+.post-meta {
+  font-size: 0.9em;
+}
+
 .entry-title {
   line-height: 1em;
+  text-decoration: none;
+}
+
+.entry-title:hover {
+  text-decoration: underline;
 }
 
 h2.entry-title {
