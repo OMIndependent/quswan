@@ -39,23 +39,75 @@ var dir = {
   dest:  './bin/'
 }; // Directory paths here
 
+var collexions = {
+  home: {
+    metadata: {
+      layout: 'home.pug'
+    }
+  },
+  posts: {
+    pattern: 'posts/*.md',
+    sortBy: 'date',
+    reverse: true,
+    refer: true,
+    metadata: {
+      layout: 'post.pug'
+    }
+  },
+  pages: {
+    pattern: '**/*.md',
+    metadata: {
+      layout: 'page.pug'
+    }
+  },
+  transcripts: {
+    pattern: 'transcripts/**/*',
+    metadata: {
+      layout: 'page.pug'
+    }
+  },
+  liveblogs: {
+    pattern: 'liveblogs/**/*.md',
+    sortBy: 'date',
+    reverse: true,
+    refer: true,
+    metadata: {
+      layout: 'entry.pug'
+    }
+  },
+  trivia: {
+    pattern: 'trivia/**/**/*',
+    refer: true,
+    metadata: {
+      layout: 'post.pug'
+    }
+  }
+}; // For collections plugin metadata
+
 var opts = {
   pretty: false,
   useMetadata: true
 }; // For pug plugin options
 
 var perm = {
-  pattern: ':collection/:title',
+  pattern: ':title',
   relative: false,
   linksets: [{
-    match: { collection: 'liveblogs' },
-    pattern: 'liveblogs/:title'
+    match: { collection: 'liveblogs',
+          categories: 'alundra' },
+    pattern: 'liveblogs/alundra/:filename',
+    date: 'MMMDoYYYY'
+  },{
+    match: { collection: 'liveblogs',
+          categories: 'dust' },
+    pattern: 'liveblogs/dust/:filename'
+  },{
+    match: { collection: 'liveblogs',
+          categories: 'smrpg' },
+    pattern: 'liveblogs/smrpg/:filename'
   },{
     match: { collection: 'posts' },
-    pattern: ':title'
-  },{
-    match: { collection: 'pages' },
-    pattern: ':title'
+    pattern: ':date/:filename'
   }]
 }; // Permalink pattern here
 
@@ -84,56 +136,12 @@ Metalsmith(dir.base)
   .metadata(meta) // Get metadata
   .source(dir.source) // Place source files into '/src/' directory
   .destination(dir.dest) // Place final web files into '/bin/' directory
-  .use(debug(log)) // Debug and print any errors in console
+  .use(collections(collexions)) // Sort into collections
   .use(pug(opts)) // Add pug-to-HTML plugin
   .use(markdown()) // Add markdown-to-HTML plugin
   .use(permalinks(perm)) // Add permalinks to site
   .use(drafts()) // Add enabling of drafted posts
   .use(publish())
-  .use(collections({
-    home: {
-      metadata: {
-        layout: 'home.pug'
-      }
-    },
-    posts: {
-      pattern: '/*',
-      sortBy: 'date',
-      reverse: true,
-      refer: true,
-      metadata: {
-        layout: 'post.pug'
-      }
-    },
-    pages: {
-      pattern: '/*',
-      metadata: {
-        layout: 'page.pug'
-      }
-    },
-    transcripts: {
-      pattern: 'transcripts/**/*.',
-      metadata: {
-        layout: 'page.pug'
-      }
-    },
-    liveblogs: {
-      pattern: 'liveblogs/**/*.md',
-      sortBy: 'date',
-      reverse: true,
-      refer: true,
-      metadata: {
-        layout: 'entry.pug'
-      }
-    },
-    trivia: {
-      pattern: 'trivia/**/*.md',
-      refer: true,
-      metadata: {
-        layout: 'post.pug'
-      }
-    }
-  }))
   .use(wordcount({
     raw: word
   }))
@@ -142,6 +150,7 @@ Metalsmith(dir.base)
     source: './assets/',
     destination: './assets/'
   })) // Add assets to site
+  .use(debug(log)) // Debug and print any errors in console
   .use(browsersync({
     server: './bin/',
     files:  ['./src/**/**/*', './src/**/*', './src/*',
@@ -170,10 +179,7 @@ function debug(log) {
       }
 
       console.log("\nCOLLECTIONS:");
-      var collections = Metalsmith.metadata().collections;
-      for (var c in collections) {
-        console.log(collections[c]);
-      }
+      console.log(Metalsmith.metadata().collections);
     }
     done();
   };
