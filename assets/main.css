@@ -45,14 +45,11 @@ a:hover {
   text-decoration: none;
 }
 
-img {
+img.banner {
   width: auto;
   height: 100%;
   margin: 0 0 1em 0;
   line-height: 1em;
-}
-
-img.banner {
   box-shadow: 2px 2px #121;
 }
 
@@ -275,7 +272,7 @@ nav.nav-bar {
   display: block;
 }
 
-.entry-header {
+.entry-list {
   border: 1.5px solid #121;
   border-radius: 0.25em;
   background: #121;
