@@ -6,7 +6,7 @@ mixin navlink(path,name)
 
 //- mixin for entry links
 mixin entrylink(path,name,date)
-  header.entry-header
+  li
     h2.entry-title
       a(href='/' + path)= name
     span.entry-meta= date
