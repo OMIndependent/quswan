@@ -275,38 +275,31 @@ nav.nav-bar {
   display: block;
 }
 
-.post-header {
+.entry-header {
   border: 1.5px solid #121;
   border-radius: 0.25em;
   background: #121;
   box-shadow: 5px 5px black;
 }
 
-.post-title {
-  font-size: 1.75em;
-  text-decoration: none;
-  margin: 0 0 1em 0;
-}
-
-.post-title:hover {
-  text-decoration: underline;
-}
-
-.post-meta {
-  font-size: 0.9em;
-}
-
 .entry-title {
   line-height: 1em;
+}
+
+.entry-title a {
   text-decoration: none;
 }
 
-.entry-title:hover {
+.entry-title a:hover {
   text-decoration: underline;
 }
 
 h2.entry-title {
   font-size: 1.75em;
+}
+
+.entry-meta {
+  font-size: 0.9em;
 }
 
 h3, p {
