@@ -1,8 +1,5 @@
 //- nav.pug - Navigation bar layout.
-//- mixin for navbar links
-mixin navlink(path,name)
-  li
-    a(href='/' + path)= name
+include mixin.pug
     
 nav.nav-bar    
   input.nav-check(id='nav-check' type='checkbox')
