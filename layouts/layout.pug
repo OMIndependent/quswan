@@ -13,7 +13,7 @@ html(lang='en')
 
         main.page-content(aria-label='Content')
           block content
-            div!= contents
+            != contents
 
         block footer
           include footer.pug
