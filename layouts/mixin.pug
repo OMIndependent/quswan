@@ -1,0 +1,12 @@
+//- mixin.pug - Mixins for website.
+//- mixin for navbar links
+mixin navlink(path,name)
+  li
+    a(href='/' + path)= name
+
+//- mixin for entry links
+mixin entrylink(path,name,date)
+  header.entry-header
+    h2.entry-title
+      a(href='/' + path)= name
+    span.entry-meta= date
