@@ -6,7 +6,20 @@ mixin navlink(path,name)
 
 //- mixin for entry links
 mixin entrylink(path,name,date)
-  li
-    h2.entry-title
-      a(href='/' + path)= name
-    span.entry-meta= date
+  div.entry-link-wrapper
+    div.entry-link-top
+      header.entry-header
+        h2.entry-title
+          a(href='/' + path)= name
+    div.entry-link-bottom
+      time.entry-meta= date
+
+//- mixin for pagination
+mixin pagination(page)
+  nav.nav-pag
+    if page.previous
+      a(href='/' + page.previous.path)
+        | &laso; Older
+    if page.next
+      a(href='/' + page.next.path)
+        | Newer &raso;
