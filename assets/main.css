@@ -26,14 +26,15 @@ figure  {
 }
 
 div.wrapper { /* wrapper class settings */
-  max-width: 1024px;
-  max-width: calc(1024px - 30px);
+  left: calc(64px);
+  right: calc(64px);
+  max-width: calc(1024px - 128px);
   background: #104b15;
   margin: 0 auto 0 auto; /* Set left and right margin automatically */
   float: center;
   padding: 1em;
   box-sizing: border-box;
-  position: relative; /* Change position based on screen size. */
+  position: absolute; /* Change position based on screen size. */
   overflow: auto;
 }
 
@@ -203,21 +204,38 @@ nav.nav-bar {
   width: 100%;
 }
 
-.entry-wrapper {
+.content-wrapper {
   line-height: 1.5em;
   clear: both;
   display: block;
   float: left;
+  overflow: hidden;
 }
 
-.entry-header {
-  border: 1.5px solid #121;
-  border-radius: 0.25em;
+.entry-link-wrapper {
   box-sizing: border-box;
-  background: #121;
-  padding: 1em;
-  margin: 0 0 1em 0;
+  display: block;
+  margin-bottom: 1em;
   overflow: hidden;
+}
+
+.entry-link-top {
+  border: 1px solid #121;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+  background: #121;
+  border-bottom: 1px solid #505050;
+  display: flex;
+  padding: 1em;
+}
+
+.entry-link-bottom {
+  border: 1px solid #121;
+  border-bottom-left-radius: 0.25em;
+  border-bottom-right-radius: 0.25em;
+  background: #121;
+  display: flex;
+  padding: 2px;
 }
 
 .entry-title a {
