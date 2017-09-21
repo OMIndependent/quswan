@@ -1,20 +1,10 @@
-//- _layouts/home.pug - Home page layout.
+//- home.pug - Home page layout.
 extends layout.pug
 
-mixin postlink(path,name,date)
-  header.post-header
-    h2.post-title
-      a.post-title(href='/' + path)= name
-    span.post-meta= date
+include mixin.pug
 
-block body
-  body
-    div.wrapper
-      include header.pug
-  
-      main.page-content(aria-label='Content')
-        div.posts-list
-          for post in collections.posts
-            +postlink(post.path,post.name,post.date)
-                
-      include footer.pug
+block content
+  article
+    div.content-wrapper
+      for entry in collections.liveblogs
+        +entrylink(entry.path,entry.title,entry.date)
