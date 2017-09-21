@@ -11,8 +11,10 @@ SCSS variables:
 
    $nav-dropdown-height: 220px !default;
 
+   $font-size: 16px;
+
    $screen-width: 1024px;
-   $margin-left: 30px;
+   $margin-left: 128px;
 
    $transition: .5s;
 */
@@ -25,7 +27,12 @@ figure  {
   padding: 0;
 }
 
-div.wrapper { /* wrapper class settings */
+html {
+  font-family: "Optima", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.wrapper { /* wrapper class settings */
   left: calc(64px);
   right: calc(64px);
   max-width: calc(1024px - 128px);
@@ -75,7 +82,6 @@ code {
 }*/
 
 body, h1, h2 {
-  font-family: "Optima", Arial, Helvetica, sans-serif;
   font-size: 1em;
   font-weight: normal;
   color: #fff; /* Text color is pure white */
@@ -254,21 +260,22 @@ h2.entry-title {
   font-size: 0.9em;
 }
 
-@media screen and (min-width: 16em) {
+@media screen and (max-width: 32em) {
   h1.title {
     font-size: 2em;
   }
   h2.entry-title {
-    font-size: 1em;
+    font-size: 1.25em;
   }
 }
 
-@media screen and (min-width: 32em) {
+@media screen and (min-width: 32em) and
+(max-width: 48em) {
   h1.title {
     font-size: 2.25em;
   }
   h2.entry-title {
-    font-size: 1.25em;
+    font-size: 1.5em;
   }
 }
 
@@ -277,7 +284,7 @@ h2.entry-title {
     font-size: 2.5em;
   }
   h2.entry-title {
-    font-size: 1.5em;
+    font-size: 1.75em;
   }
   .wrapper {
     margin: 0 auto 0 auto;
@@ -305,7 +312,7 @@ h2.entry-title {
     font-size: 2.75em;
   }
   h2.entry-title {
-    font-size: 1.75em;
+    font-size: 2em;
   }
 }
 
