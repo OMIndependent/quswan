@@ -1,4 +1,4 @@
-//- _layouts/page.pug
+//- page.pug - Layout for pages.
 extends layout.pug
 
 block content
@@ -7,6 +7,5 @@ block content
     
       header.page-header
         h1.page-title
-
-      div.page-content
-        p= contents
+      
+      != contents
