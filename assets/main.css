@@ -25,15 +25,16 @@ figure  {
   padding: 0;
 }
 
-.wrapper { /* wrapper class settings */
+div.wrapper { /* wrapper class settings */
   max-width: 1024px;
   max-width: calc(1024px - 30px);
   background: #104b15;
   margin: 0 auto 0 auto; /* Set left and right margin automatically */
   float: center;
-  padding: 1em; /* 3em padding on left and right */
+  padding: 1em;
   box-sizing: border-box;
   position: relative; /* Change position based on screen size. */
+  overflow: auto;
 }
 
 a { /* Links on post */
@@ -199,9 +200,40 @@ nav.nav-bar {
 }
 
 .page-content {
+  width: 100%;
+}
+
+.entry-wrapper {
+  line-height: 1.5em;
   clear: both;
   display: block;
   float: left;
+}
+
+.entry-header {
+  border: 1.5px solid #121;
+  border-radius: 0.25em;
+  box-sizing: border-box;
+  background: #121;
+  padding: 1em;
+  margin: 0 0 1em 0;
+  overflow: hidden;
+}
+
+.entry-title a {
+  text-decoration: none;
+}
+
+.entry-title a:hover {
+  text-decoration: underline;
+}
+
+h2.entry-title {
+  font-size: 1.75em;
+}
+
+.entry-meta {
+  font-size: 0.9em;
 }
 
 @media screen and (min-width: 16em) {
@@ -264,39 +296,8 @@ nav.nav-bar {
     border: 1px solid #121; /* Make a solid dark border
 }*/
 
-.page-content {
-  display: block;
-}
-
 .posts-list {
   display: block;
-}
-
-.entry-list {
-  border: 1.5px solid #121;
-  border-radius: 0.25em;
-  background: #121;
-  box-shadow: 5px 5px black;
-}
-
-.entry-title {
-  line-height: 1em;
-}
-
-.entry-title a {
-  text-decoration: none;
-}
-
-.entry-title a:hover {
-  text-decoration: underline;
-}
-
-h2.entry-title {
-  font-size: 1.75em;
-}
-
-.entry-meta {
-  font-size: 0.9em;
 }
 
 h3, p {
