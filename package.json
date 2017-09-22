@@ -30,7 +30,8 @@
     "metalsmith-pug": {
       "pretty": false,
       "useMetadata": true
-    }
+    },
+    "metalsmith-drafts": true
   },
   "repositories": {
     "type": "git",
