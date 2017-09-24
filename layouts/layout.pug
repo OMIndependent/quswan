@@ -12,8 +12,9 @@ html(lang='en')
           include header.pug
           
         main.page-content(aria-label='Content')
-          block content
-            != contents
+          div.content-wrapper
+            block content
+              != contents
 
         block footer
           include footer.pug
