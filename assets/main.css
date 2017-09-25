@@ -290,7 +290,8 @@ nav.nav-bar {
   h1.title {
     font-size: 2em;
   }
-  h2.entry-title {
+  h2.entry-title,
+  h2.page-title {
     font-size: 1.5em;
   }
   .wrapper {
@@ -304,7 +305,8 @@ nav.nav-bar {
   h1.title {
     font-size: 2.25em;
   }
-  h2.entry-title {
+  h2.entry-title,
+  h2.page-title {
     font-size: 1.5em;
   }
 }
@@ -340,7 +342,8 @@ and (max-width: 64em) {
   h1.title {
     font-size: 2.5em;
   }
-  h2.entry-title {
+  h2.entry-title,
+  h2.page-title {
     font-size: 1.75em;
   }
 }
@@ -349,7 +352,8 @@ and (max-width: 64em) {
   h1.title {
     font-size: 2.75em;
   }
-  h2.entry-title {
+  h2.entry-title,
+  h2.page-title {
     font-size: 2em;
   }
 }
@@ -358,7 +362,8 @@ and (max-width: 64em) {
   h1.title {
     font-size: 3em;
   }
-  h2.entry-title {
+  h2.entry-title,
+  h2.page-title {
     font-size: 2.5em;
   }
 }
