@@ -5,16 +5,16 @@
 const pkg           = require('./package.json');
 
 const Metalsmith    = require('metalsmith');
-const assets        = require('metalsmith-assets');
-const markdown      = require('metalsmith-markdown');
-const pug           = require('metalsmith-pug');
-const layouts       = require('metalsmith-layouts');
-const collections   = require('metalsmith-collections');
-const drafts        = require('metalsmith-drafts');
 const publish       = require('metalsmith-publish');
+const drafts        = require('metalsmith-drafts');
+const collections   = require('metalsmith-collections');
+const assets        = require('metalsmith-assets');
+const pug           = require('metalsmith-pug');
+const markdown      = require('metalsmith-markdown');
+const layouts       = require('metalsmith-layouts');
 const permalinks    = require('metalsmith-permalinks');
+const pagination    = require('metalsmith-pagination');
 const wordcount     = require('metalsmith-word-count');
-const mapsite       = require('metalsmith-mapsite');
 const htmlmin       = require('metalsmith-html-minifier');
 const cssmin        = require('metalsmith-clean-css');
 const browsersync   = require('metalsmith-browser-sync');
@@ -47,11 +47,11 @@ var collexions = {
   },
   posts: {
     pattern: 'posts/*.md',
-    sortBy: 'date',
+    sortBy: 'publishDate',
     reverse: true,
     refer: true,
     metadata: {
-      layout: 'post.pug'
+      layout: 'entry.pug'
     }
   },
   pages: {
@@ -61,14 +61,14 @@ var collexions = {
     }
   },
   transcripts: {
-    pattern: 'transcripts/**/*',
+    pattern: ['transcripts/**/*.md', '!transcripts/**/index.*'],
     metadata: {
       layout: 'page.pug'
     }
   },
   liveblogs: {
-    pattern: 'liveblogs/**/*.md',
-    sortBy: 'date',
+    pattern: ['liveblogs/**/*.md', '!liveblogs/**/index.*'],
+    sortBy: 'publishDate',
     reverse: true,
     refer: true,
     metadata: {
@@ -76,10 +76,10 @@ var collexions = {
     }
   },
   trivia: {
-    pattern: 'trivia/**/**/*',
+    pattern: 'trivia/**/*',
     refer: true,
     metadata: {
-      layout: 'post.pug'
+      layout: 'page.pug'
     }
   }
 }; // For collections plugin metadata
@@ -90,9 +90,9 @@ var opts = {
 }; // For pug plugin options
 
 var perm = {
-  pattern: ':title',
-  relative: false,
-  linksets: [{
+  // pattern: ':title',
+  relative: false
+  /*linksets: [{
     match: { collection: 'liveblogs',
           categories: 'alundra' },
     pattern: 'liveblogs/alundra/:filename',
@@ -106,16 +106,47 @@ var perm = {
           categories: 'smrpg' },
     pattern: 'liveblogs/smrpg/:filename'
   },{
+    match: { collection: 'liveblogs', categories: 'voltron' },
+    pattern: 'liveblogs/vld/:filename'
+  },{
     match: { collection: 'posts' },
     pattern: ':date/:filename'
-  }]
+  }]*/
 }; // Permalink pattern here
+
+var pagi = {
+  /*'collections.posts': {
+    perPage: 12,
+    layout: 'home.pug',
+    path: ':date/:title',
+  },
+  'collections.liveblogs': {
+    perPage: 3,
+    layout: 'home.pug',
+    first: 'index.html',
+    noPageOne: true,
+    filter: function (entry) {
+      return !entry.private
+    }
+  }*/
+}; // Pagination settings here
+
+var publishOpts = {
+  draft: true,
+  private: true,
+  unlisted: true
+}; // Publish post settings here
 
 var configTemplate = {
   engine: 'pug',
   directory: 'layouts',
   default: 'layout.pug'
 }; // Config template
+
+var assetsOpts = {
+  source: './assets',
+  destination: './assets'
+}; // Settings for images, css files
 
 var clean = true; // Clean build or not?
 var word = false; // Output word count
@@ -136,31 +167,30 @@ Metalsmith(dir.base)
   .metadata(meta) // Get metadata
   .source(dir.source) // Place source files into '/src/' directory
   .destination(dir.dest) // Place final web files into '/bin/' directory
-  .use(collections(collexions)) // Sort into collections
+  .use(publish(publishOpts)) // Add plugin for drafts, queued, and private posts
+  .use(drafts()) // Enable drafts for posts
+  .use(collections(collexions)) // Sort posts into collections
   .use(pug(opts)) // Add pug-to-HTML plugin
   .use(markdown()) // Add markdown-to-HTML plugin
+  .use(pagination(pagi)) // Add pagination features
   .use(permalinks(perm)) // Add permalinks to site
-  .use(drafts()) // Add enabling of drafted posts
-  .use(publish())
   .use(wordcount({
     raw: word
   }))
   .use(layouts(configTemplate)) // Add layout to site
-  .use(assets({
-    source: './assets/',
-    destination: './assets/'
-  })) // Add assets to site
+  .use(assets(assetsOpts)) // Add assets to site
+  //.use(htmlmin('*.html',minify))
+  .use(cssmin(cssminify))
   .use(debug(log)) // Debug and print any errors in console
   .use(browsersync({
     server: './bin/',
     files:  ['./src/**/**/*', './src/**/*', './src/*',
       'assets/*'],
-    port: 8080
+    port: 8080,
+    injectChanges: false
   }), function(err) {
     if (err) { throw err; }
   })
-  .use(htmlmin('*.html',minify))
-  .use(cssmin(cssminify))
   .build(function(err) {
     if (err) { throw err; }
     else { console.log("Build complete.\n") }
