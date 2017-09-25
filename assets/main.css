@@ -30,19 +30,41 @@ figure  {
 html {
   font-family: "Optima", Arial, Helvetica, sans-serif;
   font-size: 16px;
+  background: #505050; /* Background color: dark gray */
+}
+
+body, h1, h2 {
+  font-size: 1em;
+  font-weight: normal;
+  color: #fff; /* Text color is pure white */
+  line-height: 1.25em;
+}
+
+body {
+  background: #104b15;
 }
 
 .wrapper { /* wrapper class settings */
   left: calc(64px);
   right: calc(64px);
-  max-width: calc(1024px - 128px);
+  max-width: -webkit-calc(screen - 128px);
+  max-width: calc(screen - 128px);
   background: #104b15;
   margin: 0 auto 0 auto; /* Set left and right margin automatically */
   float: center;
   padding: 1em;
   box-sizing: border-box;
-  position: absolute; /* Change position based on screen size. */
+  position: absolute;
   overflow: auto;
+}
+
+.web-footer {
+  background: #104b15;
+  font-size: 0.8em;
+  text-align: center;
+  clear: both;
+  margin: 2rem;
+  padding: 1em;
 }
 
 a { /* Links on post */
@@ -81,17 +103,6 @@ code {
   padding: 1px 4px;
 }*/
 
-body, h1, h2 {
-  font-size: 1em;
-  font-weight: normal;
-  color: #fff; /* Text color is pure white */
-  line-height: 1.25em;
-}
-
-body {
-  background: #505050; /* Background color: dark gray */
-}
-
 h1.title {
   text-align: center;
   line-height: 1em;
@@ -102,7 +113,7 @@ h1.title {
 }
 
 .nav-bar {
-   display: block;
+   display: inline; /* Make nav bar horizontally oriented */
    float: left;
    background: #121;
    box-sizing: border-box; /* Nav bar measured based on border */
@@ -118,6 +129,7 @@ nav.nav-bar {
 }
 
 .nav-bar ul.nav-list {
+  background-color: #121;
   clear: both; /* Move nav links below navicon */
   list-style-type: none; /* Take out bullets in list */
   display: flex; /* Resizes nav bar based on screen size and fills bg gap */
@@ -126,7 +138,6 @@ nav.nav-bar {
 }
 
 .nav-bar li a {
-  font-family: "Optima", Arial, Helvetica, sans-serif;
   font-size: 1em;
   display: block;
   box-sizing: border-box;
@@ -142,7 +153,7 @@ nav.nav-bar {
 }
 
 .nav-menu {
-  display: inline-block;
+  display: block;
   cursor: pointer;
   float: right;
   width: 2em;
@@ -192,19 +203,35 @@ nav.nav-bar {
   cursor: pointer;
 }
 
+.nav-menu:active {
+  background: #505050;
+}
+
 .nav-check {
   display: none;
 }
 
 .nav-check ~ ul.nav-list {
   display: none;
-  transition: all .5s ease-out;
+  /* Setup transitions per browser */
+  -webkit-transition: display .5s ease-in .2s;
+  -moz-transition: display .5s ease-in .2s;
+  -o-transition: display .5s ease-in .2s;
+  -ms-transition: display .5s ease-in .2s;
+  transition: display .5s ease-in .2s;
 }
 
 .nav-check:checked ~ ul.nav-list {
   display: block;
-  max-height: 220px; /* Hard-code max-height into nav bar when navicon checked. */
 }
+
+/*.nav-menu .nav-icon:checked ~ .nav-bar li a {
+  -webkit-transition: background 1.5s ease;
+  -moz-transition: background 1.5s ease;
+  -o-transition: background 1.5s ease;
+  -ms-transition: background 1.5 ease;
+  transition: background 1.5s ease;
+}*/
 
 .page-content {
   width: 100%;
@@ -213,16 +240,17 @@ nav.nav-bar {
 .content-wrapper {
   line-height: 1.5em;
   clear: both;
-  display: block;
+  display: inline;
   float: left;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .entry-link-wrapper {
+  clear: none;
   box-sizing: border-box;
   display: block;
   margin-bottom: 1em;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .entry-link-top {
@@ -242,6 +270,7 @@ nav.nav-bar {
   background: #121;
   display: flex;
   padding: 2px;
+  padding-left: 1em;
 }
 
 .entry-title a {
@@ -252,24 +281,24 @@ nav.nav-bar {
   text-decoration: underline;
 }
 
-h2.entry-title {
-  font-size: 1.75em;
-}
-
 .entry-meta {
   font-size: 0.9em;
 }
 
-@media screen and (max-width: 32em) {
+@media screen and (max-width: 30em) {
   h1.title {
     font-size: 2em;
   }
   h2.entry-title {
-    font-size: 1.25em;
+    font-size: 1.5em;
+  }
+  .wrapper {
+    left: auto;
+    right: auto;
   }
 }
 
-@media screen and (min-width: 32em) and
+@media screen and (min-width: 30em) and
 (max-width: 48em) {
   h1.title {
     font-size: 2.25em;
@@ -280,17 +309,6 @@ h2.entry-title {
 }
 
 @media screen and (min-width: 48em) {
-  h1.title {
-    font-size: 2.5em;
-  }
-  h2.entry-title {
-    font-size: 1.75em;
-  }
-  .wrapper {
-    margin: 0 auto 0 auto;
-    padding-left: 3em;
-    padding-right: 3em;
-  }
   .nav-bar {
     padding: 0 1em;
   }
@@ -299,11 +317,26 @@ h2.entry-title {
     display: flex;
     max-height: none;
   }
+  .nav-check:not(:checked) ~ ul.nav-list,
+  .nav-check:checked ~ ul.nav-list {
+    display: flex;
+    max-height: none;
+  }
   .nav-menu {
     display: none;
   }
   img {
     overflow: hidden;
+  }
+}
+
+@media screen and (min-width: 48em)
+and (max-width: 64em) {
+  h1.title {
+    font-size: 2.5em;
+  }
+  h2.entry-title {
+    font-size: 1.75em;
   }
 }
 
@@ -316,13 +349,13 @@ h2.entry-title {
   }
 }
 
-/*.post-wrapper {
-    max-width: 800px;
-    border: 1px solid #121; /* Make a solid dark border
-}*/
-
-.posts-list {
-  display: block;
+@media screen and (min-width: 90em) {
+  h1.title {
+    font-size: 3em;
+  }
+  h2.entry-title {
+    font-size: 2.5em;
+  }
 }
 
 h3, p {
@@ -335,13 +368,6 @@ p.home {
   font-size: 1em;
   text-decoration: underline;
   line-height: 1.5em;
-}
-
-.web-footer {
-  font-family: "Optima", Arial, Helvetica, sans-serif;
-  font-size: 0.8em;
-  text-align: center;
-  margin: 0 0 2em 0;
 }
 
 /* Clearfix */
