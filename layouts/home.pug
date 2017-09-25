@@ -6,3 +6,5 @@ include mixin.pug
 block content
   for entry in collections.liveblogs
     +entrylink(entry.path,entry.title,entry.date)
+  for post in collections.posts
+    +entrylink(post.path,post.title,post.date)
