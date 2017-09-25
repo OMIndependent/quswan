@@ -4,6 +4,5 @@ extends layout.pug
 include mixin.pug
 
 block content
-  div.content-wrapper
-    for entry in collections.liveblogs
-      +entrylink(entry.path,entry.title,entry.date)
+  for entry in collections.liveblogs
+    +entrylink(entry.path,entry.title,entry.date)
