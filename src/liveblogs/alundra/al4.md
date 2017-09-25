@@ -1,7 +1,8 @@
 ---
+layout: entry.pug
 title: "Alundra - Part 4: Tarn's Manor"
 date: 2016-02-01 -0700
-publishDate: 2017-08-18 -0700
+publishDate: 2017-08-18 16:18:00 -0700
 categories: playthroughs alundra
 ---
 
@@ -11,9 +12,9 @@ I head back to Tarn's Manor, and as soon as I'm at the gates, some monkeys with 
 
 Now I'm inside the manor proper. Melzas warns me with his big, blue spectre hologram body, and locks the doors with his mind, and more monkeys jump at me!
 
-I go in the formerly locked door in the center of the hall into the dining room where more monkeys start jumping at me!
+I go in the formerly locked door in the center of the hall into the dining room where more monkeys jump at me!
 
-I beat them and get a chest of strength tonic for my trouble, which I can't carry since I already have one.
+I beat them and get a chest of Strength Tonic for my trouble, which I can't carry since I already have one.
 
 I explore around the manor some more and am now at the basement of the manor. Two slimes are there to greet me.
 
