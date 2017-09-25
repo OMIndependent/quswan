@@ -12,11 +12,12 @@ SCSS variables:
    $nav-dropdown-height: 220px !default;
 
    $font-size: 16px;
+   $nav-item-height: 3.25em;
 
    $screen-width: 1024px;
    $margin-left: 128px;
 
-   $transition: .5s;
+   $transition-time: .3s;
 */
 
 /* Set the defaults for the tags */
@@ -56,6 +57,7 @@ body {
   box-sizing: border-box;
   position: absolute;
   overflow: auto;
+  z-index: 3;
 }
 
 .web-footer {
@@ -132,7 +134,6 @@ nav.nav-bar {
   background-color: #121;
   clear: both; /* Move nav links below navicon */
   list-style-type: none; /* Take out bullets in list */
-  display: flex; /* Resizes nav bar based on screen size and fills bg gap */
   overflow: hidden; /* Prevent nav links from overflow of bar when dropped-down */
   padding: 0;  /* Ensures link is clickable if not hovering on text */
 }
@@ -172,7 +173,7 @@ nav.nav-bar {
   height: 0.25em;
   top: 6px;
   z-index: 1;
-  transition: .5s ease-out;
+  transition: .3s ease-out;
   background: #c0c0c0;
   opacity: 0.7;
 }
@@ -212,26 +213,26 @@ nav.nav-bar {
 }
 
 .nav-check ~ ul.nav-list {
-  display: none;
+  height: 0;
+  opacity: 0;
   /* Setup transitions per browser */
-  -webkit-transition: display .5s ease-in .2s;
-  -moz-transition: display .5s ease-in .2s;
-  -o-transition: display .5s ease-in .2s;
-  -ms-transition: display .5s ease-in .2s;
-  transition: display .5s ease-in .2s;
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  transition: all .3s ease-in;
 }
 
 .nav-check:checked ~ ul.nav-list {
-  display: block;
+  height: 13em; /* 13em = 208 px = (52px = 3.25em) * 4px */
+  opacity: 1;
+  /* Setup transitions per browser */
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  transition: all .3s ease-in;
 }
-
-/*.nav-menu .nav-icon:checked ~ .nav-bar li a {
-  -webkit-transition: background 1.5s ease;
-  -moz-transition: background 1.5s ease;
-  -o-transition: background 1.5s ease;
-  -ms-transition: background 1.5 ease;
-  transition: background 1.5s ease;
-}*/
 
 .page-content {
   width: 100%;
@@ -313,14 +314,18 @@ nav.nav-bar {
     padding: 0 1em;
   }
   .nav-bar ul.nav-list {
-    clear: none; /* Ensure links are in same row, not moved down */
+    /* Ensure links are in same row, not moved down */
     display: flex;
-    max-height: none;
+    height: 3.25em; /* Each nav link is 3.25em high */
+    opacity: 1;
   }
   .nav-check:not(:checked) ~ ul.nav-list,
   .nav-check:checked ~ ul.nav-list {
-    display: flex;
-    max-height: none;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    -ms-transition: none;
+    transition: none;
   }
   .nav-menu {
     display: none;

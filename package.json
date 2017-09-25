@@ -2,7 +2,7 @@
   "name": "quswan.net",
   "title": "Quesada's Swan |",
   "description": "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "private": true,
   "devDependencies": {
     "metalsmith": "^2.3.0",
