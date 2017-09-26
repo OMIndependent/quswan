@@ -1,9 +1,10 @@
 ---
 collection: pages
 layout: page.pug
-title: "Liveblogs"
 permalink: /liveblogs/
 ---
+
+<h2 style="text-align: center; font-size: 2em;">Liveblogs</h2>
 
 [<img src="" alt="alundra banner" class="banner" />](./alundra/)
 

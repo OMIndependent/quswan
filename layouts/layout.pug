@@ -11,8 +11,8 @@ html(lang='en')
         block header
           include header.pug
           
-        main.page-content(aria-label='Content')
-          div.content-wrapper
+        div.content-wrapper
+          main.page-content(aria-label='Content')
             block content
               != contents
 
