@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 
-'use strict'; // Do not use any unneeded vars when running
+// Do not use any unneeded vars when running
+'use strict';
 
+// Import plugins
 const pkg           = require('./package.json');
 
 const Metalsmith    = require('metalsmith');
@@ -19,9 +21,8 @@ const htmlmin       = require('metalsmith-html-minifier');
 const cssmin        = require('metalsmith-clean-css');
 const browsersync   = require('metalsmith-browser-sync');
 
-// Custom plugins
-//const setdate       = require('metalsmith-date');
 
+/* Global metadata */
 var meta = {
   site: {
     title: "Quesada's Swan | ",
@@ -31,14 +32,16 @@ var meta = {
   description: "The Socially Aware Magic Swordsman's independent blog site powered by Metalsmith",
   generator: "Metalsmith",
   version:  pkg.version
-}; // Metadata here
+};
 
+/* Directory paths */
 var dir = {
   base:   __dirname,
   source:    './src/',
   dest:  './bin/'
-}; // Directory paths here
+};
 
+/* Collections metadata list */
 var collexions = {
   home: {
     metadata: {
@@ -82,15 +85,17 @@ var collexions = {
       layout: 'page.pug'
     }
   }
-}; // For collections plugin metadata
+};
 
+/* Pug plugin settings */
 var opts = {
   pretty: false,
   useMetadata: true
-}; // For pug plugin options
+};
 
+/* Permalink settings */
 var perm = {
-  // pattern: ':title',
+  pattern: ':title',
   relative: false
   /*linksets: [{
     match: { collection: 'liveblogs',
@@ -112,8 +117,9 @@ var perm = {
     match: { collection: 'posts' },
     pattern: ':date/:filename'
   }]*/
-}; // Permalink pattern here
+};
 
+/* Pagination settings */
 var pagi = {
   /*'collections.posts': {
     perPage: 12,
@@ -129,59 +135,82 @@ var pagi = {
       return !entry.private
     }
   }*/
-}; // Pagination settings here
+};
 
+/* Post publish settings */
 var publishOpts = {
   draft: true,
   private: true,
   unlisted: true
-}; // Publish post settings here
+};
 
+/* Template/layout engine plugin settings */
 var configTemplate = {
   engine: 'pug',
   directory: 'layouts',
   default: 'layout.pug'
-}; // Config template
+};
 
+/* Assets settings */
 var assetsOpts = {
   source: './assets',
   destination: './assets'
-}; // Settings for images, css files
+};
 
-var clean = true; // Clean build or not?
-var word = false; // Output word count
+// Clean build directory or not?
+var clean = true;
 
+// Output word count
+var word = false;
+
+/* HTML minifier settings */
 var minify = {
   collapseBooleanAttributes: false,
   collapseWhitespace: false
-}; // Settings for html-minifier here
+};
 
+/* CSS minifier settings */
 var cssminify = {
   files: ['assets/*.css', 'assets/**/*.css']
-}; // Settings for css minifier here
+};
 
-var log = true; // Toggle debug log
+// Toggle debug log
+var log = true;
 
 Metalsmith(dir.base)
-  .clean(clean)  // Clean the build
+  .clean(clean)  // Clean the build directory
   .metadata(meta) // Get metadata
   .source(dir.source) // Place source files into '/src/' directory
   .destination(dir.dest) // Place final web files into '/bin/' directory
+
   .use(publish(publishOpts)) // Add plugin for drafts, queued, and private posts
+
   .use(drafts()) // Enable drafts for posts
+
   .use(collections(collexions)) // Sort posts into collections
+
   .use(pug(opts)) // Add pug-to-HTML plugin
+
   .use(markdown()) // Add markdown-to-HTML plugin
+
   .use(pagination(pagi)) // Add pagination features
+
   .use(permalinks(perm)) // Add permalinks to site
+
   .use(wordcount({
     raw: word
   }))
+
   .use(layouts(configTemplate)) // Add layout to site
+
   .use(assets(assetsOpts)) // Add assets to site
-  //.use(htmlmin('*.html',minify))
+
+  // Minify website
+  .use(htmlmin('*.html',minify))
   .use(cssmin(cssminify))
-  .use(debug(log)) // Debug and print any errors in console
+
+  // Debug and print any errors in console
+  .use(debug(log))
   .use(browsersync({
     server: './bin/',
     files:  ['./src/**/**/*', './src/**/*', './src/*',
@@ -191,10 +220,13 @@ Metalsmith(dir.base)
   }), function(err) {
     if (err) { throw err; }
   })
+
+  // Build site and call exceptions when things go wrong
   .build(function(err) {
     if (err) { throw err; }
     else { console.log("Build complete.\n") }
-  }); // Call exceptions when things go wrong
+  });
+
 
 // Debug function to check if website loads correctly
 function debug(log) {
