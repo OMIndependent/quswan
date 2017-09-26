@@ -95,7 +95,6 @@ var opts = {
 
 /* Permalink settings */
 var perm = {
-  pattern: ':title',
   relative: false
   /*linksets: [{
     match: { collection: 'liveblogs',
