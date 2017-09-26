@@ -206,9 +206,6 @@ nav.nav-bar {
   transition: all .15s ease-in;
 }
 
-.page-content {
-  width: 100%;
-}
 .content-wrapper {
   width: 100%;
   line-height: 1.5em;
@@ -288,6 +285,9 @@ p.home {
   h2.entry-title,
   h2.page-title {
     font-size: 1.5em;
+  }
+  .nav-bar li a {
+    font-size: 1.25em;
   }
 }
 @media screen and (min-width: 48em) {
