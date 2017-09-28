@@ -14,6 +14,7 @@
     "metalsmith-clean-css": "^5.0.1",
     "metalsmith-layouts": "^1.8.1",
     "metalsmith-markdown": "^0.2.1",
+    "metalsmith-moment": "^1.0.0",
     "metalsmith-permalinks": "^0.5.0",
     "metalsmith-pagination": "^1.4.0",
     "metalsmith-publish": "^0.1.5",
@@ -31,7 +32,9 @@
       "pretty": false,
       "useMetadata": true
     },
-    "metalsmith-drafts": true
+    "metalsmith-drafts": true,
+    "metalsmith-moment":
+      ["date"]
   },
   "repositories": {
     "type": "git",

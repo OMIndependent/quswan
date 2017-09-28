@@ -13,6 +13,7 @@ const collections   = require('metalsmith-collections');
 const assets        = require('metalsmith-assets');
 const pug           = require('metalsmith-pug');
 const markdown      = require('metalsmith-markdown');
+const moment        = require('metalsmith-moment');
 const layouts       = require('metalsmith-layouts');
 const permalinks    = require('metalsmith-permalinks');
 const pagination    = require('metalsmith-pagination');
@@ -92,6 +93,9 @@ var opts = {
   pretty: false,
   useMetadata: true
 };
+
+/* Moment time format settings */
+var mtime = ['date'];
 
 /* Permalink settings */
 var perm = {
@@ -191,6 +195,8 @@ Metalsmith(dir.base)
   .use(pug(opts)) // Add pug-to-HTML plugin
 
   .use(markdown()) // Add markdown-to-HTML plugin
+
+  .use(moment(mtime)) // Add moment plugin
 
   .use(pagination(pagi)) // Add pagination features
 
