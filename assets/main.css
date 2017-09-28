@@ -189,21 +189,21 @@ nav.nav-bar {
   height: 0;
   opacity: 0;
   /* Setup transitions per browser */
-  -webkit-transition: all .15s ease-in;
-  -moz-transition: all .15s ease-in;
-  -o-transition: all .15s ease-in;
-  -ms-transition: all .15s ease-in;
-  transition: all .15s ease-in;
+  -webkit-transition: all .15s ease-in .1s;
+  -moz-transition: all .15s ease-in .1s;
+  -o-transition: all .15s ease-in .1s;
+  -ms-transition: all .15s ease-in .1s;
+  transition: all .15s ease-in .1s;
 }
 .nav-check:checked ~ ul.nav-list {
   height: 15em; /* 15em = 240 px = (52px = 3.25em) * 4px */
   opacity: 1;
   /* Setup transitions per browser */
-  -webkit-transition: all .15s ease-in;
-  -moz-transition: all .15s ease-in;
-  -o-transition: all .15s ease-in;
-  -ms-transition: all .15s ease-in;
-  transition: all .15s ease-in;
+  -webkit-transition: all .15s ease-in .1s;
+  -moz-transition: all .15s ease-in .1s;
+  -o-transition: all .15s ease-in .1s;
+  -ms-transition: all .15s ease-in .1s;
+  transition: all .15s ease-in .1s;
 }
 
 .content-wrapper {
