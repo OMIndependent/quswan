@@ -13,7 +13,7 @@ mixin entrylink(path,name,date)
           h2.entry-title
             a(href='/' + path)= name
       div.entry-link-bottom
-        time.entry-meta= date
+        time.entry-meta= date.format("MMMM Do, YYYY")
 
 //- mixin for pagination
 mixin pagination(page)
