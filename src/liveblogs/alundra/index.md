@@ -2,7 +2,7 @@
 collection: pages
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Plays Alundra"
-publishDate: 2017-08-25 -0700
+publishDate: 2017-08-25 09-0700
 categories: alundra
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: entry.pug
 title: "Alundra - Part 3: Road to Tarn's Manor"
-date: 2016-02-01 -0700
-publishDate: 2017-08-18 16:17:00 -0700
+date: 2016-02-01 09-0700
+publishDate: 2017-08-18 16:17:00 09-0700
 categories: playthroughs alundra
 ---
 
