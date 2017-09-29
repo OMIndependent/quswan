@@ -95,7 +95,12 @@ var opts = {
 };
 
 /* Moment time format settings */
-var mtime = ['date'];
+var mtime = ['date']; /* NOTE: 'date' is taken from markdown file's YAML front matter.
+Input date formats accepted is:
+  "YYYY-MM-DD HH:mm:ss Z+-HHmm" or "YYYY-MM-DD +-HHmm" ->
+  "2020-07-01 15:03:25 -0700" or "2020-07-01 -0700"
+The output date format will return:
+  "MMMM Do, YYYY" -> "July 1st, 2020" */
 
 /* Permalink settings */
 var perm = {
