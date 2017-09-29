@@ -3,7 +3,7 @@ collection: pages
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Watches Voltron: Legendary Defender"
 categories: voltron
-publishDate: 2017-09-12 -0700
+publishDate: 2017-09-12 09-0700
 draft: true
 ---
 
