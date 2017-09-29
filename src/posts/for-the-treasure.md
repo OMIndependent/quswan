@@ -1,7 +1,7 @@
 ---
 layout: entry.pug
 title: "For the Treasure"
-date: 2017-09-29 08:51:00: -0700
+date: 2017-09-29 08:51:00 -0700
 publishDate: 2017-09-29 09:13:00 -0700
 ---
 
