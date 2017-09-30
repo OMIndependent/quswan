@@ -7,7 +7,7 @@ SCSS variables:
    $gray: #606060;
    $light-gray:  #c0c0c0;
    $dark-gray: #233;
-   $nav-border-color: #121;
+   $border-color: #0a160a;
 
    $nav-dropdown-height: 220px !default;
 
@@ -83,11 +83,11 @@ img.banner {
   height: 100%;
   margin: 0 0 1em 0;
   line-height: 1em;
-  box-shadow: 2px 2px #121;
+  box-shadow: 2px 2px #0a160a;
 }
 
 img.banner:hover {
-  background: #121;
+  background: #0a160a;
 }
 
 h1.title {
@@ -102,19 +102,19 @@ h1.title {
 .nav-bar {
    display: inline; /* Make nav bar horizontally oriented */
    float: left;
-   background: #121;
+   background: #0a160a;
    box-sizing: border-box; /* Nav bar measured based on border */
    padding: 1em;
    z-index: 3;
 }
 nav.nav-bar {
   width: 100%; /* Take up the screen within the wrapper. */
-  border: 1px solid #121; /* Border color is dark gray */
+  border: 1px solid #0a160a; /* Border color is dark gray */
   border-radius: 0.25em; /* Rounds out corners */
   margin: 1em 0 1em 0;
 }
 .nav-bar ul.nav-list {
-  background-color: #121;
+  background-color: #0a160a;
   clear: both; /* Move nav links below navicon */
   list-style-type: none; /* Take out bullets in list */
   overflow: hidden; /* Prevent nav links from overflow of bar when dropped-down */
@@ -126,7 +126,7 @@ nav.nav-bar {
   box-sizing: border-box;
   text-decoration: none;
   color: #c0c0c0; /* Text color is light gray */
-  background: #121;
+  background: #0a160a;
   padding: 1em;
 }
 .nav-bar li a:hover,
@@ -142,7 +142,7 @@ nav.nav-bar {
   height: 1em;
   border: 0.09em solid #c0c0c0;
   border-radius: 0.25em;
-  background: #121;
+  background: #0a160a;
   padding: 1em;
 }
 .nav-menu .nav-icon { /* Draw center line of the navicon */
@@ -222,19 +222,19 @@ nav.nav-bar {
   margin-bottom: 1em;
 }
 .entry-link-top {
-  border: 1px solid #121;
+  border: 1px solid #0a160a;
   border-top-left-radius: 0.25em;
   border-top-right-radius: 0.25em;
-  background: #121;
+  background: #0a160a;
   border-bottom: 1px solid #505050;
   display: flex;
   padding: 1em;
 }
 .entry-link-bottom {
-  border: 1px solid #121;
+  border: 1px solid #0a160a;
   border-bottom-left-radius: 0.25em;
   border-bottom-right-radius: 0.25em;
-  background: #121;
+  background: #0a160a;
   display: flex;
   padding: 2px;
   padding-left: 1em;
