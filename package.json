@@ -1,8 +1,8 @@
 {
-  "name": "quswan.net",
+  "url": "quswan.net",
   "title": "Quesada's Swan |",
   "description": "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "private": true,
   "devDependencies": {
     "metalsmith": "^2.3.0",
@@ -33,8 +33,7 @@
       "useMetadata": true
     },
     "metalsmith-drafts": true,
-    "metalsmith-moment":
-      ["date"]
+    "metalsmith-moment": ["date"]
   },
   "repositories": {
     "type": "git",
