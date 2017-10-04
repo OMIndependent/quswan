@@ -22,6 +22,9 @@ const htmlmin       = require('metalsmith-html-minifier');
 const cssmin        = require('metalsmith-clean-css');
 const browsersync   = require('metalsmith-browser-sync');
 
+/* Global settings */
+const desc = "The Socially Aware Magic Swordsman's independent blog site generated with Metalsmith";
+const numPosts = 10;
 
 /* Global metadata */
 var meta = {
@@ -29,9 +32,10 @@ var meta = {
     title: "Quesada's Swan | ",
     url: "http://quswan.net/"
   },
-  domain:  "http://quswan.net",
-  description: "The Socially Aware Magic Swordsman's independent blog site powered by Metalsmith",
+  name: "Quesada's Swan",
+  description: desc,
   generator: "Metalsmith",
+  generatorurl: "http://metalsmith.io/",
   version:  pkg.version
 };
 
@@ -49,8 +53,9 @@ var collexions = {
       layout: 'home.pug'
     }
   },
-  posts: {
-    pattern: 'posts/*.md',
+  entries: {
+    pattern: ['posts/*.md', 'liveblogs/**/*.md', '!liveblogs/**/index.*',
+      'trivia/**/*'],
     sortBy: 'publishDate',
     reverse: true,
     refer: true,
@@ -69,22 +74,6 @@ var collexions = {
     metadata: {
       layout: 'page.pug'
     }
-  },
-  liveblogs: {
-    pattern: ['liveblogs/**/*.md', '!liveblogs/**/index.*'],
-    sortBy: 'publishDate',
-    reverse: true,
-    refer: true,
-    metadata: {
-      layout: 'entry.pug'
-    }
-  },
-  trivia: {
-    pattern: 'trivia/**/*',
-    refer: true,
-    metadata: {
-      layout: 'page.pug'
-    }
   }
 };
 
@@ -95,55 +84,33 @@ var opts = {
 };
 
 /* Moment time format settings */
-/* NOTE: 'date' is taken from markdown file's YAML front matter.
+/* NOTE: 'date', 'playedDate', and 'watchDate' is taken from markdown
+file's YAML front matter.
 Input date formats accepted are:
-  "YYYY-MM-DD HH:mm:ss Z+-HHmm" or "YYYY-MM-DD +-HHmm" ->
-  "2020-07-01 15:03:25 -0700" or "2020-07-01 -0700"
+  "YYYY-MM-DD HH:mm:ss +-HHmm" or "YYYY-MM-DD Z+-HHmm" ->
+  "2020-07-01 15:03:25 -0700" or "2020-07-01 09-0700"
 The output date format returns:
-  "MMMM Do, YYYY" -> "July 1st, 2020" */
-var mtime = ['date'];
+  "dddd, MMMM Do, YYYY" -> "X-day, July 1st, 2020" */
+var mtime = ['date', 'playedDate', 'watchDate'];
 
 /* Permalink settings */
 var perm = {
   relative: false
-  /*linksets: [{
-    match: { collection: 'liveblogs',
-          categories: 'alundra' },
-    pattern: 'liveblogs/alundra/:filename',
-    date: 'MMMDoYYYY'
-  },{
-    match: { collection: 'liveblogs',
-          categories: 'dust' },
-    pattern: 'liveblogs/dust/:filename'
-  },{
-    match: { collection: 'liveblogs',
-          categories: 'smrpg' },
-    pattern: 'liveblogs/smrpg/:filename'
-  },{
-    match: { collection: 'liveblogs', categories: 'voltron' },
-    pattern: 'liveblogs/vld/:filename'
-  },{
-    match: { collection: 'posts' },
-    pattern: ':date/:filename'
-  }]*/
 };
 
 /* Pagination settings */
 var pagi = {
-  /*'collections.posts': {
-    perPage: 12,
-    layout: 'home.pug',
-    path: ':date/:title',
-  },
-  'collections.liveblogs': {
-    perPage: 3,
+  'collections.entries': {
+    perPage: numPosts,
     layout: 'home.pug',
     first: 'index.html',
     noPageOne: true,
-    filter: function (entry) {
-      return !entry.private
+    path: 'page/:num/index.html',
+    pageMetadata: {
+      title: "Quesada's Swan | ",
+      description: desc
     }
-  }*/
+  }
 };
 
 /* Post publish settings */
@@ -189,8 +156,8 @@ var log = true;
 Metalsmith(dir.base)
   .clean(clean)  // Clean the build directory
   .metadata(meta) // Get metadata
-  .source(dir.source) // Place source files into '/src/' directory
-  .destination(dir.dest) // Place final web files into '/bin/' directory
+  .source(dir.source) // Get source files from './src/' directory
+  .destination(dir.dest) // Place final web files into './bin/' directory
 
   .use(publish(publishOpts)) // Add plugin for drafts, queued, and private posts
 
@@ -198,25 +165,25 @@ Metalsmith(dir.base)
 
   .use(collections(collexions)) // Sort posts into collections
 
-  .use(pug(opts)) // Add pug-to-HTML plugin
+  .use(pug(opts)) // Enable pug-to-HTML files
 
-  .use(markdown()) // Add markdown-to-HTML plugin
+  .use(markdown()) // Enable markdown-to-HTML files
 
   .use(moment(mtime)) // Add moment plugin
 
-  .use(pagination(pagi)) // Add pagination features
+  .use(pagination(pagi)) // Add pagination feature
 
-  .use(permalinks(perm)) // Add permalinks to site
+  .use(permalinks(perm)) // Add permalink feature
 
   .use(wordcount({
     raw: word
-  }))
+  })) // Added word count feature to measure reading time
 
   .use(layouts(configTemplate)) // Add layout to site
 
   .use(assets(assetsOpts)) // Add assets to site
 
-  // Minify website
+  // Minify/compress files
   .use(htmlmin('*.html',minify))
   .use(cssmin(cssminify))
 
@@ -225,7 +192,7 @@ Metalsmith(dir.base)
   .use(browsersync({
     server: './bin/',
     files:  ['./src/**/**/*', './src/**/*', './src/*',
-      'assets/*'],
+      'assets/*'], // Note changes in these files
     port: 8080,
     injectChanges: false
   }), function(err) {

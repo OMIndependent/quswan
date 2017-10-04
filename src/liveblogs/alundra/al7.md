@@ -4,7 +4,6 @@ title: "Alundra - Part 7: The Coal Mine"
 date: 2016-02-04 09-0700
 publishDate: 2017-09-29 23:00:13 -0700
 categories: playthroughs alundra
-draft: true
 ---
 
 I read the sign from the locked house outside the village, which says, "Contact Centurius XXI." It took me a while to get that joke.

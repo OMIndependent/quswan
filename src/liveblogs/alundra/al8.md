@@ -4,7 +4,6 @@ title: "Alundra - Part 8: More Village of Inoa"
 date: 2016-02-04 09-0700
 publishDate: 2017-09-29 23:03:47 -0700
 categories: alundra playthroughs
-draft: true
 ---
 
 I'm now in the Murgg's (the monkeys with wolverine claws) turf, a huge tree is their base. Looks like I'm gonna have to sneak in...

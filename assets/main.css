@@ -100,12 +100,12 @@ h1.title {
 }
 
 .nav-bar {
-   display: inline; /* Make nav bar horizontally oriented */
-   float: left;
-   background: #0a160a;
-   box-sizing: border-box; /* Nav bar measured based on border */
-   padding: 1em;
-   z-index: 3;
+  display: inline; /* Make nav bar horizontally oriented */
+  float: left;
+  background: #0a160a;
+  box-sizing: border-box; /* Nav bar measured based on border */
+  padding: 1em;
+  z-index: 3;
 }
 nav.nav-bar {
   width: 100%; /* Take up the screen within the wrapper. */
@@ -212,7 +212,7 @@ nav.nav-bar {
   clear: both;
   display: inline;
   float: left;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .entry-link-wrapper {
@@ -247,6 +247,18 @@ nav.nav-bar {
 }
 .entry-meta {
   font-size: 0.9em;
+}
+
+.nav-pag a {
+  display: inline;
+  text-decoration: none;
+  border: 1px #0a160a solid;
+  background: #0a160a;
+  border-radius: 0.25em;
+  padding: 1em;
+}
+.nav-pag a:hover {
+  text-decoration: underline;
 }
 
 h3, p {

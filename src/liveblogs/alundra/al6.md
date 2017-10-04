@@ -4,12 +4,11 @@ title: "Alundra - Part 6: A Prayer for the Miners"
 date: 2016-02-04 09-0700
 publishDate: 2017-09-29 22:56:55 -0700
 categories: playthroughs alundra
-draft: true
 ---
 
 Chancellor Ronan says it was the gods' intervention that saved Grandpa Wendell.
 
-After praying and talking with him, I wander around the Sanctuary. It's a church, <a href="https://youtu.be/Z3InmMzDfrQ">with church music</a>, a waiting room for a confession booth, an infirmary, lots of locked doors, and a few switches. I'm betting I'm gonna visit this place again...
+After praying and talking with him, I wander around the Sanctuary. It's a church, <a href="https://youtu.be/Z3InmMzDfrQ">with church music</a>, a waiting room for a confession booth, an infirmary, lots of locked doors, and a few switches. I'm betting I'm going to visit this place again...
 
 I go back and save upstairs at Jess's house, and wander around the village, getting more stuff from Naomi the herbalist.
 
@@ -53,6 +52,6 @@ Kisha, Giles's sister, is devastated...
 
 I go back to Jess's house, and he mentions more of the religious history of Inoa, saying that the king ordered that any idols to the gods were to be destroyed. The Northern Palace was also sunk and it was five years ago that that happened, Jess says.
 
-Jess is now inspired by Olen's soul to make weapons again, and he makes a Mining Bomb. Then he says it's too dangerous for me and goes to the Coal Mine alone to see if it isn't.
+Jess is now inspired by Olen's soul to make weapons again, and he makes a **Mining Bomb**. Then he says it's too dangerous for me and goes to the Coal Mine alone to see if it isn't.
 
 I take the Mining Bomb anyway, save my progress, and head to the mine.

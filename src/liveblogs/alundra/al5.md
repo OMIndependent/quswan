@@ -1,10 +1,9 @@
 ---
 layout: entry.pug
 title: "Alundra - Part 5: Wendell's Salvation"
-date: 2016-02-04 -09-0700
+date: 2016-02-04 09-07:00
 publishDate: 2017-09-29 22:53:15 -0700
 categories: playthroughs alundra
-draft: true
 ---
 
 I select continue and instead of a loading screen, it takes me to a chamber with four small tables, with one of them having a diary on the far left table.
@@ -22,6 +21,7 @@ I say no to try to leave once, but I'm now stuck in a "but thou must" loop. So I
 Now I'm in Wendell's Dream and Wendell is surrounded by five slimes!
 
 <img src="http://vgmaps.com/Atlas/PSX/Alundra-Wendell%27sDream.png" alt="alundra wendell dream map" width="306" height="240"></img>
+
 (<a href="http://vgmaps.com/Atlas/PSX/Alundra-Wendell%27sDream.png">Source</a> for the map)
 
 <a href="https://youtu.be/EctW7EtfOzg">The music's creepy as hell!</a>
