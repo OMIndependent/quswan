@@ -84,14 +84,13 @@ var opts = {
 };
 
 /* Moment time format settings */
-/* NOTE: 'date', 'playedDate', and 'watchDate' is taken from markdown
-file's YAML front matter.
+/* NOTE: 'date' is taken from markdown file's YAML front matter.
 Input date formats accepted are:
   "YYYY-MM-DD HH:mm:ss +-HHmm" or "YYYY-MM-DD Z+-HHmm" ->
   "2020-07-01 15:03:25 -0700" or "2020-07-01 09-0700"
 The output date format returns:
   "dddd, MMMM Do, YYYY" -> "X-day, July 1st, 2020" */
-var mtime = ['date', 'playedDate', 'watchDate'];
+var mtime = ['date'];
 
 /* Permalink settings */
 var perm = {
