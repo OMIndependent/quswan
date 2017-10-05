@@ -3,7 +3,7 @@ layout: entry.pug
 title: "Alundra - Part 9: Leaving the Miners"
 date: 2016-02-05 09-0700
 publishDate: 2017-10-05T08:30:25 -0700
-categories: playthrough alundra
+categories: playthroughs alundra
 ---
 
 I rejoin the tale after I get the bouquet of flowers from Jess for Olen.
