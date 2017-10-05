@@ -2,20 +2,25 @@
 SCSS variables:
    $bg-dark-calm-green: #104b15;
    $bg-dark-gray: #505050;
+   $bg-hunter-green: #215e21;
    $bg-mint-green: #71e540;
-   $pure-white: #fff;
+   $text-color: #fff;
+   $border-color: #0a160a;
    $gray: #606060;
    $light-gray:  #c0c0c0;
    $dark-gray: #233;
-   $border-color: #0a160a;
 
    $nav-dropdown-height: 220px !default;
 
-   $font-size: 16px;
+   $font-family: "Optima", Helvetica, Arial, sans-serif;
+   $font-size: 16px !default;
    $nav-item-height: 3.25em;
 
-   $screen-width: 1024px;
-   $margin-left: 128px;
+   $content-width: 1024px;
+   $margin-offset: 128px;
+
+   $mobile-width: 32em;
+   $laptop-width: 48em;
 
    $transition-time: .3s;
 */
@@ -29,7 +34,7 @@ figure  {
 }
 
 html {
-  font-family: "Optima", Arial, Helvetica, sans-serif;
+  font-family: "Optima", Helvetica, Arial, sans-serif;
   font-size: 16px;
   background: #505050; /* Background color: dark gray */
 }
@@ -51,7 +56,7 @@ body {
   max-width: -webkit-calc(64em - 128px);
   max-width: calc(64em - 128px);
   background: #104b15;
-  margin: 0 auto 0 auto; /* Set left and right margin automatically */
+  margin: 0 auto; /* Set left and right margin automatically */
   float: center;
   padding: 1em;
   box-sizing: border-box;
@@ -61,6 +66,7 @@ body {
 }
 
 .web-footer {
+  border-top: 1px solid #fff;
   background: #104b15;
   font-size: 0.8em;
   text-align: center;
@@ -255,7 +261,9 @@ nav.nav-bar {
   border-spacing: 1em 1em;
   background: #0a160a;
   border-radius: 0.25em;
-  padding: 1em;
+  padding: 0.5em;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 .nav-pag a:hover {
   text-decoration: underline;
@@ -267,6 +275,7 @@ nav.nav-bar {
   background: #0a160a;
   border-radius: 0.25em;
   clear: both;
+  margin-bottom: 1em;
   padding: 0.5em;
   float: left;
   line-height: 1em;
@@ -279,7 +288,7 @@ nav.nav-bar {
 }
 
 h3, p {
-  font-family: "Optima", Arial, Helvetica, sans-serif;
+  font-family: "Optima", Helvetica, Arial, sans-serif;
   font-size: 1em;
   margin: 0 0 1em 0;
 }
