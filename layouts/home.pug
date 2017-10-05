@@ -4,7 +4,7 @@ extends layout.pug
 include mixin.pug
 
 block content
-  for entry in collections.entries
+  for entry in pagination.files
     +entrylink(entry.path,entry.title,entry.date)
   
   +paginate
