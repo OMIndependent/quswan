@@ -25,6 +25,8 @@ const browsersync   = require('metalsmith-browser-sync');
 /* Global settings */
 const desc = "The Socially Aware Magic Swordsman's independent blog site generated with Metalsmith";
 const numPosts = 10;
+const entryPattern = ['posts/*.md', 'liveblogs/**/*.md', '!liveblogs/**/index.*',
+  '!liveblogs/**/masterlist.*', 'trivia/**/*'];
 
 /* Global metadata */
 var meta = {
@@ -54,8 +56,7 @@ var collexions = {
     }
   },
   entries: {
-    pattern: ['posts/*.md', 'liveblogs/**/*.md', '!liveblogs/**/index.*',
-      'trivia/**/*'],
+    pattern: entryPattern,
     sortBy: 'publishDate',
     reverse: true,
     refer: true,
@@ -104,11 +105,7 @@ var pagi = {
     layout: 'home.pug',
     first: 'index.html',
     noPageOne: true,
-    path: 'page/:num/index.html',
-    pageMetadata: {
-      title: "Quesada's Swan | ",
-      description: desc
-    }
+    path: 'page/:num/index.html'
   }
 };
 
