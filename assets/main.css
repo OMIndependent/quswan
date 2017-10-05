@@ -208,7 +208,6 @@ nav.nav-bar {
 
 .content-wrapper {
   width: 100%;
-  line-height: 1.5em;
   clear: both;
   display: inline;
   float: left;
@@ -253,11 +252,29 @@ nav.nav-bar {
   display: inline;
   text-decoration: none;
   border: 1px #0a160a solid;
+  border-spacing: 1em 1em;
   background: #0a160a;
   border-radius: 0.25em;
   padding: 1em;
 }
 .nav-pag a:hover {
+  text-decoration: underline;
+}
+
+/* For masterlist links in index liveblog pages */
+.nav-masterlist {
+  border: #0a160a solid 1px;
+  background: #0a160a;
+  border-radius: 0.25em;
+  clear: both;
+  padding: 0.5em;
+  float: left;
+  line-height: 1em;
+}
+.nav-masterlist a {
+  text-decoration: none;
+}
+.nav-masterlist a:hover {
   text-decoration: underline;
 }
 
@@ -282,8 +299,8 @@ p.home {
     font-size: 1.5em;
   }
   .wrapper {
-    left: auto;
-    right: auto;
+    left: 0;
+    right: 0;
   }
   .nav-bar li a {
     font-size: 1.25em;
