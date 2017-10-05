@@ -2,7 +2,7 @@
 collection: pages
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Plays Alundra"
-publishDate: 2017-08-25 09-0700
+publishDate: 2017-08-25 09-0800
 categories: alundra
 ---
 
@@ -10,6 +10,14 @@ categories: alundra
 
 This is the main page for my playthrough of *Alundra*, which I played from **February 1, 2016** to **July 8, 2016**.
 
+<span class="nav-masterlist">[Here's the **masterlist** of links for my playthrough of *Alundra*.][masterlist]</span>
+
+<div class="nav-pag" style="border-spacing: 0 1em; text-align: right; border-radius: 0.25em;">
+[Alundra - Part 1: A New Beginning &raquo;](./al1)
+</div>
+
 [al-link]:  https://en.wikipedia.org/wiki/Alundra
 [matrix-sw]:https://en.wikipedia.org/wiki/Matrix_Software
 [wds]:      https://en.wikipedia.org/wiki/Working_Designs
+
+[masterlist]: ./masterlist/
