@@ -246,8 +246,7 @@ nav.nav-bar {
   border-bottom-right-radius: 0.25em;
   background: #0a160a;
   display: flex;
-  padding: 2px;
-  padding-left: 1em;
+  padding: 5px 1em;
 }
 .entry-title a {
   text-decoration: none;
