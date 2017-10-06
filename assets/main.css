@@ -260,15 +260,12 @@ nav.nav-bar {
 }
 
 /* Pagination nav bar */
-.nav-pag {
+.nav-pag a {
   border: 1px #0a160a solid;
   background: #0a160a;
   border-radius: 0.25em;
   display: inline-flex;
   padding: 0.5em;
-}
-.nav-pag a {
-  display: inline;
   text-decoration: none;
 }
 .nav-pag a:hover {

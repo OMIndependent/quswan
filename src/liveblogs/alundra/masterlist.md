@@ -30,7 +30,7 @@ categories: alundra
 
 <h3 class="entry-title" style="border: #0a160a solid 1px; background: #0a160a; border-radius: 0.25em; display: flex; padding: 0.5em; margin-bottom: 1em;">[Part 8: More Village of Inoa](../al8/)</h3>
 
-<h3 class="entry-title" style="border: #0a160a solid 1px; background: #0a160a; border-radius: 0.25em; display: flex; padding: 0.5em; margin-bottom: 1em;">[Part 9: Leaving the Miners](../al9/)</h3>
+<h3 class="entry-title" style="border: #0a160a solid 1px; background: #0a160a; border-radius: 0.25em; display: flex; padding: 0.5em; margin-bottom: 1em; font-weight: normal;">[Part 9: Leaving the Miners]()</h3>
 
 <h3 class="entry-title" style="border: #0a160a solid 1px; background: #0a160a; border-radius: 0.25em; display: flex; padding: 0.5em; margin-bottom: 1em; font-weight: normal;">[Part 10: Lars's Crypt]()</h3>
 
