@@ -1,6 +1,7 @@
 /*
 SCSS variables:
    $bg-dark-calm-green: #104b15;
+   $bg-paledark-calm-green: #1a4d1e;
    $bg-dark-gray: #505050;
    $bg-hunter-green: #215e21;
    $bg-mint-green: #71e540;
@@ -23,6 +24,10 @@ SCSS variables:
    $laptop-width: 48em;
 
    $transition-time: .3s;
+
+   $shadow-settings: 1px 3px 5px $border-color !default;
+
+   $max-z-index: 3;
 */
 
 /* Set the defaults for the tags */
@@ -47,7 +52,7 @@ body, h1, h2 {
   line-height: 1.25em;
 }
 body {
-  background: #104b15;
+  background: #1a4d1e;
 }
 
 .wrapper { /* wrapper class settings */
@@ -55,7 +60,7 @@ body {
   right: calc(64px);
   max-width: -webkit-calc(64em - 128px);
   max-width: calc(64em - 128px);
-  background: #104b15;
+  background: #1a4d1e;
   margin: 0 auto; /* Set left and right margin automatically */
   float: center;
   padding: 1em;
@@ -66,12 +71,13 @@ body {
 }
 
 .web-footer {
-  border-top: 1px solid #fff;
-  background: #104b15;
+  background: #1a4d1e;
   font-size: 0.8em;
   text-align: center;
   clear: both;
-  margin: 2rem;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  margin-top: -1em;
   padding: 1em;
 }
 
@@ -89,14 +95,14 @@ img.banner {
   height: 100%;
   margin: 0 0 1em 0;
   line-height: 1em;
-  box-shadow: 2px 2px #0a160a;
+  box-shadow: 1px 3px 5px #0a160a;
 }
-
 img.banner:hover {
   background: #0a160a;
 }
 
 h1.title {
+  text-shadow: 1px 3px 5px #0a160a;
   text-align: center;
   line-height: 1em;
 }
@@ -212,12 +218,11 @@ nav.nav-bar {
   transition: all .15s ease-in .1s;
 }
 
+/* Main content */
 .content-wrapper {
   width: 100%;
-  clear: both;
-  display: inline;
   float: left;
-  overflow: hidden;
+  margin-bottom: 1em;
 }
 
 .entry-link-wrapper {
@@ -254,19 +259,26 @@ nav.nav-bar {
   font-size: 0.9em;
 }
 
+/* Pagination nav bar */
+.nav-pag {
+  border: 1px #0a160a solid;
+  background: #0a160a;
+  border-radius: 0.25em;
+  display: inline-flex;
+  padding: 0.5em;
+}
 .nav-pag a {
   display: inline;
   text-decoration: none;
-  border: 1px #0a160a solid;
-  border-spacing: 1em 1em;
-  background: #0a160a;
-  border-radius: 0.25em;
-  padding: 0.5em;
-  margin-top: 5px;
-  margin-bottom: 5px;
 }
 .nav-pag a:hover {
   text-decoration: underline;
+}
+.nav-pag #prev {
+  text-align: right;
+}
+.nav-pag #next {
+  text-align: left;
 }
 
 /* For masterlist links in index liveblog pages */
@@ -275,7 +287,6 @@ nav.nav-bar {
   background: #0a160a;
   border-radius: 0.25em;
   clear: both;
-  margin-bottom: 1em;
   padding: 0.5em;
   float: left;
   line-height: 1em;
