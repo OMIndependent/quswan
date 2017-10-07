@@ -53,6 +53,7 @@ body, h1, h2 {
 }
 body {
   background: #1a4d1e;
+  line-height: 1.5em;
 }
 
 .wrapper { /* wrapper class settings */
@@ -75,8 +76,6 @@ body {
   font-size: 0.8em;
   text-align: center;
   clear: both;
-  margin-left: -1rem;
-  margin-right: -1rem;
   margin-top: -1em;
   padding: 1em;
 }
@@ -330,6 +329,10 @@ p.home {
   h2.entry-title,
   h2.page-title {
     font-size: 1.5em;
+  }
+  .wrapper {
+    left: 0;
+    right: 0;
   }
   .nav-bar li a {
     font-size: 1.25em;
