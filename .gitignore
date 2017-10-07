@@ -1,6 +1,6 @@
 node_modules
 bin
-assets/img
+assets/img/*.svg
 deploy.sh
 *.log
 *.npm
