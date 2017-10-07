@@ -1,4 +1,4 @@
-LAYOUTS = $(wildcard _layouts/*.pug)
+LAYOUTS = $(wildcard layouts/*.pug)
 ASSETS=assets
 
 css: ${ASSETS}/*.css
