@@ -259,6 +259,27 @@ nav.nav-bar {
   font-size: 0.9em;
 }
 
+/* Masterlist page for liveblogs */
+.masterlink-wrapper {
+  max-width: 100%;
+  clear: both;
+}
+.masterlink-wrapper li {
+  list-style-type: none;
+  border: #0a160a solid 1px;
+  background: #0a160a;
+  border-radius: 0.25em;
+  padding: 0.5em;
+  margin-bottom: 1em;
+}
+.masterlink-wrapper a {
+  font-weight: bold;
+  text-decoration: none;
+}
+.masterlink-wrapper a:hover {
+  text-decoration: underline;
+}
+
 /* Pagination nav bar */
 .nav-pag a {
   border: 1px #0a160a solid;
