@@ -26,7 +26,7 @@ Septimus tells me from Kline that Olen had been attacked by the Murgg, the monke
 
 Lutas describes the tragedy in gruesome detail.
 
-Now I've been told by Septimus to go inside Olen's dream. Another warning from him, that if Olen were to die in the dream, I would die too. *\*shudders\**
+Now I've been told by Septimus to go inside Olen's dream. Another warning from him, that if Olen were to die in the dream, I would die too. \**shudders*\*
 
 **\*dream whoosh\***
 
