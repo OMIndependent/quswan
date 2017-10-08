@@ -20,6 +20,7 @@ const pagination    = require('metalsmith-pagination');
 const wordcount     = require('metalsmith-word-count');
 const htmlmin       = require('metalsmith-html-minifier');
 const cssmin        = require('metalsmith-clean-css');
+const imgmin        = require('metalsmith-imagemin');
 const browsersync   = require('metalsmith-browser-sync');
 
 /* Global settings */
@@ -146,6 +147,14 @@ var cssminify = {
   files: ['assets/*.css', 'assets/**/*.css']
 };
 
+/* Image minifier settings */
+var imgminify = {
+  optimizationLevel: 3,
+  svgoPlugins: [{
+    removeViewBox: false
+  }]
+};
+
 // Toggle debug log
 var log = true;
 
@@ -182,6 +191,7 @@ Metalsmith(dir.base)
   // Minify/compress files
   .use(htmlmin('*.html',minify))
   .use(cssmin(cssminify))
+  .use(imgmin(imgminify))
 
   // Debug and print any errors in console
   .use(debug(log))
