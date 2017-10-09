@@ -23,6 +23,7 @@ Instead, I head into a cave near the upper part of the mine. In there, are five 
 I succeed in going further in the cave, but more blue slimes drop from the ceiling, and move forward. But unless I can swim, I'm stuck, so I turn back. I do get 10 gilders (coins) for that detour though.
 
 <a name="2"></a>
+
 ---
 
 Now I go to the coal mine, more shaking and falling rubble. I head to the engine room, which is locked.
@@ -52,6 +53,7 @@ I switch on the engine. Power is now restored on Access Shaft 1, I'm told.
 I found out as I got back that there were two ways to get to the scaffolding, and I took the long way...
 
 <a name="3"></a>
+
 ---
 
 *(To the tune of Toyland)* Minecarts, minecarts, make everything quicker...
@@ -79,6 +81,7 @@ I get an herb from one of the chests, and try to get the second chest from the t
 I step on the symbol, and it leads me to a recovery and save point yes!
 
 <a name="4"></a>
+
 ---
 
 I now go back and try to find a way further in the mine.
