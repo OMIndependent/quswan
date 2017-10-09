@@ -1,8 +1,8 @@
 ---
 layout: entry.pug
 title: "Alundra - Part 2: Inoa Village"
-date: 2016-02-01 09-0700
-publishDate: 2017-08-18 16:16:00 -0700
+date: 2016-02-01 09-0800
+publishDate: 2017-08-18 16:16:00 -0800
 categories: playthroughs alundra
 ---
 
