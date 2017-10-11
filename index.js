@@ -10,6 +10,7 @@ const Metalsmith    = require('metalsmith');
 const publish       = require('metalsmith-publish');
 const drafts        = require('metalsmith-drafts');
 const collections   = require('metalsmith-collections');
+const images        = require('metalsmith-scan-images');
 const assets        = require('metalsmith-assets');
 const pug           = require('metalsmith-pug');
 const markdown      = require('metalsmith-markdown');
@@ -124,6 +125,9 @@ var configTemplate = {
   default: 'layout.pug'
 };
 
+/* Image gallery parsing */
+var imgPattern = 'src/**/**/gallery.*';
+
 /* Assets settings */
 var assetsOpts = {
   source: './assets',
@@ -133,7 +137,7 @@ var assetsOpts = {
 // Clean build directory or not?
 var clean = true;
 
-// Output word count
+// Output word count. When false, use readingTime instead.
 var word = false;
 
 /* HTML minifier settings */
@@ -174,6 +178,8 @@ Metalsmith(dir.base)
 
   .use(markdown()) // Enable markdown-to-HTML files
 
+  .use(images(imgPattern)) // Enable image gallery generator
+
   .use(moment(mtime)) // Add moment plugin
 
   .use(pagination(pagi)) // Add pagination feature
@@ -182,7 +188,7 @@ Metalsmith(dir.base)
 
   .use(wordcount({
     raw: word
-  })) // Added word count feature to measure reading time
+  })) // Measure reading time instead of word count
 
   .use(layouts(configTemplate)) // Add layout to site
 
