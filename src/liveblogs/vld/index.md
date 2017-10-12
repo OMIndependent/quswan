@@ -4,7 +4,6 @@ layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Watches Voltron: Legendary Defender"
 categories: voltron
 publishDate: 2017-09-12 09-0800
-draft: true
 ---
 
 ---
@@ -12,9 +11,12 @@ This is the main page for my liveblog of the [DreamWorks Animation][dw-anim] (ow
 
 So how I first knew of this show was from [this article on Angry Asian Man that was posted back in March 2016][aam], and what convinced me to give this show a go was that the showrunners, along with the writers there, were *Avatar: The Last Airbender* alums. Other reasons were because Steven Yeun is voicing someone on that show, and that one of the characters there sort of reminds me a bit of Kyon from *Haruhi Suzumiya* in terms of his character design.
 
-The watchthrough only covers seasons 2-4 of this entertaining show.
+The watchthrough will cover seasons 2-4 of this entertaining show.
+
+<span class="nav-masterlist">[Here is the **masterlist** of links for *Voltron: Legendary Defender*.][masterlist]</span>
 
 [dw-anim]:    https://en.wikipedia.org/wiki/DreamWorks_Animation
 [vol]:        http://tvtropes.org/pmwiki/pmwiki.php/Anime/Voltron
 [vld]:        https://en.wikipedia.org/wiki/Voltron:_Legendary_Defender
 [aam]:        http://blog.angryasianman.com/2016/03/voltron-returns-in-new-netflix-series.html
+[masterlist]: ./masterlist/

@@ -3,11 +3,10 @@ layout: entry.pug
 title: "Super Mario RPG - Part 1: Intro & Rescuing the Princess"
 date: 2017-07-28 09-0700
 publishDate: 2017-09-26 15:58:43 -0700
-categories: smrpg super-mario-rpg
-draft: true
+categories: smrpg super-mario-rpg playthroughs
 ---
 
-***Aside***: For any names or phrases that are unreadable, such as Znyybj, note that this is because these are [ciphered in rot13](http://rot13.com) to prevent spoilers for anyone who's not familiar with the game, and may want to play the game on their own someday.
+***Aside***: For any names or phrases that are unreadable, such as Znyybj, note that this is because these are [ciphered in rot13](http://rot13.com) to prevent spoilers from getting leaked to anyone who's not familiar with the game, and may want to play the game on their own someday.
 
 There's Peach having a picnic in the fields...
 
