@@ -40,6 +40,8 @@ There are bridges connecting the paths, so I use them. I find out that the path 
 
 I make it to Wendell, and the five slimes that surround him form into a big one! Now that makes the slime an even bigger target!
 
+<a name="2"></a>
+
 ---
 
 Now the slime has split into four medium sized ones after some effort.
