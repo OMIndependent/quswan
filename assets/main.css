@@ -336,10 +336,11 @@ p {
   font-size: 1em;
   line-height: 1.5em;
 }
-p.home {
+
+.home a {
   text-decoration: underline;
 }
-p.home a:hover {
+.home a:hover {
   text-decoration: none;
 }
 
