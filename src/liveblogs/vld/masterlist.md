@@ -8,7 +8,7 @@ categories: voltron
 
 ---
 <ul class="masterlink-wrapper">
-  <li>[2x01: Across The Universe](../vld2-1/)</li>
+  <li>2x01: Across The Universe</li>
   <li>2x02: The Depths</li>
   <li>2x03: Shiro's Escape</li>
   <li>2x04: Greening the Cube</li>
