@@ -4,6 +4,7 @@ mixin navlink(path,name)
   li
     a(href='/' + path)= name
 
+
 //- mixin for entry links
 mixin entrylink(path,name,date)
   article
@@ -14,6 +15,13 @@ mixin entrylink(path,name,date)
             a(href='/' + path)= name
       div.entry-link-bottom
         time.entry-meta(datetime=date)= date.format("dddd, MMMM Do, YYYY")
+
+//- mixin for alternate footer
+mixin homefooter
+  footer.web-footer
+    div
+      p
+        a(href='/') Home
 
 //- mixin for pagination
 mixin paginate
@@ -26,3 +34,4 @@ mixin paginate
       div#next
         a(href='/' + pagination.next.path)
           | &laquo; Older
+          

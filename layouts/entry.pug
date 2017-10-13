@@ -1,6 +1,8 @@
 //- entry.pug - Layout for entries/posts.
 extends layout.pug
 
+include mixin.pug
+
 block content
   article
     div.entry-wrapper
@@ -15,7 +17,4 @@ block content
         != contents
 
 block footer
-  footer.web-footer
-    div
-      p
-        a(href='/') Home
+  +homefooter

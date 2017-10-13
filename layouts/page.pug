@@ -1,6 +1,8 @@
 //- page.pug - Layout for pages.
 extends layout.pug
 
+include mixin.pug
+
 block content
   article
     div.page-wrapper
@@ -10,7 +12,4 @@ block content
       != contents
       
 block footer
-  footer.web-footer
-    div
-      p.home
-        a.home-link(href='/') Home
+  +homefooter
