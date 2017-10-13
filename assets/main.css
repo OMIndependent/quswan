@@ -269,6 +269,7 @@ nav.nav-bar {
 /* Masterlist page for liveblogs */
 .masterlink-wrapper {
   max-width: 100%;
+  box-sizing: border-box;
   clear: both;
 }
 .masterlink-wrapper li {
@@ -276,7 +277,6 @@ nav.nav-bar {
   border: #0a160a solid 1px;
   background: #0a160a;
   border-radius: 0.25em;
-  font-size: 1em;
   padding: 0.5em;
   margin-bottom: 1em;
 }
@@ -326,14 +326,14 @@ nav.nav-bar {
 
 h3, p {
   font-family: "Optima", Helvetica, Arial, sans-serif;
-  margin: 0 0 1em 0;
-}
-p {
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
   -o-text-size-adjust: none;
   -ms-text-size-adjust: 100%;
-  font-size: 1em;
+  margin: 0 0 1em 0;
+}
+p {
+  font-size: 1.1em;
   line-height: 1.5em;
 }
 
