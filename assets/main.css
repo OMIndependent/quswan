@@ -305,7 +305,8 @@ nav.nav-bar {
   background: #0a160a;
   border-radius: 0.25em;
   clear: both;
-  padding: 0.5em;
+  line-height: 1.25em;
+  padding: 0.25em 0.5em;
   float: left;
 }
 .nav-masterlist a {
@@ -367,7 +368,7 @@ p {
   .nav-bar ul.nav-list {
     /* Ensure links are in same row, not moved down */
     display: flex;
-    height: 3.5em; /* Each nav link is 3.25em high */
+    height: 3.25em; /* Each nav link is 3.25em high */
     opacity: 1;
   }
   .nav-check:not(:checked) ~ ul.nav-list,
