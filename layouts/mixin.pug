@@ -19,8 +19,10 @@ mixin entrylink(path,name,date)
 mixin paginate
   nav.nav-pag
     if pagination.previous
-      a#prev(href='/' + pagination.previous.path)
-        | Newer &raquo;
+      div#prev
+        a(href='/' + pagination.previous.path)
+          | Newer &raquo;
     if pagination.next
-      a#next(href='/' + pagination.next.path)
-        | &laquo; Older
+      div#next
+        a(href='/' + pagination.next.path)
+          | &laquo; Older

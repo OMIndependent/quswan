@@ -99,7 +99,6 @@ img {
   max-height: 100%;
 }
 img.banner {
-  line-height: 1em;
   box-shadow: 1px 3px 5px #0a160a;
 }
 img.banner:hover {
@@ -112,7 +111,6 @@ img.cover {
 h1.title {
   text-shadow: 1px 3px 5px #0a160a;
   text-align: center;
-  line-height: 1em;
 }
 
 .home-link { /* For the header title */
@@ -267,18 +265,12 @@ nav.nav-bar {
 }
 
 /* Masterlist page for liveblogs */
-.masterlink-wrapper {
-  max-width: 100%;
-  box-sizing: border-box;
-  clear: both;
-}
 .masterlink-wrapper li {
   list-style-type: none;
   border: #0a160a solid 1px;
   background: #0a160a;
   border-radius: 0.25em;
   padding: 0.5em;
-  margin-bottom: 1em;
 }
 .masterlink-wrapper a {
   font-weight: bold;
@@ -315,7 +307,6 @@ nav.nav-bar {
   clear: both;
   padding: 0.5em;
   float: left;
-  line-height: 1em;
 }
 .nav-masterlist a {
   text-decoration: none;
@@ -324,8 +315,7 @@ nav.nav-bar {
   text-decoration: underline;
 }
 
-h3, p {
-  font-family: "Optima", Helvetica, Arial, sans-serif;
+h3, p, .masterlink-wrapper li {
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
   -o-text-size-adjust: none;
@@ -333,15 +323,8 @@ h3, p {
   margin: 0 0 1em 0;
 }
 p {
-  font-size: 1.1em;
+  font-size: 1em;
   line-height: 1.5em;
-}
-
-.home a {
-  text-decoration: underline;
-}
-.home a:hover {
-  text-decoration: none;
 }
 
 @media screen and (max-width: 30em) {
@@ -384,11 +367,8 @@ p {
   .nav-bar ul.nav-list {
     /* Ensure links are in same row, not moved down */
     display: flex;
-    height: 3.25em; /* Each nav link is 3.25em high */
+    height: 3.5em; /* Each nav link is 3.25em high */
     opacity: 1;
-  }
-  .nav-bar li a {
-    font-size: 1em;
   }
   .nav-check:not(:checked) ~ ul.nav-list,
   .nav-check:checked ~ ul.nav-list {
