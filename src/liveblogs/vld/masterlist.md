@@ -28,11 +28,10 @@ categories: voltron
   <li>3x05: The Journey</li>
   <li>3x06: Tailing A Comet</li>
   <li>3x07: The Legend Begins</li>
-  <!--<li>4x01: </li>
-  <li>4x02: </li>
-  <li>4x03: </li>
-  <li>4x04: </li>
-  <li>4x05: </li>
-  <li>4x06: </li>
-  <li>4x07: </li>-->
+  <li>4x01: Code of Honor</li>
+  <li>4x02: Reunion</li>
+  <li>4x03: Black Site</li>
+  <li>4x04: The Voltron Show!</li>
+  <li>4x05: Begin the Blitz</li>
+  <li>4x06: A New Defender</li>
 </ul>
