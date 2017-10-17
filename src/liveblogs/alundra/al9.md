@@ -1,8 +1,8 @@
 ---
 layout: entry.pug
 title: "Alundra - Part 9: Leaving the Miners"
-date: 2016-02-05 09-0700
-publishDate: 2017-10-16T17:35:00 -0700
+date: 2016-02-05 09-0800
+publishDate: 2017-10-16T17:35:00 -0800
 categories: playthroughs alundra
 ---
 
