@@ -1,7 +1,7 @@
 ---
 layout: entry.pug
 title: "Super Mario RPG - Part 1: Intro & Rescuing the Princess"
-date: 2017-07-28 09-0800
+date: 2017-07-19 09-0800
 publishDate: 2017-10-12 11:01:14 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
