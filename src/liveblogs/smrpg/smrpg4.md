@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Super Mario RPG - Part 4: Mushroom Way"
 date: 2017-07-21 09-0800
-publishDate: 2017-10-17 13:30:00 -0800
+publishDate: 2017-10-17T13:30:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 

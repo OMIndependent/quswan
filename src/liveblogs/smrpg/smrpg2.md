@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Super Mario RPG - Part 2: Enter the Smithy Gang"
 date: 2017-07-19 09-0800
-publishDate: 2017-10-17 13:20:00 -0800
+publishDate: 2017-10-17T13:25:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
