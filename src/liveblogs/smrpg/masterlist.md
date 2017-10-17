@@ -9,11 +9,11 @@ categories: smrpg
 ---
 <ul class="masterlink-wrapper">
   <li>[Part 1: Intro and The Same Old Story](../smrpg1/)</li>
-  <li>Part 2: The Smithy Gang</li>
-  <li>Part 3: The Battle System</li>
-  <li>Part 4: Mushroom Way</li>
+  <li>[Part 2: Enter the Smithy Gang](../smrpg2/)</li>
+  <li>[Part 3: A Little Tutorial](../smrpg3/)</li>
+  <li>[Part 4: Mushroom Way](../smrpg4/)</li>
   <li>Part 5: Mushroom Kingdom</li>
-  <li>Part 6: Mallow the Tadpole?</li>
+  <li>Part 6: Mallow the Frog?</li>
   <li>Part 7: To Catch A <strike>Thief</strike> Crocodile</li>
   <li>Part 8: Bandit's Way</li>
   <li>Part 9: Rematch vs. Croco</li>
@@ -40,4 +40,8 @@ categories: smrpg
   <li>Part 30: Rescuing Dyna and Mite</li>
   <li>Part 31: Punchinello</li>
   <li>Part 32: Minecart Ride</li>
+  <li>Part 33: Three Snifits and a Beetle</li>
+  <li>Part 34: Booster Pass</li>
+  <li>Part 35: Hi There, ~~Zuko~~ Bowser Here</li>
+  <li>Part 36: Booster Tower</li>
 </ul>
