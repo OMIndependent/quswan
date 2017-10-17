@@ -17,8 +17,8 @@ draft: true
   <li>Part 6: Glowing Evil Eyes of Evil</li>
   <li>Part 7: Glading Through the Glade</li>
   <li>Part 8: Meeting Cora and the Giants</li>
-  <li></li>
-  <li></li>
+  <li>Part 9: Aurora Village</li>
+  <li>Part 9a: Village Meet and Greet</li>
   <li>Part 9b: Annoying Calum and Meeting Reed</li>
   <li>Part 9c: Ginger</li>
   <li>Part 9d: Meeting Mordecai the Shopkeeper</li>
