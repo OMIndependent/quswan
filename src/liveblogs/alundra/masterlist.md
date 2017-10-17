@@ -16,9 +16,9 @@ categories: alundra
   <li>[Part 6: A Prayer for the Miners](../al6/)</li>
   <li>[Part 7: The Coal Mine](../al7/)</li>
   <li>[Part 8: More Village of Inoa](../al8/)</li>
-  <li>Part 9: Leaving the Miners</li>
-  <li>Part 10: Lars's Crypt</li>
-  <li>Part 11: Into The Crypt</li>
+  <li>[Part 9: Leaving the Miners](../al9/)</li>
+  <li>[Part 10: Lars's Crypt](../al10/)</li>
+  <li>[Part 11: Into The Crypt](../al11/)</li>
   <li>Part 12: Slumber Bummer</li>
   <li>Part 13: Into the Desert of Despair</li>
   <li>Part 14: Sidequesting</li>

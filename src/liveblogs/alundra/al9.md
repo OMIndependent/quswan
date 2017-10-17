@@ -2,9 +2,8 @@
 layout: entry.pug
 title: "Alundra - Part 9: Leaving the Miners"
 date: 2016-02-05 09-0700
-publishDate: 2017-10-05T08:30:25 -0700
+publishDate: 2017-10-16T17:35:00 -0700
 categories: playthroughs alundra
-draft: true
 ---
 
 I rejoin the tale after I get the bouquet of flowers from Jess for Olen.
@@ -35,20 +34,20 @@ The gravekeeper that blocked the cemetery is now gone, I go into the house, wher
 
 I'm now reading the graves:
 
-**JAYLEN.
+**JAYLEN.<br/>
 He had a passion for life.**
 
-**LYMAN.
+**LYMAN.<br/>
 He loved his work. We don't know why.**
 
-**ZANE.
+**ZANE.<br/>
 His smile will continue to brighten our memories.**
 
 There are also a few empty plots around the graveyard too. I'm betting more people are going to die in this game... :(
 
 Finally, I look at Olen's grave:
 
-**OLEN.
+**OLEN.<br/>
 Loved by all, feared by none.**
 
 I put the bouquet on Olen's grave, and Alundra prays silently.
