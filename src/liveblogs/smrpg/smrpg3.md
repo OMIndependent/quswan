@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Super Mario RPG - Part 3: A Little Tutorial"
 date: 2017-07-21 09-0800
-publishDate: 2017-10-17T13:28:00 -0800
+publishDate: 2017-10-17T13:35:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
@@ -19,6 +19,7 @@ Toad wants us to go to the Chancellor to tell him everything that's happened...
 I try to leave, but Toad comes back again...
 
 <img src="http://i.imgur.com/2GWG8gi.png" alt="hp bump" width="360" height="270" />
+
 Toad tells us the fall from Bowser's castle reduced our HP.
 
 He gives us a **Mushroom**!
