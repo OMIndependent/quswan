@@ -1,7 +1,7 @@
 ---
 layout: entry.pug
 title: "Updates So Far"
-date: 2017-10-20T17:17:45 -0800
+date: 2017-10-20T17:20:00 09-0800
 publishDate: 2017-10-20 -0800
 ---
 
