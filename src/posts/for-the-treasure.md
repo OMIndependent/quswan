@@ -1,8 +1,8 @@
 ---
 layout: entry.pug
 title: "For the Treasure"
-date: 2017-09-29 08:51:00 -0700
-publishDate: 2017-09-29 09:13:00 -0700
+date: 2017-09-29 08:51:00 -0800
+publishDate: 2017-09-29 09:13:00 -0800
 ---
 
 I stumbled upon a [demo of this game][ftt] on YouTube earlier this morning, and I'm considering whether to download it and play it for fun or not, since it's a pretty interesting one.
