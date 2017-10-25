@@ -9,7 +9,9 @@ block content
       header.entry-header
         h2.entry-title= title
         h3.entry-meta
-          = date.format("dddd, MMMM Do, YYYY")
+          = 'Written on ' + date.format("dddd, MMMM Do, YYYY")
+          //-br 
+          //-= 'Published on ' + publishDate.format("dddd, MMMM Do, YYYY") 
           br
           = readingTime + ' read'
           
