@@ -224,7 +224,7 @@ nav.nav-bar {
   transition: all .15s ease-in .1s;
 }
 
-/* Main content */
+/* Main body content */
 .content-wrapper {
   width: 100%;
   float: left;
@@ -237,7 +237,7 @@ nav.nav-bar {
   display: block;
   margin-bottom: 1em;
 }
-.entry-link-top {
+.entry-link-top a {
   border: 1px solid #0a160a;
   border-top-left-radius: 0.25em;
   border-top-right-radius: 0.25em;
@@ -245,6 +245,10 @@ nav.nav-bar {
   border-bottom: 1px solid #505050;
   display: flex;
   padding: 1em;
+  text-decoration: none;
+}
+.entry-link-top a:hover {
+  text-decoration: underline;
 }
 .entry-link-bottom {
   border: 1px solid #0a160a;
@@ -253,12 +257,6 @@ nav.nav-bar {
   background: #0a160a;
   display: flex;
   padding: 5px 1em;
-}
-.entry-title a {
-  text-decoration: none;
-}
-.entry-title a:hover {
-  text-decoration: underline;
 }
 .entry-meta {
   font-size: 0.9em;
@@ -293,10 +291,10 @@ nav.nav-bar {
   text-decoration: underline;
 }
 .nav-pag #prev {
-  text-align: right;
+  float: right;
 }
 .nav-pag #next {
-  text-align: left;
+  float: left;
 }
 
 /* For masterlist links in index liveblog pages */
