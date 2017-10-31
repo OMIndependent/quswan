@@ -10,9 +10,10 @@ mixin entrylink(path,name,date)
   article
     div.entry-link-wrapper
       div.entry-link-top
-        header.entry-header
-          h2.entry-title
-            a(href='/' + path)= name
+        a(href='/' + path)
+          header.entry-header
+            h2.entry-title
+              = name
       div.entry-link-bottom
         time.entry-meta(datetime=date)= date.format("dddd, MMMM Do, YYYY")
 
@@ -34,4 +35,3 @@ mixin paginate
       div#next
         a(href='/' + pagination.next.path)
           | &laquo; Older
-          
