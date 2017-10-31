@@ -14,6 +14,7 @@ const images        = require('metalsmith-scan-images');
 const assets        = require('metalsmith-assets');
 const pug           = require('metalsmith-pug');
 const markdown      = require('metalsmith-markdown');
+const emoji         = require('metalsmith-emoji');
 const moment        = require('metalsmith-moment');
 const layouts       = require('metalsmith-layouts');
 const permalinks    = require('metalsmith-permalinks');
