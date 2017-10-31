@@ -19,11 +19,11 @@ categories: alundra
   <li>[Part 9: Leaving the Miners](../al9/)</li>
   <li>[Part 10: Lars's Crypt](../al10/)</li>
   <li>[Part 11: Into The Crypt](../al11/)</li>
-  <li>Part 12: Slumber Bummer</li>
-  <li>Part 13: Into the Desert of Despair</li>
-  <li>Part 14: Sidequesting</li>
-  <li>Part 15: The Cliffs of Madness</li>
-  <li>Part 16: The Desert of Despair</li>
+  <li>[Part 12: Slumber Bummer](../al12/)</li>
+  <li>[Part 13: Into the Desert of Despair](../al13/)</li>
+  <li>[Part 14: Sidequesting](../al14/)</li>
+  <li>[Part 15: The Cliffs of Madness](../al15/)</li>
+  <li>[Part 16: The Desert of Despair](../al16/)</li>
   <li>Part 17: Sidequesting Again</li>
   <li>Part 18: The Ancient Shrine</li>
   <li>Part 19: Finishing the Ancient Shrine</li>
