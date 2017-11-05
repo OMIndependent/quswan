@@ -44,4 +44,11 @@ categories: smrpg
   <li>Part 34: Booster Pass</li>
   <li>Part 35: Hi There, ~~Zuko~~ Bowser Here</li>
   <li>Part 36: Booster Tower</li>
+  <li>Part 37: Enter Booster</li>
+  <li>Part 38: Toadofsky & Melody Bay</li>
+  <li>Part 39: Dropping the Masher</li>
+  <li>Part 40: Climbing Booster's Tower</li>
+  <li>Part 41: The Tippy Top of the Tower</li>
+  <li>Part 42: Booster Hill</li>
+  <li>Part 43: Marrymore</li>
 </ul>
