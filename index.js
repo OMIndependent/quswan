@@ -23,6 +23,7 @@ const wordcount     = require('metalsmith-word-count');
 const htmlmin       = require('metalsmith-html-minifier');
 const cssmin        = require('metalsmith-clean-css');
 const imgmin        = require('metalsmith-imagemin');
+const sitemap       = require('metalsmith-mapsite');
 const browsersync   = require('metalsmith-browser-sync');
 
 /* Global settings */
@@ -200,6 +201,8 @@ Metalsmith(dir.base)
   .use(cssmin(cssminify))
   .use(imgmin(imgminify))
 
+  .use(sitemap(meta.site.url)) // Print xml file of sitemap for search engines
+  
   // Debug and print any errors in console
   .use(debug(log))
   .use(browsersync({
