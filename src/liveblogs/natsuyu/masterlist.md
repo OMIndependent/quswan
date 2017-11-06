@@ -1,7 +1,7 @@
 ---
 collection: pages
 layout: page.pug
-title: "Ocampo's Moon/Quesada's Swan Watches Natsume Yujincho - Masterlist"
+title: "Ocampo's Moon/Quesada's Swan Watches Natsume Yūjinchō - Masterlist"
 publishDate: 2017-11-06 09:00:00 -0800
 categories: natsume-yuujinchou anime
 ---
@@ -18,7 +18,7 @@ categories: natsume-yuujinchou anime
   <li>1x08: Fleeting Light</li>
   <li>1x09: Ayakashi Exorcism</li>
   <li>1x10: Asagi's Koto*</li>
-  <li>1x11: Nyanko's Book of Boredom/Nyanko Tsurezurecho</li>
+  <li>1x11: Nyanko's Book of Boredom/Nyanko Tsurezurechō</li>
   <li>1x12: Five-Day Mark</li>
   <li>1x13: Autumn Banquet</li>
   <li>2x01: Stolen Book of Friends</li>
@@ -46,5 +46,5 @@ categories: natsume-yuujinchou anime
   <li>3x10: The Broken Mirror</li>
   <li>3x11: What the Mirror Shows</li>
   <li>3x12: A Place To Go Home To</li>
-  <li>3x13: Natsume's Book of Play/Natsume Yugicho</li>
+  <li>3x13: Natsume's Book of Play/Natsume Yūgichō</li>
 </ul>
