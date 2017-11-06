@@ -8,8 +8,10 @@ categories: jill-stein politics
 ---
 
 <h3 style="text-align: center;">by Dr. Jill Stein, M.D.
-
+<br/><br/>
 September 22, 2017</h3>
+
+---
 
 *Dr. Jill Stein is a practicing physician, activist, and environmental health advocate hailing from Boston, Massachusetts. In 2006, she transitioned her focus from clinical medicine to political medicine in order to cure the most major of illnesses currently in American society: the corrupt, disease-ridden political system. She was the Green Party presidential candidate in both the 2012 and 2016 US general elections. Her most recent deeds involved her as part of the delegation to South Korea to stand in solidarity with South Koreans against the rising conflict and militarism between the United States and North Korea. Here is her speech at the No War 2017 Conference in Washington D.C., where she discusses the connections of the political and environmental ills of the United States to this long-standing 60-year war.*
 
