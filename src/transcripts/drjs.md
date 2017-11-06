@@ -7,7 +7,7 @@ publishDate: 2017-11-06 03:00:00 -0800
 categories: jill-stein politics
 ---
 
-<h3 style="text-align: center;">by Dr. Jill Stein, M.D.
+<h3 style="text-align: center;">by Jill Stein, M.D.
 <br/><br/>
 September 22, 2017</h3>
 
