@@ -8,6 +8,8 @@ permalink: /transcripts/
 
 This is the main page for the transcripts of interviews and speeches from people that I consider to be important voices. It's also a good resource base for anyone doing research to look into.
 
+Note that most of these links are not ready yet. I'll try and get them up soon.
+
 ---
 
 [**Dr. Jill Stein**'s Opening Address At the 2017 No War Conference In Washington D.C.](./drjs/)
