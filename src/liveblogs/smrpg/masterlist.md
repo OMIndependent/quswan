@@ -51,4 +51,18 @@ categories: smrpg
   <li>Part 41: The Tippy Top of the Tower</li>
   <li>Part 42: Booster Hill</li>
   <li>Part 43: Marrymore</li>
+  <li>Part 44: Reopening the Chapel</li>
+  <li>Part 45: Return to the Mushroom Kingdom</li>
+  <li>Part 46: A Royal Surprise</li>
+  <li>Part 47: Playing a New Tune</li>
+  <li>Part 48: Frogfucius Again and Star Hill</li>
+  <li>Part 49: Seaside Town</li>
+  <li>Part 50: Into the Sunken Ship</li>
+  <li>Part 51: Deeper Into the Depths</li>
+  <li>Part 52: The Giant Squid, or the Giant Blooper</li>
+  <li>Part 53: Deeper Still Into the Deepest Depths</li>
+  <li>Part 54: Jonathan Jones, or Johnny</li>
+  <li>Part 54a: Finding a Certain Someone</li>
+  <li>Part 55: Return to Seaside</li>
+  <li>Part 55a: Back To Meeting the Certain Someone</li>
 </ul>
