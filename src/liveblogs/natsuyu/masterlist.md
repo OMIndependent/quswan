@@ -47,4 +47,10 @@ categories: natsume-yuujinchou anime
   <li>3x11: What the Mirror Shows</li>
   <li>3x12: A Place To Go Home To</li>
   <li>3x13: Natsume's Book of Play</li>
+  <li>4x01: Natsume Captured</li>
+  <li>4x02: The Eastern Forest</li>
+  <li>4x03: The Little Ones</li>
+  <li>4x04: Stand-In</li>
+  <li>4x05: To You, From Bygone Days</li>
+  <li>4x06: The Other Side of the Glass</li>
 </ul>
