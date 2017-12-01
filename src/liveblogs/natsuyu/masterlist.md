@@ -2,7 +2,7 @@
 collection: pages
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Watches Natsume Yuujinchou - Masterlist"
-publishDate: 2017-11-06 09:00:00 -0800
+publishDate: 2018-12-31T09:00:00 -0800
 categories: natsume-yuujinchou anime
 ---
 
@@ -53,4 +53,11 @@ categories: natsume-yuujinchou anime
   <li>4x04: Stand-In</li>
   <li>4x05: To You, From Bygone Days</li>
   <li>4x06: The Other Side of the Glass</li>
+  <li>4x07: The Gap Between Humans and Yokai</li>
+  <li>4x08: When I Was Deceived</li>
+  <li>4x09: The Moon-Splitting Festival</li>
+  <li>4x10: The God, Enshrined</li>
+  <li>4x11: A Single Photo</li>
+  <li>4x12: The Door of Memories</li>
+  <li>4x13: Long Way Home</li>
 </ul>
