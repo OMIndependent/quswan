@@ -1,7 +1,7 @@
 ---
 collection: pages
 layout: page.pug
-title: "Ocampo's Moon/Quesada's Swan Watches Natsume Yuujinchou - Masterlist"
+title: "Ocampo's Moon/Quesada's Swan Watches Natsume Yuujinchou - Episode List"
 publishDate: 2018-12-31T09:00:00 -0800
 categories: natsume-yuujinchou anime
 ---
@@ -60,4 +60,9 @@ categories: natsume-yuujinchou anime
   <li>4x11: A Single Photo</li>
   <li>4x12: The Door of Memories</li>
   <li>4x13: Long Way Home</li>
+  <li>5x01: Unchanging Form</li>
+  <li>5x02: Mischievous Rain</li>
+  <li>5x03: Letter From the Exorcist</li>
+  <li>5x04: Shadow of Linked Chains</li>
+  <li>5x05: It Must Not Be Bound</li>
 </ul>
