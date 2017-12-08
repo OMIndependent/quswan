@@ -13,7 +13,7 @@ So how I first knew of this show was from [this article on Angry Asian Man that 
 
 The watchthrough will cover seasons 2-4 of this entertaining show.
 
-<span class="nav-masterlist">[Here is the **masterlist** of links for *Voltron: Legendary Defender*.][masterlist]</span>
+<span class="nav-masterlist">[Here is the **masterlist**, or **episode list**, for *Voltron: Legendary Defender*.][masterlist]</span>
 
 [dw-anim]:    https://en.wikipedia.org/wiki/DreamWorks_Animation
 [vol]:        http://tvtropes.org/pmwiki/pmwiki.php/Anime/Voltron

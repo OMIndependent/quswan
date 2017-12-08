@@ -1,13 +1,24 @@
 ---
 collection: pages
 layout: page.pug
-title: "Ocampo's Moon/Quesada's Swan Watches Voltron: LD - Masterlist"
+title: "Ocampo's Moon/Quesada's Swan Watches Voltron: LD - Episode List"
 publishDate: 2017-10-07 11:12:52 -0800
 categories: voltron
 ---
 
 ---
 <ul class="masterlink-wrapper">
+  <li>1x01: The Rise of Voltron</li>
+  <li>1x02: Some Assembly Required</li>
+  <li>1x03: Return of the Gladiator</li>
+  <li>1x04: Fall of the Castle of Lions</li>
+  <li>1x05: Tears of the Balmera</li>
+  <li>1x06: Taking Flight</li>
+  <li>1x07: Return of the Balmera</li>
+  <li>1x08: Rebirth</li>
+  <li>1x09: Crystal Venom</li>
+  <li>1x10: Collection and Extraction</li>
+  <li>1x11: The Black Paladin</li>
   <li>2x01: Across The Universe</li>
   <li>2x02: The Depths</li>
   <li>2x03: Shiro's Escape</li>
