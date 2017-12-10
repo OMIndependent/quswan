@@ -65,4 +65,6 @@ categories: natsume-yuujinchou anime
   <li>5x03: Letter From the Exorcist</li>
   <li>5x04: Shadow of Linked Chains</li>
   <li>5x05: It Must Not Be Bound</li>
+  <li>5x06: Soundless Valley</li>
+  <li>5x07: Distant Festival Lights</li>
 </ul>
