@@ -65,4 +65,40 @@ categories: smrpg
   <li>Part 54a: Finding a Certain Someone</li>
   <li>Part 55: Return to Seaside</li>
   <li>Part 55a: Back To Meeting the Certain Someone</li>
+  <li>Part 56: The Next Step</li>
+  <li>Part 57: Land's End</li>
+  <li>Part 57a: Mokura</li>
+  <li>Part 58: Belome's Temple</li>
+  <li>Part 59: Monstro Town</li>
+  <li>Part 60: The Three Musty Fears and Scavenging</li>
+  <li>Part 60a: Culex, Take One</li>
+  <li>Part 61: Finding the Sixth Star Piece</li>
+  <li>Part 62: Bean Valley</li>
+  <li>Part 63: Visiting the Other Pipes</li>
+  <li>Part 64: Sidequest III: The Search For A Casino</li>
+  <li>Part 65: Nimbus Land</li>
+  <li>Part 66: Inside Nimbus Castle</li>
+  <li>Part 67: Playtime With Birdo</li>
+  <li>Part 68: Further Into Nimbus Castle</li>
+  <li>Part 69: R&R in the Hot Springs and Other Sidequests</li>
+  <li>Part 70: Barrel Volcano</li>
+  <li>Part 71: Barreling Through and Meeting Hinopio</li>
+  <li>Part 72: Czar Dragon</li>
+  <li>Part 73: Mighty Axin' Axem Rangers</li>
+  <li>Part 74: Sidetracked</li>
+  <li>Part 75: Playing Scales</li>
+  <li>Part 76: The Final Star Piece</li>
+  <li>Part 77: Return to Bowser's Castle</li>
+  <li>Part 78: The Last Three Rooms</li>
+  <li>Part 79: The Final Room</li>
+  <li>Part 80: Boomer, the Last Soldier and Facing the Giant Sword</li>
+  <li>Part 81: Thoughts, and Some More Backtracking</li>
+  <li>Part 81a: Culex, Take Two</li>
+  <li>Part 81b: Jinx, Take One</li>
+  <li>Part 82: Through the Gate</li>
+  <li>Part 83: Deeper Still</li>
+  <li>Part 84: Smithy's Factory</li>
+  <li>Part 85: The Gunyolk</li>
+  <li>Part 86: Facing Smithy</li>
+  <li>Part 87: Finale</li>
 </ul>
