@@ -88,6 +88,13 @@ var opts = {
   useMetadata: true
 };
 
+/* Emoji settings */
+var emset = {
+  pattern: ['**/*.md', '**/**/*.md', '**/*.html', '**/**/*.html'],
+  convertToImages: true,
+  processShortnames: true
+};
+
 /* Moment time format settings */
 /* NOTE: 'date' is taken from markdown file's YAML front matter.
 Input date formats accepted are:
@@ -95,6 +102,8 @@ Input date formats accepted are:
   "2020-07-01 15:03:25 -0700" or "2020-07-01 09-0700"
 The output date format returns:
   "dddd, MMMM Do, YYYY" -> "X-day, July 1st, 2020" */
+/* 'broadcastDate' is also used for TV shows released on 
+  different days. */
 var mtime = ['date'];
 
 /* Permalink settings */
@@ -178,6 +187,8 @@ Metalsmith(dir.base)
 
   .use(pug(opts)) // Enable pug-to-HTML files
 
+  .use(emoji(emset)) // Enable emoji in files
+
   .use(markdown()) // Enable markdown-to-HTML files
 
   .use(images(imgPattern)) // Enable image gallery generator
@@ -218,7 +229,7 @@ Metalsmith(dir.base)
   // Build site and call exceptions when things go wrong
   .build(function(err) {
     if (err) { throw err; }
-    else { console.log("Build complete.\n") }
+    else { console.log("Build complete.\n"); }
   });
 
 
@@ -239,4 +250,4 @@ function debug(log) {
     }
     done();
   };
-};
+}
