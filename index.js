@@ -221,7 +221,8 @@ Metalsmith(dir.base)
     files:  ['./src/**/**/*', './src/**/*', './src/*',
       'assets/*'], // Note changes in these files
     port: 8080,
-    injectChanges: false
+    injectChanges: false,
+    codeSync: false
   }), function(err) {
     if (err) { throw err; }
   })
