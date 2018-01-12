@@ -15,6 +15,9 @@ permalink: /liveblogs/
 
 [<img src="" alt="smrpg banner" class="banner" />](./smrpg/)
 
+[<img src="" alt="som banner" class="banner" />](./som/masterlist/)
+(Masterlist only)
+
 [<img src="" alt="vld banner" class="banner" />](./vld/)
 
 [<img src="" alt="natsuyu banner" class="banner" />](./natsuyu/masterlist/)
