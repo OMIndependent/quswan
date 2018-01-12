@@ -24,8 +24,8 @@ categories: alundra
   <li>[Part 14: Sidequesting](../al14/)</li>
   <li>[Part 15: The Cliffs of Madness](../al15/)</li>
   <li>[Part 16: The Desert of Despair](../al16/)</li>
-  <li>Part 17: Sidequesting Again</li>
-  <li>Part 18: The Ancient Shrine</li>
+  <li>[Part 17: Sidequesting Again](../al17/)</li>
+  <li>[Part 18: The Ancient Shrine](../al18/)</li>
   <li>Part 19: Finishing the Ancient Shrine</li>
   <li>Part 20: The Master of the Keep</li>
   <li>Part 21: Exploration of Mt. Torla</li>
