@@ -12,9 +12,9 @@ draft: true
 
 Now we see our first monster: the cute <strong>Rabite</strong>. Hero's wondering why a Rabite's around the falls. I'm thinking they're there to test the Hero.
 
-<img src="" alt="rabite" width="480" height="360" />
+<img src="https://i.imgur.com/RmYTj20.png" alt="rabite" width="480" height="360" />
 
-I take care of him immediately, and I notice the music's changed! It sounds ethereal, with a woodsy feel.
+I take care of him immediately, and I notice the music's changed! <a href="https://youtu.be/l3oxjanw72w">It sounds ethereal, with a woodsy feel.</a>
 
 But, my PS3 controller runs out of power (fglksjnksvnjhsbdfvnernkajnkrgvaekjdf) and I resort to using my keyboard to move around Hero.
 
@@ -42,17 +42,17 @@ Another Rabite interrupts my thinking time, and I take care of him!
 
 I open the next dropped chest: 4 gold pieces!
 
-<img src="" alt="4 gp" width="480" height="360" />
+<img src="https://i.imgur.com/uAntXe9.png" alt="4 gp" width="480" height="360" />
 
 <a name="2"></a>
 
 ---
 
-I head west, where two Rabites are! Another critical hit for one Rabite!
+I head west, where two Rabites are! Another critical hit at one Rabite!
 
 I have Hero read the sign nearby:
 
-<img src="" alt="forbidden forest" width="480" height="360" />
+<img src="https://i.imgur.com/HLXqa7c.png" alt="forbidden forest" width="480" height="360" />
 
 More Rabites across the bridge!
 
@@ -66,11 +66,11 @@ A few battles later, I cross another bridge east, and I'm now at the village!
 
 Now let's see if I can find a save point here...
 
-<img src="" alt="village ent" width="480" height="360" />
+<img src="https://i.imgur.com/cruCl51.png" alt="village ent" width="480" height="360" />
 
-<a href="">The music sounds nice...</a>
+<a href="https://youtu.be/5EaeGO_NheY">The music sounds nice...</a>
 
-I talk to the first person I see: an elderly woman. She mentions a light going up to the sky near the falls, and says a George Lucas trademark line.
+I talk to the first person I see: an elderly woman. She mentions a light going up to the sky near the falls, and says <a href="http://starwars.wikia.com/wiki/I_have_a_bad_feeling_about_this">a George Lucas trademark line</a>.
 
 Unfortunately, the Elder is looking for Hero. Oh boy... :(
 
@@ -78,7 +78,7 @@ Another villager with a cat-eared hat mentions a scary-looking stranger in the b
 
 I head to the inn, where the innkeeper does a dance.
 
-<img src="" alt="funny dance" width="480" height="360" />
+<img src="https://i.imgur.com/2hbJZiW.png" alt="funny dance" width="480" height="360" />
 
 But he does his job, and asks if I wants to stay the night. I say no, but I can save the game, which I do!
 

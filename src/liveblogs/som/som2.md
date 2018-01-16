@@ -16,7 +16,7 @@ No menu to access, no jumping. I can only move.
 
 Though the current of the falls is somewhat guiding me, I make it to solid ground.
 
-<img src="" alt="grass falls" width="480" height="360" />
+<img src="https://i.imgur.com/fNpIDVk.png" alt="grass falls" width="480" height="360" />
 
 The scenery looks so pretty.
 
@@ -30,23 +30,23 @@ The white light, and the voice calls again...
 
 I have Hero cross the log bridge, and see a sword lodged on a rock surrounded by water. This feels like the King Arthur legend all over again...
 
-<img src="" alt="sword in stone" width="480" height="360" />
+<img src="https://i.imgur.com/m2Wc8lm.png" alt="sword in stone" width="480" height="360" />
 
 I'm a bit stuck, since a shrub's blocking the way, but I get out.
 
 However, the way to the village is planted with shrubs.
 
-<img src="" alt="shrubs" width="480" height="360" />
+<img src="https://i.imgur.com/YxET9vc.png" alt="shrubs" width="480" height="360" />
 
 Maybe that sword should work...
 
-I press B, or the x button, and the white light guides us again to take out the sword. This is really suspicious...
+I press B, or the x button, and the white light guides us again to take out the sword. This feels really suspicious...
 
 <a name="2"></a>
 
 ---
 
-<img src="" alt="bright light again" width="480" height="360" />
+<img src="https://i.imgur.com/pa2F09z.png" alt="bright light again" width="480" height="360" />
 
 <strong>Hero:</strong> "Who are you...?"
 
@@ -54,11 +54,11 @@ He's asking the right questions.
 
 Hero yanks the sword out, and a bright light shines...
 
-<img src="" alt="spectre" width="480" height="360" />
+<img src="https://i.imgur.com/ewxYjll.png" alt="spectre" width="480" height="360" />
 
 Who is this person? He says that he told Hero to remove the sword.
 
-The light shines brightly, and another encircling aura shines around the Hero, and I can now see Hero's HP, and a gauge below!
+The light shines brightly again, and another encircling aura shines around the Hero, and I can now see Hero's HP, and a gauge below!
 
 I can now attack, and with the Y button, or triangle, I can see the equipment Hero has on hand!
 

@@ -8,7 +8,7 @@ draft: true
 
 Okay, let's get started with this game!
 
-<img src="" alt="title screen secret of mana" width="480" height="360" />
+<img src="https://i.imgur.com/euzecjl.png" alt="title screen secret of mana" width="480" height="360" />
 
 <a href="https://youtu.be/T6YAiLHXw_c">The intro music sounds pretty nice...</a>but I accidentally skip ahead...
 
@@ -20,7 +20,7 @@ I'm not very good with names, so I'll stick with <strong>Hero</strong>.
 
 Now the real game begins...
 
-<img src="" alt="narration" width="480" height="360" />
+<img src="https://i.imgur.com/yLsjlK9.png" alt="narration" width="480" height="360" />
 
 "<strong>Using the power of Mana, a civilization had grown strong...In time, Mana was used to create the ultimate weapon: the Mana Fortress.</strong>"
 
@@ -36,7 +36,7 @@ That's not a good sign...
 
 Whoa, nice Mode 7 graphics!
 
-<img src="" alt="mode 7 whoa" width="480" height="360" />
+<img src="https://i.imgur.com/cgPzUvj.png" alt="mode 7 whoa" width="480" height="360" />
 
 But, where am I being sent to?
 
@@ -50,6 +50,6 @@ But Elliott mentions his grandma seeing something shiny near the falls, and the 
 
 Oh my god, the Hero slipped and fell!
 
-<img src="" alt="down the falls" width="480" height="360" />
+<img src="https://i.imgur.com/lCvAADE.png" alt="down the falls" width="480" height="360" />
 
 Lucky he's okay!
