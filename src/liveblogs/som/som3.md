@@ -2,17 +2,17 @@
 layout: entry.pug
 title: "Secret of Mana - Part 3: Road to the Village"
 date: 2018-01-03 09-0800
+publishDate: 2018-01-16 11:05:00 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2)</p>
 
 <a name="1"></a>
 
-Now we see our first monster: the cute <strong>Rabite</strong>. Hero's wondering why a Rabite's around the falls. I'm thinking they're there to test the Hero.
+Now we see our first monster: the cute **Rabite**. Hero's wondering why a Rabite's around the falls. I'm thinking they're there to test the Hero.
 
-<img src="https://i.imgur.com/RmYTj20.png" alt="rabite" width="480" height="360" />
+<img src="https://i.imgur.com/RmYTj20.png" alt="rabite" width="360" height="270" />
 
 I take care of him immediately, and I notice the music's changed! <a href="https://youtu.be/l3oxjanw72w">It sounds ethereal, with a woodsy feel.</a>
 
@@ -34,7 +34,7 @@ One of the Rabites drop a chest, but before figuring out how to open it, I'm get
 
 After taking care of the cute, yet dangerous Rabite, my Hero's sword levels up to 1! So the sword level starts at 0, huh?
 
-Using the attack button, Hero shakes and jiggles the chest around and gets...<strong>Candy!</strong>
+Using the attack button, Hero shakes and jiggles the chest around and gets...**Candy!**
 
 I wonder if I can use this for something...it might be a healing item...
 
@@ -42,7 +42,7 @@ Another Rabite interrupts my thinking time, and I take care of him!
 
 I open the next dropped chest: 4 gold pieces!
 
-<img src="https://i.imgur.com/uAntXe9.png" alt="4 gp" width="480" height="360" />
+<img src="https://i.imgur.com/uAntXe9.png" alt="4 gp" width="360" height="270" />
 
 <a name="2"></a>
 
@@ -52,7 +52,7 @@ I head west, where two Rabites are! Another critical hit at one Rabite!
 
 I have Hero read the sign nearby:
 
-<img src="https://i.imgur.com/HLXqa7c.png" alt="forbidden forest" width="480" height="360" />
+<img src="https://i.imgur.com/HLXqa7c.png" alt="forbidden forest" width="360" height="270" />
 
 More Rabites across the bridge!
 
@@ -66,7 +66,7 @@ A few battles later, I cross another bridge east, and I'm now at the village!
 
 Now let's see if I can find a save point here...
 
-<img src="https://i.imgur.com/cruCl51.png" alt="village ent" width="480" height="360" />
+<img src="https://i.imgur.com/cruCl51.png" alt="village ent" width="360" height="270" />
 
 <a href="https://youtu.be/5EaeGO_NheY">The music sounds nice...</a>
 
@@ -78,7 +78,7 @@ Another villager with a cat-eared hat mentions a scary-looking stranger in the b
 
 I head to the inn, where the innkeeper does a dance.
 
-<img src="https://i.imgur.com/2hbJZiW.png" alt="funny dance" width="480" height="360" />
+<img src="https://i.imgur.com/2hbJZiW.png" alt="funny dance" width="360" height="270" />
 
 But he does his job, and asks if I wants to stay the night. I say no, but I can save the game, which I do!
 
