@@ -2,9 +2,8 @@
 layout: entry.pug
 title: "Secret of Mana - Part 4: Impending Disaster"
 date: 2018-01-04 09-0800
-publishDate: 2018-01-17 10:10:00 -0800
+publishDate: 2018-01-17 09:00:00 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2)</p>
@@ -73,7 +72,7 @@ The Elder retells the story about the Mana Sword.
 
 Elliott now realizes why the monsters, or the Rabites, are running amuck!
 
-**What have we done?** :frowning2:
+**What have we done?** :worried:
 
 The Hero shakes his head in denial, he can't believe it...
 
