@@ -13,7 +13,7 @@ categories: som secret-of-mana
 	<li>[Part 3: Road to the Village](../som3/)</li>
 	<li>[Part 4: Impending Disaster](../som4/)</li>
 	<li>[Part 5: First Taste of Danger](../som5/)</li>
-	<li>Part 6: Banishment</li>
+	<li>[Part 6: Banishment](../som6/)</li>
 	<li>Part 7: Into the Wilderness</li>
 	<li>Part 8: Water Palace</li>
 </ul>
