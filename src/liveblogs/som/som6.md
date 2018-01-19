@@ -46,7 +46,7 @@ After noticing us, the Elder brings up the monster attacks, all caused by the He
 
 <img src="https://i.imgur.com/RMLMuWS.png" alt="disaster pulled out sword" width="360" height="270" />
 
-Since he carries the Sword, which attracts the monsters, the villagers make their decision: **to banish Hero.** :(
+Since he carries the Sword, which attracts the monsters, the villagers make their decision: **to banish Hero.** :frowning2:
 
 The Elder makes his final decision as well, <a href="https://youtu.be/E7iC5NqmLYo">with sadness</a>, and formally banishes him from the village. As a parting gift, he tells us to take whatever's in the chest downstairs.
 
