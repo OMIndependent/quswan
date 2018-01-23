@@ -14,6 +14,6 @@ categories: som secret-of-mana
 	<li>[Part 4: Impending Disaster](../som4/)</li>
 	<li>[Part 5: First Taste of Danger](../som5/)</li>
 	<li>[Part 6: Banishment](../som6/)</li>
-	<li>Part 7: Into the Wilderness</li>
-	<li>Part 8: Water Palace</li>
+	<li>[Part 7: Into the Wilderness](../som7/)</li>
+	<li>[Part 8: Water Palace](../som8/)</li>
 </ul>
