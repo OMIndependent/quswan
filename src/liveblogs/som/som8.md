@@ -176,11 +176,11 @@ I check the Mana Seed at the dais again. The room glows blue and brilliant.
 
 Out of curiosity, I head downstairs to the right of the seed's dais. The hall and its chambers there are empty...I'm guessing that these are Luka's chambers...
 
-I have so many questions so far at this point now:
-**Why would Major Dyluck want to go into a witch's castle for?
-Why is there a cave behind a waterfall near the Water Palace?
-Could that be Luka's secret hideout or something?
-Is the King of Pandora already secretly allies with the Empire?
-Or, is Jema working for the Empire as a spy?
-Or maybe he has some other motives?
+I have so many questions so far at this point now:<br/>
+**Why would Major Dyluck want to go into a witch's castle for?<br/>
+Why is there a cave behind a waterfall near the Water Palace?<br/>
+Could that be Luka's secret hideout or something?<br/>
+Is the King of Pandora already secretly allies with the Empire?<br/>
+Or, is Jema working for the Empire as a spy?<br/>
+Or maybe he has some other motives?<br/>
 Why would the Empire want to have their hands on the Mana Fortress for? Is it for the usual goal: Conquest of the entire world?**
