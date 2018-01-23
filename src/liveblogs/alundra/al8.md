@@ -32,11 +32,11 @@ I then go to Yustel and pay her to see where I should go next. I see the map of 
 
 (<a href="http://vgmaps.com/Atlas/PSX/Alundra-World(In-GameMap).png">Source</a> for the map)
 
-Kisha is still mourning... :(
+Kisha is still mourning... :frowning2:
 
 Giles is now wishing to petition the gods to bring Olen back to life. I'd sign that petition.
 
-So I find out from Lutas on why Jess is so overprotective of Alundra (and me), his wife and son passed away, and knows death can be a short distance away... :(
+So I find out from Lutas on why Jess is so overprotective of Alundra (and me), his wife and son passed away, and knows death can be a short distance away... :frowning2:
 
 ---
 
