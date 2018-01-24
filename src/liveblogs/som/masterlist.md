@@ -16,4 +16,13 @@ categories: som secret-of-mana
 	<li>[Part 6: Banishment](../som6/)</li>
 	<li>[Part 7: Into the Wilderness](../som7/)</li>
 	<li>[Part 8: Water Palace](../som8/)</li>
+	<li>Part 9: Off To Pandora</li>
+	<li>Part 10: The Kingdom of Pandora</li>
+	<li>Part 11: Endless Battles and Directions</li>
+	<li>Part 12: One Wrong Turn</li>
+	<li>Part 13: Haunted Forest, or Never Mess With Chobin Hoods</li>
+	<li>Part 14: To Gaia's Navel</li>
+	<li>Part 15: Dwarf Village</li>
+	<li>Part 16: A Second Danger and A New Ally</li>
+	<li>Part 17: Return to Haunted Forest</li>
 </ul>
