@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>http://quswan.net/404.html</loc> </url>
 <url> <loc>http://quswan.net/index.html</loc> </url>
+<url> <loc>http://quswan.net/transcripts/drjs/index.html</loc> </url>
+<url> <loc>http://quswan.net/transcripts/gg-balfour/index.html</loc> </url>
+<url> <loc>http://quswan.net/transcripts/index.html</loc> </url>
 <url> <loc>http://quswan.net/posts/final-dec-updates/index.html</loc> </url>
 <url> <loc>http://quswan.net/posts/for-the-treasure/index.html</loc> </url>
 <url> <loc>http://quswan.net/posts/happy-new-year-2018/index.html</loc> </url>
@@ -10,20 +13,17 @@
 <url> <loc>http://quswan.net/posts/test/index.html</loc> </url>
 <url> <loc>http://quswan.net/posts/update-website/index.html</loc> </url>
 <url> <loc>http://quswan.net/posts/updates-so-far/index.html</loc> </url>
-<url> <loc>http://quswan.net/transcripts/drjs/index.html</loc> </url>
-<url> <loc>http://quswan.net/transcripts/gg-balfour/index.html</loc> </url>
-<url> <loc>http://quswan.net/transcripts/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al1/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al10/index.html</loc> </url>
-<url> <loc>http://quswan.net/liveblogs/alundra/al12/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al11/index.html</loc> </url>
+<url> <loc>http://quswan.net/liveblogs/alundra/al12/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al13/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al14/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al15/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al16/index.html</loc> </url>
-<url> <loc>http://quswan.net/liveblogs/alundra/al18/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al17/index.html</loc> </url>
+<url> <loc>http://quswan.net/liveblogs/alundra/al18/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al2/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al3/index.html</loc> </url>
 <url> <loc>http://quswan.net/liveblogs/alundra/al4/index.html</loc> </url>
