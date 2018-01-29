@@ -2,6 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 3: Tranquil Woods"
 date: 2018-01-22 09-0800
+publishDate: 2018-01-29 15:10:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 

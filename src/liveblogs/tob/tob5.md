@@ -2,6 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 5: Night of the Living Daemonic"
 date: 2018-01-25 09-0800
+publishDate: 2018-01-29 15:45:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 

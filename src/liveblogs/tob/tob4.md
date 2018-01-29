@@ -2,6 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 4: Sunset Moments"
 date: 2018-01-24 09-0800
+publishDate: 2018-01-29 15:30:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
