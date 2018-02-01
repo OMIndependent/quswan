@@ -2,8 +2,8 @@
 layout: entry.pug
 title: "Secret of Mana - Part 10: The Kingdom of Pandora"
 date: 2018-01-15 09-0800
+publishDate: 2018-01-31 20:05:00 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4) | [**Part 5**](#5)</p>

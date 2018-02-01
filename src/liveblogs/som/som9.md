@@ -2,8 +2,8 @@
 layout: entry.pug
 title: "Secret of Mana - Part 9: Off To Pandora"
 date: 2018-01-15 09-0800
+publishDate: 2018-01-31 20:00:00 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2)</p>
