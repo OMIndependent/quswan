@@ -54,8 +54,6 @@ North of the bridge here and the gate beyond lies Pandora's castle.
 
 <img src="https://i.imgur.com/7wAnxz0.png" alt="pandora gate" width="360" height="270" />
 
-I do some more exploring.
-
 There's an armor shop south of the gates, but the shopkeeper's also quiet too...
 
 In the house south of the armor shop, the children asks for Hero's help, worried about their parents. The parents are not talking either. What's going on?
