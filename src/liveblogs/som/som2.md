@@ -16,7 +16,7 @@ No menu to access, no jumping. I can only move.
 
 Though the current of the falls is somewhat guiding me, I make it to solid ground.
 
-<img src="https://i.imgur.com/fNpIDVk.png" alt="grass falls" width="360" height="270" />
+<img src="https://i.imgur.com/fNpIDVk.png" alt="grass falls" width="360" height="270" id="liveblog" />
 
 The scenery looks so pretty.
 
@@ -30,13 +30,13 @@ The white light, and the voice calls again...
 
 I have Hero cross the log bridge, and see a sword lodged on a rock surrounded by water. This feels like the King Arthur legend all over again...
 
-<img src="https://i.imgur.com/m2Wc8lm.png" alt="sword in stone" width="360" height="270" />
+<img src="https://i.imgur.com/m2Wc8lm.png" alt="sword in stone" width="360" height="270" id="liveblog" />
 
 I'm a bit stuck, since a shrub's blocking the way, but I get out.
 
 However, the way to the village is planted with shrubs.
 
-<img src="https://i.imgur.com/YxET9vc.png" alt="shrubs" width="360" height="270" />
+<img src="https://i.imgur.com/YxET9vc.png" alt="shrubs" width="360" height="270" id="liveblog" />
 
 Maybe that sword should work...
 
@@ -46,7 +46,7 @@ I press B, or the x button, and the white light guides us again to take out the 
 
 ---
 
-<img src="https://i.imgur.com/pa2F09z.png" alt="bright light again" width="360" height="270" />
+<img src="https://i.imgur.com/pa2F09z.png" alt="bright light again" width="360" height="270" id="liveblog" />
 
 **Hero:** "Who are you...?"
 
@@ -54,7 +54,7 @@ He's asking the right questions.
 
 Hero yanks the sword out, and a bright light shines...
 
-<img src="https://i.imgur.com/ewxYjll.png" alt="spectre" width="360" height="270" />
+<img src="https://i.imgur.com/ewxYjll.png" alt="spectre" width="360" height="270" id="liveblog" />
 
 Who is this person? He says that he told Hero to remove the sword.
 

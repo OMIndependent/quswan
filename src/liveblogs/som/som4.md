@@ -10,7 +10,7 @@ categories: som secret-of-mana playthroughs
 
 <a name="1"></a>
 
-<img src="https://i.imgur.com/QhqAG1Y.png" alt="som intro" width="360" height="270" />
+<img src="https://i.imgur.com/QhqAG1Y.png" alt="som intro" width="360" height="270" id="liveblog" />
 
 I let the intro that I accidentally skipped in my last session play out...the music sounds so nice and calm.
 
@@ -20,7 +20,7 @@ I check out the inn before heading into the bar, where the so-called "scary-look
 
 The green-haired woman's wondering about the "scary-looking stranger" as well.
 
-<img src="https://i.imgur.com/ZRIxsnR.png" alt="knight?" width="360" height="270" />
+<img src="https://i.imgur.com/ZRIxsnR.png" alt="knight?" width="360" height="270" id="liveblog" />
 
 I keep forgetting that the B button is the action button, not the A button.
 
@@ -30,7 +30,7 @@ He mentions to Hero about Elliott looking pale...I'm betting Elliott's worried a
 
 I talk to the "knight" at the bar. He's a wellspring of conversation.
 
-<img src="https://i.imgur.com/7jGDj5w.png" alt="knight silent" width="360" height="270" />
+<img src="https://i.imgur.com/7jGDj5w.png" alt="knight silent" width="360" height="270" id="liveblog" />
 
 While going around the village, I see the Elder facing Timothy and Elliott...\*gulp\*
 
@@ -60,7 +60,7 @@ Timothy and Elliott cheer excitedly at seeing Hero get the sword.
 
 The Elder is not too happy though...
 
-<img src="https://i.imgur.com/cECq3AP.png" alt="sword mana pulled out" width="360" height="270" />
+<img src="https://i.imgur.com/cECq3AP.png" alt="sword mana pulled out" width="360" height="270" id="liveblog" />
 
 **Elder:** "It's impossible!"
 
@@ -68,7 +68,7 @@ Timothy changes his tune, saying that the Mana Sword has doomed the village, but
 
 The Elder retells the story about the Mana Sword.
 
-<img src="https://i.imgur.com/cx89jjQ.png" alt="story mana sword" width="360" height="270" />
+<img src="https://i.imgur.com/cx89jjQ.png" alt="story mana sword" width="360" height="270" id="liveblog" />
 
 Elliott now realizes why the monsters, or the Rabites, are running amuck!
 
@@ -84,6 +84,6 @@ Now there's more shaking and rumbling going on...
 
 And the ground falls below Hero and Elliott!
 
-<img src="https://i.imgur.com/xZ7F0QA.png" alt="fall into hole" width="360" height="270" />
+<img src="https://i.imgur.com/xZ7F0QA.png" alt="fall into hole" width="360" height="270" id="liveblog" />
 
 The knight comes out of the bar...a bit too late to save them.

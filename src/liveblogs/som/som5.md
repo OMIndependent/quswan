@@ -14,7 +14,7 @@ Now we're both stuck underneath the village, where Elliott is injured!
 
 There's now a big monster before us! Elliott tells us to use the Sword to finish him!
 
-<img src="https://i.imgur.com/2AuSqRT.png" alt="boss" width="360" height="270" />
+<img src="https://i.imgur.com/2AuSqRT.png" alt="boss" width="360" height="270" id="liveblog" />
 
 <a href="https://youtu.be/wdIyxSVtPek">Now our first boss battle begins!</a>
 
@@ -26,7 +26,7 @@ I manage to get one hit in, and run off, before getting hit by the mantis's wind
 
 **Get up!!!**
 
-<img src="https://i.imgur.com/IKieQb2.png" alt="ko" width="360" height="270" />
+<img src="https://i.imgur.com/IKieQb2.png" alt="ko" width="360" height="270" id="liveblog" />
 
 After a few moments, Hero's back, but how do I use the Medical Herb?
 
@@ -36,7 +36,7 @@ I'm almost near dead here!
 
 The reaper's about to take Hero, but the knight jumps in with more pointers, reviving him!
 
-<img src="https://i.imgur.com/XdFYBRS.png" alt="remember 100 pct" width="360" height="270" />
+<img src="https://i.imgur.com/XdFYBRS.png" alt="remember 100 pct" width="360" height="270" id="liveblog" />
 
 Hero gets knocked down again!
 
@@ -66,7 +66,7 @@ I die again, but the knight wakes us up!
 
 With one more blow, we take care of the giant mantis, fireworks and all!
 
-<img src="https://i.imgur.com/hNzHZ09.png" alt="mantis defeated" width="360" height="270" />
+<img src="https://i.imgur.com/hNzHZ09.png" alt="mantis defeated" width="360" height="270" id="liveblog" />
 
 He vanishes in sparkles of light...
 

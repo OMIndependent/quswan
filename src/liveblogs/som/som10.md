@@ -12,7 +12,7 @@ categories: som secret-of-mana playthroughs
 
 The guard wandering by the gates welcomes us, and tells Hero that he has orders to let Hero pass into the town. Thank you, Jema.
 
-<img src="https://i.imgur.com/5tgaKmw.png" alt="knight entrance" width="360" height="270" />
+<img src="https://i.imgur.com/5tgaKmw.png" alt="knight entrance" width="360" height="270" id="liveblog" />
 
 The guard calls Jema by his title: **Sir Jema of Tasnica**, and says he's with the King. He also advises Hero not to talk to anyone in town. But why?
 
@@ -26,7 +26,7 @@ Unfortunately, I can't wear the Kung Fu Suit...
 
 I also check up on the weapon stats and Hero's stats.
 
-<img src="https://i.imgur.com/8ctJ2xh.png" alt="stats so far" width="360" height="270" />
+<img src="https://i.imgur.com/8ctJ2xh.png" alt="stats so far" width="360" height="270" id="liveblog" />
 
 Hmmm, I wonder what the blue orb means? Is it the power from the Mana Seed that we retrieved from the Water Palace?
 
@@ -48,11 +48,11 @@ He has a well-stocked kitchen, though.
 
 Most of the townsfolk in Pandora are...a pretty quiet bunch.
 
-<img src="https://i.imgur.com/2p6dnbx.png" alt="pretty quiet bunch" width="360" height="270" />
+<img src="https://i.imgur.com/2p6dnbx.png" alt="pretty quiet bunch" width="360" height="270" id="liveblog" />
 
 North of the bridge here and the gate beyond lies Pandora's castle.
 
-<img src="https://i.imgur.com/7wAnxz0.png" alt="pandora gate" width="360" height="270" />
+<img src="https://i.imgur.com/7wAnxz0.png" alt="pandora gate" width="360" height="270" id="liveblog" />
 
 There's an armor shop south of the gates, but the shopkeeper's also quiet too...
 
@@ -62,7 +62,7 @@ Only the elderly woman near the gate to the castle can talk, and says that it's 
 
 I now have Hero head north to the castle.
 
-<img src="https://i.imgur.com/NqIy35J.png" alt="castle entrance" width="360" height="270" />
+<img src="https://i.imgur.com/NqIy35J.png" alt="castle entrance" width="360" height="270" id="liveblog" />
 
 At the main gates now...
 
@@ -88,7 +88,7 @@ Sir Elman, a local knight, has set up an arranged marriage for his daughter.
 
 Upstairs, we meet the girl who rescued us from the goblins!
 
-<img src="https://i.imgur.com/xffCkFS.png" alt="girl again" width="360" height="270" />
+<img src="https://i.imgur.com/xffCkFS.png" alt="girl again" width="360" height="270" id="liveblog" />
 
 So she's the daughter who's about to get married against her will...
 
@@ -96,11 +96,11 @@ She notices Hero's sword, and asks if he's a swordsman.
 
 She asks him for a favor to pay back her rescuing him.
 
-<img src="https://i.imgur.com/sKy9Cnu.png" alt="favor" width="360" height="270" />
+<img src="https://i.imgur.com/sKy9Cnu.png" alt="favor" width="360" height="270" id="liveblog" />
 
 We're going to save Major Dyluck and his soldiers from the witch!
 
-<img src="https://i.imgur.com/3zdwMv5.png" alt="save major" width="360" height="270" />
+<img src="https://i.imgur.com/3zdwMv5.png" alt="save major" width="360" height="270" id="liveblog" />
 
 Whoa, that was a sudden turn of events!
 
@@ -122,13 +122,13 @@ And Pidge joins the party!
 
 I check her stats.
 
-<img src="https://i.imgur.com/rUKBibB.png" alt="girl stats" width="360" height="270" />
+<img src="https://i.imgur.com/rUKBibB.png" alt="girl stats" width="360" height="270" id="liveblog" />
 
 Turns out Pidge is wearing a Kung Fu Suit as her main equipment, and has **Spike Knuckles** as her weapon.
 
 I explore more of the castle before heading through the double doors, where the King of Pandora and Sir Jema are.
 
-<img src="https://i.imgur.com/nVUwmy2.png" alt="sir jema" width="360" height="270" />
+<img src="https://i.imgur.com/nVUwmy2.png" alt="sir jema" width="360" height="270" id="liveblog" />
 
 Most of the townspeople have gone quiet. But why?
 
@@ -150,9 +150,9 @@ The King's in distress, he points out all of the problems in Pandora, where he p
 
 Pidge calls out the King in spectacular fashion.
 
-<img src="https://i.imgur.com/EPc0WjA.png" alt="you made dyluck go" width="360" height="270" />
+<img src="https://i.imgur.com/EPc0WjA.png" alt="you made dyluck go" width="360" height="270" id="liveblog" />
 
-<img src="https://i.imgur.com/OvfB9sa.png" alt="drive me apart" width="360" height="270" />
+<img src="https://i.imgur.com/OvfB9sa.png" alt="drive me apart" width="360" height="270" id="liveblog" />
 
 So is this line implying she has some sort of relationship with Major Dyluck?
 
@@ -168,6 +168,6 @@ At the item shop now, selling the extra Kung Fu Suit and buying more Candy, but 
 
 I have the party rest up...
 
-<img src="https://i.imgur.com/VAgmfts.png" alt="resting" width="360" height="270" />
+<img src="https://i.imgur.com/VAgmfts.png" alt="resting" width="360" height="270" id="liveblog" />
 
 ...and save, stopping my session here for tonight!

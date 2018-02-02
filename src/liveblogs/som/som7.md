@@ -28,17 +28,17 @@ Crossing a river, thus our journey to the Water Palace begins!
 
 A stray flower chomps on Hero, poisoning him!
 
-<img src="https://i.imgur.com/PsBXMUY.png" alt="poisoned" width="360" height="270" />
+<img src="https://i.imgur.com/PsBXMUY.png" alt="poisoned" width="360" height="270" id="liveblog" />
 
 We make it to the crossroads now.
 
-<img src="https://i.imgur.com/yRxNEFF.png" alt="crossroads" width="360" height="270" />
+<img src="https://i.imgur.com/yRxNEFF.png" alt="crossroads" width="360" height="270" id="liveblog" />
 
 Kingdom of Pandora, hmmm...
 
 I have Hero go north, where a cute mushroom awaits.
 
-<img src="https://i.imgur.com/Goaqvtx.png" alt="cute mushroom" width="360" height="270" />
+<img src="https://i.imgur.com/Goaqvtx.png" alt="cute mushroom" width="360" height="270" id="liveblog" />
 
 Assuming it's an enemy, I have Hero ready his sword and attack him.
 
@@ -52,13 +52,13 @@ Before a wooden bridge, a sign warns us to beware of goblins west of the river.
 
 Crossing the river, I comes across more innocent-looking, yet poisonous flowers.
 
-<img src="https://i.imgur.com/5hfprQ2.png" alt="innocent flower" width="360" height="270" />
+<img src="https://i.imgur.com/5hfprQ2.png" alt="innocent flower" width="360" height="270" id="liveblog" />
 
 After taking care of more flowers, we come across another sign that reads "Welcome to Neko's!" located in the west area.
 
 Heading west, we now make our way to a spacious inn in the middle of the woods...
 
-<img src="https://i.imgur.com/xyawIaa.png" alt="inn in woods" width="360" height="270" />
+<img src="https://i.imgur.com/xyawIaa.png" alt="inn in woods" width="360" height="270" id="liveblog" />
 
 Nope, nothing suspicious here at all!
 
@@ -72,6 +72,6 @@ My god, that's a lot of sweet stuff! There's even some chocolate too! **Royal Ja
 
 Neko also has various accessories.
 
-<img src="https://i.imgur.com/sgjwhdw.png" alt="chocolate!" width="360" height="270" />
+<img src="https://i.imgur.com/sgjwhdw.png" alt="chocolate!" width="360" height="270" id="liveblog" />
 
 After looking at Neko's stuff, I save my session here for now.
