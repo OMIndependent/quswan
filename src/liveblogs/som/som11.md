@@ -59,6 +59,7 @@ As Hero gets KO'd temporarily, Pidge keeps fighting the Mushbooms!
 Back at Pandora! Now, let's see where the south gate is...
 
 <img src="https://i.imgur.com/dFML7RA.png" alt="south gate here" width="360" height="270" id="liveblog" />
+
 We're now near the ruins, where a statue greets us.
 
 <img src="https://i.imgur.com/y1FUi87.png" alt="friendly statue" width="360" height="270" id="liveblog" />
