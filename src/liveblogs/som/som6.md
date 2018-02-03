@@ -64,7 +64,7 @@ So the Hero was adopted by the Elder, huh?
 
 **Elder:** "**I truly hope you can find your mother someday...Good bye, Hero.**"
 
-<img src="https://68.media.tumblr.com/3958e522446653b30d8750d6b968a491/tumblr_nwsf33aY8N1tchsw3o1_1280.jpg" alt="duck hug" width="360" height="270" id="liveblog" />
+<img src="https://68.media.tumblr.com/3958e522446653b30d8750d6b968a491/tumblr_nwsf33aY8N1tchsw3o1_1280.jpg" alt="duck hug" width="360" height="270" />
 
 No farewells...from anyone else...
 
