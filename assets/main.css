@@ -144,7 +144,6 @@ nav.nav-bar {
   padding: 0;  /* Ensures link is clickable if not hovering on text */
 }
 .nav-bar li a {
-  font-size: 1em;
   display: block;
   box-sizing: border-box;
   text-decoration: none;
@@ -373,6 +372,9 @@ p {
     display: flex;
     height: 3.25em; /* Each nav link is 3.25em high */
     opacity: 1;
+  }
+  .nav-bar li a {
+    font-size: 1em;
   }
   .nav-check:not(:checked) ~ ul.nav-list,
   .nav-check:checked ~ ul.nav-list {
