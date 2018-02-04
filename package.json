@@ -48,7 +48,7 @@
   },
   "scripts": {
     "build": "node index",
-    "clean": "rm -rf ./bin/ && rm -rf ./node_modules/",
+    "clean": "rm -rf ./build/ && rm -rf ./node_modules/",
     "start": "npm run deploy",
     "deploy": "deploy.sh"
   }

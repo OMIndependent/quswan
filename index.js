@@ -31,6 +31,7 @@ const desc = "The Socially Aware Magic Swordsman's independent blog site generat
 const numPosts = 10;
 const entryPattern = ['posts/*.md', 'liveblogs/**/*.md', '!liveblogs/**/index.*',
   '!liveblogs/**/masterlist.*', 'trivia/**/*'];
+var destDir = './build/';
 
 /* Global metadata */
 var meta = {
@@ -49,7 +50,7 @@ var meta = {
 var dir = {
   base:   __dirname,
   source:    './src/',
-  dest:  './bin/'
+  dest:  destDir
 };
 
 /* Collections metadata list */
@@ -177,7 +178,7 @@ Metalsmith(dir.base)
   .clean(clean)  // Clean the build directory
   .metadata(meta) // Get metadata
   .source(dir.source) // Get source files from './src/' directory
-  .destination(dir.dest) // Place final web files into './bin/' directory
+  .destination(dir.dest) // Place final web files into destination directory
 
   .use(publish(publishOpts)) // Add plugin for drafts, queued, and private posts
 
@@ -215,9 +216,9 @@ Metalsmith(dir.base)
   .use(sitemap(meta.site.url)) // Print xml file of sitemap for search engines
   
   // Debug and print any errors in console
-  .use(debug(log))
+  //.use(debug(log))
   .use(browsersync({
-    server: './bin/',
+    server: destDir,
     files:  ['./src/**/**/*', './src/**/*', './src/*',
       'assets/*'], // Note changes in these files
     port: 8080,
