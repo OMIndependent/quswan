@@ -18,7 +18,7 @@ Toad wants us to go to the Chancellor to tell him everything that's happened...
 
 I try to leave, but Toad comes back again...
 
-<img src="http://i.imgur.com/2GWG8gi.png" alt="hp bump" width="360" height="270" />
+<img src="http://i.imgur.com/2GWG8gi.png" alt="hp bump" width="360" height="270" id="liveblog" />
 
 Toad tells us the fall from Bowser's castle reduced our HP.
 

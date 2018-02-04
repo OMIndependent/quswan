@@ -8,17 +8,17 @@ categories: smrpg super-mario-rpg playthroughs
 
 I leave, and I'm now at the world map...
 
-<img src="http://i.imgur.com/n67P72n.png" alt="world map" width="360" height="270" />
+<img src="http://i.imgur.com/n67P72n.png" alt="world map" width="360" height="270" id="liveblog" />
 
 So where I landed is at Mario's house...
 
 Since there's only one way forward on the map, we head back to Bowser's castle.
 
-<img src="http://i.imgur.com/iQ4sZ2g.png" alt="bowser castle" width="360" height="270" />
+<img src="http://i.imgur.com/iQ4sZ2g.png" alt="bowser castle" width="360" height="270" id="liveblog" />
 
 I swear, why does Bowser abduct Peach a lot?
 
-<img src="http://i.imgur.com/ym4XjPG.png" alt="sword" width="360" height="270" />
+<img src="http://i.imgur.com/ym4XjPG.png" alt="sword" width="360" height="270" id="liveblog" />
 
 Holy heck, the sword can talk! The sword calls us 'trespassers'!
 
@@ -36,7 +36,7 @@ That's a pretty view...
 
 After heading back to Mario's place, I go back to the hill to take a screenshot...
 
-<img src="http://i.imgur.com/hw5E4h5.png" alt="vista hill" width="360" height="270" />
+<img src="http://i.imgur.com/hw5E4h5.png" alt="vista hill" width="360" height="270" id="liveblog" />
 
 I head back to Mario's again and save!
 

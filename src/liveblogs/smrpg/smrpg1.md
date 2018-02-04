@@ -26,7 +26,7 @@ Why is Bowser in the credits?
 
 There's Peach, or Princess Toadstool on the balcony, in...
 
-<img src="http://i.imgur.com/kdPgK8e.png" alt="sm rpg title" width="360" height="270" />
+<img src="http://i.imgur.com/kdPgK8e.png" alt="sm rpg title" width="360" height="270" id="liveblog" />
 
 **Super Mario RPG!**
 
@@ -36,7 +36,7 @@ I decide to call my file "Mario" for this playthrough...
 
 And Princess Peach is at her picnic, like in the intro, and gets kidnapped by Bowser. This time, Mario enters, or sprints, to Bowser's very big castle to save her!
 
-<img src="http://i.imgur.com/DCwqOep.png" alt="bowser keep" width="360" height="270" />
+<img src="http://i.imgur.com/DCwqOep.png" alt="bowser keep" width="360" height="270" id="liveblog" />
 
 Now the game begins!
 
@@ -44,7 +44,7 @@ So holding the Y button (or the square button for my controller, since I'm using
 
 I head into the next room ahead, where my first battle awaits! Three Terrapins!
 
-<img src="http://i.imgur.com/ZLsTBmC.png" alt="terrapin" width="360" height="270" />
+<img src="http://i.imgur.com/ZLsTBmC.png" alt="terrapin" width="360" height="270" id="liveblog" />
 
 Instead of going through a drop down menu like in *Final Fantasy*, I have to press one of the four buttons (A, B, X, and Y) to decide what to do in battle...
 
@@ -60,7 +60,7 @@ I now cross past three bridges, lava below, and make it to the next door, where 
 
 I'm now in a room with two chandeliers above...
 
-<img src="http://i.imgur.com/M6ufzum.png" alt="peach tied up" width="360" height="270" />
+<img src="http://i.imgur.com/M6ufzum.png" alt="peach tied up" width="360" height="270" id="liveblog" />
 
 ...and there's Peach, tied up, hanging between them!
 
@@ -90,7 +90,7 @@ But the castle's now shaking...something's happening...
 
 A star in the clouds is shaking...and it breaks apart!
 
-<img src="http://i.imgur.com/NECYKDp.png" alt="sword" width="360" height="270" />
+<img src="http://i.imgur.com/NECYKDp.png" alt="sword" width="360" height="270" id="liveblog" />
 
 There's a sword descending, surrounded by stars (I'm guessing these are the seven stars mentioned in the title), and it falls on top of Bowser's castle!
 
@@ -102,7 +102,7 @@ Toad sees the commotion and runs in!
 
 Mario's now hanging on a clothes hook...
 
-<img src="http://i.imgur.com/rPbqMrO.png" alt="toad door" width="360" height="270" />
+<img src="http://i.imgur.com/rPbqMrO.png" alt="toad door" width="360" height="270" id="liveblog" />
 
 Toad tells Mario what a door is used for, and he tells Mario that he came to pick up the Princess...
 
@@ -110,10 +110,10 @@ We jump off the clothes hook.
 
 I can now access the menu!
 
-<img src="http://i.imgur.com/iOPyzyP.png" alt="menu" width="360" height="270" />
+<img src="http://i.imgur.com/iOPyzyP.png" alt="menu" width="360" height="270" id="liveblog" />
 
 I leave and talk to Toad. He asks Mario where the Princess is. Toad's not surprised that Bowser abducted Peach again.
 
-<img src="http://i.imgur.com/lBHH4af.png" alt="save block" width="360" height="270" />
+<img src="http://i.imgur.com/lBHH4af.png" alt="save block" width="360" height="270" id="liveblog" />
 
 I jump on top of the floating S block, the save block, and stop here for now!
