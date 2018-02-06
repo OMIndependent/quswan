@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 7: Prison Break"
 date: 2018-01-25 09-0800
-categories: som secret-of-mana playthroughs
+categories: tob tales-of-berseria playthroughs
 draft: true
 ---
 
