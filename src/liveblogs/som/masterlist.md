@@ -25,10 +25,10 @@ categories: som secret-of-mana
 	<li>Part 15: Dwarf Village</li>
 	<li>Part 16: A Second Danger and A New Ally</li>
 	<li>Part 17: Return to Haunted Forest</li>
-	<li>Part 18: The Witch's Castle</li>
+	<!--<li>Part 18: The Witch's Castle</li>
 	<li>Part 19: The Witch's Lair</li>
 	<li>Part 20: Saving Undine</li>
 	<li>Part 21: Entering the Underground Palace</li>
 	<li>Part 22: Finishing the Underground Palace</li>
-	<li>Part 23: Wandering Again</li>
+	<li>Part 23: Wandering Again</li>-->
 </ul>
