@@ -2,8 +2,8 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 7: Prison Break"
 date: 2018-01-25 09-0800
+publishDate: 2018-02-08 19:01:00 -0800
 categories: tob tales-of-berseria playthroughs
-draft: true
 ---
 
 We're now out of that cell, and we head into the next hallway. All we have to do is grab equipment in a room somewhere.
@@ -24,11 +24,11 @@ Now she's suited up to the nines, like a punk rocker out of hell...
 
 But a guard interrupts the scene, an **exorcist orderly**...
 
-Seres and Velvet takes care of him effortlessly.
+Seres and Velvet take care of him effortlessly.
 
 Velvet knows that they're in Titania, a prison for violent criminals, and daemons.
 
-**Velvet:** "Daemons say a lot of things when they don't want you to eat them." \*shudders internally\*
+**Velvet:** "Daemons say a lot of things when they don't want you to eat them." \**shudders internally*\*
 
 Their escape ship is in the back entrance of the prison...
 
