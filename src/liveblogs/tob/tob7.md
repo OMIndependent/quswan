@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 7: Prison Break"
 date: 2018-01-25 09-0800
-publishDate: 2018-02-08 19:01:00 -0800
+publishDate: 2018-02-08 19:41:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 

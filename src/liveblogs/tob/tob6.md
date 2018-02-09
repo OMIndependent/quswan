@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 6: Imprisonment"
 date: 2018-01-25 09-0800
-publishDate: 2018-02-08 19:00:00 -0800
+publishDate: 2018-02-08 19:40:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 

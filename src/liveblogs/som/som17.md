@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 17: Return to Haunted Forest"
 date: 2018-01-20 09-0800
-publishDate: 2018-02-08 15:00:00 -0800
+publishDate: 2018-02-08 19:30:00 -0800
 categories: som secret-of-mana playthroughs
 ---
 
