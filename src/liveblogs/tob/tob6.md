@@ -20,7 +20,7 @@ We're back in the present...
 
 **Velvet:** "**So did my world come to an end. And for three long years, I sat in that pit of darkness...and fed. Devouring daemons...so I could live. So I could live long enough to kill him. And be my brother's vengeance.**"
 
-This is Velvet's Château d'If.
+This is Velvet's Chateau d'If.
 
 Now someone opens Velvet's cell. Seres...
 
