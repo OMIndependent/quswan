@@ -48,7 +48,7 @@ Seres continues. When more malakhim came, more exorcists rose to fight the daemo
 
 Artorius is now leader of the **Abbey**, which Seres calls an "institution" with huge positive publicity.
 
-**Seres:** "Artorius Collbrande, the world's savior..."
+**Seres:** "Artorius Collbrande, the world's savior..."<br/>
 **Velvet:** "With power stolen by sacrificing Laphicet." And Celica, I'm betting.
 
 Seres tells Velvet that he can still be killed.
