@@ -134,9 +134,9 @@ Climbing more stairs, we see an exorcist guard get KO'd!
 
 The swordsman pulls out his daggers! The fight begins!
 
-**Swordsman:** "You're not human."
-**Velvet:** "Neither are you."
-**Swordsman:** "True enough."
+**Swordsman:** "You're not human."<br/>
+**Velvet:** "Neither are you."<br/>
+**Swordsman:** "True enough."<br/>
 
 Velvet points out that this guy's strong.
 
