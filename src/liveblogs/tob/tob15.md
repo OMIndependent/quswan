@@ -76,7 +76,7 @@ So if one breaks a rule, or doesn't follow the Abbey to the letter in Hellawes, 
 
 The Elder explains more about what happened after the Advent, saying that the exorcists came to "quell the tide of daemons and to restore the human world." But they could only protect the "important" cities.
 
-**Elder:** "There aren't enough exorcists to protect everyone."
+**Elder:** "There aren't enough exorcists to protect everyone."<br/>
 **Rokurou:** "When the going gets tough, cut off any excess baggage. It's the 'rational' thing to do."
 
 I'm guessing that's probably why Artorius turned on Velvet...it was the "rational" choice for him...
