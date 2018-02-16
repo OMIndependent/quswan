@@ -10,8 +10,6 @@ categories: som secret-of-mana playthroughs
 
 <a name="1"></a>
 
----
-
 In the palace now, where I'm having a hard time beating these Goblins! They tangle Hero up as well!
 
 I also find out that I can use Cure Water on the entire party!
