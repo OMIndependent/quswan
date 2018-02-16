@@ -2,8 +2,8 @@
 layout: entry.pug
 title: "Secret of Mana - Part 21: Entering the Underground Palace"
 date: 2018-02-01 09-0800
+publishDate: 2018-02-16 12:59:00 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4)</p>
