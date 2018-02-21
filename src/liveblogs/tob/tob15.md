@@ -32,7 +32,7 @@ She points out the lizard daemon Dyle is in the northern cave. She gives them fr
 
 Velvet and Rokurou eat them. It tastes good for Rokurou.
 
-But Velvet looks sad. She can't taste the fruit anymore... :frowning:
+But Velvet looks sad. She can't taste the fruit anymore... :frowning2:
 
 Rokurou has a serious look on his face.
 
