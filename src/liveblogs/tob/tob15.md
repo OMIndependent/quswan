@@ -85,5 +85,5 @@ Elder makes his case for humanity. They're not robots or cattle, he says. He and
 
 Exorcists aren't perfect...
 
-Now one question's on my mind for this week:
+Now one question's on my mind for this week:<br/>
 **Is Rokurou a spy? He seems to know certain things about the Abbey, and about ships...or maybe he's that good at observations?**
