@@ -29,4 +29,10 @@ categories: tob tales-of-berseria
 	<li>Part 19: Back To The Ship/Sibling Reunion</li>
 	<li>Part 20: Next Plan of Action</li>
 	<li>Part 21: The Hellawes Job</li>
+	<li>Part 22: Sailing Away</li>
+	<li>Part 23: Enter the Blond Batman Pirate Malak</li>
+	<li>Part 24: West Laban Cave</li>
+	<li>Part 24a: A Turtlez Man</li>
+	<li>Part 25: Arriving at Burnack Plateau</li>
+	<li>Part 26: Entering Vortigern, Sea Gate Fortress</li>
 </ul>
