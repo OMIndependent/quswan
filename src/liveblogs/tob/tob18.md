@@ -6,6 +6,10 @@ publishDate: 2018-02-21 19:10:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
+<p style="text-align: center">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3)</p>
+
+<a name="1"></a>
+
 We wander around the cave some more to scavenge for some more materials...
 
 I'm dodging and weaving past monsters...
