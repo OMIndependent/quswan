@@ -3,6 +3,7 @@ bin
 assets/img/*.svg
 assets/img/*.gif
 deploy.sh
+about.md
 *.log
 *.npm
 *.scss
