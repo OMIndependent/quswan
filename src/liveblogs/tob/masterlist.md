@@ -12,15 +12,21 @@ categories: tob tales-of-berseria
 	<li>[Part 3: Tranquil Woods](../tob3/)</li>
 	<li>[Part 4: Sunset Memories](../tob4/)</li>
 	<li>[Part 5: Night of the Living Daemonic](../tob5/)</li>
-	<li>Part 6: Imprisoment</li>
-	<li>Part 7: Prison Break</li>
-	<li>Part 8: Escape</li>
-	<li>Part 9: The Exorcist Praetor</li>
-	<li>Part 10: Declaration of Revenge</li>
-	<li>Part 11: In Chilling, Uncharted Territory</li>
-	<li>Part 11a: Explanation In Ekatzcipation</li>
-	<li>Part 12: Hellawes, Tranquil Boreal Capital</li>
-	<li>Part 13: Enter Teresa Linares and the Shipping Guild</li>
-	<li>Part 14: Broiling Hatred</li>
-	<li>Part 15: Beardsley, the Snow-Covered Hamlet</li>
+	<li>[Part 6: Imprisoment](../tob6/)</li>
+	<li>[Part 7: Prison Break](../tob7/)</li>
+	<li>[Part 8: Escape](../tob8/)</li>
+	<li>[Part 9: The Exorcist Praetor](../tob9/)</li>
+	<li>[Part 10: Declaration of Revenge](../tob10/)</li>
+	<li>[Part 11: In Chilling, Uncharted Territory](../tob11/)</li>
+	<li>[Part 11a: Explanation In Ekatzcipation](../tob11a/)</li>
+	<li>[Part 12: Hellawes, Tranquil Boreal Capital](../tob12/)</li>
+	<li>[Part 13: Enter Teresa Linares and the Shipping Guild](../tob13/)</li>
+	<li>[Part 14: Broiling Hatred](../tob14/)</li>
+	<li>[Part 15: Beardsley, the Snow-Covered Hamlet](../tob15/)</li>
+	<li>Part 16: Hollowing Into Hadlow Hollow</li>
+	<li>Part 17: Croco-Dyle Hunting</li>
+	<li>Part 18: Return to Hellawes</li>
+	<li>Part 19: Back To The Ship/Sibling Reunion</li>
+	<li>Part 20: Next Plan of Action</li>
+	<li>Part 21: The Hellawes Job</li>
 </ul>
