@@ -4,6 +4,7 @@ assets/img/*.svg
 assets/img/*.gif
 deploy.sh
 about.md
+about.html
 *.log
 *.npm
 *.scss
