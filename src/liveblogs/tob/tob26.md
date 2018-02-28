@@ -34,10 +34,10 @@ Heading outside, there's a lone Midgand battleship.
 
 Eizen points out that malakhim were used to build it from the base down...oh my god...
 
-**Rokurou:** "If malakhim can be made to fell daemons, they can also be made a hammer to forge metal."
-**Velvet:** "It's another way the Abbey and the kingdom show their dominance to the people. It says, 'Do not resist. Submit.'"
-**Eizen:** "It's disgusting is what it is."
-**Malak child:** "Disgusting."
+**Rokurou:** "If malakhim can be made to fell daemons, they can also be made a hammer to forge metal."<br/>
+**Velvet:** "It's another way the Abbey and the kingdom show their dominance to the people. It says, 'Do not resist. Submit.'"<br/>
+**Eizen:** "It's disgusting is what it is."<br/>
+**Malak child:** "Disgusting."<br/>
 **Velvet:** "Agreed."
 
 This tale has gotten bigger than just a personal vendetta...

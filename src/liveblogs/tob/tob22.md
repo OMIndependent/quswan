@@ -52,8 +52,8 @@ She asks the malak about his real name. He has no real name, he says.
 
 Velvet asks him to hold the compass. His answer and the exchange below is a bit heartbreaking...
 
-**Malak:** "If that's an order."
-**Velvet:** "I'm asking you what you want."
+**Malak:** "If that's an order."<br/>
+**Velvet:** "I'm asking you what you want."<br/>
 **Malak:** "So you're ordering me to answer?"
 
 Now Velvet gets to the heart of the matter of the malak's purpose: as tools. Velvet "orders [him] to shut his mouth."

@@ -24,8 +24,8 @@ He's strong against water...
 
 I look at the malak's artes. He has **First Aid**, another *Tales* staple! Along with a lot of elemental spells!
 
-**Velvet:** "Who is this guy?"
-**Rokurou:** "A malak pirate?"
+**Velvet:** "Who is this guy?"<br/>
+**Rokurou:** "A malak pirate?"<br/>
 **Malak Pirate:** "A sword, twin blades, and paper...no pendulum that I can see..." What pendulum is he talking about?
 
 Now at half health, what is the Malak Pirate's next move?

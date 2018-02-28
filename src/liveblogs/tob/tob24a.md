@@ -10,7 +10,7 @@ categories: tob tales-of-berseria playthroughs
 
 <a name="1"></a>
 
-**???:** "Turtlez! Turtlez!"
+**???:** "Turtlez! Turtlez!"<br/>
 **Velvet:** "Are you a turtle daemon or something?"
 
 The White Turtlez sounds like the English dub of Meowth from the Pokemon anime...

@@ -122,7 +122,7 @@ Eizen explains the Gate is very "impregnable." An attack is impossible on land o
 
 Velvet thinks of trying both land and sea attacks. That's what Eizen wants. Bait the naval fleet, and then open the Gate by land. Afterwards, the *Van Eltia* will move away and head into the Gate after it's open, I think.
 
-**Rokurou:** "One slip, and we're good as dead."
+**Rokurou:** "One slip, and we're good as dead."<br/>
 **Velvet:** "Then don't slip, and we're not dead."
 
 Eizen says the plan's in motion now. That escalated quickly.
