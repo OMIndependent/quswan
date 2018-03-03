@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 27: Opening the Gate"
 date: 2018-02-08 09-0800
-publishDate: 2018-03-02 12:00:00 -0800
+publishDate: 2018-03-02 22:00:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 

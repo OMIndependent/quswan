@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 28: A New Name"
 date: 2018-02-08 09-0800
-publishDate: 2018-03-02 12:01:00 -0800
+publishDate: 2018-03-02 22:01:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
