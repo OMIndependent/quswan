@@ -45,4 +45,10 @@ categories: voltron
   <li>4x04: The Voltron Show!</li>
   <li>4x05: Begin the Blitz</li>
   <li>4x06: A New Defender</li>
+  <li>5x01: The Prisoner</li>
+  <li>5x02: Blood Duel</li>
+  <li>5x03: Postmortem</li>
+  <li>5x04: Kral Zera</li>
+  <li>5x05: Bloodlines</li>
+  <li>5x06: White Lion</li>
 </ul>
