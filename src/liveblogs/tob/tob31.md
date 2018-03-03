@@ -80,7 +80,7 @@ There's guards drilling for a parade for the ceremony too...
 
 There's a girl sitting on a bench with her mother who's excited about the exorcists and the Prince speaking. She wants to thank **that man**. Mom agrees.
 
-**Magilou:** "[The exorcists] sure are popular."
+**Magilou:** "[The exorcists] sure are popular."<br/>
 **Velvet:** “Because these people don't know the truth.”
 
 Magilou also brings up another truth. In a serious voice, she says the exorcists are fighting daemons because ordinary people can't. Hence why they're grateful to them. Velvet sulks.
@@ -129,7 +129,7 @@ Velvet climbs the wall, but slips...
 
 Laphicet sees her.
 
-**Prince:** "He serves as a shining beacon of Reason in this world of turmoil. And Reason is what binds us."
+**Prince:** "He serves as a shining beacon of Reason in this world of turmoil. And Reason is what binds us."<br/>
 **Velvet:** (thinking) "**But you killed him! You took everything that I loved!**"
 
 Velvet climbs.
@@ -224,7 +224,7 @@ The area to the east is now open.
 
 A devotee of the Church is in awe at the new label royalty's given **that man**, thinking that with him, the Era of Disaster will end...
 
-**Velvet:** "**Shepherd Artorius?**"
+**Velvet:** "**Shepherd Artorius?**"<br/>
 **Rokurou:** "**How pompous can you get?**"
 
 Eizen points out that **that man** has full control of both the "religious and secular power in Midgand," and has "become the very hope of the masses."
@@ -245,7 +245,7 @@ We head to the cathedral.
 
 We overhear a family lauding the Shepherd. The woman there's moved to tears at the short speech. The son's devoted to helping the Abbey. The girl wants to marry **that man** when she grows up. If only she knew the truth about him...
 
-**Rokurou:** "Now that's popularity."
+**Rokurou:** "Now that's popularity."<br/>
 **Velvet:** "Ignorance is bliss."
 
 Now everyone's more focused on "order" and "will."
