@@ -25,10 +25,19 @@ categories: som secret-of-mana
 	<li>[Part 15: Dwarf Village](../som15/)</li>
 	<li>[Part 16: A Second Danger and A New Ally](../som16/)</li>
 	<li>[Part 17: Return to Haunted Forest](../som17/)</li>
-	<li>Part 18: The Witch's Castle</li>
-	<li>Part 19: The Witch's Lair</li>
-	<li>Part 20: Saving Undine</li>
-	<li>Part 21: Entering the Underground Palace</li>
-	<li>Part 22: Finishing the Underground Palace</li>
-	<li>Part 23: Wandering Again</li>
+	<li>[Part 18: The Witch's Castle](../som18/)</li>
+	<li>[Part 19: The Witch's Lair](../som19/)</li>
+	<li>[Part 20: Saving Undine](../som20/)</li>
+	<li>[Part 21: Entering the Underground Palace](../som21/)</li>
+	<li>[Part 22: Finishing the Underground Palace](../som22/)</li>
+	<li>[Part 23: Wandering Again](../som23/)</li>
+	<li>Part 24: Pandora Ruins</li>
+	<li>Part 25: Enter Thanatos</li>
+	<li>Part 26: Experimenting With Magic</li>
+	<li>Part 27: Finishing Pandora Ruins</li>
+	<li>Part 28: The Knight of Legend, Revealed</li>
+	<li>Part 29: The Scorpion Army</li>
+	<li>Part 30: Imperial Introductions</li>
+	<li>Part 31: Short Respite</li>
+	<li>Part 32: Into the Upper Land Forest</li>
 </ul>
