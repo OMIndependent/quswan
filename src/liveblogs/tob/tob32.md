@@ -80,8 +80,8 @@ Eizen asks Rokurou why he's teaming up with her. To repay his debt to Velvet.
 
 Eizen considers a daemon repaying a debt "ridiculous," like the idea of a pirate malak.
 
-**Rokurou:** "No matter how you look at it, there's nothing 'reasonable' about our rogue existence. And in this brave new world governed by reason, a rogue can either rage and become a monster like me, or..."
-**Eizen:** "Or band together with others like a shipful or pirates, perhaps."
+**Rokurou:** "No matter how you look at it, there's nothing 'reasonable' about our rogue existence. And in this brave new world governed by reason, a rogue can either rage and become a monster like me, or..."<br/>
+**Eizen:** "Or band together with others like a shipful or pirates, perhaps."<br/>
 **Rokurou:** "Exactly. I admire Velvet's courage, squaring off against the whole world on her own. Few can accomplish that. It takes [...] real strength. And I'm curious where it comes from."
 
 Rokurou's doing this for himself. So's Eizen.
