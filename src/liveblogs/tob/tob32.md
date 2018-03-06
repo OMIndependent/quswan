@@ -6,6 +6,10 @@ publishDate: 2018-03-05 21:45:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
+<p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3)</p>
+
+<a name="1"></a>
+
 More talking with citizens, a praetor mentions that he had resonance and joined the Abbey. Velvet, in her head, asks if he's well aware of the price of that power...
 
 Opening another gold chest, we get a **Plain Pendant...**
@@ -28,7 +32,7 @@ We head into the tavern. Only a bartender and a woman in black's there...
 
 Velvet asks the bartender food for Laphicet. They offer their best mabo curry. Mmmm...
 
-Velvet asks for Baskerville. He's been executed... :(
+Velvet asks for Baskerville. He's been executed... :frowning2:
 
 Now everyone's at the bar...
 
@@ -36,7 +40,7 @@ Now everyone's at the bar...
 
 ---
 
-Laphicet's enjoying the mabo curry. Velvet can't taste it... :(
+Laphicet's enjoying the mabo curry. Velvet can't taste it... :frowning2:
 
 The woman in black asks Velvet if Laphicet the malak's her brother. In another time...
 
