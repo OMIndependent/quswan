@@ -241,7 +241,7 @@ nav.nav-bar {
   display: block;
   margin-bottom: 1em;
 }
-.entry-link-top a {
+.entry-link-header a {
   border: 1px solid #0a160a;
   border-top-left-radius: 0.25em;
   border-top-right-radius: 0.25em;
@@ -251,10 +251,10 @@ nav.nav-bar {
   padding: 1em;
   text-decoration: none;
 }
-.entry-link-top a:hover {
+.entry-link-header a:hover {
   text-decoration: underline;
 }
-.entry-link-bottom {
+.entry-link-footer {
   border: 1px solid #0a160a;
   border-bottom-left-radius: 0.25em;
   border-bottom-right-radius: 0.25em;

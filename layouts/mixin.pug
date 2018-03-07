@@ -7,14 +7,14 @@ mixin navlink(path,name)
 
 //- mixin for entry links
 mixin entrylink(path,name,date)
-  article
+  div.outer-entry-link-wrapper
     div.entry-link-wrapper
-      div.entry-link-top
+      div.entry-link-header
         a(href='/' + path)
           header.entry-header
             h2.entry-title
               = name
-      div.entry-link-bottom
+      div.entry-link-footer
         time.entry-meta(datetime=date)= date.format("dddd, MMMM Do, YYYY")
 
 //- mixin for alternate footer
