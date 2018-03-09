@@ -210,7 +210,7 @@ My god, it was his insight that made me peg Rokurou as a traitor at first, but i
 
 Rokurou's devoted to taking on the Shepherd as well, with a daring grin on his face.
 
-<img src="https://i.imgur.com/auoFaiu.png" alt="rokurou grin" width="480" height="270" />
+<img src="https://i.imgur.com/auoFaiu.png" alt="rokurou grin" width="480" height="270" id="hd-liveblog" />
 
 One noble's questioning a local soldier how much power they're going to give **that man** in a fortnight. Even I'm concerned too. The soldier says the usual "it's necessary" line, even though some soldiers aren't okay with it.
 
