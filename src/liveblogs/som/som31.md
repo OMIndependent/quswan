@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 31: Short Respite"
 date: 2018-02-16 09-0800
-publishDate: 2018-03-10 13:10:00 -0800
+publishDate: 2018-03-10 15:10:00 -0800
 categories: som secret-of-mana playthroughs
 ---
 
