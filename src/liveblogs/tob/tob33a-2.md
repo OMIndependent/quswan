@@ -207,8 +207,8 @@ We take on the ambush stopping job next, which calls on us to stop a planned amb
 
 Laphicet and Eizen give a background of the RMS, who are funded by ordinary people.
 
-Rokurou asks good questions here:
-**Why would anyone want to ambush a group of doctors?**
+Rokurou asks good questions here:<br/>
+**Why would anyone want to ambush a group of doctors?**<br/>
 **And why would a shadow guild protect them for?**
 
 My guesses are that they may have aided in a few Bloodwings, or may have done some work for them...

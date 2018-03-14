@@ -6,7 +6,7 @@ publishDate: 2018-03-14 15:05:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
-<p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](../tob33a-2/#2) | [**Part 3**](../tob33a-2/#3) | [**Part 4**](../tob33a-2/#4) | [**Part 5**](../tob33a-2/#5) | [**Part 6**](../tob33a-2/#6) | [**Part 7**](../tob33a-2/#7) | [**Part 8**](../tob33a-2/#8)</p>
+<p style="text-align: center;">[**Part 1**](../tob33a-1/) | [**Part 2**](../tob33a-2/#2) | [**Part 3**](../tob33a-2/#3) | [**Part 4**](../tob33a-2/#4) | [**Part 5**](../tob33a-2/#5) | [**Part 6**](../tob33a-2/#6) | [**Part 7**](../tob33a-2/#7) | [**Part 8**](../tob33a-2/#8)</p>
 
 <a name="1"></a>
 
@@ -32,8 +32,8 @@ The agent gave us an **Inoph Bottle**!
 
 **Skit:**
 
-**Rokurou:** "Hey, Laphicet!"
-**Laphicet:** "What is it, Rokurou?"
+**Rokurou:** "Hey, Laphicet!"<br/>
+**Laphicet:** "What is it, Rokurou?"<br/>
 **Rokurou:** "**Mabo curry.**"
 
 Laphicet's stomach growls. Laphicet likes it. Rokurou asks if malakhim have their favorite foods.
