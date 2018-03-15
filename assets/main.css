@@ -266,19 +266,7 @@ nav.nav-bar {
   font-size: 0.9em;
 }
 
-/*.section-wrapper li {
-  list-style-type: none;
-}
-.section-no {
-  display: block;
-  border: #0a160a solid 1px;
-  background: #0a160a;
-  border-radius: 0.25em;
-  font-size: 1.25em;
-  margin-bottom: 0.5em;
-  padding: 0.5em;
-}
-.section-check {
+/*.section-check {
   display: none;
 }
 .section-check ~ .section-wrapper li ul.masterlink-wrapper {
@@ -300,6 +288,18 @@ nav.nav-bar {
   transition: all .15s ease-in .1s;
 }*/
 /* Masterlist page for liveblogs */
+.section-wrapper li {
+  list-style-type: none;
+}
+.section-no {
+  display: block;
+  border: #0a160a solid 1px;
+  background: #0a160a;
+  border-radius: 0.25em;
+  font-size: 1.25em;
+  margin-bottom: 0.75em;
+  padding: 0.5em;
+}
 .masterlink-wrapper li {
   list-style-type: none;
   border: #0a160a solid 1px;
