@@ -6,7 +6,7 @@ publishDate: 2018-03-17 19:01:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
-<p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4) | [**Part 5**](#5) | [**Part 6**](#6) | [**Part 7**](#7) | [**Part 8**](#8)</p> 
+<p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4) | [**Part 5**](#5) | [**Part 6**](#6) | [**Part 7**](#7)</p> 
 
 <p style="text-align: center;">[**The Slithering Echidna**](#a)</p>
 
@@ -274,7 +274,7 @@ There's a save point near the ladder and a warp point on the west end of this ar
 
 ---
 
-<h2>Tales of Berseria - Part 35a: The Slithering Echidna</h2>
+<p><h2 class="entry-title">Tales of Berseria - Part 35a: The Slithering Echidna</h2></p>
 
 ***Aside:*** I did this mission before doing the High Priest Job.
 
@@ -284,10 +284,10 @@ After running into a very **Dangerous Encounter** with a multitude of Marmots, a
 
 This time, I decide to head directly to the code red daemon...
 
-I read up on **Dangerous Encounters** in the menu, and it turns out these things happen when I'm in one:
-I can only heal a quarter of what I normally heal.
-Fleeing is 4 times longer.
-Enemies get reinforcements!
+I read up on **Dangerous Encounters** in the menu, and it turns out these things happen when I'm in one:<br/>
+I can only heal a quarter of what I normally heal.<br/>
+Fleeing is 4 times longer.<br/>
+Enemies get reinforcements!<br/>
 More frequent enemy attacks!
 
 No wonder why I couldn't beat those Pixies...
