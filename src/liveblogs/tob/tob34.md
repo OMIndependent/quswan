@@ -24,7 +24,7 @@ Velvet says they'll manage. Nope. There's also an arte-built barrier up as well.
 
 One of the Bloodwings are scouting for information concering that, but to get in, there's another price.
 
-The woman in black hands us "the bill." We have to assassinate High Priest Gideon. Holy heck... :(
+The woman in black hands us "the bill." We have to assassinate High Priest Gideon. Holy heck... :frowning2:
 
 Rokurou smiles, arms crossed at the idea.
 
@@ -54,7 +54,7 @@ Velvet passes the Bloodwings' test.
 
 Velvet reaffirms that she will do anything to get revenge for her brother...
 
-**Velvet:** "I [tossed] my scabbard long ago."
+**Velvet:** "I [tossed] my scabbard long ago."<br/>
 **Woman in black:** (closes eyes) "I see. So you are an embodiment of a bare blade. **A more formal introduction is in order. I am Tabatha Baskerville, leader of the Bloodwing Butterflies.**"
 
 Velvet introduces herself to Tabatha. She asks her more about the high priest Gideon.
