@@ -1,14 +1,12 @@
 ---
 layout: entry.pug
-title: "Tales of Berseria - Part 35: The High Priest Job"
+title: "Tales of Berseria - Part 35: The High Priest Job/Part 35a: The Slithering Echidna"
 date: 2018-02-21 09-0800
 publishDate: 2018-03-17 19:01:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
-<p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4) | [**Part 5**](#5) | [**Part 6**](#6) | [**Part 7**](#7)</p> 
-
-<p style="text-align: center;">[**The Slithering Echidna**](#a)</p>
+<p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4) | [**Part 5**](#5) | [**Part 6**](#6) | [**Part 7**](#7) | [**The Slithering Echidna**](#a)</p> 
 
 <a name="1"></a>
 
