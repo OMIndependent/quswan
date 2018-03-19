@@ -12,7 +12,7 @@ categories: tob tales-of-berseria playthroughs
 
 **Expedition check:** we get a **mini-Lloyd** figure!
 
-**Velvet:** "So not even the High Priest is immune to daemonblight."
+**Velvet:** "So not even the High Priest is immune to daemonblight."<br/>
 **Magilou:** (serious) "I guess he hit his limit."
 
 That's one mild way of putting it...
@@ -59,7 +59,7 @@ Eleanor stands down, and drops to her knees, crying.
 
 We're back outside the cathedral.
 
-**Rokurou:** "That was some night, though."
+**Rokurou:** "That was some night, though."<br/>
 **Eizen:** "Stay sharp. Dawn hasn't come yet."
 
 The scarfed soldier asks us about the job. It's done.

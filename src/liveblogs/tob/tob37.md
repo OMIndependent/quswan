@@ -50,9 +50,9 @@ The game hints that we can get six characters total!
 
 But it's at a cost of 1 blast gauge...
 
-**Velvet:** "You owe us, Magilou."
-**Magilou:** "Oh, I'm nothing like Rokurou. I forget my debts so fast."
-**Velvet:** "Then pay us back right here!"
+**Velvet:** "You owe us, Magilou."<br/>
+**Magilou:** "Oh, I'm nothing like Rokurou. I forget my debts so fast."<br/>
+**Velvet:** "Then pay us back right here!"<br/>
 **Magilou:** "Always invest responsibly, children!"
 
 I accidentally switch control to Magilou...

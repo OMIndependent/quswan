@@ -50,32 +50,32 @@ Laphicet wakes.
 
 He apologizes to Velvet.
 
-<strong>Velvet:</strong> "Don't worry. Getting sleepy or hungry is [natural]. I won't eat you."
+**Velvet:** "Don't worry. Getting sleepy or hungry is [natural]. I won't eat you."
 
 Laphicet asks her about her injuries. Velvet says she's fine.
 
-<strong>Laphicet:</strong> "You're really tough, aren't you, Velvet?"
-<strong>Velvet:</strong> "You have to be tough if what you seek is revenge."
+**Laphicet:** "You're really tough, aren't you, Velvet?"<br/>
+**Velvet:** "You have to be tough if what you seek is revenge."
 
 I wish she'd tell him everything that's happened to her.
 
 Some Bloodwings are at the tavern are sleeping their heart out because they posed as soldiers during our mission...
 
-<strong>Tabatha:</strong> "See you later. If you're still alive."
+**Tabatha:** "See you later. If you're still alive."
 
 Next day, Magilou's overjoyed that she gets to "play" with her malak Bienfu again...Velvet tells her not to kill Bienfu. Magilou then tells her not to eat Laphicet.
 
 Magilou points out we're facing not just the Shepherd, but an Empyrean. Oh boy...
 
-Velvet thinks <strong>that man</strong>'s lying, and says a true god can cure daemonblight.
+Velvet thinks **that man**'s lying, and says a true god can cure daemonblight.
 
 Eizen smirks.
 
 Velvet believes that "there's something people call Innominat" whom she calls "a malak that summoned other malakhim to come into the world."
 
-<strong>Magilou:</strong> "You sound confident." It's because she saw it right before her eyes. But in between those three years, <strong>that man</strong> might have done tons of things to curry that so-called god's favor.
+**Magilou:** "You sound confident." It's because she saw it right before her eyes. But in between those three years, **that man** might have done tons of things to curry that so-called god's favor.
 
-<strong>Laphicet:</strong> "Revenge against Artorius...for her brother..."
+**Laphicet:** "Revenge against Artorius...for her brother..."
 
 Rokurou asks where the Empyrean's Throne is. It's in the northern road.
 
@@ -85,11 +85,11 @@ Eizen sends a message by sylphjay to his crew to recon the area.
 
 ---
 
-I get into a <strong>skit</strong> pointing out the usefulness of sylphjays.
+I get into a **skit** pointing out the usefulness of sylphjays.
 
-Rokurou jokes about eating a grilled one with a hard drink. Oh my god... *smh*
+Rokurou jokes about eating a grilled one with a hard drink. Oh my god... \*smh\*
 
-Eizen's not happy about what he said, saying sylphjays are <strong>serious business</strong> for pirates.
+Eizen's not happy about what he said, saying sylphjays are **serious business** for pirates.
 
 Sylphjays can also identify people via their "wavelengths." They're a kind of bird from the north.
 
@@ -97,12 +97,12 @@ Eizen tells another story about how they had sylphjays aboard the crew, and how 
 
 Rokurou wants a taste of one of them. Laphicet stops him! He's joking again, but his smug smirk says otherwise...
 
-<strong>New skit:</strong> Bienfu introduces himself to us, as a greater malak.
+**New skit:** Bienfu introduces himself to us, as a greater malak.
 
 Eizen and Laphicet are considered greater malak. Eizen tells Laphicet not to let a label like that bother him. Bienfu, though, is reliant on that label...
 
 Magilou starts teasing Bienfu again, calling him "her greatest servant."
 
-<strong>Velvet:</strong> "And our roster of the oblivious grows longer."
+**Velvet:** "And our roster of the oblivious grows longer."
 
 I stop here.
