@@ -31,13 +31,21 @@ categories: som secret-of-mana
 	<li>[Part 21: Entering the Underground Palace](../som21/)</li>
 	<li>[Part 22: Finishing the Underground Palace](../som22/)</li>
 	<li>[Part 23: Wandering Again](../som23/)</li>
-	<li>Part 24: Pandora Ruins</li>
-	<li>Part 25: Enter Thanatos</li>
-	<li>Part 26: Experimenting With Magic</li>
-	<li>Part 27: Finishing Pandora Ruins</li>
-	<li>Part 28: The Knight of Legend, Revealed</li>
-	<li>Part 29: The Scorpion Army</li>
-	<li>Part 30: Imperial Introductions</li>
-	<li>Part 31: Short Respite</li>
-	<li>Part 32: Into the Upper Land Forest</li>
+	<li>[Part 24: Pandora Ruins](../som24/)</li>
+	<li>[Part 25: Enter Thanatos](../som25/)</li>
+	<li>[Part 26: Experimenting With Magic](../som26/)</li>
+	<li>[Part 27: Finishing Pandora Ruins](../som27/)</li>
+	<li>[Part 28: The Knight of Legend, Revealed](../som28/)</li>
+	<li>[Part 29: The Scorpion Army](../som29/)</li>
+	<li>[Part 30: Imperial Introductions](../som30/)</li>
+	<li>[Part 31: Short Respite](../som31/)</li>
+	<li>[Part 32: Into the Upper Land Forest](../som32/)</li>
+	<li>Part 33: Four Seasons</li>
+	<li>Part 34: Wind Palace</li>
+	<li>Part 35: To Matango</li>
+	<li>Part 36: Dragon Searching</li>
+	<li>Part 37: Krackling Hot Kakkara</li>
+	<li>Part 38: Enter the Republic</li>
+	<li>Part 39: The Kingdom of Kakkara</li>
+	<li>Part 40: Fire Palace, Ice Country</li>
 </ul>

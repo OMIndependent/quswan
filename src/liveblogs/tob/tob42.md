@@ -238,5 +238,3 @@ Melchior's fascinated at what he saw.
 **Melchior:** "Innominat's power reacting with the earthpulse. Extraordinary."
 
 **Shepherd:** "**I begin to see...Still...giving your brother's name to a malak. You've strayed so far...**"
-
-**And with that, I'm going to stop here for this week!**
