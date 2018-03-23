@@ -226,8 +226,8 @@ I've now got more than 10,000 gold!
 
 I upgrade all that I have!
 
-**Javelin** -> **Light Trident**
-The So Bad **Power Glove** -> **Moogle Claws**
+**Javelin** -> **Light Trident**<br/>
+The So Bad **Power Glove** -> **Moogle Claws**<br/>
 **Herald Sword** -> **Claymore**
 
 <img src="https://i.imgur.com/Yra720H.png" alt="weapon checking" width="360" height="270" id="liveblog" />
