@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 39: The Kingdom of Kakkara"
 date: 2018-03-01 09-0800
-publishDate: 2018-03-24 08:06:00 -0800
+publishDate: 2018-03-24 23:56:00 -0800
 categories: som secret-of-mana playthroughs
 draft: true
 ---
