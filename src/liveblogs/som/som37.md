@@ -4,7 +4,6 @@ title: "Secret of Mana - Part 37: Krackling Hot Kakkara"
 date: 2018-03-01 09-0800
 publishDate: 2018-03-24 23:50:00 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3)</p>

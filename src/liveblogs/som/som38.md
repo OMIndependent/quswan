@@ -4,7 +4,6 @@ title: "Secret of Mana - Part 38: Enter the Republic"
 date: 2018-03-01 09-0800
 publishDate: 2018-03-24 23:55:00 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4) | [**Part 5**](#5)</p>
