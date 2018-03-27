@@ -69,6 +69,19 @@ categories: tob tales-of-berseria
 	</li>
 	<li><span class="section-no">Act III</span>
 		<ul class="masterlink-wrapper">
+			<li>Part 43: In an Unknown Place</li>
+			<li>Part 44: Yvolg Ruins</li>
+			<li>Part 45: Velvet vs. Eleanor</li>
+			<li>Part 46: Recovery</li>
+			<li>Part 47: Setting Off</li>
+			<li>Part 48: Swordbreaker</li>
+			<li>Part 48a: Fighting a Flappy Bird Daemon</li>
+			<li>Part 49: Tunneling Through</li>
+			<li>Part 49a: Ouroboros</li>
+			<li>Part 50: Enter Shigure and the Swordbreaker Kurogane</li>
+			<li>Part 51: Kurogane's Workshop</li>
+			<li>Part 52: Maritime Confrontation</li>
+			<li>Part 53: Preparation Before Southgand</li>
 		</ul>
 	</li>
 </ul>

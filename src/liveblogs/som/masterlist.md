@@ -40,12 +40,12 @@ categories: som secret-of-mana
 	<li>[Part 30: Imperial Introductions](../som30/)</li>
 	<li>[Part 31: Short Respite](../som31/)</li>
 	<li>[Part 32: Into the Upper Land Forest](../som32/)</li>
-	<li>Part 33: Four Seasons</li>
-	<li>Part 34: Wind Palace</li>
-	<li>Part 35: To Matango</li>
-	<li>Part 36: Dragon Searching</li>
-	<li>Part 37: Krackling Hot Kakkara</li>
-	<li>Part 38: Enter the Republic</li>
-	<li>Part 39: The Kingdom of Kakkara</li>
-	<li>Part 40: Fire Palace, Ice Country</li>
+	<li>[Part 33: Four Seasons](../som33/)</li>
+	<li>[Part 34: Wind Palace](../som34/)</li>
+	<li>[Part 35: To Matango](../som35/)</li>
+	<li>[Part 36: Dragon Searching](../som36/)</li>
+	<li>[Part 37: Krackling Hot Kakkara](../som37/)</li>
+	<li>[Part 38: Enter the Republic](../som38/)</li>
+	<li>[Part 39: The Kingdom of Kakkara](../som39/)</li>
+	<li>[Part 40: Fire Palace, Ice Country](../som40/)</li>
 </ul>
