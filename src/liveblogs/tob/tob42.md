@@ -28,7 +28,7 @@ Rokurou stops to ask Velvet the Shepherd's fighting method. Velvet mentions his 
 
 Velvet's strategy is to have her companions "strain his [connection] to his malak," and then she'll eat his connection with her arm.
 
-Then she plans to have Laphicet cast his artes on him to keep her healthy.
+Laphicet's job is to keep her healthy.
 
 Rokurou thinks her direct offense "isn't a bad plan," though Magilou knows there's a certain chance of death.
 
