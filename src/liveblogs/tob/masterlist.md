@@ -71,6 +71,8 @@ categories: tob tales-of-berseria
 		<ul class="masterlink-wrapper">
 			<li>Part 43: In an Unknown Place</li>
 			<li>Part 44: Yvolg Ruins</li>
+			<li>Part 44a: Magilou vs. White Turtlez</li>
+			<li>Part 44b: The Spider Queen</li>
 			<li>Part 45: Velvet vs. Eleanor</li>
 			<li>Part 46: Recovery</li>
 			<li>Part 47: Setting Off</li>
