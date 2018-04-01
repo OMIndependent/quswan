@@ -29,10 +29,10 @@ The duel begins!
 Velvet starts the opening salvo.
 
 **Velvet:** "I see you're not using Laphicet to help you fight."<br/>
-**Eleanor:** “Of course! This duel is me vs. you."<br/>
+**Eleanor:** "“"Of course! This duel is me vs. you."<br/>
 **Velvet:** "Heh. I'd better not hear any excuses after your defeat then!"
 
-I'm now learning how guard properly in this fight!
+I'm now learning how to guard properly in this fight!
 
 She can cast spells too!
 
