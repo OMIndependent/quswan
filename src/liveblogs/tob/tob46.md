@@ -4,7 +4,6 @@ title: "Tales of Berseria - Part 46: Recovery"
 date: 2018-02-24 09-0800
 publishDate: 2018-04-01 15:00:00 -0800
 categories: tob tales-of-berseria playthroughs
-draft: true
 ---
 
 <p style="text-align: center;">[**Part 1**](#1) [**Part 2**](#2) | [**Part 3**](#3) | [**Part 4**](#4)</p>
