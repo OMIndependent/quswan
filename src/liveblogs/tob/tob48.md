@@ -113,7 +113,7 @@ His daemon eye glows!
 
 The Swordbreaker charges, but Laphicet fires at the Swordbreaker! **Oops!**
 
-Rokurou goes after Laphicet! :worry:
+Rokurou goes after Laphicet! :worried:
 
 Eleanor and Velvet jump in!
 
