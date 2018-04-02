@@ -144,6 +144,8 @@ The poor White Turtlez weeps his heart out...hee...
 
 ---
 
+<p><h2 class="entry-title">Tales of Berseria - Part 44: Yvolg Ruins (continued)</h2></p>
+
 We do business at the Turtlez Shop.
 
 After more weapon customizations, we a get another ventite!
