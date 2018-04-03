@@ -108,6 +108,8 @@ No, someone's disarmed him!
 
 ---
 
+<p><h2 class="entry-title">Tales of Berseria - Part 48a: Ouroboros</h2></p>
+
 We break through another boulder north a den of monsters, revealing another crawlspace! I head in.
 
 This is taking us to another code red daemon, huh?
