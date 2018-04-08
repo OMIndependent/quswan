@@ -69,21 +69,21 @@ categories: tob tales-of-berseria
 	</li>
 	<li><span class="section-no">Act III</span>
 		<ul class="masterlink-wrapper">
-			<li>Part 43: In an Unknown Place</li>
-			<li>Part 44: Yvolg Ruins</li>
-			<li>Part 44a: Magilou vs. White Turtlez</li>
-			<li>Part 44b: The Spider Queen</li>
-			<li>Part 45: Velvet vs. Eleanor</li>
-			<li>Part 46: Recovery</li>
-			<li>Part 47: Setting Off</li>
-			<li>Part 48: Swordbreaker</li>
-			<li>Part 48a: Fighting a Flappy Bird Daemon</li>
-			<li>Part 49: Tunneling Through</li>
-			<li>Part 49a: Ouroboros</li>
-			<li>Part 50: Enter Shigure and the Swordbreaker Kurogane</li>
-			<li>Part 51: Kurogane's Workshop</li>
-			<li>Part 52: Maritime Confrontation</li>
-			<li>Part 53: Preparation Before Southgand</li>
+			<li>[Part 43: In an Unknown Place](../tob43/)</li>
+			<li>[Part 44: Yvolg Ruins](../tob44/)</li>
+			<li>[Part 44a: Magilou vs. White Turtlez](../tob44/#a)</li>
+			<li>[Part 44b: The Spider Queen](../tob44/#b)</li>
+			<li>[Part 45: Velvet vs. Eleanor](../tob45/)</li>
+			<li>[Part 46: Recovery](../tob46/)</li>
+			<li>[Part 47: Setting Off](../tob47/)</li>
+			<li>[Part 48: Swordbreaker](../tob48/)</li>
+			<li>[Part 48a: Fighting a Flappy Bird Daemon](../tob48/#a)</li>
+			<li>[Part 49: Tunneling Through](../tob49/)</li>
+			<li>[Part 49a: Ouroboros](../tob49/#a)</li>
+			<li>[Part 50: Enter Shigure and the Swordbreaker Kurogane](../tob50/)</li>
+			<li>[Part 51: Kurogane's Workshop](../tob51/)</li>
+			<li>[Part 52: Maritime Confrontation](../tob52/)</li>
+			<li>[Part 53: Preparation Before Southgand](../tob53/)</li>
 		</ul>
 	</li>
 </ul>
