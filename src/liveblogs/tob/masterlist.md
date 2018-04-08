@@ -81,7 +81,8 @@ categories: tob tales-of-berseria
 			<li>[Part 49: Tunneling Through](../tob49/)</li>
 			<li>[Part 49a: Ouroboros](../tob49/#a)</li>
 			<li>[Part 50: Enter Shigure and the Swordbreaker Kurogane](../tob50/)</li>
-			<li>[Part 51: Kurogane's Workshop](../tob51/)</li>
+			<li>[Part 51: Kurogane's Workshop (Part 1-4)](../tob51-1/)</li>
+			<li>[Part 51: Kurogane's Workshop (Part 5-7)](../tob51-2/)
 			<li>[Part 52: Maritime Confrontation](../tob52/)</li>
 			<li>[Part 53: Preparation Before Southgand](../tob53/)</li>
 		</ul>
