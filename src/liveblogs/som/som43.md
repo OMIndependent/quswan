@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 43: Fiery Demonstrations and the Ice Castle"
 date: 2018-03-12 09-0800
-publishDate: 2018-04-16 19:00:00 -0800
+publishDate: 2018-04-16 18:30:00 -0800
 categories: som secret-of-mana playthroughs
 ---
 

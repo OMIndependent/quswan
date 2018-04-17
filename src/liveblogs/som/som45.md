@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 45: Fire Palace Once Again"
 date: 2018-03-14 09-0800
-publishDate: 2018-04-16 19:00:50 -0800
+publishDate: 2018-04-16 18:30:50 -0800
 categories: som secret-of-mana playthroughs
 ---
 

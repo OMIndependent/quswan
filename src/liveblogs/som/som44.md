@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 44: Finishing the Ice Palace"
 date: 2018-03-13 09-0800
-publishDate: 2018-04-16 19:00:30 -0800
+publishDate: 2018-04-16 18:30:30 -0800
 categories: som secret-of-mana playthroughs
 ---
 
