@@ -85,6 +85,18 @@ categories: tob tales-of-berseria
 			<li>[Part 51: Kurogane's Workshop (Part 5-7)](../tob51-2/)
 			<li>[Part 52: Maritime Confrontation](../tob52/)</li>
 			<li>[Part 53: Preparation Before Southgand](../tob53/)</li>
+			<li>Part 54: Pit Stop At Reneed</li>
+			<li>Part 55: Fens of Nog, Secluded Waters</li>
+			<li>Part 55a: A Literal Trickstar</li>
+			<li>Part 56: Warg Forest, Emerald Labyrinth</li>
+			<li>Part 56a: Plantasm</li>
+			<li>Part 57: Meeting Up With An Old Friend</li>
+			<li>Part 58: Finding Eizen</li>
+			<li>Part 59: Return to Burnack Plateau</li>
+			<li>Part 59a: Hungry Like the Wolf</li>
+			<li>Part 60: Lothringen, Tower of the Exorcists</li>
+			<li>Part 61: Heading Out/The Omega Elixir</li>
+			<li>Part 62: To Southgand</li>
 		</ul>
 	</li>
 </ul>
