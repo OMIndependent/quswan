@@ -191,7 +191,7 @@ She tells us more news about Dyluck's whereabouts. He's up to no good. It's prob
 
 <img src="https://i.imgur.com/Xd47d03.png" alt="dyluck drain" width="360" height="270" id="liveblog" />
 
-**Pidge:** "Like in Pandora! But why's Dyluck..."
+**Pidge:** "Like in Pandora! But why's Dyluck..."<br/>
 **Krissie:** "Something must be controlling him. We'll check on that."
 
 They wander about.
