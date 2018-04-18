@@ -112,7 +112,7 @@ I go in the small house where the elderly woman went into.
 
 We talk to the old woman. It's Mara!
 
-**Mara:** "Ah! I know who you are!"
+**Mara:** "Ah! I know who you are!"<br/>
 **Hero:** "!?.."
 
 <img src="https://i.imgur.com/hXbQfAZ.png" alt="jema's friends" width="360" height="270" id="liveblog" />
@@ -181,10 +181,10 @@ Pidge is surprised and awed that the Resistance is led by a woman. She crosses h
 
 <img src="https://i.imgur.com/RhPM02b.png" alt="woman" width="360" height="270" id="liveblog" />
 
-**Max:** "Jealous?"
+**Max:** "Jealous?"<br/>
 **Pidge:** "Knock it off! I'm Dyluck's girl!"
 
-**Krissie:** "You **know** Dyluck!?"
+**Krissie:** "You **know** Dyluck!?"<br/>
 **Pidge:** "Of course...why?"
 
 She tells us more news about Dyluck's whereabouts. He's up to no good. It's probably Thanatos who has him under his control...
