@@ -52,7 +52,7 @@ After resting at the inn, we talk to Watts, who can sense the Empire's brewing i
 
 We upgrade our remaining weapons.
 
-**Moogle Claws** to **Chakra Hand**
+**Moogle Claws** to **Chakra Hand**<br/>
 **Lode Boomerang** to **Rising Sun** (another Chakram!)
 
 In another house, an old man tells us about "something hidden in the coral to the south!"

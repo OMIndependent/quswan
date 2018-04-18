@@ -122,7 +122,7 @@ Pidge and Max also level up their Bow and Sword skills!
 
 Time for more upgrades with Watts!
 
-**Partisan** to **Halberd**
+**Partisan** to **Halberd**<br/>
 **Great Bow** to the **Bow of Hope!**
 
 <img src="https://i.imgur.com/eH0jIdx.png" alt="halberd" width="360" height="270" id="liveblog" />
