@@ -69,7 +69,7 @@ We talk to a girl who says that someone named Phanna gave her candy.
 
 <img src="https://i.imgur.com/zPOSVqi.png" alt="phanna" width="480" height="360" />
 
-Phanna's here too? Oh no... :worry:
+Phanna's here too? Oh no... :worried:
 
 One guard's adamant they'll find the Resistance...
 
