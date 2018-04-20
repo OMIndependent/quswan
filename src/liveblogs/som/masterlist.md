@@ -48,13 +48,13 @@ categories: som secret-of-mana
 	<li>[Part 38: Enter the Republic](../som38/)</li>
 	<li>[Part 39: The Kingdom of Kakkara](../som39/)</li>
 	<li>[Part 40: Fire Palace, Ice Country](../som40/)</li>
-	<li>Part 41: Tough Trek In Ice Country</li>
-	<li>Part 42: Freeing Salamando/Salamander</li>
-	<li>Part 43: Fiery Demonstrations and the Ice Palace</li>
-	<li>Part 44: Finishing the Ice Palace</li>
-	<li>Part 45: Fire Palace Once Again</li>
-	<li>Part 46: Into the Empire/Meeting the Resistance</li>
-	<li>Part 47: For A Mallet</li>
-	<li>Part 48: Imperial Ruins</li>
-	<li>Part 49: Deeper Into the Ruins</li>
+	<li>[Part 41: Tough Trek In Ice Country](../som41/)</li>
+	<li>[Part 42: Freeing Salamando/Salamander](../som42/)</li>
+	<li>[Part 43: Fiery Demonstrations and the Ice Palace](../som43/)</li>
+	<li>[Part 44: Finishing the Ice Palace](../som44/)</li>
+	<li>[Part 45: Fire Palace Once Again](../som45/)</li>
+	<li>[Part 46: Into the Empire/Meeting the Resistance](../som46/)</li>
+	<li>[Part 47: For A Mallet](../som47/)</li>
+	<li>[Part 48: Imperial Ruins](../som48/)</li>
+	<li>[Part 49: Deeper Into the Ruins](../som49/)</li>
 </ul>
