@@ -57,4 +57,14 @@ categories: som secret-of-mana
 	<li>[Part 47: For A Mallet](../som47/)</li>
 	<li>[Part 48: Imperial Ruins](../som48/)</li>
 	<li>[Part 49: Deeper Into the Ruins](../som49/)</li>
+	<li>Part 50: Imperial Entanglements/Enter Emperor Vandole</li>
+	<li>Part 51: Flying With Flammie</li>
+	<li>Part 52: Gold City, Tasnica, and Mandala</li>
+	<li>Part 53: A Little More Joyflying</li>
+	<li>Part 54: Lofty Mountains</li>
+	<li>Part 55: Palace of Darkness</li>
+	<li>Part 56: The Search For Sage Joch</li>
+	<li>Part 57: Golden Tower, Light Palace</li>
+	<li>Part 58: Flight to the Moon... Palace</li>
+	<li>Part 59: Once More to the Sage's Cave</li>
 </ul>
