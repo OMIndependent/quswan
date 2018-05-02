@@ -33,6 +33,7 @@ Then Bienfu digs his hole deeper.
 Eleanor considers Bienfu a "stranger."
 
 <img src="https://i.imgur.com/Ih6ZsQ9.png" alt="velvet glare" width="480" height="270" id="hd-liveblog" />
+
 Velvet's "not amused" look is comedy legend...she pulls Laphicet away from Eleanor...
 
 Eizen shrugs, not knowing what's going on...
