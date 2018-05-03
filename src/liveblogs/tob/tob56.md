@@ -143,6 +143,8 @@ I make it to the other side and lower the barrier here...
 
 ---
 
+<p><h2 class="entry-title">Tales of Berseria - Part 56a: Plantasm</h2></p>
+
 Now that that's done, I head off to face the code red daemon here.
 
 After gathering all the items in the surrounding area, and prepare, I face off against the **Plantasm!**
@@ -160,8 +162,6 @@ But I get paralyzed by his spin attack, and attacked repeatedly by his Heartbrea
 A few hits later, and he's finished!
 
 We get a **Glacite of Reversal** as our reward!
-
-<p><h2 class="entry-title">Tales of Berseria - Part 56a: Plantasm</h2></p>
 
 <a name="5"></a>
 

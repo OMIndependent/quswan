@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 59: Return to Burnack Plateau"
 date: 2018-03-06 09-0800
-publishDate: 2018-05-02 18:15:00 -0800
+publishDate: 2018-05-02 22:15:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
