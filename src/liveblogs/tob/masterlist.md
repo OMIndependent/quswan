@@ -85,18 +85,29 @@ categories: tob tales-of-berseria
 			<li>[Part 51: Kurogane's Workshop (Part 5-7)](../tob51-2/)
 			<li>[Part 52: Maritime Confrontation](../tob52/)</li>
 			<li>[Part 53: Preparation Before Southgand](../tob53/)</li>
-			<li>Part 54: Pit Stop At Reneed</li>
-			<li>Part 55: Fens of Nog, Secluded Waters</li>
-			<li>Part 55a: A Literal Trickstar</li>
-			<li>Part 56: Warg Forest, Emerald Labyrinth</li>
-			<li>Part 56a: Plantasm</li>
-			<li>Part 57: Meeting Up With An Old Friend</li>
-			<li>Part 58: Finding Eizen</li>
-			<li>Part 59: Return to Burnack Plateau</li>
-			<li>Part 59a: Hungry Like the Wolf</li>
-			<li>Part 60: Lothringen, Tower of the Exorcists</li>
-			<li>Part 61: Heading Out/The Omega Elixir</li>
-			<li>Part 62: To Southgand</li>
+			<li>[Part 54: Pit Stop At Reneed](../tob54/)</li>
+			<li>[Part 55: Fens of Nog, Secluded Waters](../tob55/)</li>
+			<li>[Part 55a: A Literal Trickstar](../tob55/#a)</li>
+			<li>[Part 56: Warg Forest, Emerald Labyrinth](../tob56/)</li>
+			<li>[Part 56a: Plantasm](../tob56/#a)</li>
+			<li>[Part 57: Meeting Up With An Old Friend](../tob57/)</li>
+			<li>[Part 58: Finding Eizen](../tob58/)</li>
+			<li>[Part 59: Return to Burnack Plateau](../tob59/)</li>
+			<li>[Part 59a: Hungry Like the Wolf](../tob59/#a)</li>
+			<li>[Part 60: Lothringen, Tower of the Exorcists](../tob60/)</li>
+			<li>[Part 61: Heading Out/The Omega Elixir](../tob61/)</li>
+			<li>[Part 62: To Southgand](../tob62/)</li>
+			<li>Part 63: Yseult, City of the Southern Seas</li>
+			<li>Part 64: The Search For Grimoirh</li>
+			<li>Part 64a: A Harpy-Go-Lucky Day</li>
+			<li>Part 65: Haria Village, Home of Old Beliefs</li>
+			<li>Part 66: The Fifth Empyrean</li>
+			<li>Part 67: Heading To Palamedes</li>
+			<li>Part 67a: Release the Kraken!</li>
+			<li>Part 68: Palamedes Temple, Southern Ruins</li>
+			<li>Part 69: Continuing Palamedes Temple</li>
+			<li>Part 70: Therion</li>
+			<li>Part 71: Malevolence</li>
 		</ul>
 	</li>
 </ul>
