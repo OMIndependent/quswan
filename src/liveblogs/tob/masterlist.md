@@ -110,4 +110,8 @@ categories: tob tales-of-berseria
 			<li>Part 71: Malevolence</li>
 		</ul>
 	</li>
+	<li><span class="section-no">Act IV</span>
+		<ul class="masterlink-wrapper">
+		</ul>
+	</li>
 </ul>
