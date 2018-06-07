@@ -38,6 +38,13 @@ figure  {
   padding: 0;
 }
 
+/* Set variables */
+* {
+  --links: 4;
+  --nav-height: 3.25em;
+  --link-row-height: 3.75em;
+}
+
 html {
   font-family: "Optima", "Open Sans", Arial, sans-serif;
   font-size: 16px;
@@ -218,7 +225,8 @@ nav.nav-bar {
   transition: all .15s ease-in .1s;
 }
 .nav-check:checked ~ ul.nav-list {
-  height: 15em; /* 15em = 240 px = (52px = 3.25em) * 4px */
+  /* ((52px = 3.75em height/link) * 4 links in nav-bar) */
+  height: calc(var(--links) * var(--link-row-height));
   opacity: 1;
   /* Setup transitions per browser */
   -webkit-transition: all .15s ease-in .1s;
@@ -403,7 +411,7 @@ p {
   .nav-bar ul.nav-list {
     /* Ensure links are in same row, not moved down */
     display: flex;
-    height: 3.25em; /* Each nav link is 3.25em high */
+    height: var(--nav-height); /* Each nav link is 3.25em high */
     opacity: 1;
   }
   .nav-bar li a {
@@ -411,7 +419,7 @@ p {
   }
   .nav-check:not(:checked) ~ ul.nav-list,
   .nav-check:checked ~ ul.nav-list {
-    height: 3.25em; /* Keeps nav links in one row */
+    height: var(--nav-height); /* Keeps nav links in one row */
     -webkit-transition: none;
     -moz-transition: none;
     -o-transition: none;
