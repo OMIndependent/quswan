@@ -140,6 +140,8 @@ The screen turns bright white and Lumina speaks to us!
 
 <img src="https://i.imgur.com/i4pAJDG.png" alt="i'm lumina" width="360" height="270" id="liveblog" />
 
+**Lumina:** "I'm Lumina! The King was robbing me of my power!"
+
 Oh my god...
 
 **Lumina:** "[King Manmon] was forcing me to make gold! My power should not be used by anyone but you! Take my power before evil engulfs us all!"
