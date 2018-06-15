@@ -51,4 +51,11 @@ categories: voltron
   <li>5x04: Kral Zera</li>
   <li>5x05: Bloodlines</li>
   <li>5x06: White Lion</li>
+  <li>6x01: Omega Shield</li>
+  <li>6x02: Razor's Edge</li>
+  <li>6x03: Monsters & Mana</li>
+  <li>6x04: The Colony</li>
+  <li>6x05: The Black Paladins</li>
+  <li>6x06: All Good Things</li>
+  <li>6x07: Defender of All Universes</li>
 </ul>
