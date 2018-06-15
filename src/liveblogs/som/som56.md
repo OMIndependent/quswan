@@ -10,7 +10,7 @@ categories: som secret-of-mana playthroughs
 
 <a name="1"></a>
 
-Reading from this guide, it seems that we fought the phantom blob in the Mana Seed chamber the whole time!
+Reading from an online guide, it seems that we fought the phantom blob in the Mana Seed chamber the whole time!
 
 I missed a Glove Orb in the Palace of Darkness as well, so I turn back there and find that room I missed...
 
