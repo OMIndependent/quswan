@@ -2,9 +2,8 @@
 layout: entry.pug
 title: "Secret of Mana - Part 59: Once More to the Sage's Cave"
 date: 2018-03-30 09-0800
-publishDate: 2018-06-16 22:00:10 -0800
+publishDate: 2018-06-16 22:10:10 -0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 On the climb back up, we see a familiar face...
