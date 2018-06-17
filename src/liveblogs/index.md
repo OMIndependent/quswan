@@ -23,8 +23,8 @@ permalink: /liveblogs/
 [<img src="" alt="tob banner" class="banner" />](./tob/masterlist/)
 <h4 style="text-align: center;">*Tales of Berseria* (masterlist only)</h4>
 
-<!--[<img src="" alt="iog banner" class="banner" />](./iog/masterlist/)
-<h4 style="text-align: center;">*Illusion of Gaia* (coming soon)</h4>-->
+[<img src="" alt="iog banner" class="banner" />](./iog/masterlist/)
+<h4 style="text-align: center;">*Illusion of Gaia*</h4>
 
 [<img src="" alt="vld banner" class="banner" />](./vld/)
 <h4 style="text-align: center;">*Voltron: Legendary Defender*</h4>
