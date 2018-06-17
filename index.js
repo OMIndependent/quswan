@@ -16,7 +16,7 @@ const assets          = require('metalsmith-assets')
 const pug             = require('metalsmith-pug')
 const markdown        = require('metalsmith-markdown')
 const emoji           = require('metalsmith-emoji')
-const moment          = require('metalsmith-moment')
+const msmoment        = require('metalsmith-moment')
 const layouts         = require('metalsmith-layouts')
 const permalinks      = require('metalsmith-permalinks')
 const pagination      = require('metalsmith-pagination')
@@ -195,7 +195,7 @@ Metalsmith(dir.base)
 
   .use(images(imgPattern)) // Enable image gallery generator
 
-  .use(moment(mtime)) // Add moment plugin
+  .use(msmoment(mtime)) // Add ms-moment plugin
 
   .use(pagination(pagi)) // Add pagination feature
 
