@@ -130,12 +130,13 @@ We fly back to the Lofty Mountains, and I demo Max's Change Form spell, turning 
 
 After taking care of them, I restock on Walnuts and get more upgrades from Watts!
 
-**Golden Axe** to **Were-Buster**
-**Halberd** to **Oceanid Spear**
-**Bow of Hope** to **Elfin Bow**
-**Red Cleaver** to **Cobra Shuttle** (what a funny name!)
+**Golden Axe** to **Were-Buster**<br/>
+**Halberd** to **Oceanid Spear**<br/>
+**Bow of Hope** to **Elfin Bow**<br/>
+**Red Cleaver** to **Cobra Shuttle** (what a funny name!)<br/>
 
 <img src="https://i.imgur.com/TRuyHDq.png" alt="weapon stats moon" width="480" height="360" />
+
 The Oceanid Spear's imbued with sleeping effects, the Were-Buster, as its name implies, is effective on beasts, animals, and birds, the Elfin Bow raises the Intelligence stat (perfect for Max!), and the Cobra Shuttle's a poison-tipped weapon!
 
 I equip Max with the bow and save at the inn before heading up to the peak again.
