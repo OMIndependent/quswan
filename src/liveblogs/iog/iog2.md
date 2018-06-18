@@ -20,7 +20,7 @@ A traveling weapons peddler is nearby, and we talk to him.
 
 <img src="https://i.imgur.com/shOCwCD.png" alt="too young" width="360" height="270" id="liveblog" />
 
-**Adultist!** *\*hiss\**
+**Adultist!** \**hiss*\*
 
 I head inside the building, which is Will's place.
 
