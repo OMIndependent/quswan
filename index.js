@@ -26,10 +26,9 @@ const cssmin          = require('metalsmith-clean-css')
 const imgmin          = require('metalsmith-imagemin')
 const sitemap         = require('metalsmith-mapsite')
 const browsersync     = require('metalsmith-browser-sync')
-const analytics       = require('metalsmith-google-analytics')
 
 /* Global settings */
-const desc = 'The Socially Aware Magic Swordsman\'s independent blog site generated with Metalsmith'
+const desc = 'The Socially Aware Magic Swordsman\'s reviews and playthroughs blog generated with Metalsmith'
 const numPosts = 10
 const entryPattern = ['posts/*.md', 'liveblogs/**/*.md', '!liveblogs/**/index.*',
   '!liveblogs/**/masterlist.*', 'trivia/**/*']
