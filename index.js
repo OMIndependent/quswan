@@ -26,6 +26,7 @@ const cssmin          = require('metalsmith-clean-css')
 const imgmin          = require('metalsmith-imagemin')
 const sitemap         = require('metalsmith-mapsite')
 const browsersync     = require('metalsmith-browser-sync')
+const analytics       = require('metalsmith-google-analytics')
 
 /* Global settings */
 const desc = 'The Socially Aware Magic Swordsman\'s independent blog site generated with Metalsmith'
