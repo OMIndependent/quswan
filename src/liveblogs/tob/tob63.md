@@ -26,11 +26,11 @@ The Twelve Year Sickness is mentioned here too.
 
 Heading down to the beach, there's a man fixing a boat...
 
-I head under the boardwalk and rescue another Katz! He gives us <strong>Laughing Glasses</strong> as a reward!
+I head under the boardwalk and rescue another Katz! He gives us **Laughing Glasses** as a reward!
 
 The beach city here looks so vast...
 
-Our expedition crew comes back with a new recipe: <strong>Wyvern Tendon Stew!</strong>
+Our expedition crew comes back with a new recipe: **Wyvern Tendon Stew!**
 
 A soldier doesn't know about Grimoirh, but mentions fishing bait.
 
@@ -42,11 +42,11 @@ The town's elder's sitting at a table, and asks us how we found Yseult so far. V
 
 Thanks to the Abbey, the wood industry's getting successful.
 
-<strong>Magilou:</strong> "In other words, when the money started flowing, people let it go to their heads?"
+**Magilou:** "In other words, when the money started flowing, people let it go to their heads?"
 
 The woman's in awe at the exorcists and northerners, and their "sophistication."
 
-<strong>Magilou:</strong> "Getting worked up and worked over by what's trendy. Isn't that [...] the very definition of youth?"
+**Magilou:** "Getting worked up and worked over by what's trendy. Isn't that [...] the very definition of youth?"
 
 <a name="2"></a>
 
@@ -54,7 +54,7 @@ The woman's in awe at the exorcists and northerners, and their "sophistication."
 
 We climb two ladders up to the roof of the tavern...what a view!
 
-We open the gold chest here and get <strong>Silky Paper!</strong>
+We open the gold chest here and get **Silky Paper!**
 
 Climbing down and back out to the city, I open a silver chest in a hut and get a Poison Ward!
 
@@ -64,7 +64,7 @@ He tells us about the history between Southgand and Midgand. Midgand, awed at So
 
 But things got worse: Midgand declared war on Southgand. I know where this is going, and I'm right. Midgand won.
 
-<strong>Boat fixer:</strong> "Our ancestors still liked to joke about it. They'the say, 'Age of Exploration? More like Age of Exploitation!'"
+**Boat fixer:** "Our ancestors still liked to joke about it. They'the say, 'Age of Exploration? More like Age of Exploitation!'"
 
 He tells us Southgand people always found the good stuff in every bad situation.
 
@@ -84,17 +84,17 @@ He tells Rokurou to confess his sins this time. Ooooh boy...
 
 He points out Rokurou's wardrobe as an indicator of the many sins he has.
 
-<strong>Rokurou:</strong> "Yeah, I hear you but I really can't think of anything."
-<strong>Priest:</strong> "Have you wielded violence?"
-<strong>Rokurou:</strong> "No, all I wield are my swords." Hee...
-<strong>Priest:</strong> "Well, have you hurt anybody with your swords?"
-<strong>Rokurou:</strong> "Yeah, but I haven't been able to land a killing blow yet. I've still got a long way to go." He's talking about Shigure.
+**Rokurou:** "Yeah, I hear you but I really can't think of anything."
+**Priest:** "Have you wielded violence?"
+**Rokurou:** "No, all I wield are my swords." Hee...
+**Priest:** "Well, have you hurt anybody with your swords?"
+**Rokurou:** "Yeah, but I haven't been able to land a killing blow yet. I've still got a long way to go." He's talking about Shigure.
 
 The priest tells him to repent.
 
 Rokurou thinks "he needs to improve his cutting technique."
 
-<strong>Rokurou:</strong> "It's a priest's job to guide the laymen, right? You'll have to start speaking more clearly if you want to anyone to trust your advice. Get your act together, man!"
+**Rokurou:** "It's a priest's job to guide the laymen, right? You'll have to start speaking more clearly if you want to anyone to trust your advice. Get your act together, man!"
 
 The priest decides to "reflect" on his sins. Then he does a double take...lol...poor priest...he's been had.
 
@@ -116,7 +116,7 @@ Velvet is about to lose her temper on Magilou...
 
 They stop. Teresa mentions "final preparations are complete" to Oscar. Preparations for what? Oscar feels like he can't handle the job.
 
-<strong>Teresa:</strong> "[The Shepherd] has high hopes for your deployment to Palamedes." <strong>Palamedes?</strong>
+**Teresa:** "[The Shepherd] has high hopes for your deployment to Palamedes." **Palamedes?**
 
 Teresa gives Oscar words of encouragement "to be himself" and "believe that he's a leader."
 
@@ -142,8 +142,8 @@ Laphicet tells Magilou Eleanor hasn't tattled anyone. Magilou, you troll...
 
 Velvet approaches her.
 
-<strong>Velvet:</strong> "You pledged to obey me until the day you died, correct?"
-<strong>Eleanor:</strong> "...Yes. That I did."
+**Velvet:** "You pledged to obey me until the day you died, correct?"
+**Eleanor:** "...Yes. That I did."
 
 They're almost at fists. Cooler heads prevail, with Laphicet mentioning the daemon might be after Grimoirh!
 
@@ -155,17 +155,17 @@ Eleanor breathes.
 
 ---
 
-<strong>Skit:</strong> Velvet asks Laphicet about the malak-and-vessel connection, probably trying to find any hint that Eleanor's spying on the crew for the Abbey.
+**Skit:** Velvet asks Laphicet about the malak-and-vessel connection, probably trying to find any hint that Eleanor's spying on the crew for the Abbey.
 
 Laphicet points out that he can't read Eleanor's mind.
 
-<strong>Laphicet:</strong> "Sitting in a box doesn't teach you how the box feels."
+**Laphicet:** "Sitting in a box doesn't teach you how the box feels."
 
 Velvet's thinking of keeping tabs on her. She asks Laphicet about Eleanor and his "boundaries." They have a talk before bed. She sleeps soundly and softly.
 
 Velvet warns Laphicet to watch out for "the older girls" in the party...
 
-I play another new <strong>skit:</strong> Laphicet points out Teresa and Oscar's relationship as siblings. They've never argued with each other. That's god-tier siblings right there.
+I play another new **skit:** Laphicet points out Teresa and Oscar's relationship as siblings. They've never argued with each other. That's god-tier siblings right there.
 
 Laphicet asks Velvet if she and her brother had fights. They did. But they cared for each other, and she called him "adorable."
 
@@ -177,11 +177,11 @@ Laphicet wants to play the role of Eleanor's brother. Velvet throws a death glar
 
 Eleanor retorts that that's not true. Her outlook on malakhim's changed because she sees Laphicet as a little brother to her...
 
-<strong>Velvet:</strong> "She's all talk. Don't believe her." She's getting protective of him. Eleanor throws Velvet's previous remark back at her face.
+**Velvet:** "She's all talk. Don't believe her." She's getting protective of him. Eleanor throws Velvet's previous remark back at her face.
 
 Magilou adds more fuel to the fire.
 
-<strong>Magilou:</strong> "Oooh! Two sisters struggling for the affections of their brother. Eeeny, teeny, candlestick! Which one will [Laphicet] pick?"
+**Magilou:** "Oooh! Two sisters struggling for the affections of their brother. Eeeny, teeny, candlestick! Which one will [Laphicet] pick?"
 
 Laphicet prefers an older brother. Maybe he should be Rokurou's younger brother...
 
@@ -189,13 +189,13 @@ Laphicet prefers an older brother. Maybe he should be Rokurou's younger brother.
 
 ---
 
-Another <strong>expedition check:</strong> We get a <strong>Crimson Crystal!</strong>
+Another **expedition check:** We get a **Crimson Crystal!**
 
 Haria Village is overrun by daemons because of idolatry?
 
 From a soldier, we learn Teresa was sent to Yseult because of her failure at Hellawes. Oscar's now taking over in her place.
 
-Another Katz is on the beach with a new minigame: <strong>Bienfu Bounce!</strong>
+Another Katz is on the beach with a new minigame: **Bienfu Bounce!**
 
 We find Himeko, another Character Card player, underneath a hut! We decide to play more!
 
@@ -215,13 +215,13 @@ Everyone in Southgand except one village is loyal to the Abbey. Haria Village...
 
 The ex-Amenoch worshipper's "grateful" for the Abbey's work, but thinks they've gone a bit too far by deciding which Empyrean should be worshipped.
 
-<strong>Rokurou:</strong> "They think they do. It's their truth. Then again, they can't control what's in your heart, can they?" Wise words, Rokurou.
+**Rokurou:** "They think they do. It's their truth. Then again, they can't control what's in your heart, can they?" Wise words, Rokurou.
 
-The open tent weapon shop (anzrq nsgre Thl'f erny fheanzr) has new <strong>Amphibole equipment</strong>. They also sell <strong>Dark Bottle</strong>s here, which attract enemies even in battle. Who would want those?
+The open tent weapon shop (anzrq nsgre Thl'f erny fheanzr) has new **Amphibole equipment**. They also sell **Dark Bottle**s here, which attract enemies even in battle. Who would want those?
 
 There's a young man sitting underneath the boardwalk on the struts, questioning the meaning "of becoming an adult."
 
-<strong>Rokurou:</strong> "Heh! The eternal question of youth."
+**Rokurou:** "Heh! The eternal question of youth."
 
 He asks us if we know about the Ceremony of Adulthood. Rokurou does, calling it a "wild" ceremony, but the traditions have changed. Instead of throwing poranges and bananuts, it's watermelon! And coconuts! Yikes!
 
@@ -231,7 +231,7 @@ Eizen mentions there are traditional, danger-facing rites of passage in certain 
 
 Velvet asks why not skip the ceremony.
 
-<strong>Velvet:</strong> "Having the courage to say no to something you don't feel is right—isn't that the true mark of an adult?" 
+**Velvet:** "Having the courage to say no to something you don't feel is right—isn't that the true mark of an adult?" 
 
 What does it mean to "be an adult" at this point?
 
@@ -243,11 +243,11 @@ Velvet brings him down to earth instantly.
 
 ---
 
-It seems our expedition crew found <strong>Teepo Island!</strong>
+It seems our expedition crew found **Teepo Island!**
 
 An Abbey worshipper's sad that Teresa's leaving Yseult. One's sighing in relief at her departure because of her personality.
 
-<strong>Magilou:</strong> "I guess not even the heat of Southgand could melt that icy cold personality."
+**Magilou:** "I guess not even the heat of Southgand could melt that icy cold personality."
 
 But the worshipper vouches for Teresa, saying she's fair, and open-minded. She mentions the heated debate over whether the Abbey should go into Haria Village.
 
@@ -259,4 +259,4 @@ Poranges, according to Eizen are "also known as candlefruit."
 
 The bountiful surplus of food in Southgand's so huge the fisherman's shipping it to other countries...
 
-<strong>Eizen:</strong> "This guy here, he's a true sailor!"
+**Eizen:** "This guy here, he's a true sailor!"
