@@ -84,10 +84,10 @@ He tells Rokurou to confess his sins this time. Ooooh boy...
 
 He points out Rokurou's wardrobe as an indicator of the many sins he has.
 
-**Rokurou:** "Yeah, I hear you but I really can't think of anything."
-**Priest:** "Have you wielded violence?"
-**Rokurou:** "No, all I wield are my swords." Hee...
-**Priest:** "Well, have you hurt anybody with your swords?"
+**Rokurou:** "Yeah, I hear you but I really can't think of anything."<br/>
+**Priest:** "Have you wielded violence?"<br/>
+**Rokurou:** "No, all I wield are my swords." Hee...<br/>
+**Priest:** "Well, have you hurt anybody with your swords?"<br/>
 **Rokurou:** "Yeah, but I haven't been able to land a killing blow yet. I've still got a long way to go." He's talking about Shigure.
 
 The priest tells him to repent.
@@ -142,7 +142,7 @@ Laphicet tells Magilou Eleanor hasn't tattled anyone. Magilou, you troll...
 
 Velvet approaches her.
 
-**Velvet:** "You pledged to obey me until the day you died, correct?"
+**Velvet:** "You pledged to obey me until the day you died, correct?"<br/>
 **Eleanor:** "...Yes. That I did."
 
 They're almost at fists. Cooler heads prevail, with Laphicet mentioning the daemon might be after Grimoirh!
