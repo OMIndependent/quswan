@@ -100,7 +100,7 @@ On a dare, I decide to face him. It'll make the crew stronger if we win...
 
 ---
 
-<p><h2>Tales of Berseria - Part 67a: Release the Kraken!</h2></p>
+<p><h2 class="entry-title">Tales of Berseria - Part 67a: Release the Kraken!</h2></p>
 
 ~~I always wanted to write that...~~
 
@@ -124,7 +124,7 @@ We eventually finish the giant squid off!
 
 ---
 
-<p><h2>Tales of Berseria - Part 67: Heading To Palamedes (continued)</h2></p>
+<p><h2 class="entry-title">Tales of Berseria - Part 67: Heading To Palamedes (continued)</h2></p>
 
 We move forward to the next area...
 
