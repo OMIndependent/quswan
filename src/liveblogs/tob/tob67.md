@@ -168,9 +168,11 @@ Bienfu volunteers. By his reaction, I'm guessing it's a rhino beetle!
 
 ***Aside:*** This part was cut from the original liveblog.
 
-Another **skit:** Magilou and Laphicet talk. He wonders what those books are for that shes wearing. One's a "magic encyclopedia" and another's a "household ledger," then a "heavy book for flower pressings," and a "super popup book" for enemies. But "it's a pain" for her to close that book!
+Another **skit:** Magilou and Laphicet talk. He wonders what those books she's wearing are for. One's a "magic encyclopedia" and another's a "household ledger," then a "heavy book for flower pressings," and a "super popup book" for enemies. But "it's a pain" for her to close that book!
 
-The front book is actually a cake shaped like a book? What? She's actually joking. Laphicet's amazed by the books. Oh no...Magilou, you are effing creepy...I know what's coming...oh god... :frowning2:
+The front book is actually a cake shaped like a book? What? She's actually joking. Laphicet's amazed by the books. 
+
+Oh no...Magilou, you are effing creepy...I know what's coming...oh god... :frowning2:
 
 Eleanor sees what Magilou's done and is flabbergasted!
 
