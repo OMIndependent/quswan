@@ -4,7 +4,6 @@ title: "Tales of Berseria - Part 71: Malevolence"
 date: 2018-03-09 09-0800
 publishDate: 2018-08-08 21:30:01 -0800
 categories: tob tales-of-berseria playthroughs
-draft: true
 ---
 
 <p style="text-align: center" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4) \| [**Part 5**](#5)</p>
