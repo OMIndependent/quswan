@@ -58,4 +58,17 @@ categories: voltron
   <li>6x05: The Black Paladins</li>
   <li>6x06: All Good Things</li>
   <li>6x07: Defender of All Universes</li>
+  <li>7x01: A Little Universe</li>
+  <li>7x02: The Road Home</li>
+  <li>7x03: The Way Forward</li>
+  <li>7x04: The Feud!</li>
+  <li>7x05: The Ruins</li>
+  <li>7x06: The Journey Within</li>
+  <li>7x07: The Last Stand, Part 1</li>
+  <li>7x08: The Last Stand, Part 2</li>
+  <li>7x09: Know Your Enemy</li>
+  <li>7x10: Heart of the Lion</li>
+  <li>7x11: Trial By Fire</li>
+  <li>7x12: Lion's Pride, Part 1</li>
+  <li>7x13: Lion's Pride, Part 2</li>
 </ul>
