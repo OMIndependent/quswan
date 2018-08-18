@@ -57,14 +57,26 @@ categories: som secret-of-mana
 	<li>[Part 47: For A Mallet](../som47/)</li>
 	<li>[Part 48: Imperial Ruins](../som48/)</li>
 	<li>[Part 49: Deeper Into the Ruins](../som49/)</li>
-	<li>Part 50: Imperial Entanglements/Enter Emperor Vandole</li>
-	<li>Part 51: Flying With Flammie</li>
-	<li>Part 52: Gold City, Tasnica, and Mandala</li>
-	<li>Part 53: A Little More Joyflying</li>
-	<li>Part 54: Lofty Mountains</li>
-	<li>Part 55: Palace of Darkness</li>
-	<li>Part 56: The Search For Sage Joch</li>
-	<li>Part 57: Golden Tower, Light Palace</li>
-	<li>Part 58: Flight to the Moon... Palace</li>
-	<li>Part 59: Once More to the Sage's Cave</li>
+	<li>[Part 50: Imperial Entanglements/Enter Emperor Vandole](../som50/)</li>
+	<li>[Part 51: Flying With Flammie](../som51/)</li>
+	<li>[Part 52: Gold City, Tasnica, and Mandala](../som52/)</li>
+	<li>[Part 53: A Little More Joyflying](../som53/)</li>
+	<li>[Part 54: Lofty Mountains](../som54/)</li>
+	<li>[Part 55: Palace of Darkness](../som55/)</li>
+	<li>[Part 56: The Search For Sage Joch](../som56/)</li>
+	<li>[Part 57: Golden Tower, Light Palace](../som57/)</li>
+	<li>[Part 58: Flight to the Moon... Palace](../som58/)</li>
+	<li>[Part 59: Once More to the Sage's Cave](../som59/)</li>
+	<li>Part 60: The Republic of Tasnica</li>
+	<li>Part 61: Sage Joch Finally!</li>
+	<li>Part 62: Joch's Really Hard Test of Courage</li>
+	<li>Part 63: Will the Real Sage Joch Please Come Down?</li>
+	<li>Part 64: Tree Palace - Prologue</li>
+	<li>Part 65: Tree Palace</li>
+	<li>Part 66: The Risen Sunken Continent</li>
+	<li>Part 67: Underground City</li>
+	<li>Part 68: Back Into the Palace</li>
+	<li>Part 69: Fallen Emperor Vandole</li>
+	<li>Part 70: Mana Fortress Rising</li>
+	<li>Part 71: Pure Land</li>
 </ul>
