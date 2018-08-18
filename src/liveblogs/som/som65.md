@@ -4,7 +4,6 @@ title: "Secret of Mana - Part 65: Tree Palace"
 date: 2018-04-10 09-0800
 publishDate: 2018-08-17 23:45:00 09-0800
 categories: som secret-of-mana playthroughs
-draft: true
 ---
 
 <p style="text-align: center;" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4) \| [**Part 5**](#5)</p>
@@ -51,6 +50,8 @@ Looks like he's going to transform...
 
 <a name="2"></a>
 
+---
+
 Into a giant demon with legs!
 
 <img src="https://i.imgur.com/uoCd9Dd.png" alt="underworld?!" width="360" height="270" id="liveblog" />
@@ -95,6 +96,8 @@ Now to face off against the Emperor and his last minion...
 
 <a name="3"></a>
 
+---
+
 I realize now that Geshtar, when we were on the castle roof, didn't summon another Mech Rider, he was the second Mech Rider!
 
 Looks like we're fighting monsters from the Underworld...
@@ -120,6 +123,8 @@ We turn back, where we see the last Elemental!
 ***Aside:*** For this one, I already got spoiled seeing a pic of this Elemental <a href="https://snesrpggaming.weebly.com/secret-of-mana-series-ii--iii.html">from this site</a>, but I don't know this Elemental's name yet.
 
 <a name="4"></a>
+
+---
 
 The Elemental introduces herself...
 
@@ -160,6 +165,8 @@ Oh my god...
 <a href="https://youtu.be/wwkFixCq9t0">The music isn't too comforting either...this piece is giving me the chills everytime I hear it...</a>
 
 <a name="5"></a>
+
+---
 
 Now where to escape to?
 
