@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 66: The Risen Sunken Continent"
 date: 2018-04-10 09-0800
-publishDate: 2018-08-23 23:00:00 09-0800
+publishDate: 2018-08-27 23:00:00 09-0800
 categories: som secret-of-mana playthroughs
 ---
 
