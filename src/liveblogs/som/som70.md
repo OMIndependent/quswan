@@ -15,6 +15,7 @@ Holy heckleberry!
 A sunset sky's showing itself!
 
 <img src="https://i.imgur.com/pmrv3Na.png" alt="sea purple" width="360" height="270" id="liveblog" />
+
 <a href="https://youtu.be/ZEq_srf6SeA">The flight music's changed as well!</a>
 
 The world's beginning to flash lightning and roll thunder...
