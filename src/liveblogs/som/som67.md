@@ -1,7 +1,7 @@
 ---
 layout: entry.pug
 title: "Secret of Mana - Part 67: Underground City"
-date: 2018-04-11 09-0800
+date: 2018-04-10 09-0800
 publishDate: 2018-08-27 23:00:05 09-0800
 categories: som secret-of-mana playthroughs
 ---
