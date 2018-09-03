@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 71: Pure Land"
 date: 2018-04-13 09-0800
-publishDate: 2018-09-01 23:30:00 09-0800
+publishDate: 2018-09-02 23:30:00 09-0800
 categories: som secret-of-mana playthroughs
 ---
 
