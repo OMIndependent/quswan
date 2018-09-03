@@ -52,6 +52,8 @@ More monsters out of the way to build some experience...and in the cave we go!
 
 <a name="2"></a>
 
+---
+
 The danger music plays again! Which boss are we facing this time?
 
 <img src="https://i.imgur.com/SVpHzii.png" alt="what boss?" width="360" height="270" id="liveblog" />
