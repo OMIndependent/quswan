@@ -67,16 +67,16 @@ categories: som secret-of-mana
 	<li>[Part 57: Golden Tower, Light Palace](../som57/)</li>
 	<li>[Part 58: Flight to the Moon... Palace](../som58/)</li>
 	<li>[Part 59: Once More to the Sage's Cave](../som59/)</li>
-	<li>Part 60: The Republic of Tasnica</li>
-	<li>Part 61: Sage Joch Finally!</li>
-	<li>Part 62: Joch's Really Hard Test of Courage</li>
-	<li>Part 63: Will the Real Sage Joch Please Come Down?</li>
-	<li>Part 64: Tree Palace - Prologue</li>
-	<li>Part 65: Tree Palace</li>
-	<li>Part 66: The Risen Sunken Continent</li>
-	<li>Part 67: Underground City</li>
-	<li>Part 68: Back Into the Palace</li>
-	<li>Part 69: Fallen Emperor Vandole</li>
-	<li>Part 70: Mana Fortress Rising</li>
-	<li>Part 71: Pure Land</li>
+	<li>[Part 60: The Republic of Tasnica](../som60/)</li>
+	<li>[Part 61: Sage Joch Finally!](../som61/)</li>
+	<li>[Part 62: Joch's Really Hard Test of Courage](../som62/)</li>
+	<li>[Part 63: Will the Real Sage Joch Please Come Down?](../som63/)</li>
+	<li>[Part 64: Tree Palace - Prologue](../som64/)</li>
+	<li>[Part 65: Tree Palace](../som65/)</li>
+	<li>[Part 66: The Risen Sunken Continent](../som66/)</li>
+	<li>[Part 67: Underground City](../som67/)</li>
+	<li>[Part 68: Back Into the Palace](../som68/)</li>
+	<li>[Part 69: Fallen Emperor Vandole](../som69/)</li>
+	<li>[Part 70: Mana Fortress Rising](../som70/)</li>
+	<li>[Part 71: Pure Land](../som71/)</li>
 </ul>
