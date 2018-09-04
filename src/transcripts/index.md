@@ -16,8 +16,8 @@ Note that most of these links are not ready yet. I'll try and get them up if I'm
 
 [On the Occasion of the Balfour Declaration Centenary by **George Galloway**]()
 
-<!--[How to Win A Grassroots Media Rebellion by **Caitlin Johnstone**](./cj-1/)
+[How to Win A Grassroots Media Rebellion by **Caitlin Johnstone**](./cj-1/)
 
-[**Jimmy Dore**'s Interview With **Thomas Frank** Concerning the State of the Democrats]()
+<!--[**Jimmy Dore**'s Interview With **Thomas Frank** Concerning the State of the Democrats]()
 
 [**Jimmy Dore**'s Second Interview With **Thomas Frank**]()-->
