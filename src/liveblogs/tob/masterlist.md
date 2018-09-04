@@ -97,21 +97,28 @@ categories: tob tales-of-berseria
 			<li>[Part 60: Lothringen, Tower of the Exorcists](../tob60/)</li>
 			<li>[Part 61: Heading Out/The Omega Elixir](../tob61/)</li>
 			<li>[Part 62: To Southgand](../tob62/)</li>
-			<li>Part 63: Yseult, City of the Southern Seas</li>
-			<li>Part 64: The Search For Grimoirh</li>
-			<li>Part 64a: A Harpy-Go-Lucky Day</li>
-			<li>Part 65: Haria Village, Home of Old Beliefs</li>
-			<li>Part 66: The Fifth Empyrean</li>
-			<li>Part 67: Heading To Palamedes</li>
-			<li>Part 67a: Release the Kraken!</li>
-			<li>Part 68: Palamedes Temple, Southern Ruins</li>
-			<li>Part 69: Continuing Palamedes Temple</li>
-			<li>Part 70: Therion</li>
-			<li>Part 71: Malevolence</li>
+			<li>[Part 63: Yseult, City of the Southern Seas](../tob63/)</li>
+			<li>[Part 64: The Search For Grimoirh](../tob64/)</li>
+			<li>[Part 64a: A Harpy-Go-Lucky Day](../tob64/#a)</li>
+			<li>[Part 65: Haria Village, Home of Old Beliefs](../tob65/)</li>
+			<li>[Part 66: The Fifth Empyrean](../tob66/)</li>
+			<li>[Part 67: Heading To Palamedes](../tob67/)</li>
+			<li>[Part 67a: Release the Kraken!](../tob67/#a)</li>
+			<li>[Part 68: Palamedes Temple, Southern Ruins](../tob68/)</li>
+			<li>[Part 69: Continuing Palamedes Temple](../tob69/)</li>
+			<li>[Part 70: Therion](../tob70/)</li>
+			<li>[Part 71: Malevolence](../tob71/)</li>
 		</ul>
 	</li>
 	<li><span class="section-no">Act IV</span>
 		<ul class="masterlink-wrapper">
+			<li>Part 72: Next Move</li>
+			<li>Part 73: Sidequests</li>
+			<li>Part 74: Back at Loegres</li>
+			<li>Part 75: Return to Titania</li>
+			<li>Part 76: Exploring the New Hideout</li>
+			<li>Part 77: Eleanor's Confession/A Multitude of Skits</li>
+			<li>Part 78: Sensing More Earthpulses</li>
 		</ul>
 	</li>
 </ul>
