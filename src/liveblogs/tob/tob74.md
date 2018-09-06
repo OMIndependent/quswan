@@ -84,7 +84,7 @@ Magilou reminds a woman of someone named **Magillanica.**
 
 The woman mentioned that **Magillanica** had "mysterious powers."
 
-She was labeled "the Little Witch" to her audience, and profitted. But, she got imprisoned for heresy... :(
+She was labeled "the Little Witch" to her audience, and profitted. But, she got imprisoned for heresy... :frowning2:
 
 Velvet asks for Magilou's age...Magilou reacts in a way where Velvet rules out that she might be younger or around her age...
 
