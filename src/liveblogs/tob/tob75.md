@@ -10,7 +10,7 @@ categories: tob tales-of-berseria playthroughs
 
 <a name="1"></a>
 
-Magilou asks a promoter to spread an act for them far and wide. Velvet does not know what the hecks going on...I agree its a bit confusing. Shes dead serious about Magilous Menagerie show!
+Magilou asks a promoter to spread an act for them far and wide. Velvet does not know what the heck's going on...I agree it's a bit confusing. Magilou's dead serious about a Magilou's Menagerie show!
 
 I get treated to a comedy show starring Magilou and Velvet. She improvises very quickly...
 
