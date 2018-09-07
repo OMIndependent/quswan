@@ -34,7 +34,7 @@ What the heck!? The docksman comes to...
 
 Magilou gets serious and asks if Laphicet sensed something. He did.
 
-It came from the north. Eizen explains  that a "domain" affected the area.
+It came from the north. Eizen explains that a "domain" affected the area.
 
 Velvet thinks the Empyrean's Throne might have something to do with it...
 
