@@ -112,13 +112,13 @@ categories: tob tales-of-berseria
 	</li>
 	<li><span class="section-no">Act IV</span>
 		<ul class="masterlink-wrapper">
-			<li>Part 72: Next Move</li>
-			<li>Part 73: Sidequests</li>
-			<li>Part 74: Back at Loegres</li>
-			<li>Part 75: Return to Titania</li>
-			<li>Part 76: Exploring the New Hideout</li>
-			<li>Part 77: Eleanor's Confession/A Multitude of Skits</li>
-			<li>Part 78: Sensing More Earthpulses</li>
+			<li>[Part 72: Next Move](../tob72/)</li>
+			<li>[Part 73: Sidequests](../tob73/)</li>
+			<li>[Part 74: Back at Loegres](../tob74/)</li>
+			<li>[Part 75: Return to Titania](../tob75/)</li>
+			<li>[Part 76: Exploring the New Hideout](../tob76/)</li>
+			<li>[Part 77: Eleanor's Confession/A Multitude of Skits](../tob77/)</li>
+			<li>[Part 78: Sensing More Earthpulses](../tob78/)</li>
 		</ul>
 	</li>
 </ul>
