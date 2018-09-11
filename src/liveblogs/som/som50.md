@@ -12,8 +12,8 @@ categories: som secret-of-mana playthroughs
 
 Before going off to see the Resistance, I upgrade my weapons downstairs for 1600 each...
 
-**Chain Whip** to **Flail of Hope**
-**Claymore** to **Excalibur (!)**
+**Chain Whip** to **Flail of Hope**<br/>
+**Claymore** to **Excalibur (!)**<br/>
 **Rising Sun** to **Red Cleaver**
 
 Now to check the weapon stats and effects here...
