@@ -3,7 +3,7 @@ collection: pages
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Watches Natsume Yuujinchou - Episode List"
 publishDate: 2018-12-31T09:00:00 -0800
-categories: natsume-yuujinchou anime
+categories: natsume-yuujinchou natsume's-book-of-friends anime
 ---
 
 ---
@@ -17,7 +17,7 @@ categories: natsume-yuujinchou anime
   <li>1x07: The Little Fox's Hat</li>
   <li>1x08: Fleeting Light</li>
   <li>1x09: Ayakashi Exorcism</li>
-  <li>1x10: Asagi's Koto*</li>
+  <li>1x10: Asagi's Koto</li>
   <li>1x11: Nyanko's Book of Boredom</li>
   <li>1x12: Five-Day Mark</li>
   <li>1x13: Autumn Banquet</li>
@@ -71,4 +71,5 @@ categories: natsume-yuujinchou anime
   <li>5x09: Following a Narrow Path</li>
   <li>5x10: Touko and Shigeru</li>
   <li>5x11: To the Ephemeral Ones</li>
+  <li>6x01: The Days Eater</li>
 </ul>
