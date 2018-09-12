@@ -273,6 +273,9 @@ nav.nav-bar {
 .entry-meta {
   font-size: 0.9em;
 }
+.entry-partination {
+  text-align: center;
+}
 
 /*.section-check {
   display: none;
