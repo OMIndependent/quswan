@@ -1,6 +1,6 @@
 ---
 layout: entry.pug
-title: "Illusion of Gaia - Part 9: Freedom"
+title: "Illusion of Gaia - Part 10: Preparations"
 date: 2018-06-21 09-0800
 publishDate: 2018-09-14 23:00:01 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
