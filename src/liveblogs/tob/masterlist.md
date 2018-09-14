@@ -119,6 +119,15 @@ categories: tob tales-of-berseria
 			<li>[Part 76: Exploring the New Hideout](../tob76/)</li>
 			<li>[Part 77: Eleanor's Confession/A Multitude of Skits](../tob77/)</li>
 			<li>[Part 78: Sensing More Earthpulses](../tob78/)</li>
+			<li>Part 79: Fishing For Therions/Laphicet's New Nickname</li>
+			<li>Part 80: Hideout Holiday</li>
+			<li>Part 81: Third Trip To Midgand and Some Sidetracking</li>
+			<li>Part 82: More Stuff In Loegres</li>
+			<li>Part 83: Aldina Plains, Land of Vitality</li>
+			<li>Part 84: Up the Summit, Zamahl Grotto, and Davahl Forest</li>
+			<li>Part 85: Stonebury, Pioneer Settlement</li>
+			<li>Part 86: Geoboarding</li>
+			<li>Part 87: The Dragon Daemon</li>
 		</ul>
 	</li>
 </ul>

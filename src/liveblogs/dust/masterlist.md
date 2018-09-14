@@ -45,4 +45,7 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 25: Returning</li>
   <li>Part 26: The Cirelian Trial</li>
   <li>Part 27: Enter General Gaius</li>
+  <li>Part 28: Ginger's Past</li>
+  <li>Part 29: Heading Underground and the Second Cirelian Trial</li>
+  <li>Part 30: Things In the Dark</li>
 </ul>

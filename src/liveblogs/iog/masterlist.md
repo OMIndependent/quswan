@@ -12,8 +12,10 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 2: South Cape](../iog2/)</li>
 	<li>[Part 3: Sixth Sense](../iog3/)</li>
 	<li>[Part 4: Kara](../iog4/)</li>
-	<li>Part 5: Leaving</li>
-	<li>Part 6: Edward's Castle</li>
-	<li>Part 7: Imprisonment...In 2D!</li>
-	<li>Part 8: Escape From Edward's Prison</li>
+	<li>[Part 5: Leaving](../iog5/)</li>
+	<li>[Part 6: Edward's Castle](../iog6/)</li>
+	<li>[Part 7: Imprisonment...In 2D!](../iog7/)</li>
+	<li>[Part 8: Escape From Edward's Prison](../iog8/)</li>
+	<li>Part 9: Freedom</li>
+	<li>Part 10: Preparations</li>
 </ul>

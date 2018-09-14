@@ -79,9 +79,9 @@ categories: som secret-of-mana
 	<li>[Part 69: Fallen Emperor Vandole](../som69/)</li>
 	<li>[Part 70: Mana Fortress Rising](../som70/)</li>
 	<li>[Part 71: Pure Land](../som71/)</li>
-	<li>Part 72: Dragonslayer</li>
-	<li>Part 73: Passing Through</li>
-	<li>Part 74: Thundering Giant</li>
-	<li>Part 75: The Last Dragon?</li>
-	<li>Part 76: Tree of Mana</li>
+	<li>[Part 72: Dragonslayer](../som72/)</li>
+	<li>[Part 73: Passing Through](../som73/)</li>
+	<li>[Part 74: Thundering Giant](../som74/)</li>
+	<li>[Part 75: The Last Dragon?](../som75/)</li>
+	<li>[Part 76: Tree of Mana](../som76/)</li>
 </ul>
