@@ -36,4 +36,13 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 16a: This One's For ~~Jeremy Corbyn~~ Corbin!</li>
   <li>Part 17: Some Extra Level Grinding</li>
   <li>Part 18: Archers' Pass</li>
+  <li>Part 19: Talking To Matti</li>
+  <li>Part 20: Haley's "Signals" and Blue Gate Hunting</li>
+  <li>Part 21: Demon Blacksmith!!!</li>
+  <li>Part 22: Finishing Abadis Forest</li>
+  <li>Part 23: Fuse</li>
+  <li>Part 24: Ashes To Ashes...</li>
+  <li>Part 25: Returning</li>
+  <li>Part 26: The Cirelian Trial</li>
+  <li>Part 27: Enter General Gaius</li>
 </ul>

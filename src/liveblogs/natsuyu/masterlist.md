@@ -72,4 +72,6 @@ categories: natsume-yuujinchou natsume's-book-of-friends anime
   <li>5x10: Touko and Shigeru</li>
   <li>5x11: To the Ephemeral Ones</li>
   <li>6x01: The Days Eater</li>
+  <li>6x02: It Blooms Tomorrow</li>
+  <li>6x03: Nitai-sama</li>
 </ul>
