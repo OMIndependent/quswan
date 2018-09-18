@@ -1,7 +1,7 @@
 ---
 collection: pages
 layout: page.pug
-title: "Ocampo's Moon/Quesada's Swan Watches The Dragon Prince"
+title: "Ocampo's Moon/Quesada's Swan Watches The Dragon Prince - Episode List"
 publishDate: 2018-09-17 23:59:00 09-0800
 categories: wonderstorm dragon-prince
 ---
