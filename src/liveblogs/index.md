@@ -31,3 +31,6 @@ permalink: /liveblogs/
 
 [<img src="" alt="natsuyu banner" class="banner" />](./natsuyu/)
 <h4 style="text-align: center;">*Natsume's Book of Friends*</h4>
+
+[<img src="" alt="dp banner" class="banner" />](./dp/)
+<h4 class="entry-partination" markdown="1">*The Dragon Prince* (masterlist only)</h4>
