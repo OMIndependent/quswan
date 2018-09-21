@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Plays Super Mario RPG - Masterlist"
 publishDate: 2017-10-07 18:45:29 -0800

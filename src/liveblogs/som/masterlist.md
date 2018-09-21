@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Plays Secret of Mana - Masterlist"
 publishDate: 2018-01-12 09-0800

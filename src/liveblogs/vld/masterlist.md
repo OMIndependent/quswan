@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Watches Voltron: LD - Episode List"
 publishDate: 2017-10-07 11:12:52 -0800

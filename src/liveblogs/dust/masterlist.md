@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Replays Dust: An Elysian Tail - Masterlist"
 publishDate: 2017-11-13 02:15:30 -0800

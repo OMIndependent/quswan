@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Plays Tales of Berseria - Masterlist"
 categories: tob tales-of-berseria

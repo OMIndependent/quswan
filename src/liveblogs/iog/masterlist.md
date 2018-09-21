@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Plays Illusion of Gaia - Masterlist"
 publishDate: 2018-06-01 09-0800

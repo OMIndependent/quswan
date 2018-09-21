@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Watches Natsume Yuujinchou - Episode List"
 publishDate: 2018-12-31T09:00:00 -0800

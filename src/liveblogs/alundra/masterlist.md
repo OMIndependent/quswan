@@ -1,5 +1,5 @@
 ---
-collection: pages
+collection: lists
 layout: page.pug
 title: "Ocampo's Moon/Quesada's Swan Plays Alundra - Masterlist"
 publishDate: 2017-10-04 18:19:35 -0800
