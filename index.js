@@ -76,6 +76,12 @@ var collexions = {
       layout: 'page.pug'
     }
   },
+  lists: {
+    pattern: 'liveblogs/**/masterlist.md',
+    metadata: {
+      layout: 'page.pug'
+    }
+  },
   transcripts: {
     pattern: ['transcripts/**/*.md', '!transcripts/**/index.*'],
     metadata: {
