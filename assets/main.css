@@ -277,27 +277,6 @@ nav.nav-bar {
   text-align: center;
 }
 
-/*.section-check {
-  display: none;
-}
-.section-check ~ .section-wrapper li ul.masterlink-wrapper {
-  height: 0;
-  opacity: 0;
-  -webkit-transition: all .15s ease-in .1s;
-  -moz-transition: all .15s ease-in .1s;
-  -o-transition: all .15s ease-in .1s;
-  -ms-transition: all .15s ease-in .1s;
-  transition: all .15s ease-in .1s;
-}
-.section-check:checked ~ .section-wrapper li ul.masterlink-wrapper {
-  height: auto;
-  opacity: 1;
-  -webkit-transition: all .15s ease-in .1s;
-  -moz-transition: all .15s ease-in .1s;
-  -o-transition: all .15s ease-in .1s;
-  -ms-transition: all .15s ease-in .1s;
-  transition: all .15s ease-in .1s;
-}*/
 /* Masterlist page for liveblogs */
 .section-wrapper li {
   list-style-type: none;
@@ -311,6 +290,55 @@ nav.nav-bar {
   margin-bottom: 0.75em;
   padding: 0.5em;
 }
+.section-check {
+  display: none;
+}
+.section-check ~ ul.masterlink-wrapper {
+  height: 0;
+  opacity: 0;
+  -webkit-transition: all .15s ease-in .1s;
+  -moz-transition: all .15s ease-in .1s;
+  -o-transition: all .15s ease-in .1s;
+  -ms-transition: all .15s ease-in .1s;
+  transition: all .15s ease-in .1s;
+}
+.section-check:checked ~ ul.masterlink-wrapper {
+  height: auto;
+  opacity: 1;
+  -webkit-transition: all .15s ease-in .1s;
+  -moz-transition: all .15s ease-in .1s;
+  -o-transition: all .15s ease-in .1s;
+  -ms-transition: all .15s ease-in .1s;
+  transition: all .15s ease-in .1s;
+}
+.section-check-box {
+  position: relative;
+  display: block;
+  float: right;
+  width: 1em;
+  height: 0.5em;
+  border: 0.09em solid #c0c0c0;
+  border-radius: 0.05em;
+  background: #0a160a;
+}
+.section-check-box .check-icon {
+  position: relative;
+  display: block;
+  float: right;
+  width: 0.05em;
+  height: 0.5em;
+  background: #c0c0c0;
+  z-index: 3;
+}
+.section-check-box .check-icon:before {
+  position: inherit;
+  display: inherit;
+  float: inherit;
+  width: 0.5em;
+  height: 0.05em;
+  background: #c0c0c0;
+}
+
 .masterlink-wrapper li {
   list-style-type: none;
   border: #0a160a solid 1px;
