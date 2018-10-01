@@ -17,13 +17,12 @@ Here's a general summary of the show taken from wikipedia:
 
 An animated movie will be released in theatres on September 29, 2018.
 
-This watchthrough will cover the entire series minus the animated shorts. I started watching through this wonderful show on **October 17, 2016**, and will continue onto the sixth season if I can.
+This watchthrough will cover the entire series minus the animated shorts. I started watching through this wonderful show on **October 17, 2016**, and finished it on **September 30, 2018**.
 
 <span class="nav-masterlist">[Here's the **episode list** for *Natsume's Book of Friends*.][masterlist]</span>
 
-[blog]:			http://natsuyuujn.tumblr.com/
 [natsuyu]:		https://en.wikipedia.org/wiki/Natsume's_Book_of_Friends
 [bb]:			https://en.wikipedia.org/wiki/Brain's_Base
-[shuka]:		https://en.wikipedia.org/wiki/Studio_Shuka
+[shuka]:		https://en.wikipedia.org/wiki/Shuka
 [tv-tokyo]:		https://en.wikipedia.org/wiki/TV_Tokyo
 [masterlist]: 	./masterlist/
