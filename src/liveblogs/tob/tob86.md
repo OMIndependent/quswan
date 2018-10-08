@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 86: Geoboarding"
 date: 2018-03-20 09-0800
-publishDate: 2018-10-08 11:30:00 -0800
+publishDate: 2018-10-08 16:30:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 

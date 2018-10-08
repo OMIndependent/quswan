@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 77: Mana Fortress"
 date: 2018-05-07 09-0800
-publishDate: 2018-10-08 11:30:10 09-0800
+publishDate: 2018-10-08 16:30:10 09-0800
 categories: som secret-of-mana playthroughs
 ---
 
