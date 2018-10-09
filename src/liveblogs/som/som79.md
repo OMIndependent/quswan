@@ -12,13 +12,13 @@ categories: som secret-of-mana playthroughs
 
 Now there's more rumbling and shaking going on...
 
-<img src="https://i.imgur.com/NYukxI3.png" alt="mana fortress shakes" width="480" height="360" />
+<img src="https://i.imgur.com/NYukxI3.png" alt="mana fortress shakes" width="360" height="270" id="liveblog" />
 
 The Mana Fortress is about to collapse!
 
 But Max falls over again!
 
-<img src="https://i.imgur.com/KK91JZO.png" alt="max falls" width="480" height="360" />
+<img src="https://i.imgur.com/KK91JZO.png" alt="max falls" width="360" height="270" id="liveblog" />
 
 **Max:** "I'm okay...just dizzy!" That's not a good sign...
 
@@ -26,13 +26,13 @@ But Max falls over again!
 
 We use the warp at the south end of the arena...
 
-<img src="https://i.imgur.com/uoer80q.png" alt="where are we" width="480" height="360" />
+<img src="https://i.imgur.com/uoer80q.png" alt="where are we" width="360" height="270" id="liveblog" />
 
 Now where are we?
 
 Something now shows up!
 
-<img src="https://i.imgur.com/dU8Saw6.png" alt="flammie mana beast" width="480" height="360" />
+<img src="https://i.imgur.com/dU8Saw6.png" alt="flammie mana beast" width="360" height="270" id="liveblog" />
 
 **Hero:** "I guess Flammies were once Mana Beasts..."<br/>
 **Max:** "Hurry or the Mana Beast will ruin the world!"
@@ -43,11 +43,11 @@ Max tells him to finish the job...
 
 Hero's hesitating...
 
-<img src="https://i.imgur.com/1QwvvVf.png" alt="i can't do it" width="480" height="360" />
+<img src="https://i.imgur.com/1QwvvVf.png" alt="i can't do it" width="360" height="270" id="liveblog" />
 
 **Hero:** "They are only trying to restore Mana."
 
-<img src="https://i.imgur.com/XizN37o.png" alt="max sacrifice?" width="480" height="360" />
+<img src="https://i.imgur.com/XizN37o.png" alt="max sacrifice?" width="360" height="270" id="liveblog" />
 
 No...
 
@@ -60,13 +60,13 @@ No...
 
 Max tells everyone that he's not going to "kick the bucket!" :(
 
-<img src="https://i.imgur.com/UyUdRpT.png" alt="i won't see you again" width="480" height="360" />
+<img src="https://i.imgur.com/UyUdRpT.png" alt="i won't see you again" width="360" height="270" id="liveblog" />
 
 No...
 
 **Max:** "OK, if we don't stop the Mana Beast, your world is finished, right? **Everything will perish. Trees...animals...people! That must not happen!**"
 
-<img src="https://i.imgur.com/Lifo3yy.png" alt="mana sword is yours" width="480" height="360" />
+<img src="https://i.imgur.com/Lifo3yy.png" alt="mana sword is yours" width="360" height="270" id="liveblog" />
 
 **Max:** "***You*** **have the Mana Sword.** ***You*** **must save this world...You have no choice! You made a vow to your mother, the Mana Tree, right? I'll be okay.**"
 
@@ -74,7 +74,7 @@ Hero makes the decision...he asks Max if he's sure...**he is.**
 
 Max greets his allies farewell, and now, the final battle!
 
-<img src="https://i.imgur.com/9FYhLSD.png" alt="take the sword" width="480" height="360" />
+<img src="https://i.imgur.com/9FYhLSD.png" alt="take the sword" width="360" height="270" id="liveblog" />
 
 **Max:** "We'll cast **Mana Magic**, then [the] **Mana Sword** will appear!"
 
@@ -86,13 +86,13 @@ I have both Pidge and Max cast the new spells, and the Mana Sword is restored to
 
 Here comes the **Mana Beast!**
 
-<img src="https://i.imgur.com/FrIucGl.png" alt="here comes the mana beast" width="480" height="360" />
+<img src="https://i.imgur.com/FrIucGl.png" alt="here comes the mana beast" width="360" height="270" id="liveblog" />
 
 He breathes a spiral of fire before coming closer...
 
 Holy heck!
 
-<img src="https://i.imgur.com/MjRGfkE.png" alt="mana beast huge!" width="480" height="360" />
+<img src="https://i.imgur.com/MjRGfkE.png" alt="mana beast huge!" width="360" height="270" id="liveblog" />
 
 With the Mana Sword revived, the sword makes its mark on the Beast!
 
@@ -102,4 +102,4 @@ It takes me many tries to figure out how to call on the Mana Sword again...it ta
 
 ...and with Pidge's last MP, I revive the Mana Sword again and finish off the Mana Beast...
 
-<img src="https://i.imgur.com/it8SQJy.png" alt="mana beast finished" width="480" height="360" />
+<img src="https://i.imgur.com/it8SQJy.png" alt="mana beast finished" width="360" height="270" id="liveblog" />
