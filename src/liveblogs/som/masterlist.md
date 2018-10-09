@@ -84,4 +84,8 @@ categories: som secret-of-mana
 	<li>[Part 74: Thundering Giant](../som74/)</li>
 	<li>[Part 75: The Last Dragon?](../som75/)</li>
 	<li>[Part 76: Tree of Mana](../som76/)</li>
+	<li>Part 77: Mana Fortress</li>
+	<li>Part 78: Dyluck's Final Act</li>
+	<li>Part 79: Mana Beast</li>
+	<li>Part 80: Now, Flightless Wings</li>
 </ul>
