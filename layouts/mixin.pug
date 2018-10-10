@@ -44,3 +44,16 @@ mixin comments
     var idcomments_post_url;
   span#IDCommentsPostTitle(style='display:none')
   script(type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js')
+
+//- mixin for Google analytics to see views on website
+mixin analytics
+  script(async src="https://www.googletagmanager.com/gtag/js?id=UA-126957332-1")
+  script.
+    var trackingID = 'UA-126957332-1';
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    //-function ga(){var trackers = ga.getAll();}
+    gtag('js', new Date());
+
+    gtag('config', trackingID);
+    //-ga('set', 'anonymizeIp', true);
