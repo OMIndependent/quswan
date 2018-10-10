@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Secret of Mana - Part 78: Dyluck's Final Act"
 date: 2018-05-09 09-0800
-publishDate: 2018-10-09 22:00:00 09-0800
+publishDate: 2018-10-10 12:10:00 09-0800
 categories: som secret-of-mana playthroughs
 ---
 
