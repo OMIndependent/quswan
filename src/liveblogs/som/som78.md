@@ -79,6 +79,7 @@ But the transformation is complete...
 Pidge says he's lying...no, it **is** Thanatos!
 
 <img src="https://i.imgur.com/nSnvmVw.png" alt="liar" width="360" height="270" id="liveblog" />
+
 <img src="https://i.imgur.com/Wwdn4B1.png" alt="can't move" width="360" height="270" id="liveblog" />
 
 Then we hear Dyluck's voice, as <a href="https://youtu.be/3dhpIEerwng">"Fond Memories"</a> plays again...
