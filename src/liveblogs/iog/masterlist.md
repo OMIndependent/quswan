@@ -16,6 +16,9 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 6: Edward's Castle](../iog6/)</li>
 	<li>[Part 7: Imprisonment...In 2D!](../iog7/)</li>
 	<li>[Part 8: Escape From Edward's Prison](../iog8/)</li>
-	<li>Part 9: Freedom</li>
-	<li>Part 10: Preparations</li>
+	<li>[Part 9: Freedom](../iog9/)</li>
+	<li>[Part 10: Preparations](../iog10/)</li>
+	<li>Part 11: Itory Village</li>
+	<li>Part 12: Spelunking</li>
+	<li>Part 13: Moon Tribe Camp</li>
 </ul>
