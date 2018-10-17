@@ -141,7 +141,7 @@ I head back to the ship and to the hideout!
 
 ---
 
-<p><h2 class="entry-title">Tales of Berseria - Part 88: Once Again to Titania</h2></p>
+<p><h2 class="entry-title">Tales of Berseria - Part 88: Once Again to Titania (continued)</h2></p>
 
 Eizen's tired. Taking on a dragon takes a toll on even the best of fighters...
 
