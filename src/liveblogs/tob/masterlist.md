@@ -119,15 +119,24 @@ categories: tob tales-of-berseria
 			<li>[Part 76: Exploring the New Hideout](../tob76/)</li>
 			<li>[Part 77: Eleanor's Confession/A Multitude of Skits](../tob77/)</li>
 			<li>[Part 78: Sensing More Earthpulses](../tob78/)</li>
-			<li>Part 79: Fishing For Therions/Laphicet's New Nickname</li>
-			<li>Part 80: Hideout Holiday</li>
-			<li>Part 81: Third Trip To Midgand and Some Sidetracking</li>
-			<li>Part 82: More Stuff In Loegres</li>
-			<li>Part 83: Aldina Plains, Land of Vitality</li>
-			<li>Part 84: Up the Summit, Zamahl Grotto, and Davahl Forest</li>
-			<li>Part 85: Stonebury, Pioneer Settlement</li>
-			<li>Part 86: Geoboarding</li>
-			<li>Part 87: The Dragon Daemon</li>
+			<li>[Part 79: Fishing For Therions/Laphicet's New Nickname](../tob79/)</li>
+			<li>[Part 80: Hideout Holiday](../tob80/)</li>
+			<li>[Part 81: Third Trip To Midgand and Some Sidetracking](../tob81/)</li>
+			<li>[Part 82: More Stuff In Loegres](../tob82/)</li>
+			<li>[Part 83: Aldina Plains, Land of Vitality](../tob83/)</li>
+			<li>[Part 84: Up the Summit, Zamahl Grotto, and Davahl Forest](../tob84/)</li>
+			<li>[Part 85: Stonebury, Pioneer Settlement](../tob85/)</li>
+			<li>[Part 86: Geoboarding](../tob86/)</li>
+			<li>[Part 87: The Dragon Daemon](../tob87/)</li>
+			<li>Part 88: Once Again to Titania</li>
+			<li>Part 88a: Into a Class 4 Zone</li>
+			<li>Part 89: Prayers and Blessings</li>
+			<li>Part 90: Return to Northgand At Long Last</li>
+			<li>Part 90a: Words and Deeds of the Hero King</li>
+			<li>Part 91: Figahl Icecaps Revisited/The Omega Elixir's Third Ingredient</li>
+			<li>Part 92: Faldies Ruins, Northern Checkpoint</li>
+			<li>Part 93: Enter Velvet, the Lord of Calamity</li>
+			<li>Part 94: Mother</li>
 		</ul>
 	</li>
 </ul>

@@ -26,9 +26,9 @@ categories: alundra
   <li>[Part 16: The Desert of Despair](../al16/)</li>
   <li>[Part 17: Sidequesting Again](../al17/)</li>
   <li>[Part 18: The Ancient Shrine](../al18/)</li>
-  <li>Part 19: Finishing the Ancient Shrine</li>
-  <li>Part 20: The Master of the Keep</li>
-  <li>Part 21: Exploration of Mt. Torla</li>
+  <li>[Part 19: Finishing the Ancient Shrine](../al19/)</li>
+  <li>[Part 20: The Master of the Keep](../al20/)</li>
+  <li>[Part 21: Exploration of Mt. Torla](../al21/)</li>
   <li>Part 22: Tying Up Loose Ends</li>
   <li>Part 23: Nirude's Lair Preview</li>
   <li>Part 24: Opening the Desert Shrine and Visiting Other Places</li>
