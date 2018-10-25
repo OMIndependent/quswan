@@ -4,6 +4,10 @@
 // Do not use any unneeded vars when running
 'use strict'
 
+// Import html and url for redirects, url to move posts to HTTPS site
+var http			  = require('http')
+var url				  = require('url')
+
 // Import plugins
 const pkg             = require('./package.json')
 
@@ -38,7 +42,7 @@ var destDir = './build/'
 var meta = {
   site: {
     title: 'Quesada\'s Swan | ',
-    url: 'http://quswan.net/'
+    url: 'https://quswan.net/'
   },
   name: 'Quesada\'s Swan',
   description: desc,
@@ -181,6 +185,9 @@ var imgminify = {
 // Toggle debug
 var log = false
 
+// Localhost port
+var port = 8080
+
 Metalsmith(dir.base)
   .clean(clean) // Clean the build directory
   .metadata(meta) // Get metadata
@@ -228,7 +235,7 @@ Metalsmith(dir.base)
     server: destDir,
     files: ['./src/**/**/*', './src/**/*', './src/*',
       'assets/*'], // Note changes in these files
-    port: 8080,
+    port: port,
     injectChanges: false,
     codeSync: false
   }), function (err) {
@@ -239,6 +246,13 @@ Metalsmith(dir.base)
   .build(function (err) {
     if (err) { throw err } else { console.log('Build complete.\n') }
   })
+
+/* Redirect to HTTPS site */
+http.createServer( (req, res) => {
+   var pathname = url.parse(req.url).pathname
+   res.writeHead(301, {Location: meta.site.url + pathname})
+   res.end()
+}).listen(port)
 
 // Debug function to check if website loads correctly
 function debug(log) {
