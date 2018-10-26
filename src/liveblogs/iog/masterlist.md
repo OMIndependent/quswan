@@ -21,4 +21,7 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 11: Itory Village](../iog11/)</li>
 	<li>[Part 12: Spelunking](../iog12/)</li>
 	<li>[Part 13: Moon Tribe Camp](../iog13/)</li>
+	<li>Part 14: Incan Ruins</li>
+	<li>Part 15: Continuing Incan Ruins</li>
+	<li>Part 16: First Boss</li>
 </ul>

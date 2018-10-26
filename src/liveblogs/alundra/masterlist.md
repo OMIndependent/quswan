@@ -29,13 +29,13 @@ categories: alundra
   <li>[Part 19: Finishing the Ancient Shrine](../al19/)</li>
   <li>[Part 20: The Master of the Keep](../al20/)</li>
   <li>[Part 21: Exploration of Mt. Torla](../al21/)</li>
-  <li>Part 22: Tying Up Loose Ends</li>
-  <li>Part 23: Nirude's Lair Preview</li>
-  <li>Part 24: Opening the Desert Shrine and Visiting Other Places</li>
-  <li>Part 25: The Beginning of the End</li>
-  <li>Part 26: The Coastal Cave</li>
-  <li>Part 27: More Coastal Cave</li>
-  <li>Part 28: Activating the Arches</li>
+  <li>[Part 22: Tying Up Loose Ends](../al22/)</li>
+  <li>[Part 23: Nirude's Lair Preview](../al23/)</li>
+  <li>[Part 24: Opening the Desert Shrine and Visiting Other Places](../al24/)</li>
+  <li>[Part 25: The Beginning of the End](../al25/)</li>
+  <li>[Part 26: The Coastal Cave](../al26/)</li>
+  <li>[Part 27: More Coastal Cave](../al27/)</li>
+  <li>[Part 28: Activating the Arches](../al28/)</li>
   <li>Part 29: A Revelation in Meia</li>
   <li>Part 30: A Hand for Kline</li>
   <li>Part 31: Kline's Nightmare</li>

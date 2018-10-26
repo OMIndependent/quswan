@@ -128,15 +128,15 @@ categories: tob tales-of-berseria
 			<li>[Part 85: Stonebury, Pioneer Settlement](../tob85/)</li>
 			<li>[Part 86: Geoboarding](../tob86/)</li>
 			<li>[Part 87: The Dragon Daemon](../tob87/)</li>
-			<li>Part 88: Once Again to Titania</li>
-			<li>Part 88a: Into a Class 4 Zone</li>
-			<li>Part 89: Prayers and Blessings</li>
-			<li>Part 90: Return to Northgand At Long Last</li>
-			<li>Part 90a: Words and Deeds of the Hero King</li>
-			<li>Part 91: Figahl Icecaps Revisited/The Omega Elixir's Third Ingredient</li>
-			<li>Part 92: Faldies Ruins, Northern Checkpoint</li>
-			<li>Part 93: Enter Velvet, the Lord of Calamity</li>
-			<li>Part 94: Mother</li>
+			<li>[Part 88: Once Again to Titania](../tob88/)</li>
+			<li>Part 88a: Into a Class 4 Zone](../tob88/#a)</li>
+			<li>[Part 89: Prayers and Blessings](../tob89/)</li>
+			<li>[Part 90: Return to Northgand At Long Last](../tob90/)</li>
+			<li>[Part 90a: Words and Deeds of the Hero King](../tob90/#a)</li>
+			<li>[Part 91: Figahl Icecaps Revisited/The Omega Elixir's Third Ingredient](../tob91/)</li>
+			<li>[Part 92: Faldies Ruins, Northern Checkpoint](../tob92/)</li>
+			<li>[Part 93: Enter Velvet, the Lord of Calamity](../tob93/)</li>
+			<li>[Part 94: Mother](../tob94/)</li>
 		</ul>
 	</li>
 </ul>
