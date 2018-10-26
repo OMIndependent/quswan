@@ -129,7 +129,7 @@ categories: tob tales-of-berseria
 			<li>[Part 86: Geoboarding](../tob86/)</li>
 			<li>[Part 87: The Dragon Daemon](../tob87/)</li>
 			<li>[Part 88: Once Again to Titania](../tob88/)</li>
-			<li>Part 88a: Into a Class 4 Zone](../tob88/#a)</li>
+			<li>[Part 88a: Into a Class 4 Zone](../tob88/#a)</li>
 			<li>[Part 89: Prayers and Blessings](../tob89/)</li>
 			<li>[Part 90: Return to Northgand At Long Last](../tob90/)</li>
 			<li>[Part 90a: Words and Deeds of the Hero King](../tob90/#a)</li>
