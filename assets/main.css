@@ -40,7 +40,7 @@ figure  {
 
 /* Set variables */
 * {
-  --links: 4;
+  --links: 5;
   --nav-height: 3.25em;
   --link-row-height: 3.75em;
 }
