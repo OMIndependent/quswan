@@ -6,7 +6,7 @@ publishDate: 2018-11-19 23:59:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
-<p class="enty-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4)</p>
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4)</p>
 
 <a name="1"></a>
 
