@@ -16,17 +16,17 @@ She explains to us about a "second counting song" in the novel.
 
 Phi reads the song:
 
-"**When the eight malevolences overflow
-In the culmination of mankind's despair
-Innominat will bring an end to all peoples
+"**When the eight malevolences overflow<br/>
+In the culmination of mankind's despair<br/>
+Innominat will bring an end to all peoples<br/>
 And restore them to time immemorial.**
 
-"**Four Empyreans shall wield a wrathful sword
-And cleave the great devourer
-Two asunder to sleep beneath the earth
+"**Four Empyreans shall wield a wrathful sword<br/>
+And cleave the great devourer<br/>
+Two asunder to sleep beneath the earth<br/>
 As scarlet moonlight illuminates the evil.**
 
-"**The nameless Empyrean hath one heart
+"**The nameless Empyrean hath one heart<br/>
 The nameless Empyrean hath one body.**"
 
 Velvet implies the song's referring to how Innominat operates.
