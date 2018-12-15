@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Tales of Berseria - Part 98: Perniya Cliffside Path, Along the Silent Shores"
 date: 2018-03-23 09-0800
-publishDate: 2018-11-29 23:55:00 -0800
+publishDate: 2018-12-14 01:00:00 -0800
 categories: tob tales-of-berseria playthroughs
 ---
 
