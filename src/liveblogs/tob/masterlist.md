@@ -137,11 +137,11 @@ categories: tob tales-of-berseria
 			<li>[Part 92: Faldies Ruins, Northern Checkpoint](../tob92/)</li>
 			<li>[Part 93: Enter Velvet, the Lord of Calamity](../tob93/)</li>
 			<li>[Part 94: Mother](../tob94)</li>
-			<li>Part 95: More Hiding Out</li>
-			<li>Part 96: New Revelations</li>
-			<li>Part 97: Setting Sail to Eastgand</li>
-			<li>Part 98: Perniya Cliffside Path, Along the Silent Shores</li>
-			<li>Part 99: Traversing Morgana Woods and Old Friends</li>
+			<li>[Part 95: More Hiding Out](../tob95)</li>
+			<li>[Part 96: New Revelations](../tob96)</li>
+			<li>[Part 97: Setting Sail to Eastgand](../tob97)</li>
+			<li>[Part 98: Perniya Cliffside Path, Along the Silent Shores](../tob98)</li>
+			<li>[Part 99: Traversing Morgana Woods and Old Friends](../tob99)</li>
 		</ul>
 	</li>
 </ul>

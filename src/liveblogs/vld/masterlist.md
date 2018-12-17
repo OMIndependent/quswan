@@ -71,4 +71,19 @@ categories: voltron
   <li>7x11: Trial By Fire</li>
   <li>7x12: Lion's Pride, Part 1</li>
   <li>7x13: Lion's Pride, Part 2</li>
+  <!--
+  <li>8x01: Date</li>
+  <li>8x02: Shadows</li>
+  <li>8x03: Prisoner's Dilemma</li>
+  <li>8x04: Battle Scars</li>
+  <li>8x05: The Grudge</li>
+  <li>8x06: </li>
+  <li>8x07: </li>
+  <li>8x08: </li>
+  <li>8x09: </li>
+  <li>8x10: </li>
+  <li>8x11: </li>
+  <li>8x12: </li>
+  <li>8x13: </li>
+  -->
 </ul>
