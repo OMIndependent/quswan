@@ -46,7 +46,7 @@ Now Lilly wakes Will up...
 
 <img src="https://i.imgur.com/TcMloFa.png" alt="will!" width="360" height="270" id="liveblog" />
 
-The boat's now ruined. Does this mean that everything happening before was just a dream too?
+The boat's now ruined. Does this mean everything that happened before was just a dream too?
 
 I have Will climb down the bunk and check the corpses of the Inca.
 
