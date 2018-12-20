@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Illusion of Gaia - Part 19: Sepia Slumber/Reunion"
 date: 2018-07-10 09-0800
-publishDate: 2018-12-18 23:02:00 -0800
+publishDate: 2018-12-19 23:32:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
