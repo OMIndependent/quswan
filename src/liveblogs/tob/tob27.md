@@ -74,7 +74,11 @@ The child malak gasps in shock at the corpse!
 
 Eizen compliments Rokurou as "a fine companion for the reaper."
 
+<<<<<<< HEAD
 **Another skit:** Eizen asks Rokurou about a smith named Kushiyamata, who are "distantly" related to Rokurou's clan. Rokurou calls them "a clan of kitchen knife makers." He adds that they forge "cursed knives." When one wields it, they bring about an "urge to strike out at anyone and everyone." \****shudders***\*
+=======
+**Another skit:** Eizen asks Rokurou about a smith named Kushiyamata, who are "distantly" related to Rokurou's clan. Rokurou calls them "a clan of kitchen knife makers." He adds that they forge "cursed knives." When one wields it, they bring about an "urge to strike out at anyone and everyone." ***\*shudders\****
+>>>>>>> 130869a443e65258832fe374090ee3c49bdad3b3
 
 And what Rokurou says next about how they make their blades (rumor or not) makes me shudder even more...
 

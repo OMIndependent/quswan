@@ -9,9 +9,6 @@ categories: wonderstorm dragon-prince
 ---
 <ul class="section-wrapper">
 	<li><span class="section-no">Book 1: Moon</span>
-		<!--<input class="section-check" type="checkbox">
-		<label class="section-check-box" for="section-check">
-			<span class="check-icon"></span>-->
 		<ul class="masterlink-wrapper">
 			<li>1x01: Echoes of Thunder</li>
 			<li>1x02: What Is Done</li>
@@ -23,7 +20,5 @@ categories: wonderstorm dragon-prince
 			<li>1x08: Cursed Caldera</li>
 			<li>1x09: Wonderstorm</li>
 		</ul>
-		<!--</label>
-		</input>-->
 	</li>
 </ul>

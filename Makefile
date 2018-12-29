@@ -4,8 +4,9 @@ ASSETS=assets
 css: ${ASSETS}/*.css
 
 build: ${LAYOUTS} css node_modules
-	npm run start
+	node index.js
 
 node_modules: package.json
+	npm run start
 
 .PHONY: build

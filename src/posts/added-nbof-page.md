@@ -5,7 +5,7 @@ date: 2018-05-04 09-0800
 publishDate: 2018-05-04 09-0800
 ---
 
-Hello, everyone! I've just [added the main page for my liveblog of *Natsume's Book of Friends*!](../../liveblogs/natsuyu/) In other news, this site is now more secure thanks to [GitHub providing custom domain pages with added HTTPS encryption!](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/) 
+Hello, everyone! I've just [added the main page](../liveblogs/natsuyu/) for my liveblog of *Natsume's Book of Friends*! In other news, this site is now more secure thanks to [GitHub providing custom domain pages with added HTTPS encryption!](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/) 
 
 In the meantime, I'll continue to upload my playthroughs of *Secret of Mana* and *Tales of Berseria* from the previous two weeks!
 
