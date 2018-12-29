@@ -1,0 +1,15 @@
+//- page.pug - Layout for pages.
+extends layout.pug
+
+include mixin.pug
+
+block content
+  article
+    div.page-wrapper
+      header.page-header
+        h2.page-title= title
+
+      != contents
+      
+block footer
+  +homefooter

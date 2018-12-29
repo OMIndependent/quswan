@@ -1,0 +1,59 @@
+//- mixin.pug - Mixins for website.
+//- mixin for navbar links
+mixin navlink(path,name)
+  li
+    a(href='/' + path)= name
+
+
+//- mixin for entry links
+mixin entrylink(path,name,date)
+  div.outer-entry-link-wrapper
+    div.entry-link-wrapper
+      div.entry-link-header
+        a(href='/' + path)
+          header.entry-header
+            h2.entry-title
+              = name
+      div.entry-link-footer
+        time.entry-meta(datetime=date)= date.format("dddd, MMMM Do, YYYY")
+
+//- mixin for alternate footer
+mixin homefooter
+  footer.web-footer
+    div
+      p
+        a(href='/') Home
+
+//- mixin for pagination
+mixin paginate
+  nav.nav-pag
+    if pagination.previous
+      div#prev
+        a(href='/' + pagination.previous.path)
+          | Newer &raquo;
+    if pagination.next
+      div#next
+        a(href='/' + pagination.next.path)
+          | &laquo; Older
+
+//- mixin for intensedebate comments
+mixin comments
+  script(type='text/javascript').
+    var idcomments_acct = '24ffbf65f82f6773f0c15e6c95541c40';
+    var idcomments_post_id;
+    var idcomments_post_url;
+  span#IDCommentsPostTitle(style='display:none')
+  script(type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js')
+
+//- mixin for Google analytics to see views on website
+mixin analytics
+  script(async src="https://www.googletagmanager.com/gtag/js?id=UA-126957332-1")
+  script.
+    var trackingID = 'UA-126957332-1';
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    //-function ga(){var trackers = ga.getAll();}
+    gtag('js', new Date());
+
+    gtag('config', trackingID);
+    //-ga('set', 'anonymizeIp', true);

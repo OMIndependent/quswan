@@ -1,0 +1,21 @@
+//- layout.pug - The default page layout.
+doctype html
+html(lang='en')
+  block head
+    head
+      include head.pug
+
+  block body
+    body
+      div.wrapper
+        block header
+          include header.pug
+          include nav.pug
+          
+        div.content-wrapper
+          main.page-content(aria-label='Content')
+            block content
+              != contents
+
+        block footer
+          include footer.pug

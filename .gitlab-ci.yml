@@ -1,0 +1,14 @@
+image: node:6.11.1
+
+pages:
+  cache:
+    paths:
+      - node_modules/
+
+    script:
+      - make build
+    artifacts:
+      paths:
+        - public
+      only:
+        - gl-pages
