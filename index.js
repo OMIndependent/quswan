@@ -248,11 +248,11 @@ Metalsmith(dir.base)
   })
 
 /* Redirect to HTTPS site */
-/*http.createServer( (req, res) => {
+http.createServer( (req, res) => {
    var pathname = url.parse(req.url).pathname
    res.writeHead(301, {Location: meta.site.url + pathname})
    res.end()
-}).listen(port)*/
+}).listen(port)
 
 // Debug function to check if website loads correctly
 function debug(log) {

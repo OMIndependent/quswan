@@ -24,9 +24,15 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 14: Incan Ruins](../iog14)</li>
 	<li>[Part 15: Continuing Incan Ruins](../iog15)</li>
 	<li>[Part 16: First Boss](../iog16)</li>
-	<li>Part 17: First Boss, Take Two</li>
-	<li>Part 18: The Incan Gold Ship</li>
-	<li>Part 19: Sepia Slumber/Reunion</li>
-	<li>Part 20: Adrift</li>
-	<li>Part 21: Entering Freejia</li>
+	<li>[Part 17: First Boss, Take Two](../iog17)</li>
+	<li>[Part 18: The Incan Gold Ship](../iog18)</li>
+	<li>[Part 19: Sepia Slumber/Reunion](../iog19)</li>
+	<li>[Part 20: Adrift](../iog20)</li>
+	<li>[Part 21: Entering Freejia](../iog21)</li>
+	<li>Part 22: Freejia</li>
+	<li>Part 23: The Diamond Mine</li>
+	<li>Part 24: Continuing the Diamond Mine</li>
+	<li>Part 25: Remembrance</li>
+	<li>Part 26: Neil</li>
+	<li>Part 27: Nazca Painting</li>
 </ul>

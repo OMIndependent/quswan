@@ -40,10 +40,10 @@ categories: alundra
   <li>[Part 30: A Hand for Kline](../al30)</li>
   <li>[Part 31: Kline's Nightmare](../al31)</li>
   <li>[Part 32: Even More Sidequesting](../al32)</li>
-  <li>Part 33: The Swamp Thing</li>
-  <li>Part 34: Reptile Lair</li>
-  <li>Part 35: Finishing the Reptile Lair</li>
-  <li>Part 36: Sidequesting For the Fun of It</li>
+  <li>[Part 33: The Swamp Thing](../al33)</li>
+  <li>[Part 34: Reptile Lair](../al34)</li>
+  <li>[Part 35: Finishing the Reptile Lair](../al35)</li>
+  <li>[Part 36: Sidequesting For the Fun of It](../al36)</li>
   <li>Part 37: Giles's Salvation (Part 1)</li>
   <li>Part 37: Giles's Salvation (Part 2)</li>
   <li>Part 38: Giles's Nightmare</li>
