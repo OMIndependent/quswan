@@ -6,7 +6,7 @@ publishDate: 2019-01-19 01:30:02 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
-<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \ [**Part 3**](#3) \| [**Part 4**](#4) \| [**Part 5**](#5) \| [**Part 6**](#6) \| [**Part 7**](#7)</p>
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4) \| [**Part 5**](#5) \| [**Part 6**](#6) \| [**Part 7**](#7)</p>
 
 <a name="1"></a>
 
@@ -215,6 +215,7 @@ I head back to the alley, and go to the leftmost house in the corner, where the 
 We hear Erik's voice.
 
 <img src="https://i.imgur.com/JjkiszK.png" alt="save erik" width="360" height="270" id="liveblog" />
+
 He gets silenced...
 
 <img src="https://i.imgur.com/Q4o2bcb.png" alt="will breaks down door" width="360" height="270" id="liveblog" />
