@@ -44,13 +44,13 @@ categories: alundra
   <li>[Part 34: Reptile Lair](../al34)</li>
   <li>[Part 35: Finishing the Reptile Lair](../al35)</li>
   <li>[Part 36: Sidequesting For the Fun of It](../al36)</li>
-  <li>Part 37: Giles's Salvation (Part 1)</li>
-  <li>Part 37: Giles's Salvation (Part 2)</li>
-  <li>Part 38: Giles's Nightmare</li>
-  <li>Part 39: Spreading the Good News</li>
-  <li>Part 40: Magyscar</li>
-  <li>Part 41: Finishing Magyscar</li>
-  <li>Part 42: More Visions and Denial</li>
+  <li>[Part 37: Giles's Salvation (Part 1)](../al37-1)</li>
+  <li>[Part 37: Giles's Salvation (Part 2)](../al37-2)</li>
+  <li>[Part 38: Giles's Nightmare](../al38)</li>
+  <li>[Part 39: Spreading the Good News](../al39)</li>
+  <li>[Part 40: Magyscar](../al40)</li>
+  <li>[Part 41: Finishing Magyscar](../al41)</li>
+  <li>[Part 42: More Visions and Denial](../al42)</li>
   <li>Part 43: The Sanctuary's Secret - Prologue</li>
   <li>Part 44: The Sanctuary's Secret</li>
   <li>Part 45: Sybill's Exit</li>
