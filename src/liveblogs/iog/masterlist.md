@@ -35,4 +35,30 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>Part 25: Remembrance</li>
 	<li>Part 26: Neil</li>
 	<li>Part 27: Nazca Painting</li>
+	<li>Part 28: Sky Garden</li>
+	<li>Part 29: Continuing Sky Garden</li>
+	<li>Part 30: Finishing Sky Garden</li>
+	<li>Part 31: Seaside Palace - Entrance</li>
+	<li>Part 32: Seaside Palace</li>
+	<li>Part 33: Mu</li>
+	<li>Part 34: Mu, Partly Risen</li>
+	<li>Part 35: More Mu</li>
+	<li>Part 36: Rama</li>
+	<li>Part 37: Vampires</li>
+	<li>Part 38: Vampires, Take Two</li>
+	<li>Part 39: Tunnelling</li>
+	<li>Part 40: Angel Village</li>
+	<li>Part 41: Visiting Angel Village</li>
+	<li>Part 42: To Ishtar</li>
+	<li>Part 43: Cavernous Crossings</li>
+	<li>Part 44: Ishtar</li>
+	<li>Part 45: Double Checking</li>
+	<li>Part 46: Watermia, Floating City</li>
+	<li>Part 47: Romantic Confession</li>
+	<li>Part 48: Finding Lance and Lilly</li>
+	<li>Part 49: The Great Wall of China</li>
+	<li>Part 50: Continuing the Great Wall</li>
+	<li>Part 51: Spinning Around the Great Wall</li>
+	<li>Part 52: Sand Fanger Shuffle</li>
+	<li>Part 53: Lancey Lance</li>
 </ul>

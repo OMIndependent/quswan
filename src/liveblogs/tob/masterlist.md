@@ -142,6 +142,25 @@ categories: tob tales-of-berseria
 			<li>[Part 97: Setting Sail to Eastgand](../tob97)</li>
 			<li>[Part 98: Perniya Cliffside Path, Along the Silent Shores](../tob98)</li>
 			<li>[Part 99: Traversing Morgana Woods and Old Friends](../tob99)</li>
+			<li>Part 100: Return to Aball, The Village of Longing</li>
+			<li>Part 101: Illusion Shattered</li>
+			<li>Part 102: Therion Hunter</li>
+			<li>Part 103: Meeting Melchior</li>
+			<li>Part 104: Return to Taliesin</li>
+			<li>Part 105: Another Return To Titania</li>
+			<li>Part 106: Lancelot du Capalus</li>
+			<li>Part 107: To Lionel Island/Teresa's Story</li>
+			<li>Part 108: Baird Marsh, Domain of the Old Kingdom</li>
+			<li>Part 108a: Millionaire-pede</li>
+			<li>Part 109: Fusion</li>
+			<li>Part 110: The Tragedy of Oscar and Teresa</li>
+			<li>Part 111: Leaving Baird Marsh</li>
+			<li>Part 112: The Abbey Strikes Back</li>
+			<li>Part 113: Enter Innominat, The Fifth Empyrean</li>
+		</ul>
+	</li>
+	<li><span class="section-no">Act V</span>
+		<ul class="masterlink-wrapper">
 		</ul>
 	</li>
 </ul>
