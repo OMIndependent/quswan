@@ -26,6 +26,8 @@ permalink: /liveblogs/
 [<img src="" alt="iog banner" class="banner" />](./iog/masterlist/)
 <h4 style="text-align: center;">*Illusion of Gaia* (masterlist only)</h4>
 
+<!--[<img src="" alt="terra banner" class="banner"](./terra/masterlist)
+<h4 style="text-align: center;">*Terranigma* (masterlist only)</h4>-->
 [<img src="" alt="vld banner" class="banner" />](./vld/)
 <h4 style="text-align: center;">*Voltron: Legendary Defender*</h4>
 
