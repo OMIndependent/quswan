@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Illusion of Gaia - Part 25: Remembrance"
 date: 2018-08-06 09-0800
-publishDate: 2019-07-29 02:20:00 -0800
+publishDate: 2019-07-29 14:40:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
