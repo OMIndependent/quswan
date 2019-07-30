@@ -29,9 +29,9 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 19: Sepia Slumber/Reunion](../iog19)</li>
 	<li>[Part 20: Adrift](../iog20)</li>
 	<li>[Part 21: Entering Freejia](../iog21)</li>
-	<li>Part 22: Freejia</li>
-	<li>Part 23: The Diamond Mine</li>
-	<li>Part 24: Continuing the Diamond Mine</li>
+	<li>[Part 22: Freejia](../iog22)</li>
+	<li>[Part 23: The Diamond Mine](../iog23)</li>
+	<li>[Part 24: Continuing the Diamond Mine](../iog24)</li>
 	<li>Part 25: Remembrance</li>
 	<li>Part 26: Neil</li>
 	<li>Part 27: Nazca Painting</li>
