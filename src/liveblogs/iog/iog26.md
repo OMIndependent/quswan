@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Illusion of Gaia - Part 26: Neil"
 date: 2018-08-06 09-0800
-publishDate: 2019-07-30 11:40:00 -0800
+publishDate: 2019-07-30 14:40:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
