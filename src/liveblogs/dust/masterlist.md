@@ -48,4 +48,22 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 28: Ginger's Past</li>
   <li>Part 29: Heading Underground and the Second Cirelian Trial</li>
   <li>Part 30: Things In the Dark</li>
+  <li>Part 31: Cirromon Caverns</li>
+  <li>Part 32: Crossing Cirromon Caverns</li>
+  <li>Part 33: Mudpot</li>
+  <li>Part 33a: SmoBop</li>
+  <li>Part 33b: FloHop</li>
+  <li>Part 33c: Gappy and His Sheep</li>
+  <li>Part 34: Finding Gappy's Sheep</li>
+  <li>Part 35: Fetch Questing and a Few Breathers</li>
+  <li>Part 36: Sort of Reunited and It Feels Quite Good</li>
+  <li>Part 37: Baa, Baa, Black Sheep, Where Are You?</li>
+  <li>Part 38: Back to the Caverns</li>
+  <li>Part 39: Meeting Blop</li>
+  <li>Part 40: Spikesville</li>
+  <li>Part 41: Doing the Crouch Slide</li>
+  <li>Part 42: Doing More of the Crouch Slide, Real Smooth</li>
+  <li>Part 43: Into the Lady's Lair We Go</li>
+  <li>Part 44: Where the Red ~~Fern~~ Moss Grows</li>
+  <li>Part 45: Back Into Finding the Lady's Lair</li>
 </ul>
