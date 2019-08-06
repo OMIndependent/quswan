@@ -14,10 +14,12 @@ Note that most of these links are not ready yet. I'll try and get them up if I'm
 
 [**Dr. Jill Stein**'s Opening Address At the 2017 No War Conference In Washington D.C.](./drjs/)
 
-[On the Occasion of the Balfour Declaration Centenary by **George Galloway**]()
-
 [How to Win A Grassroots Media Rebellion by **Caitlin Johnstone**](./cj-1/)
 
-<!--[**Jimmy Dore**'s Interview With **Thomas Frank** Concerning the State of the Democrats]()
+[**Caitlin Johnstone**'s Speech For The Melbourne Free Assange Rally](./cj-2)
+
+<!--[On the Occasion of the Balfour Declaration Centenary by **George Galloway**]()
+
+[**Jimmy Dore**'s Interview With **Thomas Frank** Concerning the State of the Democrats]()
 
 [**Jimmy Dore**'s Second Interview With **Thomas Frank**]()-->

@@ -61,4 +61,36 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>Part 51: Spinning Around the Great Wall</li>
 	<li>Part 52: Sand Fanger Shuffle</li>
 	<li>Part 53: Lancey Lance</li>
+	<li>Part 54: Russian Glass</li>
+	<li>Part 55: Setting Out</li>
+	<li>Part 56: City of Euro</li>
+	<li>Part 57: Exploring Euro</li>
+	<li>Part 58: Meeting the Roleks</li>
+	<li>Part 59: Mt. Kress/Mountain Temple</li>
+	<li>Part 60: Continuing Mountain Temple</li>
+	<li>Part 61: Freedan and the Teapot of Tears</li>
+	<li>Part 62: Change of Hands</li>
+	<li>Part 63: Natives' Village</li>
+	<li>Part 64: Angkor Wat</li>
+	<li>Part 65: Controller-less</li>
+	<li>Part 66: The Dangers of Angkor Wat</li>
+	<li>Part 67: A Maze of Bushes</li>
+	<li>Part 68: Deeper Into Angkor Wat</li>
+	<li>Part 69: Will's Vision</li>
+	<li>Part 70: Restoring the Villagers</li>
+	<li>Part 71: Desert Village Dao</li>
+	<li>Part 72: The Journal</li>
+	<li>Part 73: Enter Shadow</li>
+	<li>Part 74: Pyramid - West Passages</li>
+	<li>Part 75: Pyramid - East Passages</li>
+	<li>Part 76: Fetching the Hieroglyphs</li>
+	<li>Part 77: The Jackal</li>
+	<li>Part 78: Mummy Queen</li>
+	<li>Part 79: The Flute Talks Again</li>
+	<li>Part 80: Tower of Babel</li>
+	<li>Part 81: The Tower's Demons, or The Hardest Boss Rush Ever</li>
+	<li>Part 82: Comet of Armageddon</li>
+	<li>Part 83: Dark Gaia</li>
+	<li>Part 84: Earth</li>
+	<li>Part 85: Journey's End</li>
 </ul>

@@ -5,6 +5,6 @@ include mixin.pug
 
 block content
   for entry in pagination.files
-    +entrylink(entry.path,entry.title,entry.date)
+    +entrylink(entry.path,entry.title,entry.date,entry.publishDate)
   
   +paginate

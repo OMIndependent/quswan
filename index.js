@@ -21,7 +21,6 @@ const pug             = require('metalsmith-pug')
 const markdown        = require('metalsmith-markdown')
 const emoji           = require('metalsmith-emoji')
 const dateformatter   = require('metalsmith-date-formatter')
-const msmoment        = require('metalsmith-moment')
 const layouts         = require('metalsmith-layouts')
 const permalinks      = require('metalsmith-permalinks')
 const pagination      = require('metalsmith-pagination')
@@ -117,8 +116,8 @@ The output date format returns:
   "dddd, MMMM Do, YYYY" -> "X-day, July 1st, 2020" */
 /* 'broadcastDate' is also used for TV shows released on
 different days. */
-var mtime = ['date', 'publishDate']
-/*var mtime = {
+//var mtime = ['date', 'publishDate']
+var mtime = {
   dates: [
     {
       key: 'date', 
@@ -129,7 +128,7 @@ var mtime = ['date', 'publishDate']
       format: 'dddd, MMMM Do, YYYY'
     }
   ]
-}*/
+}
 
 /* Permalink settings */
 var perm = {
@@ -221,9 +220,7 @@ Metalsmith(dir.base)
 
   .use(images(imgPattern)) // Enable image gallery generator
 
-  //.use(dateformatter(mtime)) // Add date formatter plugin
-
-  .use(msmoment(mtime)) // Add moment plugin as placeholder
+  .use(dateformatter(mtime)) // Add date formatter plugin
 
   .use(pagination(pagi)) // Add pagination feature
 

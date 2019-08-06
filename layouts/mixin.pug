@@ -6,7 +6,7 @@ mixin navlink(path,name)
 
 
 //- mixin for entry links
-mixin entrylink(path,name,date)
+mixin entrylink(path,name,date,publishDate)
   div.outer-entry-link-wrapper
     div.entry-link-wrapper
       div.entry-link-header
@@ -15,7 +15,10 @@ mixin entrylink(path,name,date)
             h2.entry-title
               = name
       div.entry-link-footer
-        time.entry-meta(datetime=date)= date.format("dddd, MMMM Do, YYYY")
+        span.entry-meta
+          = 'Written on ' + date
+          br
+          = 'Posted on ' + publishDate
 
 //- mixin for alternate footer
 mixin homefooter
