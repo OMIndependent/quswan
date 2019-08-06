@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "2019 and Long Hiatuses"
 date: 2019-01-17 09-0800
-publishDate: 2019-01-17 23:00:00 09-0800
+publishDate: 2019-01-17 23:00:00 -0800
 ---
 
 Another new year's here, and for this year, I didn't plan any resolutions because I know I probably will not achieve them.

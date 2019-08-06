@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Summer Updates for 2019"
 date: 2019-07-19 09-0800
-publishDate: 2019-07-19 13:30:00 09-0800
+publishDate: 2019-07-19 13:30:00 -0800
 ---
 
 Alright, I'm back!
