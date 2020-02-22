@@ -12,6 +12,9 @@ Down to the depths of the wall we go!
 
 As we land on the sand, something rises: another sandworm! It moves away quickly!
 
+
+<img src="https://i.imgur.com/LkGkAYC.png" alt="worm rises" width="360" height="270" id="liveblog" />
+
 My goodness, that boss is very fast!
 
 Another attack's coming: sand cannonballs! No, they're eggs!
