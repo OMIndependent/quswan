@@ -51,22 +51,22 @@ categories: alundra
   <li>[Part 40: Magyscar](../al40)</li>
   <li>[Part 41: Finishing Magyscar](../al41)</li>
   <li>[Part 42: More Visions and Denial](../al42)</li>
-  <li>Part 43: The Sanctuary's Secret - Prologue</li>
-  <li>Part 44: The Sanctuary's Secret</li>
-  <li>Part 45: Sybill's Exit</li>
-  <li>Part 46: Entering Meia's Dream</li>
-  <li>Part 47: Meia's Past (Part 1-2)</li>
-  <li>Part 47: Meia's Past (Part 3)</li>
-  <li>Part 48: Nava's Choice</li>
-  <li>Part 49: Fire Manor and Sidequesting</li>
-  <li>Part 50: Ice Manor (Part 1-2)</li>
-  <li>Part 50: Ice Manor (Part 3)</li>
-  <li>Part 51: Bourne of Water</li>
-  <li>Part 52: The Underground Waterway</li>
-  <li>Part 53: Nirude's Lair, or A Dance with Nirude (Part 1)</li>
-  <li>Part 53: Nirude's Lair, or A Dance with Nirude (Part 2-3)</li>
-  <li>Part 54: Finishing Nirude's Lair</li>
-  <li>Part 55: Zorgia</li>
+  <li>[Part 43: The Sanctuary's Secret - Prologue](../al43)</li>
+  <li>[Part 44: The Sanctuary's Secret](../al44)</li>
+  <li>[Part 45: Sybill's Exit](../al45)</li>
+  <li>[Part 46: Entering Meia's Dream](../al46)</li>
+  <li>[Part 47: Meia's Past (Part 1-2)](../al47-1)</li>
+  <li>[Part 47: Meia's Past (Part 3)](../al47-2)</li>
+  <li>[Part 48: Nava's Choice](../al48)</li>
+  <li>[Part 49: Fire Manor and Sidequesting](../al49)</li>
+  <li>[Part 50: Ice Manor (Part 1-2)](../al50-1)</li>
+  <li>[Part 50: Ice Manor (Part 3)](../al50-2)</li>
+  <li>[Part 51: Bourne of Water](../al51)</li>
+  <li>[Part 52: The Underground Waterway](../al52)</li>
+  <li>[Part 53: Nirude's Lair, or A Dance with Nirude (Part 1)](../al53-1)</li>
+  <li>[Part 53: Nirude's Lair, or A Dance with Nirude (Part 2-3)](../al53-2)</li>
+  <li>[Part 54: Finishing Nirude's Lair](../al54)</li>
+  <li>[Part 55: Zorgia](../al55)</li>
   <li>Part 56: Sidequesting Part Seven? Idk</li>
   <li>Part 57: Riverside Pub Revisited</li>
   <li>Part 58: Ronan's Conspiracy</li>
