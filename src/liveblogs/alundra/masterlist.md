@@ -67,11 +67,11 @@ categories: alundra
   <li>[Part 53: Nirude's Lair, or A Dance with Nirude (Part 2-3)](../al53-2)</li>
   <li>[Part 54: Finishing Nirude's Lair](../al54)</li>
   <li>[Part 55: Zorgia](../al55)</li>
-  <li>Part 56: Sidequesting Part Seven? Idk</li>
-  <li>Part 57: Riverside Pub Revisited</li>
-  <li>Part 58: Ronan's Conspiracy</li>
-  <li>Part 59: At Odds With Ronan</li>
-  <li>Part 60: A Letter from Jess</li>
+  <li>[Part 56: Sidequesting Part Seven? Idk](../al56)</li>
+  <li>[Part 57: Riverside Pub Revisited](../al57)</li>
+  <li>[Part 58: Ronan's Conspiracy](../al58)</li>
+  <li>[Part 59: At Odds With Ronan](../al59)</li>
+  <li>[Part 60: A Letter from Jess](../al60)</li>
   <li>Part 61: Elene's 15 Minutes</li>
   <li>Part 62: Elene's Nightmare</li>
   <li>Part 63: Giles, Again</li>
