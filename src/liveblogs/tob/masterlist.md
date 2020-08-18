@@ -142,11 +142,11 @@ categories: tob tales-of-berseria
 			<li>[Part 97: Setting Sail to Eastgand](../tob97)</li>
 			<li>[Part 98: Perniya Cliffside Path, Along the Silent Shores](../tob98)</li>
 			<li>[Part 99: Traversing Morgana Woods and Old Friends](../tob99)</li>
-			<li>Part 100: Return to Aball, The Village of Longing</li>
-			<li>Part 101: Illusion Shattered</li>
-			<li>Part 102: Therion Hunter</li>
-			<li>Part 103: Meeting Melchior</li>
-			<li>Part 104: Return to Taliesin</li>
+			<li>[Part 100: Return to Aball, The Village of Longing](../tob100)</li>
+			<li>[Part 101: Illusion Shattered](../tob101)</li>
+			<li>[Part 102: Therion Hunter](../tob102)</li>
+			<li>[Part 103: Meeting Melchior](../tob103)</li>
+			<li>[Part 104: Return to Taliesin](../tob104)</li>
 			<li>Part 105: Another Return To Titania</li>
 			<li>Part 106: Lancelot du Capalus</li>
 			<li>Part 107: To Lionel Island/Teresa's Story</li>

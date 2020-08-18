@@ -32,13 +32,13 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 22: Freejia](../iog22)</li>
 	<li>[Part 23: The Diamond Mine](../iog23)</li>
 	<li>[Part 24: Continuing the Diamond Mine](../iog24)</li>
-	<li>Part 25: Remembrance</li>
-	<li>Part 26: Neil</li>
-	<li>Part 27: Nazca Painting</li>
-	<li>Part 28: Sky Garden</li>
-	<li>Part 29: Continuing Sky Garden</li>
-	<li>Part 30: Finishing Sky Garden</li>
-	<li>Part 31: Seaside Palace - Entrance</li>
+	<li>[Part 25: Remembrance](../iog25)</li>
+	<li>[Part 26: Neil](../iog26)</li>
+	<li>[Part 27: Nazca Painting](../iog27)</li>
+	<li>[Part 28: Sky Garden](../iog28)</li>
+	<li>[Part 29: Continuing Sky Garden](../iog29)</li>
+	<li>[Part 30: Finishing Sky Garden](../iog30)</li>
+	<li>[Part 31: Seaside Palace - Entrance](../iog31)</li>
 	<li>Part 32: Seaside Palace</li>
 	<li>Part 33: Mu</li>
 	<li>Part 34: Mu, Partly Risen</li>
