@@ -2,8 +2,8 @@
 layout: entry.pug
 title: "Illusion of Gaia - Part 31: Seaside Palace - Entrance"
 date: 2018-08-23 09-0800
-postedDate: 2020-08-17 21:15:00 -0800
-categories: categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
+publishDate: 2020-08-17 21:15:00 -0800
+categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
 <p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3)</p>
