@@ -72,8 +72,6 @@ I manage to take care of every enemy but five invisible ones above before going 
 
 Nothing happening here, so I have Will move to the north end of the fountain.
 
-<img src="https://i.imgur.com/xfQ5xDH.png" alt="north end fountain" width="360" height="270" id="liveblog" />
-
 "**The stone began to glow, then disappeared into the spring.**"
 
 <img src="https://i.imgur.com/AAFs3GI.png" alt="stone rises" width="360" height="270" id="liveblog" />
