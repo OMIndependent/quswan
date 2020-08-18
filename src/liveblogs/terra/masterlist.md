@@ -34,4 +34,18 @@ categories: terranigma quintet-enix
 			<li>Part 21: The Real Journey's Start</li>
 		</ul>
 	</li>
+	<li><span class="section-no">Chapter 2: Resurrection of the World</span>
+		<ul>
+			<li>Part 22: Resurrection of the World</li>
+			<li>Part 23: Cavern</li>
+			<li>Part 24: Underground Garden</li>
+			<li>Part 25: Parasite</li>
+			<li>Part 26: Green New World</li>
+			<li>Part 27: Crossing to North America</li>
+			<li>Part 28: Grecliff</li>
+			<li>Part 29: Cliff Climbing</li>
+			<li>Part 30: Freeing the Birds</li>
+			<li>Part 31: Kingbird</li>
+		</ul>
+	</li>
 </ul>
