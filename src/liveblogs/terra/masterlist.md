@@ -35,7 +35,7 @@ categories: terranigma quintet-enix
 		</ul>
 	</li>
 	<li><span class="section-no">Chapter 2: Resurrection of the World</span>
-		<ul>
+		<ul class="masterlink-wrapper">
 			<li>Part 22: Resurrection of the World</li>
 			<li>Part 23: Cavern</li>
 			<li>Part 24: Underground Garden</li>
