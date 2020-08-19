@@ -4,7 +4,6 @@ title: "Illusion of Gaia - Part 37: Vampires"
 date: 2018-08-25 09-0800
 publishDate: 2020-08-19 08:30:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
-draft: true
 ---
 
 <p class="entry-partination">[**Part 1**](#1) \| [**Part 2**](#2)</p>
