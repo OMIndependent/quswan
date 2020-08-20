@@ -7,13 +7,17 @@ categories: tob tales-of-berseria
 
 ---
 <ul class="section-wrapper">
-	<li><span class="section-no">Prologue/Act I</span>
+	<li><span class="section-no">Prologue</span>
 		<ul class="masterlink-wrapper">
 			<li>[Part 1: Dusting Out the Daemons](../tob1/)</li>
 			<li>[Part 2: Aball, The Village of Longing](../tob2/)</li>
 			<li>[Part 3: Tranquil Woods](../tob3/)</li>
 			<li>[Part 4: Sunset Memories](../tob4/)</li>
 			<li>[Part 5: Night of the Living Daemonic](../tob5/)</li>
+		</ul>
+	</li>
+	<li><span class="section-no">Act I</span>
+		<ul class="masterlink-wrapper">
 			<li>[Part 6: Imprisonment](../tob6/)</li>
 			<li>[Part 7: Prison Break](../tob7/)</li>
 			<li>[Part 8: Escape](../tob8/)</li>
@@ -161,6 +165,69 @@ categories: tob tales-of-berseria
 	</li>
 	<li><span class="section-no">Act V</span>
 		<ul class="masterlink-wrapper">
+			<li>Part 114: Return to the Earthpulse</li>
+			<li>Part 115: Revelations</li>
+			<li>Part 116: Final Revelation</li>
+			<li>Part 117: First Duel with Melchior</li>
+			<li>Part 118: Escape from Hexen Isle</li>
+			<li>Part 119: Laphicet and the Silver Flame</li>
+			<li>Part 120: A Miraculous Escape</li>
+			<li>Part 121: Last Will</li>
+			<li>Part 122: Aifread</li>
+			<li>Part 123: The Four Empyreans</li>
+			<li>Part 124: Domain of Absolute Suppression</li>
+			<li>Part 125: Selfish World Saving</li>
+			<li>Part 126: Sailing for Sidequests</li>
+			<li>Part 127: Up North Again</li>
+			<li>Part 128: Gaiburk Ice Field, Edge of Survivability</li>
+			<li>Part 129: Meirchio, City of Ice and Snow</li>
+			<li>Part 130: Final Breath Before the Plunge</li>
+			<li>Part 131: The Road to Mt. Killaraus</li>
+			<li>Part 132: Mt. Killaraus, Lifespring Font</li>
+			<li>Part 133: Rokurou vs. Shigure</li>
+			<li>Part 134: Deus Ex Magillanica</li>
+			<li>Part 135: Into the Cauldron</li>
+			<li>Part 136: Melchior Unleashed</li>
+			<li>Part 137: Waking the Empyreans</li>
+			<li>Part 138: A Bevy of Skits</li>
+			<li>Part 139: Return to Meirchio and Hellawes</li>
+			<li>Part 140: Sidequest Bonanza</li>
+			<li>Part 141: Talking Pengyon</li>
+			<li>Part 142: Riding the Sidequest Train</li>
+			<li>Part 143: Taliesin Again</li>
+			<li>Part 144: The Terror Island</li>
+			<li>Part 145: Normin Island and Katz Korner, Dreamlike Paradise</li>
+			<li>Part 146: Davahl Forest Revisited</li>
+			<li>Part 147: Omega Elixir Complete</li>
+			<li>Part 148: Rumors, Dealings, and a Dragon</li>
+			<li>Part 149: Goldipen</li>
+			<li>Part 150: Finding the Dragon</li>
+			<li>Part 151: Third Return to Meirchio</li>
+			<li>Part 152: Medicine for Kamoana</li>
+			<li>Part 153: Bitter Medicine</li>
+			<li>Part 154: Kamoana's Secret</li>
+			<li>Part 155: Magilou vs. Majelu/Exploring Zamahl Grotto</li>
+			<li>Part 156: Checking Up On Loegres</li>
+			<li>Part 157: The Challenge</li>
+			<li>Part 158: An Earthpulse In Aball/Normin Phoenix, Take Two</li>
+			<li>Part 159: Old Puns and an Earthpulse</li>
+			<li>Part 160: Further Revelations</li>
+			<li>Part 161: Facing Theodora</li>
+			<li>Part 162: Bonus Skits, Set One</li>
+			<li>Part 163: The Dragon of Hexen Isle/Divided Futures</li>
+			<li>Part 164: Zaveid's Found Family</li>
+			<li>Part 165: Southgand Surprises</li>
+			<li>Part 166: The Manual For Siegfried</li>
+			<li>Part 167: The Reply</li>
+			<li>Part 168: Return to the Empyrean's Throne</li>
+			<li>Part 169: Dragonfolk</li>
+			<li>Part 170: Innominat's Domain</li>
+			<li>Part 171: Continuing Innominat's Domain</li>
+			<li>Part 172: Clearing Out Innominat's Domain</li>
+			<li>Part 173: You Killed My Everything</li>
+			<li>Part 174: Prepare To...</li>
+			<li>Part 175: Maotelus</li>
+			<li>Part 176: Hope</li>
 		</ul>
 	</li>
 </ul>
