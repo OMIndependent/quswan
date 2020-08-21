@@ -6,7 +6,7 @@ publishDate: 2020-08-19 08:30:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
-<p class="entry-partination">[**Part 1**](#1) \| [**Part 2**](#2)</p>
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2)</p>
 
 <a name="1"></a>
 
