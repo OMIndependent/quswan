@@ -6,7 +6,7 @@ publishDate: 2020-08-21 12:05:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
-<p class="entry-partination">[**Part 1**](#1) \| [**Part 2**](#2)</p>
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2)</p>
 
 <a name="1"></a>
 
@@ -55,6 +55,7 @@ The Vampiress, though quick as she is, is taken care of!
 Freedan transforms back into Will, with exactly a minute to spare!
 
 <img src="https://i.imgur.com/qZwU67q.png" alt="wires" width="360" height="270" id="liveblog" />
+
 <img src="https://i.imgur.com/pxR8WJ3.png" alt="red & blue wire" width="360" height="270" id="liveblog" />
 
 Oh god, another cut-the-wire moment...

@@ -6,7 +6,7 @@ publishDate: 2020-08-21 12:10:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
-<p class="entry-partination">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4)</p>
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4)</p>
 
 <a name="1"></a>
 
@@ -61,6 +61,7 @@ Lance wonders how long this tunnel is...
 Neil explains more about the underground tunnel.
 
 <img src="https://i.imgur.com/fBgOfVP.png" alt="people walked tunnel" width="360" height="270" id="liveblog" />
+
 <img src="https://i.imgur.com/hOpQoJx.png" alt="insignificant" width="360" height="270" id="liveblog" />
 
 We are but insignificant beings in the annals of history...
@@ -80,7 +81,9 @@ I have Will wander eastward, where we see a stray mushroom.
 I hope it's not poisonous.
 
 <img src="https://i.imgur.com/7kFyLTh.png" alt="mushrooms only food" width="360" height="270" id="liveblog" />
+
 <img src="https://i.imgur.com/8fnwKhm.png" alt="yesterday baked" width="360" height="270" id="liveblog" />
+
 <img src="https://i.imgur.com/1eAt4mv.png" alt="boiled mushroom" width="360" height="270" id="liveblog" />
 
 **Will:** "**Before that raw. Awfully tasteless... we can't ask too much. I'll do it to live. We have to eat...**"
