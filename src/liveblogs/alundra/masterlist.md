@@ -72,13 +72,13 @@ categories: alundra
   <li>[Part 58: Ronan's Conspiracy](../al58)</li>
   <li>[Part 59: At Odds With Ronan](../al59)</li>
   <li>[Part 60: A Letter from Jess](../al60)</li>
-  <li>Part 61: Elene's 15 Minutes</li>
-  <li>Part 62: Elene's Nightmare</li>
-  <li>Part 63: Giles, Again</li>
-  <li>Part 64: To Murgg Woods - Prologue</li>
-  <li>Part 65: To Murgg Woods</li>
-  <li>Part 66: Lost In Murgg Woods</li>
-  <li>Part 67: The Giant Tree Tower</li>
+  <li>[Part 61: Elene's 15 Minutes](../al61)</li>
+  <li>[Part 62: Elene's Nightmare](../al62)</li>
+  <li>[Part 63: Giles, Again](../al63)</li>
+  <li>[Part 64: To Murgg Woods - Prologue](../al64)</li>
+  <li>[Part 65: To Murgg Woods](../al65)</li>
+  <li>[Part 66: Lost In Murgg Woods](../al66)</li>
+  <li>[Part 67: The Giant Tree Tower](../al67)</li>
   <li>Part 68: Finishing the Giant Tree Tower</li>
   <li>Part 69: Returning</li>
   <li>Part 70: Torla, Mountain of Fire (Part 1-2)</li>
