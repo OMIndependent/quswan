@@ -39,15 +39,15 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 29: Continuing Sky Garden](../iog29)</li>
 	<li>[Part 30: Finishing Sky Garden](../iog30)</li>
 	<li>[Part 31: Seaside Palace - Entrance](../iog31)</li>
-	<li>Part 32: Seaside Palace</li>
-	<li>Part 33: Mu</li>
-	<li>Part 34: Mu, Partly Risen</li>
-	<li>Part 35: More Mu</li>
-	<li>Part 36: Rama</li>
-	<li>Part 37: Vampires</li>
-	<li>Part 38: Vampires, Take Two</li>
-	<li>Part 39: Tunnelling</li>
-	<li>Part 40: Angel Village</li>
+	<li>[Part 32: Seaside Palace](../iog32)</li>
+	<li>[Part 33: Mu](../iog33)</li>
+	<li>[Part 34: Mu, Partly Risen](../iog34)</li>
+	<li>[Part 35: More Mu](../iog35)</li>
+	<li>[Part 36: Rama](../iog36)</li>
+	<li>[Part 37: Vampires](..iog37)</li>
+	<li>[Part 38: Vampires, Take Two](../iog38)</li>
+	<li>[Part 39: Tunnelling](../iog39)</li>
+	<li>[Part 40: Angel Village](../iog40)</li>
 	<li>Part 41: Visiting Angel Village</li>
 	<li>Part 42: To Ishtar</li>
 	<li>Part 43: Cavernous Crossings</li>
