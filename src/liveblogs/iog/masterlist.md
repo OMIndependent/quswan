@@ -44,7 +44,7 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 34: Mu, Partly Risen](../iog34)</li>
 	<li>[Part 35: More Mu](../iog35)</li>
 	<li>[Part 36: Rama](../iog36)</li>
-	<li>[Part 37: Vampires](..iog37)</li>
+	<li>[Part 37: Vampires](../iog37)</li>
 	<li>[Part 38: Vampires, Take Two](../iog38)</li>
 	<li>[Part 39: Tunnelling](../iog39)</li>
 	<li>[Part 40: Angel Village](../iog40)</li>
