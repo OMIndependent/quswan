@@ -79,11 +79,11 @@ categories: alundra
   <li>[Part 65: To Murgg Woods](../al65)</li>
   <li>[Part 66: Lost In Murgg Woods](../al66)</li>
   <li>[Part 67: The Giant Tree Tower](../al67)</li>
-  <li>Part 68: Finishing the Giant Tree Tower</li>
-  <li>Part 69: Returning</li>
-  <li>Part 70: Torla, Mountain of Fire (Part 1-2)</li>
-  <li>Part 70: Torla, Mountain of Fire (Part 3)</li>
-  <li>Part 71: Finishing Torla Mountain</li>
+  <li>[Part 68: Finishing the Giant Tree Tower](../al68)</li>
+  <li>[Part 69: Returning](../al69)</li>
+  <li>[Part 70: Torla, Mountain of Fire (Part 1-2)](../al70-1)</li>
+  <li>[Part 70: Torla, Mountain of Fire (Part 3)](../al70-2)</li>
+  <li>[Part 71: Finishing Torla Mountain](../al71)</li>
   <li>Part 72: Bergus Held Hostage</li>
   <li>Part 73: Nestus's/Bergus's Dream</li>
   <li>Part 74: More Cleaning Up</li>
