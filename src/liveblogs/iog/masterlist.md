@@ -48,11 +48,11 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 38: Vampires, Take Two](../iog38)</li>
 	<li>[Part 39: Tunnelling](../iog39)</li>
 	<li>[Part 40: Angel Village](../iog40)</li>
-	<li>Part 41: Visiting Angel Village</li>
-	<li>Part 42: To Ishtar</li>
-	<li>Part 43: Cavernous Crossings</li>
-	<li>Part 44: Ishtar</li>
-	<li>Part 45: Double Checking</li>
+	<li>[Part 41: Visiting Angel Village](../iog41)</li>
+	<li>[Part 42: To Ishtar](../iog42)</li>
+	<li>[Part 43: Cavernous Crossings](../iog43)</li>
+	<li>[Part 44: Ishtar](../iog44)</li>
+	<li>[Part 45: Double Checking](../iog45)</li>
 	<li>Part 46: Watermia, Floating City</li>
 	<li>Part 47: Romantic Confession</li>
 	<li>Part 48: Finding Lance and Lilly</li>

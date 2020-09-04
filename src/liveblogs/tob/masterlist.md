@@ -151,8 +151,8 @@ categories: tob tales-of-berseria
 			<li>[Part 102: Therion Hunter](../tob102)</li>
 			<li>[Part 103: Meeting Melchior](../tob103)</li>
 			<li>[Part 104: Return to Taliesin](../tob104)</li>
-			<li>Part 105: Another Return To Titania</li>
-			<li>Part 106: Lancelot du Capalus</li>
+			<li>[Part 105: Another Return To Titania](../tob105)</li>
+			<li>[Part 106: Lancelot du Capalus](../tob106)</li>
 			<li>Part 107: To Lionel Island/Teresa's Story</li>
 			<li>Part 108: Baird Marsh, Domain of the Old Kingdom</li>
 			<li>Part 108a: Millionaire-pede</li>
