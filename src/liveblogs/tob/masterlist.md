@@ -153,9 +153,9 @@ categories: tob tales-of-berseria
 			<li>[Part 104: Return to Taliesin](../tob104)</li>
 			<li>[Part 105: Another Return To Titania](../tob105)</li>
 			<li>[Part 106: Lancelot du Capalus](../tob106)</li>
-			<li>Part 107: To Lionel Island/Teresa's Story</li>
-			<li>Part 108: Baird Marsh, Domain of the Old Kingdom</li>
-			<li>Part 108a: Millionaire-pede</li>
+			<li>[Part 107: To Lionel Island/Teresa's Story](../tob107)</li>
+			<li>[Part 108: Baird Marsh, Domain of the Old Kingdom](../tob108)</li>
+			<li>[Part 108a: Millionaire-pede](../tob108a)</li>
 			<li>Part 109: Fusion</li>
 			<li>Part 110: The Tragedy of Oscar and Teresa</li>
 			<li>Part 111: Leaving Baird Marsh</li>
