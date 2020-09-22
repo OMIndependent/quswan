@@ -84,10 +84,10 @@ categories: alundra
   <li>[Part 70: Torla, Mountain of Fire (Part 1-2)](../al70-1)</li>
   <li>[Part 70: Torla, Mountain of Fire (Part 3)](../al70-2)</li>
   <li>[Part 71: Finishing Torla Mountain](../al71)</li>
-  <li>Part 72: Bergus Held Hostage</li>
-  <li>Part 73: Nestus's/Bergus's Dream</li>
-  <li>Part 74: More Cleaning Up</li>
-  <li>Part 75: Baptism by Fire</li>
+  <li>[Part 72: Bergus Held Hostage](../al72)</li>
+  <li>[Part 73: Nestus's/Bergus's Dream](../al73)</li>
+  <li>[Part 74: More Cleaning Up](../al74)</li>
+  <li>[Part 75: Baptism by Fire](../al75)</li>
   <li>Part 76: Confronting Ronan, The Priest Gone Astray (Part 1)</li>
   <li>Part 76: Confronting Ronan, The Priest Gone Astray (Part 2)</li>
   <li>Part 77: Aftermath</li>
