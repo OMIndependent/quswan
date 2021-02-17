@@ -46,6 +46,26 @@ categories: terranigma quintet-enix
 			<li>Part 29: Cliff Climbing</li>
 			<li>Part 30: Freeing the Birds</li>
 			<li>Part 31: Kingbird</li>
+			<li>Part 32: Windvale</li>
+			<li>Part 33: Safarium</li>
+			<li>Part 34: Zue</li>
+			<li>Part 35: Return to the Zue/Zoo</li>
+			<li>Part 36: Restoring the Zue/Zoo</li>
+			<li>Part 37: The Pagan God/Storm Master</li>
+			<li>Part 38: Meeting the Animals</li>
+			<li>Part 39: Lion Prince Leim</li>
+			<li>Part 40: Thanks and Tribulations</li>
+			<li>Part 41: Eklemata Expedition</li>
+			<li>Part 42: The Climb To Resurrect Humanity</li>
+		</ul>
+	</li>
+	<li><span class="section-no">Chapter 3: Resurrection of the Genius</span>
+		<ul class="masterlink-wrapper">
+			<!--<li>Part 43: Humanity Awakened/Lhasa</li>
+			<li>Part 44: Lord Kumari</li>
+			<li>Part 45: Master Meihou</li>
+			<li>Part 46: </li>
+			<li>Part 47: Louran</li>-->
 		</ul>
 	</li>
 </ul>

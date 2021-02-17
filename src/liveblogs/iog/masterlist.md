@@ -53,10 +53,10 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 43: Cavernous Crossings](../iog43)</li>
 	<li>[Part 44: Ishtar](../iog44)</li>
 	<li>[Part 45: Double Checking](../iog45)</li>
-	<li>Part 46: Watermia, Floating City</li>
-	<li>Part 47: Romantic Confession</li>
-	<li>Part 48: Finding Lance and Lilly</li>
-	<li>Part 49: The Great Wall of China</li>
+	<li>[Part 46: Watermia, Floating City](../iog46)</li>
+	<li>[Part 47: Romantic Confession](../iog47)</li>
+	<li>[Part 48: Finding Lance and Lilly](../iog48)</li>
+	<li>[Part 49: The Great Wall of China](../iog49)</li>
 	<li>Part 50: Continuing the Great Wall</li>
 	<li>Part 51: Spinning Around the Great Wall</li>
 	<li>Part 52: Sand Fanger Shuffle</li>
