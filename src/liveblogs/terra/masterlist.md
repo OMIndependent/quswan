@@ -61,11 +61,65 @@ categories: terranigma quintet-enix
 	</li>
 	<li><span class="section-no">Chapter 3: Resurrection of the Genius</span>
 		<ul class="masterlink-wrapper">
-			<!--<li>Part 43: Humanity Awakened/Lhasa</li>
+			<li>Part 43: Humanity Awakened/Lhasa</li>
 			<li>Part 44: Lord Kumari</li>
 			<li>Part 45: Master Meihou</li>
-			<li>Part 46: </li>
-			<li>Part 47: Louran</li>-->
+			<li>Part 46: Changes</li>
+			<li>Part 47: Louran</li>
+			<li>Part 48: Meilin</li>
+			<li>Part 49: The True Louran</li>
+			<li>Part 50: Exploring More of the True Louran</li>
+			<li>Part 51: Finding Meilin</li>
+			<li>Part 52: Backtracking For A Fire Pike</li>
+			<li>Part 53: Taklama Desert and the Border To Spain</li>
+			<li>Part 54: Loire and Fyda</li>
+			<li>Part 55: For Want of a Mushroom</li>
+			<li>Part 56: Norfest Forest - First Visit</li>
+			<!--<li>Part 57: Royal Palace</li>
+			<li>Part 58: Enter Princess Elle</li>
+			<li>Part 59: Sleeping Solution</li>
+			<li>Part 60: Finding the Bell</li>
+			<li>Part 61: Norfest Forest - Second Visit</li>
+			<li>Part 62: Storkolm</li>
+			<li>Part 63: Return to the Palace</li>
+			<li>Part 64: Democracy In Action</li>
+			<li>Part 65: Eating Contest and Voting Time</li>
+			<li>Part 66: Quatros' Camp</li>
+			<li>Part 67: Litz</li>
+			<li>Part 68: Sylvain Castle</li>
+			<li>Part 69: Deeper Into Sylvain Castle</li>
+			<li>Part 70: Going Up Sylvain Castle</li>
+			<li>Part 71: Ending Sylvain Castle's Curse</li>
+			<li>Part 72: Columbus</li>
+			<li>Part 73: Voyage</li>
+			<li>Part 74: Freedom</li>
+			<li>Part 75: Perel</li>
+			<li>Part 76:</li>
+			<li>Part 77:</li>
+			<li>Part 78:</li>
+			<li>Part 79:</li>
+			<li>Part 80:</li>
+			<li>Part 81:</li>
+			<li>Part 82:</li>
+			<li>Part 83:</li>
+			<li>Part 84:</li>
+			<li>Part 85:</li>
+			<li>Part 86:</li>
+			<li>Part 87:</li>
+			<li>Part 88:</li>
+			<li>Part 89:</li>
+			<li>Part 90:</li>
+			<li>Part 91:</li>
+			<li>Part 92:</li>
+			<li>Part 93:</li>
+			<li>Part 94:</li>
+			<li>Part 95:</li>
+			<li>Part 96:</li>
+			<li>Part 97:</li>
+			<li>Part 98:</li>
+			<li>Part 99:</li>
+			<li>Part 100:</li>
+			<li>Part 101:</li>-->
 		</ul>
 	</li>
 </ul>
