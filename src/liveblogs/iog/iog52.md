@@ -8,7 +8,7 @@ categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gai
 
 Down to the depths of the wall we go!
 
-<img src="https://i.imgur.com/9HLJl2x.png" alt="down the depths" width="360" height="270" />
+<img src="https://i.imgur.com/9HLJl2x.png" alt="down the depths" width="480" height="360" />
 
 As we land on the sand, something rises: another sandworm! It moves away quickly!
 
@@ -16,7 +16,7 @@ My goodness, that boss is very fast!
 
 Another attack's coming: sand cannonballs! No, they're eggs!
 
-<img src="https://i.imgur.com/3szP03p.png" alt="egg fire" width="360" height="270" />
+<img src="https://i.imgur.com/3szP03p.png" alt="egg fire" width="480" height="360" />
 
 A good strategy would be to attack the sandworm when she's laying her eggs!
 
@@ -28,11 +28,11 @@ We eventually take care of her!
 
 It turns out this boss is the **Sand Fanger**, the worm rumored to cure any disease!
 
-<img src="https://i.imgur.com/MjqG86y.png" alt="sand fanger" width="360" height="270" />
+<img src="https://i.imgur.com/MjqG86y.png" alt="sand fanger" width="480" height="360" />
 
 Four Mystic Statues now!
 
-<img src="https://i.imgur.com/hEMXMfN.png" alt="four statues" width="360" height="270" />
+<img src="https://i.imgur.com/hEMXMfN.png" alt="four statues" width="480" height="360" />
 
 Now how are we going to get out of here?
 
