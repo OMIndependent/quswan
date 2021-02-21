@@ -12,7 +12,7 @@ categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gai
 
 I have Will slide down the slides...
 
-<img src="https://i.imgur.com/C9yb21P.png" alt="slides" width="480" height="360" />
+<img src="https://i.imgur.com/C9yb21P.png" alt="slides" width="360" height="270" id="liveblog" />
 
 ...and proceed downstairs through the second passage.
 
@@ -30,7 +30,7 @@ I continue going in the wall's passages, taking care of more snakes here and the
 
 It seems that we're just one floor below a Dark Space portal...
 
-<img src="https://i.imgur.com/jyOCSuG.png" alt="one floor below" width="480" height="360" />
+<img src="https://i.imgur.com/jyOCSuG.png" alt="one floor below" width="360" height="270" id="liveblog" />
 
 I take the next room upstairs.
 
@@ -38,13 +38,13 @@ There's a lot of ledges to jump off from in this area of the wall.
 
 After looking around, I have Will jump off from the center part of the long opening below...
 
-<img src="https://i.imgur.com/Kquxw4f.png" alt="dark space portal yay" width="480" height="360" />
+<img src="https://i.imgur.com/Kquxw4f.png" alt="dark space portal yay" width="360" height="270" id="liveblog" />
 
 ...and into a Dark Space portal!
 
 It seems that Will's getting a new power!
 
-<img src="https://i.imgur.com/a3Ow0Nk.png" alt="will statue" width="480" height="360" />
+<img src="https://i.imgur.com/a3Ow0Nk.png" alt="will statue" width="360" height="270" id="liveblog" />
 
 Let's see what the new power is...
 
@@ -70,17 +70,17 @@ A bit frustrated, I look at a guide on how to perform the move properly. I have 
 
 Here are some of my attempts to take pictures of Will spinning around.
 
-<img src="https://i.imgur.com/UJe7GDW.png" alt="spin dash" width="480" height="360" />
+<img src="https://i.imgur.com/UJe7GDW.png" alt="spin dash" width="360" height="270" id="liveblog" />
 
-<img src="https://i.imgur.com/iRt7sb6.png" alt="spin dash 2" width="480" height="360" />
+<img src="https://i.imgur.com/iRt7sb6.png" alt="spin dash 2" width="360" height="270" id="liveblog" />
 
 Ah ha! I managed to do one!
 
 I practice some more with the Spin Dash...
 
-<img src="https://i.imgur.com/dVJMTjh.png" alt="tornado 1" width="480" height="360" />
+<img src="https://i.imgur.com/dVJMTjh.png" alt="tornado 1" width="360" height="270" id="liveblog" />
 
-<img src="https://i.imgur.com/UYI9juv.png" alt="tornado 2" width="480" height="360" />
+<img src="https://i.imgur.com/UYI9juv.png" alt="tornado 2" width="360" height="270" id="liveblog" />
 
 After pressing A, I press either L or R, then I switch between L and R, and keep doing it until Will forms a tornado and directional cursors!
 
@@ -96,7 +96,7 @@ I proceed further down after more cleaning up.
 
 More spear traps to switch off! It's all a matter of reflexes with this area now...
 
-<img src="https://i.imgur.com/aTFHEsa.png" alt="fast spear traps" width="480" height="360" />
+<img src="https://i.imgur.com/aTFHEsa.png" alt="fast spear traps" width="360" height="270" id="liveblog" />
 
 I give up, and go to the east part of the hall, where a fleet of willowisps await.
 
@@ -110,7 +110,7 @@ I go back to the spear trap part of the hall and quickly slide past the second s
 
 Two archers left here...
 
-<img src="https://i.imgur.com/7bT6yQF.png" alt="dark space portal 2" width="480" height="360" />
+<img src="https://i.imgur.com/7bT6yQF.png" alt="dark space portal 2" width="360" height="270" id="liveblog" />
 
 ...and another Dark Space portal!
 
@@ -134,11 +134,11 @@ The fifth area has 12 more enemies. When will this level end?
 
 We can't go inside the stairway here....
 
-<img src="https://i.imgur.com/SJzx3z9.png" alt="obstacle doorway" width="480" height="360" />
+<img src="https://i.imgur.com/SJzx3z9.png" alt="obstacle doorway" width="360" height="270" id="liveblog" />
 
 After the archer's done...
 
-<img src="https://i.imgur.com/3RDScsO.png" alt="path poof away" width="480" height="360" />
+<img src="https://i.imgur.com/3RDScsO.png" alt="path poof away" width="360" height="270" id="liveblog" />
 
 ...the way forward opens!
 
@@ -146,7 +146,7 @@ The willowisp here runs away through the wall...with a quartet of archers behind
 
 Downstairs, we're faced with another puzzle, and another mini-maze!
 
-<img src="https://i.imgur.com/kshKjKL.png" alt="more statues mini-maze" width="480" height="360" />
+<img src="https://i.imgur.com/kshKjKL.png" alt="more statues mini-maze" width="360" height="270" id="liveblog" />
 
 I move the statues blocking the way...
 
@@ -162,7 +162,7 @@ After a small battle with them, we go up.
 
 More spear traps...
 
-<img src="https://i.imgur.com/LxIVbwk.png" alt="spear trap hall" width="480" height="360" />
+<img src="https://i.imgur.com/LxIVbwk.png" alt="spear trap hall" width="360" height="270" id="liveblog" />
 
 This game is getting more serious.
 
@@ -172,7 +172,7 @@ At the first stairway, I take care of the 9 enemies in the room, mostly those ar
 
 ...and downstairs to another army of terra cotta statues!
 
-<img src="https://i.imgur.com/4bDwdId.png" alt="terra cotta again" width="480" height="360" />
+<img src="https://i.imgur.com/4bDwdId.png" alt="terra cotta again" width="360" height="270" id="liveblog" />
 
 The remaining 6 are easy to spot, since the archers have glowing eyes.
 
@@ -180,16 +180,16 @@ As a reward, Freedan (and Will's) health goes up to 27!
 
 A Dark Space portal appears after all of that work...
 
-<img src="https://i.imgur.com/MCbPtLa.png" alt="dark space 3" width="480" height="360" />
+<img src="https://i.imgur.com/MCbPtLa.png" alt="dark space 3" width="360" height="270" id="liveblog" />
 
 I change back to Will since we need to cross over that slope.
 
 It seems we're at the end of the wall...
 
-<img src="https://i.imgur.com/3k2FPwV.png" alt="dead end wall" width="480" height="360" />
+<img src="https://i.imgur.com/3k2FPwV.png" alt="dead end wall" width="360" height="270" id="liveblog" />
 
 Looks like the only place left to go is down this ledge...
 
-<img src="https://i.imgur.com/7x1U30x.png" alt="down the ledge" width="480" height="360" />
+<img src="https://i.imgur.com/7x1U30x.png" alt="down the ledge" width="360" height="270" id="liveblog" />
 
 Knowing there's going to be a boss battle soon, I head back to the portal to save.

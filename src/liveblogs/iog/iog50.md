@@ -24,19 +24,19 @@ In the next area now, inside the wall, where I'm greeted by two more archers.
 
 After getting one, I jump down the ledge, knowing there's no way back now...
 
-<img src="https://i.imgur.com/flOyuRh.png" alt="long drop" width="480" height="360" />
+<img src="https://i.imgur.com/flOyuRh.png" alt="long drop" width="360" height="270" id="liveblog" />
 
 It's a super-long drop!
 
 I make it down to a hall of terra cotta soldiers.
 
-<img src="https://i.imgur.com/EVFZptl.png" alt="terra cotta soldiers" width="480" height="360" />
+<img src="https://i.imgur.com/EVFZptl.png" alt="terra cotta soldiers" width="360" height="270" id="liveblog" />
 
 They make the place a bit unsettling.
 
 At the end of the hall, one statue comes to life!
 
-<img src="https://i.imgur.com/il023Wu.png" alt="statue to life" width="480" height="360" />
+<img src="https://i.imgur.com/il023Wu.png" alt="statue to life" width="360" height="270" id="liveblog" />
 
 I head upstairs to a long hallway and face more archers and a willowisp.
 
@@ -52,7 +52,7 @@ That's around 17 Red Jewels I've picked up so far, iirc.
 
 Back to the second hallway and up more stairs!
 
-<img src="https://i.imgur.com/T3aFWKz.png" alt="archer fires" width="480" height="360" />
+<img src="https://i.imgur.com/T3aFWKz.png" alt="archer fires" width="360" height="270" id="liveblog" />
 
 As soon as I enter, an archer fires! Lucky I was prepared for that!
 
@@ -66,13 +66,13 @@ After clearing the room, I go upstairs and find more snakes!
 
 Going back up the wall...
 
-<img src="https://i.imgur.com/EKQaVbK.png" alt="up the wall" width="480" height="360" />
+<img src="https://i.imgur.com/EKQaVbK.png" alt="up the wall" width="360" height="270" id="liveblog" />
 
 I'm now at a hall of many rooms...which one is going to take us back up?
 
 But I stop worrying about that for now, as there are more enemies on the prowl!
 
-<img src="https://i.imgur.com/pa4Fdfd.png" alt="another sparkle" width="480" height="360" />
+<img src="https://i.imgur.com/pa4Fdfd.png" alt="another sparkle" width="360" height="270" id="liveblog" />
 
 I notice another sparkle on the ground...
 
@@ -96,17 +96,17 @@ We make it back to the wall proper!
 
 I take care of the last archer and willowisp and win more health! We now have 25 HP!
 
-<img src="https://i.imgur.com/aGpGCIz.png" alt="spear traps more" width="480" height="360" />
+<img src="https://i.imgur.com/aGpGCIz.png" alt="spear traps more" width="360" height="270" id="liveblog" />
 
 It seems we have to dash past this one!
 
 We now make it to the third area, but...
 
-<img src="https://i.imgur.com/QecoEGg.png" alt="wait" width="480" height="360" />
+<img src="https://i.imgur.com/QecoEGg.png" alt="wait" width="360" height="270" id="liveblog" />
 
 Lilly!
 
-<img src="https://i.imgur.com/HRsArC1.png" alt="lilly is back" width="480" height="360" />
+<img src="https://i.imgur.com/HRsArC1.png" alt="lilly is back" width="360" height="270" id="liveblog" />
 
 <strong>Lilly:</strong> "Are you looking for Lance? I'll go with you!"
 
@@ -116,7 +116,7 @@ She goes into Will's pocket.
 
 We're now in a higher part of the wall...
 
-<img src="https://i.imgur.com/7hXgVAc.png" alt="high part" width="480" height="360" />
+<img src="https://i.imgur.com/7hXgVAc.png" alt="high part" width="360" height="270" id="liveblog" />
 
 I go downstairs and pick up an herb!
 
@@ -124,6 +124,6 @@ After taking care of an archer and snake, I go back up...
 
 It seems we need Freedan for this room.
 
-<img src="https://i.imgur.com/a6rDFcq.png" alt="distant switch" width="480" height="360" />
+<img src="https://i.imgur.com/a6rDFcq.png" alt="distant switch" width="360" height="270" id="liveblog" />
 
 I make a quick save, knowing that I'm running out of power to write notes.
