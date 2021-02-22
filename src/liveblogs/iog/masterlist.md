@@ -57,10 +57,10 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 47: Romantic Confession](../iog47)</li>
 	<li>[Part 48: Finding Lance and Lilly](../iog48)</li>
 	<li>[Part 49: The Great Wall of China](../iog49)</li>
-	<li>Part 50: Continuing the Great Wall</li>
-	<li>Part 51: Spinning Around the Great Wall</li>
-	<li>Part 52: Sand Fanger Shuffle</li>
-	<li>Part 53: Lancey Lance</li>
+	<li>[Part 50: Continuing the Great Wall](../iog50)</li>
+	<li>[Part 51: Spinning Around the Great Wall](../iog51)</li>
+	<li>[Part 52: Sand Fanger Shuffle](../iog52)</li>
+	<li>[Part 53: Lancey Lance](../iog53)</li>
 	<li>Part 54: Russian Glass</li>
 	<li>Part 55: Setting Out</li>
 	<li>Part 56: City of Euro</li>

@@ -88,8 +88,7 @@ categories: alundra
   <li>[Part 73: Nestus's/Bergus's Dream](../al73)</li>
   <li>[Part 74: More Cleaning Up](../al74)</li>
   <li>[Part 75: Baptism by Fire](../al75)</li>
-  <li>Part 76: Confronting Ronan, The Priest Gone Astray (Part 1)</li>
-  <li>Part 76: Confronting Ronan, The Priest Gone Astray (Part 2)</li>
+  <li>Part 76: Confronting Ronan, The Priest Gone Astray</li>
   <li>Part 77: Aftermath</li>
   <li>Part 78: To Nava</li>
   <li>Part 79: Nava's Keep</li>

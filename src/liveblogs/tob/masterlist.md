@@ -156,10 +156,10 @@ categories: tob tales-of-berseria
 			<li>[Part 107: To Lionel Island/Teresa's Story](../tob107)</li>
 			<li>[Part 108: Baird Marsh, Domain of the Old Kingdom](../tob108)</li>
 			<li>[Part 108a: Millionaire-pede](../tob108a)</li>
-			<li>Part 109: Fusion</li>
-			<li>Part 110: The Tragedy of Oscar and Teresa</li>
-			<li>Part 111: Leaving Baird Marsh</li>
-			<li>Part 112: The Abbey Strikes Back</li>
+			<li>[Part 109: Fusion](../tob109)</li>
+			<li>[Part 110: The Tragedy of Oscar and Teresa](../tob110)</li>
+			<li>[Part 111: Leaving Baird Marsh](../tob111)</li>
+			<li>[Part 112: The Abbey Strikes Back](../tob112)</li>
 			<li>Part 113: Enter Innominat, The Fifth Empyrean</li>
 		</ul>
 	</li>
