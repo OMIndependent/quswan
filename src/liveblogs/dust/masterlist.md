@@ -66,4 +66,31 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 43: Into the Lady's Lair We Go</li>
   <li>Part 44: Where the Red ~~Fern~~ Moss Grows</li>
   <li>Part 45: Back Into Finding the Lady's Lair</li>
+  <li>Part 46: Lady Tethys, The Great and Terrible</li>
+  <li>Part 47: PoPop's Last</li>
+  <li>Part 48: Some Sidequests</li>
+  <li>Part 49: The Fidget Doll</li>
+  <li>Part 50: The Sorrowing Meadow</li>
+  <!--<li>Part 51: The Legend of Cora</li>
+  <li>Part 52: Citizen Baron Kane</li>
+  <li>Part 53: More Sidequests Again: Archers' Pass</li>
+  <li>Part 53a: Reunited and It Feels So...Sad </li>
+  <li>Part 53b: Getting An Iron Grip</li>
+  <li>Part 53c: Reed and the Box</li>
+  <li>Part 54: The Blackmoor Mountains</li>
+  <li>Part 55: Ahrah Loses His Cool</li>
+  <li>Part 56: Creating An Avalanche</li>
+  <li>Part 57: The Cold Climb Up</li>
+  <li>Part 58: Dust Revealed</li>
+  <li>Part 59: Searching For Friends and Treasures</li>
+  <li>Part 60: Checking Up On Friends</li>
+  <li>Part 61: Bopo's Snowfall</li>
+  <li>Part 62: The Dust Who Walks In The Light</li>
+  <li>Part 63: Rescuing A Friend Locked In Many Gates</li>
+  <li>Part 64: The Final Breath Before the Plunge</li>
+  <li>Part 65: Loose Ends</li>
+  <li>Part 66: The Last of the Moonbloods</li>
+  <li>Part 67: Justice Incarnate</li>
+  <li>Part 68: Finale</li>
+  <li>Part 69: Credits and Samurai Pizza Cats</li>-->
 </ul>

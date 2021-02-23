@@ -75,11 +75,11 @@ categories: terranigma quintet-enix
 			<li>Part 54: Loire and Fyda</li>
 			<li>Part 55: For Want of a Mushroom</li>
 			<li>Part 56: Norfest Forest - First Visit</li>
-			<!--<li>Part 57: Royal Palace</li>
+			<li>Part 57: Royal Palace</li>
 			<li>Part 58: Enter Princess Elle</li>
 			<li>Part 59: Sleeping Solution</li>
 			<li>Part 60: Finding the Bell</li>
-			<li>Part 61: Norfest Forest - Second Visit</li>
+			<!--<li>Part 61: Norfest Forest - Second Visit</li>
 			<li>Part 62: Storkolm</li>
 			<li>Part 63: Return to the Palace</li>
 			<li>Part 64: Democracy In Action</li>
@@ -94,32 +94,34 @@ categories: terranigma quintet-enix
 			<li>Part 73: Voyage</li>
 			<li>Part 74: Freedom</li>
 			<li>Part 75: Perel</li>
-			<li>Part 76:</li>
-			<li>Part 77:</li>
-			<li>Part 78:</li>
-			<li>Part 79:</li>
-			<li>Part 80:</li>
-			<li>Part 81:</li>
-			<li>Part 82:</li>
-			<li>Part 83:</li>
-			<li>Part 84:</li>
-			<li>Part 85:</li>
-			<li>Part 86:</li>
-			<li>Part 87:</li>
-			<li>Part 88:</li>
-			<li>Part 89:</li>
-			<li>Part 90:</li>
-			<li>Part 91:</li>
-			<li>Part 92:</li>
-			<li>Part 93:</li>
-			<li>Part 94:</li>
-			<li>Part 95:</li>
-			<li>Part 96:</li>
-			<li>Part 97:</li>
-			<li>Part 98:</li>
-			<li>Part 99:</li>
-			<li>Part 100:</li>
-			<li>Part 101:</li>-->
+			<li>Part 76: Nirlake</li>
+			<li>Part 77: Little Fixings and Little Lies</li>
+			<li>Part 78: Fixing the Little Lie and Lumber Gathering</li>
+			<li>Part 79: Visiting Old and New Places</li>
+			<li>Part 80: Maze Race</li>
+			<li>Part 81: Liotto</li>
+			<li>Part 82: Meilin Again and New Feelings</li>
+			<li>Part 83: Port Liotto</li>
+			<li>Part 84: The Night at Corcobad Hill</li>
+			<li>Part 85: Mermaid's Tower</li>
+			<li>Part 86: New Voyages and Election Results</li>
+			<li>Part 87: The New Loire</li>
+			<li>Part 88: The New Freedom City/Trade Quest</li>
+			<li>Part 89: Growing Litz</li>
+			<li>Part 90: Of Flowers and Inventions</li>
+			<li>Part 91: Puttin' On The Litz</li>
+			<li>Part 92: Neotokio</li>
+			<li>Part 93: Southeast and Suncoast</li>
+			<li>Part 94: Missed Screenshots and Mini-Stopovers</li>
+			<li>Part 95: The South Pole</li>
+			<li>Part 96: Starting Great Lake Cavern</li>
+			<li>Part 97: Great Lake Cavern</li>
+			<li>Part 98: Enter Will the Pilot</li>
+			<li>Part 99: Yunkou</li>
+			<li>Part 100: Dragoon Castle Rebuffed/Fyda's Nightmare</li>
+			<li>Part 101: Entering Dragoon Castle</li>
+			<li>Part 102: Metal Gear Dragoon</li>
+			<li>Part 103: Dragoon Castle - East Wing</li>-->
 		</ul>
 	</li>
 </ul>
