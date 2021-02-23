@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Illusion of Gaia - Part 56: City of Euro"
 date: 2018-11-16 09-0800
-publishDate: 2020-02-23 10:02:00 -0800
+publishDate: 2021-02-23 10:02:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
 ---
 
