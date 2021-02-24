@@ -6,6 +6,10 @@ publishDate: 2017-09-29 22:53:15 -0700
 categories: playthroughs alundra
 ---
 
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2)</p>
+
+<a name="1"></a>
+
 I select continue and instead of a loading screen, it takes me to a chamber with four small tables, with one of them having a diary on the far left table.
 
 A wizard is also there, who says, "**If your conviction is not firm enough, leave this sacred place at once!**"
