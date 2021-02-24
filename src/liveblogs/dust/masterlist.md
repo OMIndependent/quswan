@@ -71,9 +71,9 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 48: Some Sidequests</li>
   <li>Part 49: The Fidget Doll</li>
   <li>Part 50: The Sorrowing Meadow</li>
-  <!--<li>Part 51: The Legend of Cora</li>
+  <li>Part 51: The Legend of Cora</li>
   <li>Part 52: Citizen Baron Kane</li>
-  <li>Part 53: More Sidequests Again: Archers' Pass</li>
+  <!--<li>Part 53: More Sidequests Again: Archers' Pass</li>
   <li>Part 53a: Reunited and It Feels So...Sad </li>
   <li>Part 53b: Getting An Iron Grip</li>
   <li>Part 53c: Reed and the Box</li>

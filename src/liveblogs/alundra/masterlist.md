@@ -88,11 +88,11 @@ categories: alundra
   <li>[Part 73: Nestus's/Bergus's Dream](../al73)</li>
   <li>[Part 74: More Cleaning Up](../al74)</li>
   <li>[Part 75: Baptism by Fire](../al75)</li>
-  <li>Part 76: Confronting Ronan, The Priest Gone Astray</li>
-  <li>Part 77: Aftermath</li>
-  <li>Part 78: To Nava</li>
-  <li>Part 79: Nava's Keep</li>
-  <li>Part 80: Finishing Nava's Keep</li>
+  <li>[Part 76: Confronting Ronan, The Priest Gone Astray](../al76)</li>
+  <li>[Part 77: Aftermath](../al77)</li>
+  <li>[Part 78: To Nava](../al78)</li>
+  <li>[Part 79: Nava's Keep](../al79)</li>
+  <li>[Part 80: Finishing Nava's Keep](../al80)</li>
   <li>Part 81: Placing the Crests/The Castle in the Lake</li>
   <li>Part 82: Outside the Castle</li>
   <li>Part 83: Heading Inside the Shrine</li>
