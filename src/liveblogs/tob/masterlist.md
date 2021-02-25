@@ -160,15 +160,15 @@ categories: tob tales-of-berseria
 			<li>[Part 110: The Tragedy of Oscar and Teresa](../tob110)</li>
 			<li>[Part 111: Leaving Baird Marsh](../tob111)</li>
 			<li>[Part 112: The Abbey Strikes Back](../tob112)</li>
-			<li>Part 113: Enter Innominat, The Fifth Empyrean</li>
+			<li>[Part 113: Enter Innominat, The Fifth Empyrean](../tob113)</li>
 		</ul>
 	</li>
 	<li><span class="section-no">Act V</span>
 		<ul class="masterlink-wrapper">
-			<li>Part 114: Return to the Earthpulse</li>
-			<li>Part 115: Revelations</li>
-			<li>Part 116: Final Revelation</li>
-			<li>Part 117: First Duel with Melchior</li>
+			<li>[Part 114: Return to the Earthpulse](../tob114)</li>
+			<li>[Part 115: Revelations](../tob115)</li>
+			<li>[Part 116: Final Revelation](../tob116)</li>
+			<li>[Part 117: First Duel with Melchior](../tob117)</li>
 			<li>Part 118: Escape from Hexen Isle</li>
 			<li>Part 119: Laphicet and the Silver Flame</li>
 			<li>Part 120: A Miraculous Escape</li>

@@ -61,11 +61,12 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 51: Spinning Around the Great Wall](../iog51)</li>
 	<li>[Part 52: Sand Fanger Shuffle](../iog52)</li>
 	<li>[Part 53: Lancey Lance](../iog53)</li>
-	<li>Part 54: Russian Glass</li>
-	<li>Part 55: Setting Out</li>
-	<li>Part 56: City of Euro</li>
-	<li>Part 57: Exploring Euro</li>
-	<li>Part 58: Meeting the Roleks</li>
+	<li>[Part 54: Russian Glass](../iog54)</li>
+	<li>[Part 55: Setting Out](../iog55)</li>
+	<li>[Part 56: City of Euro](../iog56)</li>
+	<li>[Part 57: Exploring Euro (Part 1)](../iog57-1)</li>
+	<li>[Part 57: Exploring Euro (Parts 2-6)](../iog57-2)</li>
+	<li>[Part 58: Meeting the Roleks](../iog58)</li>
 	<li>Part 59: Mt. Kress/Mountain Temple</li>
 	<li>Part 60: Continuing Mountain Temple</li>
 	<li>Part 61: Freedan and the Teapot of Tears</li>
