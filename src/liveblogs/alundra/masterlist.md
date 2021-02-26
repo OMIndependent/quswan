@@ -93,8 +93,8 @@ categories: alundra
   <li>[Part 78: To Nava](../al78)</li>
   <li>[Part 79: Nava's Keep](../al79)</li>
   <li>[Part 80: Finishing Nava's Keep](../al80)</li>
-  <li>Part 81: Placing the Crests/The Castle in the Lake</li>
-  <li>Part 82: Outside the Castle</li>
+  <li>[Part 81: Placing the Crests/The Castle in the Lake](../al81)</li>
+  <li>[Part 82: Outside the Castle](../al82)</li>
   <li>Part 83: Heading Inside the Shrine</li>
   <li>Part 84: The Great Hall</li>
   <li>Part 85: Inside the Shrine (Part 1)</li>

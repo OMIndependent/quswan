@@ -4,8 +4,8 @@
 // Do not use any unneeded vars when running
 'use strict'
 
-// Import html and url for redirects, url to move posts to HTTPS site
-var http			  = require('http')
+// Import https and url for redirects, url to move posts to HTTPS site
+var https			  = require('https')
 var url				  = require('url')
 
 // Import plugins
@@ -260,7 +260,7 @@ Metalsmith(dir.base)
   })
 
 /* Redirect to HTTPS site */
-http.createServer( (req, res) => {
+https.createServer( (req, res) => {
    var pathname = url.parse(req.url).pathname
    res.writeHead(301, {Location: meta.site.url + pathname})
    res.end()

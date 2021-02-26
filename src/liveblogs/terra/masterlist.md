@@ -81,10 +81,10 @@ categories: terranigma quintet-enix
 			<li>Part 60: Finding the Bell</li>
 			<li>Part 61: Norfest Forest - Second Visit</li>
 			<li>Part 62: Storkolm</li>
-			<!--<li>Part 63: Return to the Palace</li>
+			<li>Part 63: Return to the Palace</li>
 			<li>Part 64: Democracy In Action</li>
 			<li>Part 65: Eating Contest and Voting Time</li>
-			<li>Part 66: Quatros' Camp</li>
+			<!--<li>Part 66: Quatros' Camp</li>
 			<li>Part 67: Litz</li>
 			<li>Part 68: Sylvain Castle</li>
 			<li>Part 69: Deeper Into Sylvain Castle</li>
