@@ -67,9 +67,9 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 57: Exploring Euro (Part 1)](../iog57-1)</li>
 	<li>[Part 57: Exploring Euro (Parts 2-6)](../iog57-2)</li>
 	<li>[Part 58: Meeting the Roleks](../iog58)</li>
-	<li>Part 59: Mt. Kress/Mountain Temple</li>
-	<li>Part 60: Continuing Mountain Temple</li>
-	<li>Part 61: Freedan and the Teapot of Tears</li>
+	<li>[Part 59: Mt. Kress/Mountain Temple](../iog59)</li>
+	<li>[Part 60: Continuing Mountain Temple](../iog60)</li>
+	<li>[Part 61: Freedan and the Teapot of Tears](../iog61)</li>
 	<li>Part 62: Change of Hands</li>
 	<li>Part 63: Natives' Village</li>
 	<li>Part 64: Angkor Wat</li>
