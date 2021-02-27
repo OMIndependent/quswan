@@ -169,10 +169,10 @@ categories: tob tales-of-berseria
 			<li>[Part 115: Revelations](../tob115)</li>
 			<li>[Part 116: Final Revelation](../tob116)</li>
 			<li>[Part 117: First Duel with Melchior](../tob117)</li>
-			<li>Part 118: Escape from Hexen Isle</li>
-			<li>Part 119: Laphicet and the Silver Flame</li>
-			<li>Part 120: A Miraculous Escape</li>
-			<li>Part 121: Last Will</li>
+			<li>[Part 118: Escape from Hexen Isle](../tob118)</li>
+			<li>[Part 119: Laphicet and the Silver Flame](../tob119)</li>
+			<li>[Part 120: A Miraculous Escape](../tob120)</li>
+			<li>[Part 121: Last Will](../tob121)</li>
 			<li>Part 122: Aifread</li>
 			<li>Part 123: The Four Empyreans</li>
 			<li>Part 124: Domain of Absolute Suppression</li>

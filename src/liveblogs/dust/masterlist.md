@@ -77,10 +77,10 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 53a: Reunited and It Feels So...Sad </li>
   <li>Part 53b: Getting An Iron Grip</li>
   <li>Part 53c: Reed and the Box</li>
-  <!--<li>Part 54: The Blackmoor Mountains</li>
+  <li>Part 54: The Blackmoor Mountains</li>
   <li>Part 55: Ahrah Loses His Cool</li>
   <li>Part 56: Creating An Avalanche</li>
-  <li>Part 57: The Cold Climb Up</li>
+  <!--<li>Part 57: The Cold Climb Up</li>
   <li>Part 58: Dust Revealed</li>
   <li>Part 59: Searching For Friends and Treasures</li>
   <li>Part 60: Checking Up On Friends</li>
