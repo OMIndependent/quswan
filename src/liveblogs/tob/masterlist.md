@@ -173,9 +173,9 @@ categories: tob tales-of-berseria
 			<li>[Part 119: Laphicet and the Silver Flame](../tob119)</li>
 			<li>[Part 120: A Miraculous Escape](../tob120)</li>
 			<li>[Part 121: Last Will](../tob121)</li>
-			<li>Part 122: Aifread</li>
-			<li>Part 123: The Four Empyreans</li>
-			<li>Part 124: Domain of Absolute Suppression</li>
+			<li>[Part 122: Aifread](../tob122)</li>
+			<li>[Part 123: The Four Empyreans](../tob123)</li>
+			<li>[Part 124: Domain of Absolute Suppression](../tob124)</li>
 			<li>Part 125: Selfish World Saving</li>
 			<li>Part 126: Sailing for Sidequests</li>
 			<li>Part 127: Up North Again</li>
