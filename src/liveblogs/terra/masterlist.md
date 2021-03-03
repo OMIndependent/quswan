@@ -87,8 +87,8 @@ categories: terranigma quintet-enix
 			<li>Part 66: Quatros' Camp</li>
 			<li>Part 67: Litz</li>
 			<li>Part 68: Sylvain Castle</li>
-			<!--<li>Part 69: Deeper Into Sylvain Castle</li>
-			<li>Part 70: Going Up Sylvain Castle</li>
+			<li>Part 69: Deeper Into Sylvain Castle</li>
+			<!--<li>Part 70: Going Up Sylvain Castle</li>
 			<li>Part 71: Ending Sylvain Castle's Curse</li>
 			<li>Part 72: Columbus</li>
 			<li>Part 73: Voyage</li>
