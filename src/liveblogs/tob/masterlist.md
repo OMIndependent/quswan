@@ -176,10 +176,10 @@ categories: tob tales-of-berseria
 			<li>[Part 122: Aifread](../tob122)</li>
 			<li>[Part 123: The Four Empyreans](../tob123)</li>
 			<li>[Part 124: Domain of Absolute Suppression](../tob124)</li>
-			<li>Part 125: Selfish World Saving</li>
-			<li>Part 126: Sailing for Sidequests</li>
-			<li>Part 127: Up North Again</li>
-			<li>Part 128: Gaiburk Ice Field, Edge of Survivability</li>
+			<li>[Part 125: Selfish World Saving](../tob125)</li>
+			<li>[Part 126: Sailing for Sidequests](../tob126)</li>
+			<li>[Part 127: Up North Again](../tob127)</li>
+			<li>[Part 128: Gaiburk Ice Field, Edge of Survivability](../tob128)</li>
 			<li>Part 129: Meirchio, City of Ice and Snow</li>
 			<li>Part 130: Final Breath Before the Plunge</li>
 			<li>Part 131: The Road to Mt. Killaraus</li>

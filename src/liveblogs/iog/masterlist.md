@@ -73,7 +73,7 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 62: Change of Hands](../iog62)</li>
 	<li>[Part 63: Natives' Village](../iog63)</li>
 	<li>[Part 64: Angkor Wat](../iog64)</li>
-	<li>Part 65: Controller-less</li>
+	<li>[Part 65: Controller-less](../iog65)</li>
 	<li>Part 66: The Dangers of Angkor Wat</li>
 	<li>Part 67: A Maze of Bushes</li>
 	<li>Part 68: Deeper Into Angkor Wat</li>
