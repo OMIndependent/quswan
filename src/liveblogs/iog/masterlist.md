@@ -74,10 +74,10 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 63: Natives' Village](../iog63)</li>
 	<li>[Part 64: Angkor Wat](../iog64)</li>
 	<li>[Part 65: Controller-less](../iog65)</li>
-	<li>Part 66: The Dangers of Angkor Wat</li>
-	<li>Part 67: A Maze of Bushes</li>
-	<li>Part 68: Deeper Into Angkor Wat</li>
-	<li>Part 69: Will's Vision</li>
+	<li>[Part 66: The Dangers of Angkor Wat](../iog66)</li>
+	<li>[Part 67: A Maze of Bushes](../iog67)</li>
+	<li>[Part 68: Deeper Into Angkor Wat](../iog68)</li>
+	<li>[Part 69: Will's Vision](../iog69)</li>
 	<li>Part 70: Restoring the Villagers</li>
 	<li>Part 71: Desert Village Dao</li>
 	<li>Part 72: The Journal</li>

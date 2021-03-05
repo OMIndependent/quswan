@@ -99,7 +99,7 @@ categories: alundra
   <li>[Part 84: The Great Hall](../al84)</li>
   <li>[Part 85: Inside the Shrine (Part 1)](../al85-1)</li>
   <li>[Part 85: Inside the Shrine (Part 2-7)](../al85-2)</li>
-  <li>Part 85: Inside the Shrine (Part 8-9)</li>
+  <li>[Part 85: Inside the Shrine (Part 8-9)](../al85-3)</li>
   <li>Part 85: Inside the Shrine (Part 10)</li>
   <li>Part 85: Inside the Shrine (Part 11-12)</li>
   <li>Part 86: The Final Battle/Last Armageddon</li>
