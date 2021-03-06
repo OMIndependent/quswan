@@ -78,8 +78,8 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 67: A Maze of Bushes](../iog67)</li>
 	<li>[Part 68: Deeper Into Angkor Wat](../iog68)</li>
 	<li>[Part 69: Will's Vision](../iog69)</li>
-	<li>Part 70: Restoring the Villagers</li>
-	<li>Part 71: Desert Village Dao</li>
+	<li>[Part 70: Restoring the Villagers](../iog70)</li>
+	<li>[Part 71: Desert Village Dao](../iog71)</li>
 	<li>Part 72: The Journal</li>
 	<li>Part 73: Enter Shadow</li>
 	<li>Part 74: Pyramid - West Passages</li>
