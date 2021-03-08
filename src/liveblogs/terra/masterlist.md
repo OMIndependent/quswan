@@ -92,10 +92,10 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 71: Ending Sylvain Castle's Curse</li>
 			<li>Part 72: Columbus</li>
 			<li>Part 73: Voyage</li>
-			<!--<li>Part 74: Freedom</li>
+			<li>Part 74: Freedom</li>
 			<li>Part 75: Perel</li>
 			<li>Part 76: Nirlake</li>
-			<li>Part 77: Little Fixings and Little Lies</li>
+			<!--<li>Part 77: Little Fixings and Little Lies</li>
 			<li>Part 78: Fixing the Little Lie and Lumber Gathering</li>
 			<li>Part 79: Visiting Old and New Places</li>
 			<li>Part 80: Maze Race</li>

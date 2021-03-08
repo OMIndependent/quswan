@@ -102,7 +102,7 @@ categories: alundra
   <li>[Part 85: Inside the Shrine (Part 8-9)](../al85-3)</li>
   <li>[Part 85: Inside the Shrine (Part 10)](../al85-4)</li>
   <li>[Part 85: Inside the Shrine (Part 11-12)](../al85-5)</li>
-  <li>Part 86: The Final Battle/Last Armageddon</li>
+  <li>[Part 86: The Final Battle/Last Armageddon](../al86)</li>
   <li>Part 87: Last Armageddon, Take Two (Part 1)</li>
   <li>Part 87: Last Armageddon, Take Two (Part 2)</li>
   <li>Part 88: Finale</li>
