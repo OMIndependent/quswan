@@ -182,10 +182,10 @@ categories: tob tales-of-berseria
 			<li>[Part 128: Gaiburk Ice Field, Edge of Survivability](../tob128)</li>
 			<li>[Part 129: Meirchio, City of Ice and Snow](../tob129)</li>
 			<li>[Part 130: Final Breath Before the Plunge](../tob130)</li>
-			<li>Part 131: The Road to Mt. Killaraus</li>
-			<li>Part 132: Mt. Killaraus, Lifespring Font</li>
+			<li>[Part 131: The Road to Mt. Killaraus](../tob131)</li>
+			<li>[Part 132: Mt. Killaraus, Lifespring Font](../tob132)</li>
 			<li>Part 133: Rokurou vs. Shigure</li>
-			<li>Part 134: Deus Ex Magillanica</li>
+			<li>Part 134: Ex Magillanica</li>
 			<li>Part 135: Into the Cauldron</li>
 			<li>Part 136: Melchior Unleashed</li>
 			<li>Part 137: Waking the Empyreans</li>

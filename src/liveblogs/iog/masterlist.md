@@ -80,8 +80,8 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 69: Will's Vision](../iog69)</li>
 	<li>[Part 70: Restoring the Villagers](../iog70)</li>
 	<li>[Part 71: Desert Village Dao](../iog71)</li>
-	<li>Part 72: The Journal</li>
-	<li>Part 73: Enter Shadow</li>
+	<li>[Part 72: The Journal](../iog72)</li>
+	<li>[Part 73: Enter Shadow](../iog73)</li>
 	<li>Part 74: Pyramid - West Passages</li>
 	<li>Part 75: Pyramid - East Passages</li>
 	<li>Part 76: Fetching the Hieroglyphs</li>

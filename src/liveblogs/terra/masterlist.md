@@ -91,8 +91,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 70: Going Up Sylvain Castle</li>
 			<li>Part 71: Ending Sylvain Castle's Curse</li>
 			<li>Part 72: Columbus</li>
-			<!--<li>Part 73: Voyage</li>
-			<li>Part 74: Freedom</li>
+			<li>Part 73: Voyage</li>
+			<!--<li>Part 74: Freedom</li>
 			<li>Part 75: Perel</li>
 			<li>Part 76: Nirlake</li>
 			<li>Part 77: Little Fixings and Little Lies</li>
@@ -125,7 +125,9 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 104: Dungeon Rescue</li>
 			<li>Part 105: Dragoon Castle - East Wing</li>
 			<li>Part 106: Dragoon Castle - West Wing</li>
-			<li>Part 107: Escape From Dragoon Castle</li>-->
+			<li>Part 107: Escape From Dragoon Castle</li>
+			<li>Part 108: Family Reunion</li>
+			<li>Part 109: Expanding Loire Further/Kingbird Revisited</li>-->
 		</ul>
 	</li>
 </ul>
