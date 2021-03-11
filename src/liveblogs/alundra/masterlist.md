@@ -105,5 +105,5 @@ categories: alundra
   <li>[Part 86: The Final Battle/Last Armageddon](../al86)</li>
   <li>[Part 87: Last Armageddon, Take Two (Part 1)](../al87-1)</li>
   <li>[Part 87: Last Armageddon, Take Two (Part 2)](../al87-2)</li>
-  <li>Part 88: Finale</li>
+  <li>[Part 88: Finale](../al88)</li>
 </ul>
