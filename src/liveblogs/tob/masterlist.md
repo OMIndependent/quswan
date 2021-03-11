@@ -184,7 +184,7 @@ categories: tob tales-of-berseria
 			<li>[Part 130: Final Breath Before the Plunge](../tob130)</li>
 			<li>[Part 131: The Road to Mt. Killaraus](../tob131)</li>
 			<li>[Part 132: Mt. Killaraus, Lifespring Font](../tob132)</li>
-			<li>Part 133: Rokurou vs. Shigure</li>
+			<li>[Part 133: Rokurou vs. Shigure](../tob133)</li>
 			<li>Part 134: Ex Magillanica</li>
 			<li>Part 135: Into the Cauldron</li>
 			<li>Part 136: Melchior Unleashed</li>
