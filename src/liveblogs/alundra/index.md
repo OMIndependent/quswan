@@ -26,4 +26,4 @@ This is the main page for my playthrough of *Alundra*, which I played from **Feb
 [wds]:      https://en.wikipedia.org/wiki/Working_Designs
 
 [masterlist]: ./masterlist/
-[review]: ./alreview/
+[review]: ./review/
