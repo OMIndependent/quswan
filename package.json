@@ -15,6 +15,7 @@
     "metalsmith-drafts": "0.0.1",
     "metalsmith-emoji": "^0.1.0",
     "metalsmith-html-minifier": "^2.2.0",
+    "metalsmith-icons": "^0.6.0",
     "metalsmith-imagemin": "^4.0.0",
     "metalsmith-layouts": "^1.8.1",
     "metalsmith-mapsite": "^1.0.4",

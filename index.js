@@ -20,6 +20,7 @@ const assets          = require('metalsmith-assets')
 const pug             = require('metalsmith-pug')
 const markdown        = require('metalsmith-markdown')
 const emoji           = require('metalsmith-emoji')
+//const icons           = require('metalsmith-icons')
 const dateformatter   = require('metalsmith-date-formatter')
 const layouts         = require('metalsmith-layouts')
 const permalinks      = require('metalsmith-permalinks')
@@ -48,6 +49,8 @@ var meta = {
   description: desc,
   generator: 'Metalsmith',
   generatorurl: 'http://metalsmith.io/',
+  license: 'CC BY-SA 4.0',
+  licenseurl: 'https://creativecommons.org/licenses/by-sa/4.0/',
   version: pkg.version
 }
 
@@ -105,6 +108,11 @@ var emset = {
   pattern: ['**/*.md', '**/**/*.md', '**/*.html', '**/**/*.html'],
   convertToImages: true,
   processShortnames: true
+}
+
+/* Icons settings */
+var iconset = {
+
 }
 
 /* Datetime format settings */
@@ -215,6 +223,8 @@ Metalsmith(dir.base)
   .use(pug(opts)) // Enable pug-to-HTML files
 
   .use(emoji(emset)) // Enable emoji in files
+
+  //.use(icons(iconset)) // Enable font-awesome icons via fontello
 
   .use(markdown()) // Enable markdown-to-HTML files
 

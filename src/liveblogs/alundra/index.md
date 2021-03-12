@@ -15,6 +15,8 @@ This is the main page for my playthrough of *Alundra*, which I played from **Feb
 
 <span class="nav-masterlist">[Here's the **masterlist** of links for my *Alundra* playthrough.][masterlist]</span>
 
+<span class="nav-masterlist">[Here's also the **review** for this game.][review]</span>
+
 <!--<div class="nav-pag" style="border-spacing: 0 1em; text-align: right; border-radius: 0.25em;">
 [Alundra - Part 1: A New Beginning &raquo;](./al1)
 </div>-->
@@ -24,3 +26,4 @@ This is the main page for my playthrough of *Alundra*, which I played from **Feb
 [wds]:      https://en.wikipedia.org/wiki/Working_Designs
 
 [masterlist]: ./masterlist/
+[review]: ./alreview/
