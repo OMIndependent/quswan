@@ -95,11 +95,11 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 74: Freedom</li>
 			<li>Part 75: Perel</li>
 			<li>Part 76: Nirlake</li>
-			<!--<li>Part 77: Little Fixings and Little Lies</li>
+			<li>Part 77: Little Fixings and Little Lies</li>
 			<li>Part 78: Fixing the Little Lie and Lumber Gathering</li>
 			<li>Part 79: Visiting Old and New Places</li>
 			<li>Part 80: Maze Race</li>
-			<li>Part 81: Liotto</li>
+			<!--<li>Part 81: Liotto</li>
 			<li>Part 82: Meilin Again and New Feelings</li>
 			<li>Part 83: Port Liotto</li>
 			<li>Part 84: The Night at Corcobad Hill</li>

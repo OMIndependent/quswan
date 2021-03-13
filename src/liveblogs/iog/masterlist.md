@@ -83,7 +83,7 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 72: The Journal](../iog72)</li>
 	<li>[Part 73: Enter Shadow](../iog73)</li>
 	<li>[Part 74: Pyramid - West Passages](../iog74)</li>
-	<li>Part 75: Pyramid - East Passages</li>
+	<li>[Part 75: Pyramid - East Passages](../iog75)</li>
 	<li>Part 76: Fetching the Hieroglyphs</li>
 	<li>Part 77: The Jackal</li>
 	<li>Part 78: Mummy Queen</li>
