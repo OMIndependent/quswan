@@ -1,0 +1,11 @@
+node_modules
+build
+assets/img/*.svg
+assets/img/*.gif
+*.sh
+about.md
+about.html
+*.log
+*.npm
+*.scss
+quswanresults.txt
