@@ -4,7 +4,6 @@ title: "Illusion of Gaia - Part 76: Fetching the Hieroglyphs"
 date: 2019-01-06 09-0800
 publishDate: 2021-03-14 23:00:00 -0800
 categories: iog illusion-of-gaia illusion-of-time fantasy-chronicles-of-gaia gaia-gensoki quintet-enix playthroughs
-draft: true
 ---
 
 <p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3)</p>
