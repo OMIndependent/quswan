@@ -127,7 +127,28 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 106: Dragoon Castle - West Wing</li>
 			<li>Part 107: Escape From Dragoon Castle</li>
 			<li>Part 108: Family Reunion</li>
-			<li>Part 109: Expanding Loire Further/Kingbird Revisited</li>-->
+			<li>Part 109: Expanding Loire Further/Kingbird Revisited</li>
+			<li>Part 110: Loire Beloved</li>
+			<li>Part 111: Full Flower Freedom</li>
+			<li>Part 112: Flight</li>
+			<li>Part 113: Astarica</li>
+			<li>Part 114: Flying Again</li>
+			<li>Part 115: Mosque</li>
+			<li>Part 116: New Apartment</li>
+			<li>Part 117: Beruga's Lab</li>
+			<li>Part 118: Resurrection of the Genius</li>
+			<li>Part 119: Eternal Rest?</li>
+			<li>Part 120: Starstones</li>
+			<li>Part 121: Checking Up</li>
+			<li>Part 122: Nirlake Destroyed</li>
+			<li>Part 123: Nirlake Restored</li>
+			<li>Part 124: Airplane Plans</li>
+			<li>Part 125: Airsrock Starstone</li>
+			<li>Part 126: Suncoast Upgraded</li>
+			<li>Part 127: Chicken Races</li>
+			<li>Part 128: Leim's Starstone</li>
+			<li>Part 129: Astarica Redux</li>
+			<li>Part 130: Finding the Fifth Starstone</li>-->
 		</ul>
 	</li>
 </ul>

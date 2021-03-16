@@ -82,11 +82,11 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 56: Creating An Avalanche</li>
   <li>Part 57: The Cold Climb Up</li>
   <li>Part 58: Dust Revealed</li>
-  <!--<li>Part 59: Searching For Friends and Treasures</li>
+  <li>Part 59: Searching For Friends and Treasures</li>
   <li>Part 60: Checking Up On Friends</li>
   <li>Part 61: Bopo's Snowfall</li>
   <li>Part 62: The Dust Who Walks In The Light</li>
-  <li>Part 63: Rescuing A Friend Locked In Many Gates</li>
+  <!--<li>Part 63: Rescuing A Friend Locked In Many Gates</li>
   <li>Part 64: The Final Breath Before the Plunge</li>
   <li>Part 65: Loose Ends</li>
   <li>Part 66: The Last of the Moonbloods</li>

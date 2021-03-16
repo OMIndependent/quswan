@@ -185,8 +185,8 @@ categories: tob tales-of-berseria
 			<li>[Part 131: The Road to Mt. Killaraus](../tob131)</li>
 			<li>[Part 132: Mt. Killaraus, Lifespring Font](../tob132)</li>
 			<li>[Part 133: Rokurou vs. Shigure](../tob133)</li>
-			<li>Part 134: Ex Magillanica</li>
-			<li>Part 135: Into the Cauldron</li>
+			<li>[Part 134: Ex Magillanica](../tob134)</li>
+			<li>[Part 135: Into the Cauldron](../tob135)</li>
 			<li>Part 136: Melchior Unleashed</li>
 			<li>Part 137: Waking the Empyreans</li>
 			<li>Part 138: A Bevy of Skits</li>
