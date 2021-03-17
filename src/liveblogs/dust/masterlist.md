@@ -86,9 +86,9 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 60: Checking Up On Friends</li>
   <li>Part 61: Bopo's Snowfall</li>
   <li>Part 62: The Dust Who Walks In The Light</li>
-  <!--<li>Part 63: Rescuing A Friend Locked In Many Gates</li>
+  <li>Part 63: Rescuing A Friend Locked In Many Gates</li>
   <li>Part 64: The Final Breath Before the Plunge</li>
-  <li>Part 65: Loose Ends</li>
+  <!--<li>Part 65: Loose Ends</li>
   <li>Part 66: The Last of the Moonbloods</li>
   <li>Part 67: Justice Incarnate</li>
   <li>Part 68: Finale</li>

@@ -102,9 +102,9 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 81: Liotto</li>
 			<li>Part 82: Meilin Again and New Feelings</li>
 			<li>Part 83: Port Liotto</li>
-			<!--<li>Part 84: The Night at Corcobad Hill</li>
+			<li>Part 84: The Night at Corcobad Hill</li>
 			<li>Part 85: Mermaid's Tower</li>
-			<li>Part 86: New Voyages and Election Results</li>
+			<!--<li>Part 86: New Voyages and Election Results</li>
 			<li>Part 87: The New Loire</li>
 			<li>Part 88: The New Freedom City/Trade Quest</li>
 			<li>Part 89: Growing Litz</li>

@@ -187,9 +187,9 @@ categories: tob tales-of-berseria
 			<li>[Part 133: Rokurou vs. Shigure](../tob133)</li>
 			<li>[Part 134: Ex Magillanica](../tob134)</li>
 			<li>[Part 135: Into the Cauldron](../tob135)</li>
-			<li>Part 136: Melchior Unleashed</li>
-			<li>Part 137: Waking the Empyreans</li>
-			<li>Part 138: A Bevy of Skits</li>
+			<li>[Part 136: Melchior Unleashed](../tob136)</li>
+			<li>[Part 137: Waking the Empyreans](../tob137)</li>
+			<li>[Part 138: A Bevy of Skits](../tob138)</li>
 			<li>Part 139: Return to Meirchio and Hellawes</li>
 			<li>Part 140: Sidequest Bonanza</li>
 			<li>Part 141: Talking Pengyon</li>
