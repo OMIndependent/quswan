@@ -86,9 +86,9 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 75: Pyramid - East Passages](../iog75)</li>
 	<li>[Part 76: Fetching the Hieroglyphs](../iog76)</li>
 	<li>[Part 77: The Jackal](../iog77)</li>
-	<li>Part 78: Mummy Queen</li>
-	<li>Part 79: The Flute Talks Again</li>
-	<li>Part 80: Tower of Babel</li>
+	<li>[Part 78: Mummy Queen](../iog78)</li>
+	<li>[Part 79: The Flute Talks Again](../iog79)</li>
+	<li>[Part 80: Tower of Babel](../iog80)</li>
 	<li>Part 81: The Tower's Demons, or The Hardest Boss Rush Ever</li>
 	<li>Part 82: Comet of Armageddon</li>
 	<li>Part 83: Dark Gaia</li>
