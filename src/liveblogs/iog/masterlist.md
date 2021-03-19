@@ -89,7 +89,7 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 78: Mummy Queen](../iog78)</li>
 	<li>[Part 79: The Flute Talks Again](../iog79)</li>
 	<li>[Part 80: Tower of Babel](../iog80)</li>
-	<li>Part 81: The Tower's Demons, or The Hardest Boss Rush Ever</li>
+	<li>[Part 81: The Tower's Demons, or The Hardest Boss Rush Ever](../iog81)</li>
 	<li>Part 82: Comet of Armageddon</li>
 	<li>Part 83: Dark Gaia</li>
 	<li>Part 84: Earth</li>

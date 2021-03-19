@@ -108,9 +108,9 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 87: The New Loire</li>
 			<li>Part 88: The New Freedom City/Trade Quest</li>
 			<li>Part 89: Growing Litz</li>
-			<!--<li>Part 90: Of Flowers and Inventions</li>
+			<li>Part 90: Of Flowers and Inventions</li>
 			<li>Part 91: Puttin' On The Litz</li>
-			<li>Part 92: Neotokio</li>
+			<!--<li>Part 92: Neotokio</li>
 			<li>Part 93: Southeast and Suncoast</li>
 			<li>Part 94: Missed Screenshots and Mini-Stopovers</li>
 			<li>Part 95: The South Pole</li>
@@ -135,18 +135,18 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 114: Flying Again</li>
 			<li>Part 115: Mosque</li>
 			<li>Part 116: New Apartment</li>
-			<li>Part 117: Beruga's Lab</li>
+			<li>Part 117: Beruga's Castle</li>
 			<li>Part 118: Resurrection of the Genius</li>
 			<li>Part 119: Eternal Rest?</li>
 			<li>Part 120: Starstones</li>
 			<li>Part 121: Checking Up</li>
 			<li>Part 122: Nirlake Destroyed</li>
-			<li>Part 123: Nirlake Restored</li>
+			<li>Part 123: Nirlake Restored and Renovated</li>
 			<li>Part 124: Airplane Plans</li>
 			<li>Part 125: Airsrock Starstone</li>
 			<li>Part 126: Suncoast Upgraded</li>
 			<li>Part 127: Chicken Races</li>
-			<li>Part 128: Leim's Starstone</li>
+			<li>Part 128: Leim's Ex-Starstone</li>
 			<li>Part 129: Astarica Redux</li>
 			<li>Part 130: Finding the Fifth Starstone</li>-->
 		</ul>

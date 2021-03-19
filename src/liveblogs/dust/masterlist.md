@@ -90,7 +90,7 @@ categories: dust dust-an-elysian-tail dust-aet
   <li>Part 64: The Final Breath Before the Plunge</li>
   <li>Part 65: Loose Ends</li>
   <li>Part 66: The Last of the Moonbloods</li>
-  <!--<li>Part 67: Justice Incarnate</li>
+  <li>Part 67: Justice Incarnate</li>
   <li>Part 68: Finale</li>
   <li>Part 69: Credits and Samurai Pizza Cats</li>-->
 </ul>
