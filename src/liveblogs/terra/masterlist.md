@@ -110,9 +110,9 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 89: Growing Litz</li>
 			<li>Part 90: Of Flowers and Inventions</li>
 			<li>Part 91: Puttin' On The Litz</li>
-			<!--<li>Part 92: Neotokio</li>
+			<li>Part 92: Neotokio</li>
 			<li>Part 93: Southeast and Suncoast</li>
-			<li>Part 94: Missed Screenshots and Mini-Stopovers</li>
+			<!--<li>Part 94: Missed Screenshots and Mini-Stopovers</li>
 			<li>Part 95: The South Pole</li>
 			<li>Part 96: Starting Great Lake Cavern</li>
 			<li>Part 97: Great Lake Cavern</li>

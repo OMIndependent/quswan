@@ -190,9 +190,9 @@ categories: tob tales-of-berseria
 			<li>[Part 136: Melchior Unleashed](../tob136)</li>
 			<li>[Part 137: Waking the Empyreans](../tob137)</li>
 			<li>[Part 138: A Bevy of Skits](../tob138)</li>
-			<li>Part 139: Return to Meirchio and Hellawes</li>
-			<li>Part 140: Sidequest Bonanza</li>
-			<li>Part 141: Talking Pengyon</li>
+			<li>[Part 139: Return to Meirchio and Hellawes](../tob139)</li>
+			<li>[Part 140: Sidequest Bonanza](../tob140)</li>
+			<li>[Part 141: Talking Pengyon](../tob141)</li>
 			<li>Part 142: Riding the Sidequest Train</li>
 			<li>Part 143: Taliesin Again</li>
 			<li>Part 144: The Terror Island</li>
