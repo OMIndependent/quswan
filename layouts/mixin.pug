@@ -16,9 +16,11 @@ mixin entrylink(path,name,date,publishDate)
               = name
       div.entry-link-footer
         span.entry-meta
-          = 'Written on ' + date
-          br
-          = 'Posted on ' + publishDate
+          if date
+            = 'Written on ' + date
+            br
+          if publishDate
+            = 'Posted on ' + publishDate
 
 //- mixin for alternate footer
 mixin homefooter

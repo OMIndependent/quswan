@@ -9,10 +9,12 @@ block content
       header.entry-header
         h2.entry-title= title
         h3.entry-meta
-          = 'Written on ' + date
-          br
-          = 'Posted on ' + publishDate
-          br
+          if date
+            = 'Written on ' + date
+            br
+          if publishDate
+            = 'Posted on ' + publishDate
+            br
           = readingTime + ' read'
           
       div.entry-content

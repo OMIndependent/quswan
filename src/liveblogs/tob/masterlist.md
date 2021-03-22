@@ -193,7 +193,7 @@ categories: tob tales-of-berseria
 			<li>[Part 139: Return to Meirchio and Hellawes](../tob139)</li>
 			<li>[Part 140: Sidequest Bonanza](../tob140)</li>
 			<li>[Part 141: Talking Pengyon](../tob141)</li>
-			<li>Part 142: Riding the Sidequest Train</li>
+			<li>[Part 142: Riding the Sidequest Train](../tob142)</li>
 			<li>Part 143: Taliesin Again</li>
 			<li>Part 144: The Terror Island</li>
 			<li>Part 145: Normin Island and Katz Korner, Dreamlike Paradise</li>
