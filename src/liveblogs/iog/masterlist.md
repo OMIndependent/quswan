@@ -91,7 +91,7 @@ categories: iog illusion-of-gaia illusion-of-time quintet-enix
 	<li>[Part 80: Tower of Babel](../iog80)</li>
 	<li>[Part 81: The Tower's Demons, or The Hardest Boss Rush Ever](../iog81)</li>
 	<li>[Part 82: Comet of Armageddon](../iog82)</li>
-	<li>Part 83: Dark Gaia</li>
+	<li>[Part 83: Dark Gaia](../iog83)</li>
 	<li>Part 84: Earth</li>
 	<li>Part 85: Journey's End</li>
 </ul>
