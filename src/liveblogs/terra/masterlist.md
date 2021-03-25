@@ -9,7 +9,7 @@ categories: terranigma tenchi-sozo quintet-enix
 <ul class="section-wrapper">
 	<li><span class="section-no">Chapter 1: The Outset</span>
 		<ul class="masterlink-wrapper">
-			<li>Part 1: The Outset (Pages 1-3)</li>
+			<li>[Part 1: The Outset (Pages 1-3)](../terra1-1)</li>
 			<li>Part 1: The Outset (Page 4)</li>
 			<li>Part 2: Crysta</li>
 			<li>Part 3: Tunnel</li>

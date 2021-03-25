@@ -2,9 +2,8 @@
 layout: entry.pug
 title: "Terranigma - Part 1: The Outset (Pages 1-3)"
 date: 2019-07-17 09-0800
-publishDate: 2019-07-19 23:00:00 -0800
+publishDate: 2021-03-24 23:00:00 -0800
 categories: playthroughs terranigma quintet-enix tenchi-sozo
-draft: true
 ---
 
 <p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2) \| [**Page 3**](#3)</p>
@@ -35,9 +34,11 @@ The clock's hands fall off...and dissolves into the earth...
 
 I'm now here at the title screen.
 
+**ETA:** <a href="https://youtu.be/u9ibkTbuSBA">The main theme</a> starts off with an air of mystery and beauty, then swells into a "grand adventure" feeling here for a bit, then continues into something simple and beautiful again.
+
 <img src="https://i.imgur.com/M7CqyLu.png" alt="fileselect" width="360" height="270" id="liveblog" />
 
-I like the file select theme.
+<a href="https://youtu.be/78SpNZYdFIg">I like the file select theme</a>.
 
 <img src="https://i.imgur.com/QqKaasD.png" alt="name input" width="360" height="270" id="liveblog" />
 
