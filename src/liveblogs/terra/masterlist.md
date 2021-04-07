@@ -18,8 +18,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 6: Journey's Start](../terra6)</li>
 			<li>[Part 7: First Tower](../terra7)</li>
 			<li>[Part 8: The Fifth Floor](../terra8)</li>
-			<li>Part 9: Visiting the Weavers Again</li>
-			<li>Part 10: Second Tower</li>
+			<li>[Part 9: Visiting the Weavers Again](../terra9)</li>
+			<li>[Part 10: Second Tower](../terra10)</li>
 			<li>Part 11: Third Tower</li>
 			<li>Part 12: The Head Cadet Mage and More Continent Reviving</li>
 			<li>Part 13: Respite and Fourth Tower</li>
