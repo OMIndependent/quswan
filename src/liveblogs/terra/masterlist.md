@@ -20,11 +20,11 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 8: The Fifth Floor](../terra8)</li>
 			<li>[Part 9: Visiting the Weavers Again](../terra9)</li>
 			<li>[Part 10: Second Tower](../terra10)</li>
-			<li>Part 11: Third Tower</li>
-			<li>Part 12: The Head Cadet Mage and More Continent Reviving</li>
-			<li>Part 13: Respite and Fourth Tower</li>
-			<li>Part 14: Dancing Huball Troupe</li>
-			<li>Part 15: Preparations</li>
+			<li>[Part 11: Third Tower](../terra11)</li>
+			<li>[Part 12: The Head Cadet Mage and More Continent Reviving](../terra12)</li>
+			<li>[Part 13: Respite and Fourth Tower](../terra13)</li>
+			<li>[Part 14: Dancing Huball Troupe](../terra14)</li>
+			<li>[Part 15: Preparations](../terra15)</li>
 			<li>Part 16: Fifth Tower Rebuffed/Elle's Blessing</li>
 			<li>Part 17: Fifth Tower</li>
 			<li>Part 18: Fifth Tower, Take Two</li>
