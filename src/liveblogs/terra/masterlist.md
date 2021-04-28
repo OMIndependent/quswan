@@ -25,8 +25,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 13: Respite and Fourth Tower](../terra13)</li>
 			<li>[Part 14: Dancing Huball Troupe](../terra14)</li>
 			<li>[Part 15: Preparations](../terra15)</li>
-			<li>Part 16: Fifth Tower Rebuffed/Elle's Blessing</li>
-			<li>Part 17: Fifth Tower</li>
+			<li>[Part 16: Fifth Tower Rebuffed/Elle's Blessing](../terra16)</li>
+			<li>[Part 17: Fifth Tower](../terra17)</li>
 			<li>Part 18: Fifth Tower, Take Two</li>
 			<li>Part 19: Aftermath</li>
 			<li>Part 19a: Sealed Door</li>
