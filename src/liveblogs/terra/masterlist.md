@@ -27,7 +27,7 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 15: Preparations](../terra15)</li>
 			<li>[Part 16: Fifth Tower Rebuffed/Elle's Blessing](../terra16)</li>
 			<li>[Part 17: Fifth Tower](../terra17)</li>
-			<li>Part 18: Fifth Tower, Take Two</li>
+			<li>[Part 18: Fifth Tower, Take Two](../terra18)</li>
 			<li>Part 19: Aftermath</li>
 			<li>Part 19a: Sealed Door</li>
 			<li>Part 20: The Hole of No Return</li>
@@ -149,7 +149,18 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 128: Leim's Ex-Starstone</li>
 			<li>Part 129: Astarica Redux</li>
 			<li>Part 130: Finding the Fifth Starstone</li>
-			<li>Part 131: Sewer Scavenging</li>-->
+			<li>Part 131: Sewer Scavenging</li>
+			<li>Part 132: Placing the Starstones</li>
+			<li>Part 133: Two Arks</li>-->
 		</ul>
 	</li>
+	<!--<li><span class="section-no">Chapter 4: Resurrection of the Hero</span>
+		<ul class="masterlink-wrapper">
+			<li>Part 134: Revelations</li>
+			<li>Part 135: Menu Box Again/Hero's Pike</li>
+			<li>Part 136: Meihou's Letter</li>
+			<li>Part 137: Off To Siberia</li>
+			<li>Part 138: Beruga's Lab Tower</li>
+		</ul>
+	</li>-->
 </ul>

@@ -6,6 +6,10 @@ publishDate: 2021-04-28 13:00:05 -0800
 categories: playthroughs terranigma quintet-enix tenchi-sozo
 ---
 
+<p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2)</p>
+
+<a name="1"></a>
+
 Here we come, Guardian!
 
 The shot from the Guardian bounces off the cape, yes!
