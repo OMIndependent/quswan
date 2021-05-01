@@ -115,9 +115,9 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 94: Missed Screenshots and Mini-Stopovers</li>
 			<li>Part 95: The South Pole</li>
 			<li>Part 96: Starting Great Lake Cavern</li>
-			<!--<li>Part 97: Great Lake Cavern</li>
+			<li>Part 97: Great Lake Cavern</li>
 			<li>Part 98: Enter Will the Pilot</li>
-			<li>Part 99: Yunkou</li>
+			<!--<li>Part 99: Yunkou</li>
 			<li>Part 100: Dragoon Castle Rebuffed/Fyda's Nightmare</li>
 			<li>Part 101: Entering Dragoon Castle</li>
 			<li>Part 102: Metal Gear Dragoon</li>

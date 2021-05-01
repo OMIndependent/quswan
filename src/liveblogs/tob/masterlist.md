@@ -196,9 +196,9 @@ categories: tob tales-of-berseria
 			<li>[Part 142: Riding the Sidequest Train](../tob142)</li>
 			<li>[Part 143: Taliesin Again](../tob143)</li>
 			<li>[Part 144: The Terror Island](../tob144)</li>
-			<li>Part 145: Normin Island and Katz Korner, Dreamlike Paradise</li>
-			<li>Part 146: Davahl Forest Revisited</li>
-			<li>Part 147: Omega Elixir Complete</li>
+			<li>[Part 145: Normin Island and Katz Korner, Dreamlike Paradise](../tob145)</li>
+			<li>[Part 146: Davahl Forest Revisited](../tob146)</li>
+			<li>[Part 147: Omega Elixir Complete](../tob147)</li>
 			<li>Part 148: Rumors, Dealings, and a Dragon</li>
 			<li>Part 149: Goldipen</li>
 			<li>Part 150: Finding the Dragon</li>
