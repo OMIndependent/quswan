@@ -28,10 +28,10 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 16: Fifth Tower Rebuffed/Elle's Blessing](../terra16)</li>
 			<li>[Part 17: Fifth Tower](../terra17)</li>
 			<li>[Part 18: Fifth Tower, Take Two](../terra18)</li>
-			<li>Part 19: Aftermath</li>
-			<li>Part 19a: Sealed Door</li>
-			<li>Part 20: The Hole of No Return</li>
-			<li>Part 21: The Real Journey's Start</li>
+			<li>[Part 19: Aftermath](../terra19)</li>
+			<li>[Part 19a: Sealed Door](../terra19#a)</li>
+			<li>[Part 20: The Hole of No Return](../terra20)</li>
+			<li>[Part 21: The Real Journey's Start](../terra21)</li>
 		</ul>
 	</li>
 	<li><span class="section-no">Chapter 2: Resurrection of the World</span>
@@ -112,10 +112,10 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 91: Puttin' On The Litz</li>
 			<li>Part 92: Neotokio</li>
 			<li>Part 93: Southeast and Suncoast</li>
-			<!--<li>Part 94: Missed Screenshots and Mini-Stopovers</li>
+			<li>Part 94: Missed Screenshots and Mini-Stopovers</li>
 			<li>Part 95: The South Pole</li>
 			<li>Part 96: Starting Great Lake Cavern</li>
-			<li>Part 97: Great Lake Cavern</li>
+			<!--<li>Part 97: Great Lake Cavern</li>
 			<li>Part 98: Enter Will the Pilot</li>
 			<li>Part 99: Yunkou</li>
 			<li>Part 100: Dragoon Castle Rebuffed/Fyda's Nightmare</li>
