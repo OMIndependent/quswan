@@ -199,9 +199,9 @@ categories: tob tales-of-berseria
 			<li>[Part 145: Normin Island and Katz Korner, Dreamlike Paradise](../tob145)</li>
 			<li>[Part 146: Davahl Forest Revisited](../tob146)</li>
 			<li>[Part 147: Omega Elixir Complete](../tob147)</li>
-			<li>Part 148: Rumors, Dealings, and a Dragon</li>
-			<li>Part 149: Goldipen</li>
-			<li>Part 150: Finding the Dragon</li>
+			<li>[Part 148: Rumors, Dealings, and a Dragon](../tob148)</li>
+			<li>[Part 149: Goldipen](../tob149)</li>
+			<li>[Part 150: Finding the Dragon](../tob150)</li>
 			<li>Part 151: Third Return to Meirchio</li>
 			<li>Part 152: Medicine for Kamoana</li>
 			<li>Part 153: Bitter Medicine</li>

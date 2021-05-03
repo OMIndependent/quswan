@@ -9,7 +9,7 @@ permalink: /liveblogs/
 ---
 
 [<img src="" alt="alundra banner" class="banner" />](./alundra/)
-<h4 style="text-align: center;">*Alundra* ([masterlist](./alundra/masterlist/))</h4>
+<h4 style="text-align: center;">*Alundra* ([masterlist](./alundra/masterlist/)) (**completed!**)</h4>
 
 
 [<img src="" alt="dust banner" class="banner" />](./dust/masterlist/)
@@ -21,7 +21,7 @@ permalink: /liveblogs/
 
 
 [<img src="" alt="som banner" class="banner" />](./som/masterlist/)
-<h4 style="text-align: center;">*Secret of Mana* (masterlist only)</h4>
+<h4 style="text-align: center;">*Secret of Mana* (masterlist only) (**completed!**)</h4>
 
 
 [<img src="" alt="tob banner" class="banner" />](./tob/masterlist/)
@@ -29,7 +29,7 @@ permalink: /liveblogs/
 
 
 [<img src="" alt="iog banner" class="banner" />](./iog/masterlist/)
-<h4 style="text-align: center;">*Illusion of Gaia* (masterlist only)</h4>
+<h4 style="text-align: center;">*Illusion of Gaia* (masterlist only) (**completed!**)</h4>
 
 
 [<img src="" alt="terra banner" class="banner" />](./terra/masterlist)
