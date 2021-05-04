@@ -202,8 +202,8 @@ categories: tob tales-of-berseria
 			<li>[Part 148: Rumors, Dealings, and a Dragon](../tob148)</li>
 			<li>[Part 149: Goldipen](../tob149)</li>
 			<li>[Part 150: Finding the Dragon](../tob150)</li>
-			<li>Part 151: Third Return to Meirchio</li>
-			<li>Part 152: Medicine for Kamoana</li>
+			<li>[Part 151: Third Return to Meirchio](../tob151)</li>
+			<li>[Part 152: Medicine for Kamoana](../tob152)</li>
 			<li>Part 153: Bitter Medicine</li>
 			<li>Part 154: Kamoana's Secret</li>
 			<li>Part 155: Magilou vs. Majelu/Exploring Zamahl Grotto</li>
