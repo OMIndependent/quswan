@@ -123,10 +123,10 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 102: Metal Gear Dragoon</li>
 			<li>Part 103: Imprisoned Again</li>
 			<li>Part 104: Dungeon Rescue</li>
-			<!--<li>Part 105: Dragoon Castle - East Wing</li>
+			<li>Part 105: Dragoon Castle - East Wing</li>
 			<li>Part 106: Dragoon Castle - West Wing</li>
 			<li>Part 107: Escape From Dragoon Castle</li>
-			<li>Part 108: Family Reunion</li>
+			<!--<li>Part 108: Family Reunion</li>
 			<li>Part 109: Expanding Loire Further/Kingbird Revisited</li>
 			<li>Part 110: Loire Beloved</li>
 			<li>Part 111: Full Flower Freedom</li>
@@ -161,6 +161,10 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 136: Meihou's Letter</li>
 			<li>Part 137: Off To Siberia</li>
 			<li>Part 138: Beruga's Lab Tower</li>
+			<li>Part 139: Airship</li>
+			<li>Part 140: The End of Fyda and Royd</li>
+			<li>Part 141: Looming Apocalypse</li>
+			<li>Part 142: Return to the Underworld</li>
 		</ul>
 	</li>-->
 </ul>

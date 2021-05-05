@@ -204,8 +204,8 @@ categories: tob tales-of-berseria
 			<li>[Part 150: Finding the Dragon](../tob150)</li>
 			<li>[Part 151: Third Return to Meirchio](../tob151)</li>
 			<li>[Part 152: Medicine for Kamoana](../tob152)</li>
-			<li>Part 153: Bitter Medicine</li>
-			<li>Part 154: Kamoana's Secret</li>
+			<li>[Part 153: Bitter Medicine](../tob153)</li>
+			<li>[Part 154: Kamoana's Secret](../tob154)</li>
 			<li>Part 155: Magilou vs. Majelu/Exploring Zamahl Grotto</li>
 			<li>Part 156: Checking Up On Loegres</li>
 			<li>Part 157: The Challenge</li>
