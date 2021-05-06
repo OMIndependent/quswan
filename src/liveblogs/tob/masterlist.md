@@ -206,10 +206,10 @@ categories: tob tales-of-berseria
 			<li>[Part 152: Medicine for Kamoana](../tob152)</li>
 			<li>[Part 153: Bitter Medicine](../tob153)</li>
 			<li>[Part 154: Kamoana's Secret](../tob154)</li>
-			<li>Part 155: Magilou vs. Majelu/Exploring Zamahl Grotto</li>
-			<li>Part 156: Checking Up On Loegres</li>
-			<li>Part 157: The Challenge</li>
-			<li>Part 158: An Earthpulse In Aball/Normin Phoenix, Take Two</li>
+			<li>[Part 155: Magilou vs. Majelu/Exploring Zamahl Grotto](../tob155)</li>
+			<li>[Part 156: Checking Up On Loegres](../tob156)</li>
+			<li>[Part 157: The Challenge](../tob157)</li>
+			<li>[Part 158: An Earthpulse In Aball/Normin Phoenix, Take Two](../tob158)</li>
 			<li>Part 159: Old Puns and an Earthpulse</li>
 			<li>Part 160: Further Revelations</li>
 			<li>Part 161: Facing Theodora</li>

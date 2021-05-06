@@ -126,11 +126,11 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 105: Dragoon Castle - East Wing</li>
 			<li>Part 106: Dragoon Castle - West Wing</li>
 			<li>Part 107: Escape From Dragoon Castle</li>
-			<!--<li>Part 108: Family Reunion</li>
+			<li>Part 108: Family Reunion</li>
 			<li>Part 109: Expanding Loire Further/Kingbird Revisited</li>
 			<li>Part 110: Loire Beloved</li>
 			<li>Part 111: Full Flower Freedom</li>
-			<li>Part 112: Flight</li>
+			<!--<li>Part 112: Flight</li>
 			<li>Part 113: Astarica</li>
 			<li>Part 114: Flying Again</li>
 			<li>Part 115: Mosque</li>
