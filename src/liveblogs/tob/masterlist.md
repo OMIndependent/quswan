@@ -210,8 +210,8 @@ categories: tob tales-of-berseria
 			<li>[Part 156: Checking Up On Loegres](../tob156)</li>
 			<li>[Part 157: The Challenge](../tob157)</li>
 			<li>[Part 158: An Earthpulse In Aball/Normin Phoenix, Take Two](../tob158)</li>
-			<li>Part 159: Old Puns and an Earthpulse</li>
-			<li>Part 160: Further Revelations</li>
+			<li>[Part 159: Old Puns and an Earthpulse](../tob159)</li>
+			<li>[Part 160: Further Revelations](../tob160)</li>
 			<li>Part 161: Facing Theodora</li>
 			<li>Part 162: Bonus Skits, Set One</li>
 			<li>Part 163: The Dragon of Hexen Isle/Divided Futures</li>

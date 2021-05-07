@@ -130,11 +130,11 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 109: Expanding Loire Further/Kingbird Revisited</li>
 			<li>Part 110: Loire Beloved</li>
 			<li>Part 111: Full Flower Freedom</li>
-			<!--<li>Part 112: Flight</li>
+			<li>Part 112: Flight</li>
 			<li>Part 113: Astarica</li>
 			<li>Part 114: Flying Again</li>
 			<li>Part 115: Mosque</li>
-			<li>Part 116: New Apartment</li>
+			<!--<li>Part 116: New Apartment</li>
 			<li>Part 117: Beruga's Castle</li>
 			<li>Part 118: Resurrection of the Genius</li>
 			<li>Part 119: Eternal Rest?</li>
@@ -165,6 +165,11 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 140: The End of Fyda and Royd</li>
 			<li>Part 141: Looming Apocalypse</li>
 			<li>Part 142: Return to the Underworld</li>
+			<li>Part 143: Dark Gaia Again</li>
+			<li>Part 144: After the End</li>
+			<li>Part 145: For One More Day...</li>
+			<li>Part 146: Dream</li>
+			<li>Part 146a: Safarium Minigame</li>
 		</ul>
 	</li>-->
 </ul>
