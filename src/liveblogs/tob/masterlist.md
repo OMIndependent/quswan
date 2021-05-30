@@ -214,8 +214,8 @@ categories: tob tales-of-berseria
 			<li>[Part 160: Further Revelations](../tob160)</li>
 			<li>[Part 161: Facing Theodora](../tob161)</li>
 			<li>[Part 162: Bonus Skits, Set One](../tob162)</li>
-			<li>Part 163: The Dragon of Hexen Isle/Divided Futures</li>
-			<li>Part 164: Zaveid's Found Family</li>
+			<li>[Part 163: The Dragon of Hexen Isle/Divided Futures](../tob163)</li>
+			<li>[Part 164: Zaveid's Found Family](../tob164)</li>
 			<li>Part 165: Southgand Surprises</li>
 			<li>Part 166: The Manual For Siegfried</li>
 			<li>Part 167: The Reply</li>

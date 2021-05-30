@@ -139,11 +139,11 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 118: Resurrection of the Genius</li>
 			<li>Part 119: Eternal Rest?</li>
 			<li>Part 120: Starstones</li>
-			<!--<li>Part 121: Checking Up</li>
+			<li>Part 121: Checking Up</li>
 			<li>Part 122: Nirlake Destroyed</li>
 			<li>Part 123: Nirlake Restored and Renovated</li>
 			<li>Part 124: Airplane Plans</li>
-			<li>Part 125: Airsrock Starstone</li>
+			<!--<li>Part 125: Airsrock Starstone</li>
 			<li>Part 126: Suncoast Upgraded</li>
 			<li>Part 127: Chicken Races</li>
 			<li>Part 128: Leim's Ex-Starstone</li>
