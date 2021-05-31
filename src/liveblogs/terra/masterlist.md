@@ -143,8 +143,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 122: Nirlake Destroyed</li>
 			<li>Part 123: Nirlake Restored and Renovated</li>
 			<li>Part 124: Airplane Plans</li>
-			<!--<li>Part 125: Airsrock Starstone</li>
-			<li>Part 126: Suncoast Upgraded</li>
+			<li>Part 125: Airsrock Starstone</li>
+			<!--<li>Part 126: Suncoast Upgraded</li>
 			<li>Part 127: Chicken Races</li>
 			<li>Part 128: Leim's Ex-Starstone</li>
 			<li>Part 129: Astarica Redux</li>
