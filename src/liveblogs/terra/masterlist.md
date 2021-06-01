@@ -144,11 +144,11 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 123: Nirlake Restored and Renovated</li>
 			<li>Part 124: Airplane Plans</li>
 			<li>Part 125: Airsrock Starstone</li>
-			<!--<li>Part 126: Suncoast Upgraded</li>
+			<li>Part 126: Suncoast Upgraded</li>
 			<li>Part 127: Chicken Races</li>
 			<li>Part 128: Leim's Ex-Starstone</li>
 			<li>Part 129: Astarica Redux</li>
-			<li>Part 130: Finding the Fifth Starstone</li>
+			<!--<li>Part 130: Finding the Fifth Starstone</li>
 			<li>Part 131: Sewer Scavenging</li>
 			<li>Part 132: Placing the Starstones</li>
 			<li>Part 133: Two Arks</li>-->

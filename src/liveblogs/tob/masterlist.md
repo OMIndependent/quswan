@@ -217,7 +217,7 @@ categories: tob tales-of-berseria
 			<li>[Part 163: The Dragon of Hexen Isle/Divided Futures](../tob163)</li>
 			<li>[Part 164: Zaveid's Found Family](../tob164)</li>
 			<li>[Part 165: Southgand Surprises](../tob165)</li>
-			<li>Part 166: The Manual For Siegfried</li>
+			<li>[Part 166: The Manual For Siegfried](../tob166)</li>
 			<li>Part 167: The Reply</li>
 			<li>Part 168: Return to the Empyrean's Throne</li>
 			<li>Part 169: Dragonfolk</li>
