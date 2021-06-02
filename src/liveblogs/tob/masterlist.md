@@ -218,9 +218,9 @@ categories: tob tales-of-berseria
 			<li>[Part 164: Zaveid's Found Family](../tob164)</li>
 			<li>[Part 165: Southgand Surprises](../tob165)</li>
 			<li>[Part 166: The Manual For Siegfried](../tob166)</li>
-			<li>Part 167: The Reply</li>
-			<li>Part 168: Return to the Empyrean's Throne</li>
-			<li>Part 169: Dragonfolk</li>
+			<li>[Part 167: The Reply](../tob167)</li>
+			<li>[Part 168: Return to the Empyrean's Throne](../tob168)</li>
+			<li>[Part 169: Dragonfolk](../tob169)</li>
 			<li>Part 170: Innominat's Domain</li>
 			<li>Part 171: Continuing Innominat's Domain</li>
 			<li>Part 172: Clearing Out Innominat's Domain</li>
