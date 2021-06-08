@@ -36,9 +36,9 @@ categories: terranigma tenchi-sozo quintet-enix
 	</li>
 	<li><span class="section-no">Chapter 2: Resurrection of the World</span>
 		<ul class="masterlink-wrapper">
-			<li>Part 22: Resurrection of the World</li>
-			<li>Part 23: Cavern</li>
-			<li>Part 24: Underground Garden</li>
+			<li>[Part 22: Resurrection of the World](../terra22)</li>
+			<li>[Part 23: Cavern](../terra23)</li>
+			<li>[Part 24: Underground Garden](../terra24)</li>
 			<li>Part 25: Parasite</li>
 			<li>Part 26: Green New World</li>
 			<li>Part 27: Crossing to North America</li>
@@ -150,8 +150,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 129: Astarica Redux</li>
 			<li>Part 130: Finding the Fifth Starstone</li>
 			<li>Part 131: Sewer Scavenging</li>
-			<!--<li>Part 132: Placing the Starstones</li>
-			<li>Part 133: Two Arks</li>-->
+			<li>Part 132: Placing the Starstones</li>
+			<li>Part 133: Two Arks</li>
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Chapter 4: Resurrection of the Hero</span>
