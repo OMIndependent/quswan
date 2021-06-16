@@ -39,8 +39,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 22: Resurrection of the World](../terra22)</li>
 			<li>[Part 23: Cavern](../terra23)</li>
 			<li>[Part 24: Underground Garden](../terra24)</li>
-			<li>Part 25: Parasite</li>
-			<li>Part 26: Green New World</li>
+			<li>[Part 25: Parasite](../terra25)</li>
+			<li>[Part 26: Green New World](../terra26)</li>
 			<li>Part 27: Crossing to North America</li>
 			<li>Part 28: Grecliff</li>
 			<li>Part 29: Cliff Climbing</li>
@@ -154,12 +154,12 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 133: Two Arks</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Chapter 4: Resurrection of the Hero</span>
+	<li><span class="section-no">Chapter 4: Resurrection of the Hero</span>
 		<ul class="masterlink-wrapper">
 			<li>Part 134: Revelations</li>
 			<li>Part 135: Menu Box Again/Hero's Pike</li>
 			<li>Part 136: Meihou's Letter</li>
-			<li>Part 137: Off To Siberia</li>
+			<!--<li>Part 137: Off To Siberia</li>
 			<li>Part 138: Beruga's Lab Tower</li>
 			<li>Part 139: Airship</li>
 			<li>Part 140: The End of Fyda and Royd</li>
@@ -171,7 +171,7 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 146: Dream</li>
 			<li>Part 146a: Safarium Minigame</li>
 			<li>Part 146b: Big Mick Burger</li>
-			<li>Part 146c: Dark Gaia Rematch</li>
+			<li>Part 146c: Dark Gaia Rematch</li>-->
 		</ul>
-	</li>-->
+	</li>
 </ul>
