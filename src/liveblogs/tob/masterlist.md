@@ -221,7 +221,7 @@ categories: tob tales-of-berseria
 			<li>[Part 167: The Reply](../tob167)</li>
 			<li>[Part 168: Return to the Empyrean's Throne](../tob168)</li>
 			<li>[Part 169: Dragonfolk](../tob169)</li>
-			<li>Part 170: Innominat's Domain</li>
+			<li>[Part 170: Innominat's Domain](../tob170)</li>
 			<li>Part 171: Continuing Innominat's Domain</li>
 			<li>Part 172: Clearing Out Innominat's Domain</li>
 			<li>Part 173: You Killed My Everything</li>
