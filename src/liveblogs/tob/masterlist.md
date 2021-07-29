@@ -224,7 +224,7 @@ categories: tob tales-of-berseria
 			<li>[Part 170: Innominat's Domain](../tob170)</li>
 			<li>[Part 171: Continuing Innominat's Domain](../tob171)</li>
 			<li>[Part 172: Clearing Out Innominat's Domain](../tob172)</li>
-			<li>Part 173: You Killed My Everything</li>
+			<li>[Part 173: You Killed My Everything](../tob173)</li>
 			<li>Part 174: Prepare To...</li>
 			<li>Part 175: Maotelus</li>
 			<li>Part 176: Hope</li>
