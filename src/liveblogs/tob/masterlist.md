@@ -227,7 +227,12 @@ categories: tob tales-of-berseria
 			<li>[Part 173: You Killed My Everything](../tob173)</li>
 			<li>[Part 174: Prepare To...](../tob174)</li>
 			<li>[Part 175: Maotelus](../tob175)</li>
-			<li>Part 176: Hope</li>
+			<li>[Part 176: Hope](../tob176)</li>
 		</ul>
 	</li>
+	<!--<li><span class="section-no">Act VI: Post-Game</span>
+		<ul class="masterlink-wrapper">
+			<li>Part 177: Not Over Yet</li>
+		</ul>
+	</li>-->
 </ul>
