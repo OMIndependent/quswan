@@ -43,7 +43,7 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 26: Green New World](../terra26)</li>
 			<li>[Part 27: Crossing to North America](../terra27)</li>
 			<li>[Part 28: Grecliff](../terra28)</li>
-			<li>Part 29: Cliff Climbing</li>
+			<li>[Part 29: Cliff Climbing](../terra29)</li>
 			<li>Part 30: Freeing the Birds</li>
 			<li>Part 31: Kingbird</li>
 			<li>Part 32: Windvale</li>
