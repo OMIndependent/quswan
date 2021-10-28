@@ -3,7 +3,7 @@
   "name": "quswan.net",
   "title": "Quesada's Swan |",
   "description": "The Socially Aware Magic Swordsman's independent blog site made by Metalsmith",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "private": true,
   "devDependencies": {
     "metalsmith": "^2.3.0",
@@ -20,7 +20,6 @@
     "metalsmith-layouts": "^1.8.1",
     "metalsmith-mapsite": "^1.0.4",
     "metalsmith-markdown": "^0.2.1",
-    "metalsmith-moment": "^1.0.0",
     "metalsmith-pagination": "^1.4.0",
     "metalsmith-permalinks": "^0.5.0",
     "metalsmith-publish": "^0.1.5",
@@ -44,22 +43,18 @@
         "date",
         "publishDate"
     ]},
-    "metalsmith-moment": [
-      "date",
-      "publishDate"
-    ],
     "metalsmith-mapsite": {
       "hostname": "https://quswan.net"
     }
   },
   "repositories": {
     "type": "git",
-    "url": "git+ssh://git@github.com/CayabyabsRose/quswan.git"
+    "url": "git+ssh://git@github.com/OMIndependent/quswan.git"
   },
   "scripts": {
     "test": "npm run clean && npm run build",
-    "build": "node index",
-    "clean": "rm -rf ./build/ && rm -rf ./node_modules/",
+    "build": "node index.js",
+    "clean": "rm -rf ./build/",
     "start": "npm run deploy",
     "commit": "commit.sh",
     "deploy": "deploy.sh"

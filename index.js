@@ -2,42 +2,42 @@
 // This file generates the static website using Metalsmith plugins.
 
 // Do not use any unneeded vars when running
-'use strict'
+'use strict';
 
 // Import https and url for redirects, url to move posts to HTTPS site
-var https			  = require('https')
-var url				  = require('url')
+var https			  = require('https');
+var url				  = require('url');
 
 // Import plugins
-const pkg             = require('./package.json')
+const pkg             = require('./package.json');
 
-const Metalsmith      = require('metalsmith')
-const publish         = require('metalsmith-publish')
-const drafts          = require('metalsmith-drafts')
-const collections     = require('metalsmith-collections')
-const images          = require('metalsmith-scan-images')
-const assets          = require('metalsmith-assets')
-const pug             = require('metalsmith-pug')
-const markdown        = require('metalsmith-markdown')
-const emoji           = require('metalsmith-emoji')
-//const icons           = require('metalsmith-icons')
-const dateformatter   = require('metalsmith-date-formatter')
-const layouts         = require('metalsmith-layouts')
-const permalinks      = require('metalsmith-permalinks')
-const pagination      = require('metalsmith-pagination')
-const wordcount       = require('metalsmith-word-count')
-const htmlmin         = require('metalsmith-html-minifier')
-const cssmin          = require('metalsmith-clean-css')
-const imgmin          = require('metalsmith-imagemin')
-const sitemap         = require('metalsmith-mapsite')
-const browsersync     = require('metalsmith-browser-sync')
+const Metalsmith      = require('metalsmith');
+const publish         = require('metalsmith-publish');
+const drafts          = require('metalsmith-drafts');
+const collections     = require('metalsmith-collections');
+const images          = require('metalsmith-scan-images');
+const assets          = require('metalsmith-assets');
+const pug             = require('metalsmith-pug');
+const markdown        = require('metalsmith-markdown');
+const emoji           = require('metalsmith-emoji');
+//const icons           = require('metalsmith-icons');
+const dateformatter   = require('metalsmith-date-formatter');
+const layouts         = require('metalsmith-layouts');
+const permalinks      = require('metalsmith-permalinks');
+const pagination      = require('metalsmith-pagination');
+const wordcount       = require('metalsmith-word-count');
+const htmlmin         = require('metalsmith-html-minifier');
+const cssmin          = require('metalsmith-clean-css');
+const imgmin          = require('metalsmith-imagemin');
+const sitemap         = require('metalsmith-mapsite');
+const browsersync     = require('metalsmith-browser-sync');
 
 /* Global settings */
-const desc = 'The Socially Aware Magic Swordsman\'s reviews and playthroughs blog generated with Metalsmith'
-const numPosts = 10
+const desc = 'The Socially Aware Magic Swordsman\'s reviews and playthroughs blog generated with Metalsmith';
+const numPosts = 10;
 const entryPattern = ['posts/*.md', 'liveblogs/**/*.md', '!liveblogs/**/index.*',
-  '!liveblogs/**/masterlist.*', 'trivia/**/*']
-var destDir = './build/'
+  '!liveblogs/**/masterlist.*', 'trivia/**/*'];
+var destDir = './build/';
 
 /* Global metadata */
 var meta = {
@@ -52,14 +52,14 @@ var meta = {
   license: 'CC BY-SA 4.0',
   licenseurl: 'https://creativecommons.org/licenses/by-sa/4.0/',
   version: pkg.version
-}
+};
 
 /* Directory paths */
 var dir = {
   base: __dirname,
   source: './src/',
   dest: destDir
-}
+};
 
 /* Collections metadata list */
 var collexions = {
@@ -95,25 +95,25 @@ var collexions = {
       layout: 'page.pug'
     }
   }
-}
+};
 
 /* Pug plugin settings */
 var opts = {
   pretty: false,
   useMetadata: true
-}
+};
 
 /* Emoji settings */
 var emset = {
   pattern: ['**/*.md', '**/**/*.md', '**/*.html', '**/**/*.html'],
   convertToImages: true,
   processShortnames: true
-}
+};
 
 /* Icons settings */
 var iconset = {
 
-}
+};
 
 /* Datetime format settings */
 /* NOTE: 'date' is taken from markdown file's YAML front matter.
@@ -136,12 +136,12 @@ var mtime = {
       format: 'dddd, MMMM Do, YYYY'
     }
   ]
-}
+};
 
 /* Permalink settings */
 var perm = {
   relative: false
-}
+};
 
 /* Pagination settings */
 var pagi = {
@@ -152,47 +152,47 @@ var pagi = {
     noPageOne: true,
     path: 'page/:num/index.html'
   }
-}
+};
 
 /* Post publish settings */
 var publishOpts = {
   draft: true,
   private: true,
   unlisted: true
-}
+};
 
 /* Template/layout engine plugin settings */
 var configTemplate = {
   engine: 'pug',
   directory: 'layouts',
   default: 'layout.pug'
-}
+};
 
 /* Image gallery parsing */
-var imgPattern = 'src/**/**/gallery.*'
+var imgPattern = 'src/**/**/gallery.*';
 
 /* Assets settings */
 var assetsOpts = {
   source: './assets',
   destination: './assets'
-}
+};
 
 // Clean build directory or not?
-var clean = true
+var clean = true;
 
 // Output word count. When false, use readingTime instead.
-var word = false
+var word = false;
 
 /* HTML minifier settings */
 var minify = {
   collapseBooleanAttributes: false,
   collapseWhitespace: false
-}
+};
 
 /* CSS minifier settings */
 var cssminify = {
   files: ['assets/*.css', 'assets/**/*.css']
-}
+};
 
 /* Image minifier settings */
 var imgminify = {
@@ -200,13 +200,13 @@ var imgminify = {
   svgoPlugins: [{
     removeViewBox: false
   }]
-}
+};
 
 // Toggle debug
-var log = false
+var log = false;
 
 // Localhost port
-var port = 8080
+var port = 8080;
 
 Metalsmith(dir.base)
   .clean(clean) // Clean the build directory
@@ -261,36 +261,36 @@ Metalsmith(dir.base)
     injectChanges: false,
     codeSync: false
   }), function (err) {
-    if (err) { throw err }
+    if (err) { throw err; }
   })
 
   // Build site and call exceptions when things go wrong
   .build(function (err) {
-    if (err) { throw err } else { console.log('Build complete.\n') }
-  })
+    if (err) { throw err; } else { console.log('Build complete.\n'); }
+  });
 
 /* Redirect to HTTPS site */
 https.createServer( (req, res) => {
-   var pathname = url.parse(req.url).pathname
-   res.writeHead(301, {Location: meta.site.url + pathname})
-   res.end()
-}).listen(port)
+   var pathname = url.parse(req.url).pathname;
+   res.writeHead(301, {Location: meta.site.url + pathname});
+   res.end();
+}).listen(port);
 
 // Debug function to check if website loads correctly
 function debug(log) {
   return function(files, Metalsmith, done) {
     if (log) {
-      console.log('\nMETADATA:')
-      console.log(Metalsmith.metadata())
+      console.log('\nMETADATA:');
+      console.log(Metalsmith.metadata());
 
       for (var f in files) {
-        console.log('\nFILE:')
-        console.log(files[f])
+        console.log('\nFILE:');
+        console.log(files[f]);
       }
 
-      console.log('\nCOLLECTIONS:')
-      console.log(Metalsmith.metadata().collections)
+      console.log('\nCOLLECTIONS:');
+      console.log(Metalsmith.metadata().collections);
     }
-    done()
-  }
+    done();
+  };
 }
