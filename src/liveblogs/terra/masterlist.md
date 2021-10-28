@@ -44,8 +44,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 27: Crossing to North America](../terra27)</li>
 			<li>[Part 28: Grecliff](../terra28)</li>
 			<li>[Part 29: Cliff Climbing](../terra29)</li>
-			<li>Part 30: Freeing the Birds</li>
-			<li>Part 31: Kingbird</li>
+			<li>[Part 30: Freeing the Birds](../terra30)</li>
+			<li>[Part 31: Kingbird](../terra31)</li>
 			<li>Part 32: Windvale</li>
 			<li>Part 33: Safarium</li>
 			<li>Part 34: Zue</li>
@@ -160,8 +160,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 135: Menu Box Again/Hero's Pike</li>
 			<li>Part 136: Meihou's Letter</li>
 			<li>Part 137: Off To Siberia</li>
-			<!--<li>Part 138: Beruga's Lab Tower</li>
-			<li>Part 139: Airship</li>
+			<li>Part 138: Beruga's Lab Tower</li>
+			<!--<li>Part 139: Airship</li>
 			<li>Part 140: The End of Fyda and Royd</li>
 			<li>Part 141: Looming Apocalypse</li>
 			<li>Part 142: Return to the Underworld</li>
