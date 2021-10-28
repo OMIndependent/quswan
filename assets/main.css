@@ -46,7 +46,7 @@ figure  {
 }
 
 html {
-  font-family: "Optima", "Open Sans", Arial, sans-serif;
+  font-family: "Optima", "LinuxBiolinumRegular", "Whitney", "Open Sans", monospace;
   font-size: 16px;
   background: #505050; /* Background color: dark gray */
 }
