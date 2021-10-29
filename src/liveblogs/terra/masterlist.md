@@ -46,7 +46,7 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 29: Cliff Climbing](../terra29)</li>
 			<li>[Part 30: Freeing the Birds](../terra30)</li>
 			<li>[Part 31: Kingbird](../terra31)</li>
-			<li>Part 32: Windvale</li>
+			<li>[Part 32: Windvale](../terra32)</li>
 			<li>Part 33: Safarium</li>
 			<li>Part 34: Zue</li>
 			<li>Part 35: Return to the Zue/Zoo</li>
