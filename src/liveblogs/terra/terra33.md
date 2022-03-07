@@ -2,9 +2,8 @@
 layout: entry.pug
 title: "Terranigma - Part 33: Safarium"
 date: 2020-09-03 09-0800
-publishDate: 2022-03-07 23:00:00 -0800
+publishDate: 2022-03-07 15:00:00 -0800
 categories: playthroughs terranigma quintet-enix tenchi-sozo
-draft: true
 ---
 
 <p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2)</p>
