@@ -6,7 +6,7 @@ publishDate: 2022-03-14 15:00:00 -0800
 categories: playthroughs terranigma quintet-enix tenchi-sozo
 ---
 
-<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3)</p>
+<p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2) \| [**Page 3**](#3)</p>
 
 <a name="1"></a>
 
