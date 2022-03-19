@@ -164,8 +164,8 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>Part 139: Airship</li>
 			<li>Part 140: The End of Fyda and Royd</li>
 			<li>Part 141: Looming Apocalypse</li>
-			<!--<li>Part 142: Return to the Underworld</li>
-			<li>Part 143: Dark Gaia, Again</li>
+			<li>Part 142: Return to the Underworld</li>
+			<!--<li>Part 143: Dark Gaia, Again</li>
 			<li>Part 144: After the End</li>
 			<li>Part 145: Hero's Final Day</li>
 			<li>Part 146: Dream</li>
