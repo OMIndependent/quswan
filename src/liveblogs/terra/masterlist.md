@@ -49,14 +49,14 @@ categories: terranigma tenchi-sozo quintet-enix
 			<li>[Part 32: Windvale](../terra32)</li>
 			<li>[Part 33: Safarium](../terra33)</li>
 			<li>[Part 34: Zue](../terra34)</li>
-			<li>Part 35: Return to the Zue/Zoo</li>
-			<li>Part 36: Restoring the Zue/Zoo</li>
-			<li>Part 37: The Pagan God/Storm Master</li>
-			<li>Part 38: Meeting the Animals</li>
-			<li>Part 39: Lion Prince Leim</li>
-			<li>Part 40: Thanks and Tribulations</li>
-			<li>Part 41: Eklemata Expedition</li>
-			<li>Part 42: The Climb To Resurrect Humanity</li>
+			<li>[Part 35: Return to the Zue/Zoo](../terra35)</li>
+			<li>[Part 36: Restoring the Zue/Zoo](../terra36)</li>
+			<li>[Part 37: The Pagan God/Storm Master](../terra37)</li>
+			<li>[Part 38: Meeting the Animals](../terra38)</li>
+			<li>[Part 39: Lion Prince Leim](../terra39)</li>
+			<li>[Part 40: Thanks and Tribulations](../terra40)</li>
+			<li>[Part 41: Eklemata Expedition](../terra41)</li>
+			<li>[Part 42: The Climb To Resurrect Humanity](../terra42)</li>
 		</ul>
 	</li>
 	<li><span class="section-no">Chapter 3: Resurrection of the Genius</span>
