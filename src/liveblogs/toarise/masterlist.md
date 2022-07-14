@@ -11,13 +11,13 @@ categories: toarise tales-of-arise
 		<ul>
 			<li><span class="section-no">Chapter 1</span>
 				<ul class="masterlink-wrapper">
-					<!--<li>[Part 1: Starting Up](../toarise1)</li>
+					<li>[Part 1: Starting Up](../toarise1)</li>
 					<li>[Part 2: A New Tale](../toarise2)</li>
 					<li>[Part 3: Train Pursuit](../toarise3)</li>
 					<li>[Part 4: Enter Lord Balseph](../toarise4)</li>
 					<li>[Part 5: Crimson Crows](../toarise5)</li>
 					<li>[Part 6: Enter Shionne](../toarise6)</li>
-					<li>[Part 7: Blazing Sword](../toarise7)</li>-->
+					<li>[Part 7: Blazing Sword](../toarise7)</li>
 					<!--<li>Part 8: Sandinus Ravine</li>
 					<li>Part 9: Campfire Stories</li>
 					<li>Part 10: To Ulzebek</li>

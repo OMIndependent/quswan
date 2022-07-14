@@ -36,6 +36,10 @@ permalink: /liveblogs/
 <h4 style="text-align: center;">*Terranigma* (masterlist only)</h4>
 
 
+[<img src="" alt="toarise banner" class="banner" />](./toarise/masterlist)
+<h4 style="text-align: center;">*Tales of Arise* (masterlist only)</h4>
+
+
 [<img src="" alt="vld banner" class="banner" />](./vld/)
 <h4 style="text-align: center;">*Voltron: Legendary Defender* ([masterlist](./vld/masterlist/))</h4>
 
