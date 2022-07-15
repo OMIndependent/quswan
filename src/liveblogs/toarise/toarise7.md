@@ -38,7 +38,7 @@ The arrow's breathing fire!
 
 Iron Mask pulls out the arrow, and one half of his mask glows!
 
-<img src="https://i.imgur.com/FPYMq35.png" alt="glowing mask" id="hd-liveblog" width="480" height="270" />
+<img src="https://i.imgur.com/c7OLoXb.png" alt="glowing mask" id="hd-liveblog" width="480" height="270" />
 
 Holy heck, the flaming arrow now becomes a sword!
 
