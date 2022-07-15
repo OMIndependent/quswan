@@ -4,7 +4,6 @@ title: "Tales of Arise - Part 4: Enter Lord Balseph"
 date: 2021-12-01 09-0800
 publishDate: 2022-07-14 23:05:00 -0800
 categories: toarise tales-of-arise playthroughs
-draft: true
 ---
 
 We're now in another place, I think this might be the woman's flashback. No, it isn't...

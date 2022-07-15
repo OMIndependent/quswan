@@ -4,7 +4,6 @@ title: "Tales of Arise - Part 3: Train Pursuit"
 date: 2021-12-01 09-0800
 publishDate: 2022-07-14 23:00:00 -0800
 categories: toarise tales-of-arise playthroughs
-draft: true
 ---
 
 <p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3)</p>
