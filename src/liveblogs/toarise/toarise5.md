@@ -6,7 +6,7 @@ publishDate: 2022-07-14 23:10:00 -0800
 categories: toarise tales-of-arise playthroughs
 ---
 
-<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3) \| [**Part 4**](#4)</p>
+<p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2) \| [**Page 3**](#3) \| [**Page 4**](#4)</p>
 
 <a name="1"></a>
 
@@ -30,13 +30,13 @@ Tilsa points out that the woman's "quite a character." She's in jail.
 
 I'm guessing it's probably because of her power...
 
-<img src="https://i.imgur.com/4Irsr9C.png" id="hd-liveblog" width="480" height="270" />
+<img src="https://i.imgur.com/DE1Yqq2.png" alt="can move now" id="hd-liveblog" width="480" height="270" />
 
 I get to move again. We're in the **Zionne Mines**, a safehouse for the Crimson Crows, according to Tilsa.
 
 I keep asking her all the questions on the choices list.
 
-<img src="https://i.imgur.com/DE1Yqq2.png" id="hd-liveblog" width="480" height="270" />
+<img src="https://i.imgur.com/4Irsr9C.png" alt="told you" id="hd-liveblog" width="480" height="270" />
 
 Zephyr, the tough, bearded guy, is the leader of the Crimson Crows. They're going up against Balseph and his "bright eyed" troops.
 

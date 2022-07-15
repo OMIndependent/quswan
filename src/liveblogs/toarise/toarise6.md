@@ -4,10 +4,9 @@ title: "Tales of Arise - Part 6: Enter Shionne"
 date: 2021-12-01 09-0800
 publishDate: 2022-07-15 23:45:00 -0800
 categories: toarise tales-of-arise playthroughs
-draft: true
 ---
 
-<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3)</p>
+<p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2) \| [**Page 3**](#3)</p>
 
 <a name="1"></a>
 

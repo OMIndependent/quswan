@@ -6,7 +6,7 @@ publishDate: 2022-07-14 23:00:00 -0800
 categories: toarise tales-of-arise playthroughs
 ---
 
-<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2) \| [**Part 3**](#3)</p>
+<p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2) \| [**Page 3**](#3)</p>
 
 <a name="1"></a>
 
