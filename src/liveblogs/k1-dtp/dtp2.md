@@ -14,13 +14,17 @@ Something falls down at the top of the hill. The hill looks tiny from that viewp
 
 <img src="https://i.imgur.com/pBAt7nh.png" alt="what was that" id="liveblog" width="480" height="360" />
 
-<strong>Huepow:</strong> "It's from Bell Hill."
+**Huepow:** "It's from Bell Hill."
 
 So the sprite friend of Klonoa's is named Huepow, huh?
 
 Klonoa mentions it's like in his dream. Uh oh...
 
-After putting Huepow in the ring, we're off!
+After putting Huepow in the ring...
+
+<img src="https://i.imgur.com/pazTbra.png" alt="vision start" id="liveblog" width="480" height="360" />
+
+...we're off!
 
 I perform Klonoa's famous double jump with the Moo nearby. Looks like it's all coming back to me now...
 
@@ -54,7 +58,7 @@ He points to his masterpiece, a likeness of Lephise, outside.
 
 <img src="https://i.imgur.com/2Wsu6xM.png" alt="lephise statue" id="liveblog" width="480" height="360" />
 
-<strong>Balue:</strong> "She's the legendary diva who sings the 'Song of Rebirth'."
+**Balue:** "She's the legendary diva who sings the 'Song of Rebirth'."
 
 Klonoa did not know that. Balue grumbles.
 
@@ -84,7 +88,7 @@ I manage to get onto the platform, and find secret number five! Last time I play
 
 I cross past the windmill, and we're back! So we ended up going around in a circle...
 
-I have Klonoa take the bottom path and get the Dream Sprite, which doubles the amt of Dream Stones collected.
+I have Klonoa take the bottom path and get the Dream Sprite, which doubles the amount of Dream Stones collected.
 
 On the way to the waterfall, I get the last secret!
 
