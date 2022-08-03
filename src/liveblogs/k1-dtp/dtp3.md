@@ -92,11 +92,15 @@ For extra creepiness, we get a zoom-in on his masked face.
 
 <img src="https://i.imgur.com/pIxVNvr.png" alt="ghadius close up" id="liveblog" width="480" height="360" />
 
-He asks Joka, the mini-clown with the creepy face full of sharp, red teeth, for a pendant. It's not on Lephise.
+There's Lephise on the ground, out cold.
+
+He asks Joka, the mini-clown with the creepy face full of sharp, red teeth, for a pendant. 
+
+It's not on Lephise.
 
 Uh oh...
 
-He sees Klonoa and Huepow, calling them "mice" and has Joka clean them up.
+He hears Klonoa and Huepow, calling them "mice" and has Joka clean them up.
 
 With a sweep of his cape, revealing an entire galaxy inside, Ghadius warps away, taking Lephise with him!
 
@@ -104,9 +108,9 @@ Now Klonoa and Huepow take action!
 
 After a small exchange, Joka summons his little beast...
 
-Joka points out **Rongo Lango**'s weakness to us: his back! So obvious...
-
 <img src="https://i.imgur.com/OuV72SV.png" alt="show time" id="liveblog" width="480" height="360" />
+
+Joka points out **Rongo Lango**'s weakness to us: his back! So obvious...
 
 <a name="boss"></a>
 
