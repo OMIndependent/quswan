@@ -1,7 +1,7 @@
 ---
 collection: lists
 layout: page.pug
-title: "Ocampo's Moon Plays Klonoa: Door to Phantomile - Masterlist"
+title: "Ocampo's Moon/Quesada's Swan Plays Klonoa: Door to Phantomile - Masterlist"
 categories: klonoa klonoa-door-to-phantomile
 ---
 
@@ -16,10 +16,16 @@ categories: klonoa klonoa-door-to-phantomile
 			<li>[Vision 1-Boss: Rongo Lango](../dtp3#boss)</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Act II</span>
+	<li><span class="section-no">Act II</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 2-1: Deep In The Dying Forest ~Forlock, The Tree Village~ (Pages 1-2)</li>
+			<li>[Vision 2-1: Deep In The Dying Forest ~Forlock, The Tree Village~ (Pages 1-2)](../dtp4)</li>
 			<li>Vision 2-1: Deep In The Dying Forest ~Forlock, The Tree Village~ (Pages 3-4)</li>
+			<!--<li>Vision 2-2:</li>-->
+		</ul>
+	</li>
+	<!--<li><span class="section-no">Act III</span>
+		<ul class="masterlink-wrapper">
+			<li>Vision 3-1: </li>
 		</ul>
 	</li>-->
 </ul>

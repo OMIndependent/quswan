@@ -18,11 +18,16 @@ categories: toarise tales-of-arise
 					<li>[Part 5: Crimson Crows](../toarise5)</li>
 					<li>[Part 6: Enter Shionne](../toarise6)</li>
 					<li>[Part 7: Blazing Sword](../toarise7)</li>
-					<!--<li>Part 8: Sandinus Ravine</li>
+					<li>Part 8: Sandinus Ravine</li>
 					<li>Part 9: Campfire Stories</li>
 					<li>Part 10: To Ulzebek</li>
 					<li>Part 11: Ulzebek</li>
-					<li>Part 12: Next Plans</li>-->
+					<li>Part 12: Next Plans</li>
+					<!--<li>Part 13: Supply Procurement</li>
+					<li>Part 14: A Renan Castle</li>
+					<li>Part 15: Iglia Wastes</li>
+					<li>Part 16: Cooking</li>
+					<li>Part 17: Fagan Ruins</li>-->
 				</ul>
 			</li>
 			<!--<li><span class="section-no">Chapter 2</span>

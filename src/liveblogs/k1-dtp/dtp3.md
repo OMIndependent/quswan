@@ -148,7 +148,7 @@ And just like that, we're at Klonoa's Grandpa's house!
 
 <img src="https://i.imgur.com/GNlmDJ9.png" alt="grandpa house" id="liveblog" width="480" height="360" />
 
-Grandpa explains that we have "a crest of the Moon Kingdom." <a href="">The music here sounds really nice...</a>
+Grandpa explains that we have "a crest of the Moon Kingdom." <a href="https://www.youtube.com/watch?v=8rpxhwWPkbY">The music here sounds really nice...</a>
 
 Grandpa calls the moon kingdom "a mystical kingdom [spoken] of in legends."
 
