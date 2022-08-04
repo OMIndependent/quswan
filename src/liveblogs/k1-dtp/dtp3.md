@@ -92,7 +92,7 @@ For extra creepiness, we get a zoom-in on his masked face.
 
 <img src="https://i.imgur.com/pIxVNvr.png" alt="ghadius close up" id="liveblog" width="480" height="360" />
 
-There's Lephise on the ground, out cold.
+Lephise is on the ground, unconscious.
 
 He asks Joka, the mini-clown with the creepy face full of sharp, red teeth, for a pendant. 
 

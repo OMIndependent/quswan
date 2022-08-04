@@ -55,7 +55,7 @@ The ROM I have is a bit glitchy in the opening.
 <img src="https://i.imgur.com/AOPnqID.png" alt="ring on moon" id="liveblog" width="480" height="360" />
 
 "**It's strange...<br/>
-Sometimes I can't remember my dreams, though I'm sure I just saw them.<br/>
+Sometimes I can't remember my dreams, though I'm sure I saw them.<br/>
 Where do those dreams go?<br/>
 But I remember this dream, as clearly as if it were reflected in a mirror...**"
 
