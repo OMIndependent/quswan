@@ -20,7 +20,8 @@ categories: klonoa klonoa-door-to-phantomile
 		<ul class="masterlink-wrapper">
 			<li>[Vision 2-1: Deep In The Dying Forest ~Forlock, The Tree Village~ (Pages 1-2)](../dtp4)</li>
 			<li>[Vision 2-1: Deep In The Dying Forest ~Forlock, The Tree Village~ (Pages 3-4)](../dtp4-2)</li>
-			<li>Vision 2-2: Beyond the Backwards Waterfall ~The Kingdom of Jugpot~</li>
+			<li>[Vision 2-2: Beyond the Backwards Waterfall ~The Kingdom of Jugpot~](../dtp5)</li>
+			<li>[Vision 2-Boss: Pamela and Seadoph](../dtp5#boss)</li>
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Act III</span>
