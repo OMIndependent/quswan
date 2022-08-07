@@ -24,9 +24,16 @@ categories: klonoa klonoa-door-to-phantomile
 			<li>[Vision 2-Boss: Pamela and Seadoph](../dtp5#boss)</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Act III</span>
+	<li><span class="section-no">Act III</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 3-1: Rebirth of the Forest ~Forlock, The Tree Village~</li>
+			<li>[Vision 3-1: Rebirth of the Forest ~Forlock, The Tree Village~ (Pages 1-3)](../dtp6)</li>
+			<li>[Vision 3-1: Rebirth of the Forest ~Forlock, The Tree Village~ (Pages 4-5)](../dtp6-2)</li>
+			<li>Vision 3-2: The Stopped Gear ~The Tree Mansion of Machinery~</li>
+		</ul>
+	</li>
+	<!--<li><span class="section-no">Act IV</span>
+		<ul class="masterlink-wrapper">
+			<li>Vision 4-1: A Village In Danger ~The Ruin of the Wind Kingdom~</li>
 		</ul>
 	</li>-->
 </ul>
