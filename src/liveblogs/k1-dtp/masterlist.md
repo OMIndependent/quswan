@@ -28,7 +28,8 @@ categories: klonoa klonoa-door-to-phantomile
 		<ul class="masterlink-wrapper">
 			<li>[Vision 3-1: Rebirth of the Forest ~Forlock, The Tree Village~ (Pages 1-3)](../dtp6)</li>
 			<li>[Vision 3-1: Rebirth of the Forest ~Forlock, The Tree Village~ (Pages 4-5)](../dtp6-2)</li>
-			<li>Vision 3-2: The Stopped Gear ~The Tree Mansion of Machinery~</li>
+			<li>[Vision 3-2: The Stopped Gear ~The Tree Mansion of Machinery~](../dtp7)</li>
+			<li>[Vision 3-Boss: Gelg Bolm](../dtp7#boss)</li>
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Act IV</span>
