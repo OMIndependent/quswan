@@ -32,9 +32,15 @@ categories: klonoa klonoa-door-to-phantomile
 			<li>[Vision 3-Boss: Gelg Bolm](../dtp7#boss)</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Act IV</span>
+	<li><span class="section-no">Act IV</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 4-1: A Village In Danger ~The Ruin of the Wind Kingdom~</li>
+			<li>[Vision 4-1: A Village In Danger ~The Ruin of the Wind Kingdom~](../dtp8)</li>
+			<li>Vision 4-2: A Lull In the Wind ~The Leviathan's Ice Cavern~</li>
+		</ul>
+	</li>	
+	<!--<li><span class="section-no">Act V</span>
+		<ul class="masterlink-wrapper">
+			<li>Vision 5-1: The Four Orbs ~Coronia, The Temple of the Sun~</li>
 		</ul>
 	</li>-->
 </ul>
