@@ -35,7 +35,8 @@ categories: klonoa klonoa-door-to-phantomile
 	<li><span class="section-no">Act IV</span>
 		<ul class="masterlink-wrapper">
 			<li>[Vision 4-1: A Village In Danger ~The Ruin of the Wind Kingdom~](../dtp8)</li>
-			<li>Vision 4-2: A Lull In the Wind ~The Leviathan's Ice Cavern~</li>
+			<li>[Vision 4-2: A Lull In the Wind ~The Leviathan's Ice Cavern~](../dtp9)</li>
+			<li>[Vision 4-Boss: Baladium](../dtp9#boss)
 		</ul>
 	</li>	
 	<!--<li><span class="section-no">Act V</span>
