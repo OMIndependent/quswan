@@ -38,10 +38,11 @@ categories: klonoa klonoa-door-to-phantomile
 			<li>[Vision 4-2: A Lull In the Wind ~The Leviathan's Ice Cavern~](../dtp9)</li>
 			<li>[Vision 4-Boss: Baladium](../dtp9#boss)
 		</ul>
-	</li>	
+	</li>
 	<li><span class="section-no">Act V</span>
 		<ul class="masterlink-wrapper">
 			<li>[Vision 5-1: The Four Orbs ~Coronia, The Temple of the Sun~](../dtp10)</li>
+			<li>Vision 5-2: Between Light and Darkness ~High Above Coronia~</li>
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Act VI: The Moon Kingdom</span></li>

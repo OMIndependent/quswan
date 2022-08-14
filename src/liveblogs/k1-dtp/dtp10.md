@@ -10,7 +10,7 @@ categories: klonoa klonoa-door-to-phantomile playthroughs
 
 <a name="1"></a>
 
-According to one of the director's tweets for this game (posted and translated in English in this tumblr post: <a href="https://klonoa-at-blog.tumblr.com/post/172434542603/klonoa-chronicles-33">https://klonoa-at-blog.tumblr.com/post/172434542603/klonoa-chronicles-33</a>), he mentioned one of the artists made an evolutionary line of the Moos, starting with an octopus-like Moo, which made a cameo in the previous level, frozen in a pilar of ice, but I did not see it in my playthrough...
+According to one of the director's tweets for this game (posted and translated in English in <a href="https://klonoa-at-blog.tumblr.com/post/172434542603/klonoa-chronicles-33">this tumblr post</a>), he mentioned one of the artists made an evolutionary line of the Moos, starting with an octopus-like Moo, which made a cameo in the previous level, frozen in a pilar of ice, but I did not see it in my playthrough...
 
 <img src="https://i.imgur.com/0pgwBiV.png" alt="vision start" id="liveblog" width="480" height="360"/>
 
@@ -109,7 +109,7 @@ After passing them, we make it!
 
 Now to get out...the only way is up!
 
-I miss a dream sprite challenge bc of a spikey blocking the way!
+I miss a dream sprite challenge because of a spikey blocking the way!
 
 Eternally spawning Moos are the next obstacle.
 
