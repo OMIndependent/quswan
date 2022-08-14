@@ -42,7 +42,8 @@ categories: klonoa klonoa-door-to-phantomile
 	<li><span class="section-no">Act V</span>
 		<ul class="masterlink-wrapper">
 			<li>[Vision 5-1: The Four Orbs ~Coronia, The Temple of the Sun~](../dtp10)</li>
-			<li>Vision 5-2: Between Light and Darkness ~High Above Coronia~</li>
+			<li>[Vision 5-2: Between Light and Darkness ~High Above Coronia~](../dtp11)</li>
+			<li>[Vision 5-Boss: Joka](../dtp11#boss)
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Act VI: The Moon Kingdom</span></li>
