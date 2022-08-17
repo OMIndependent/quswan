@@ -46,9 +46,11 @@ categories: klonoa klonoa-door-to-phantomile
 			<li>[Vision 5-Boss: Joka](../dtp11#boss)
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Act VI: The Moon Kingdom</span></li>
+	<li><span class="section-no">Act VI: The Moon Kingdom</span></li>
 		<ul class="masterlink-wrapper">
-			<li>Vision 6-1:</li>
+			<li>Vision 6-1: The Legendary Kingdom ~Cress, the Moon Kingdom~</li>
+			<!--<li>Vision 6-2: The Time of Restoration ~The Prism Corridor~</li>
+			<li>Final Vision:</li>-->
 		</ul>
-	</li>-->
+	</li>
 </ul>

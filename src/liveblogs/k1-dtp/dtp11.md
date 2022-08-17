@@ -206,6 +206,8 @@ He grows into a giant and the floor panels rise to the sky!
 
 ---
 
+<p><h2 class="entry-title">Boss: Joka</h2></p>
+
 He bows...
 
 And the fight is on!
