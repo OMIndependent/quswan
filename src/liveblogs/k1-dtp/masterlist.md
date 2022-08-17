@@ -48,8 +48,10 @@ categories: klonoa klonoa-door-to-phantomile
 	</li>
 	<li><span class="section-no">Act VI: The Moon Kingdom</span></li>
 		<ul class="masterlink-wrapper">
-			<li>Vision 6-1: The Legendary Kingdom ~Cress, the Moon Kingdom~</li>
-			<!--<li>Vision 6-2: The Time of Restoration ~The Prism Corridor~</li>
+			<li>[Vision 6-1: The Legendary Kingdom ~Cress, the Moon Kingdom~](../dtp12)</li>
+			<li>Vision 6-2: The Time of Restoration ~The Prism Corridor~</li>
+			<!--<li>Vision 6-2: The Time of Restoration ~The Prism Corridor~ (Page 6)</li>
+			<li>Vision 6-Boss: Ghadius</li>
 			<li>Final Vision:</li>-->
 		</ul>
 	</li>
