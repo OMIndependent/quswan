@@ -50,10 +50,11 @@ categories: klonoa klonoa-door-to-phantomile
 		<ul class="masterlink-wrapper">
 			<li>[Vision 6-1: The Legendary Kingdom ~Cress, the Moon Kingdom~](../dtp12)</li>
 			<li>[Vision 6-2: The Time of Restoration ~The Prism Corridor~ (Pages 1-5)](../dtp13)</li>
-			<li>Vision 6-2: The Time of Restoration ~The Prism Corridor~ (Page 6)</li>
-			<!--<li>Vision 6-Boss: Ghadius</li>-->
-			<!--<li>Final Vision-Pre:</li>
-			<li>Final Vision:</li>-->
+			<li>[Vision 6-2: The Time of Restoration ~The Prism Corridor~ (Page 6)](../dtp14)</li>
+			<li>[Vision 6-Boss: Ghadius](../dtp15)</li>
+			<li>Svany Ivfvba-Cer: Gur Ovegu bs Anungbzo</li>
+			<li>Svany Ivfvba: Gur Qernz ng Avtugzner'f Raq ~Va Gur Fxvrf bs Perff~</li>
+			<!--<li>Ending</li>-->
 		</ul>
 	</li>
 </ul>

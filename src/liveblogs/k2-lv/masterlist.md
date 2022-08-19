@@ -11,7 +11,7 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 		<ul class="masterlink-wrapper">
 			<li>Opening</li>
 			<li>Vision 1-1: Sea of Tears ~The Encounter~</li>
-			<li>Vision 1-Interlude: Baguji the Wise</li>
+			<li>Vision 1-Interlude: Baguji the Wise and the Dream Traveler</li>
 			<li>Vision 1-2: La-Lakoosha ~Sacred Grounds~</li>
 			<li>Vision 1-Boss: Claire Moa Temple ~Folgaran, The Armor Beast~</li>
 		</ul>
@@ -19,7 +19,7 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 	<!--<li><span class="section-no">Act II: The Kingdom of Joy, Joilant</span>
 		<ul class="masterlink-wrapper">
 			<li>Vision 2-Pre: Baguji, Again</li>
-			<li>Vision 2-Intro: Joilant Plaza - Welcome to Joilant</li>
+			<li>Vision 2-Intro: Joilant Plaza ~Welcome to Joilant~</li>
 			<li>Vision 2-1: Joilant Fun Park ~A Date With Tat~</li>
 			<li>Vision 2-2: Jungle Slider ~Raging Rapids~</li>
 			<li>Vision 2-Boss: Joilant Plaza ~Leptio, The Flower Clown~</li>
@@ -28,7 +28,7 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 	<!--<li><span class="section-no">Act III: The Kingdom of Discord, Volk</span>
 		<ul class="masterlink-wrapper">
 			<li>Vision 3-Pre: To Volk and War</li>
-			<li>Vision 3-Intro: Volk Hall - Two Reactors</li>
+			<li>Vision 3-Intro: Volk Hall ~Two Reactors~</li>
 			<li>Vision 3-1: Volk City ~Through the Crossfire~</li>
 			<li>Vision 3-2: Volkan Underground ~Bowels of the City~</li>
 			<li>Vision 3-Boss: Volk Hall ~Mobile Tank Biskarsh~</li>
