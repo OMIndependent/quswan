@@ -11,9 +11,9 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 		<ul class="masterlink-wrapper">
 			<li>[Opening](../lv1)</li>
 			<li>[Vision 1-1: Sea of Tears ~The Encounter~](../lv2)</li>
-			<li>Vision 1-Interlude: Baguji the Wise and the Dream Traveler</li>
-			<!--<li>Ivfvba 1-2: Yn-Ynxbbfun ~Fnperq Tebhaqf~</li>
-			<li>Ivfvba 1-Obff: Pynver Zbn Grzcyr ~Sbytnena gur Nezbe Ornfg~</li>-->
+			<li>[Vision 1-Interlude: Baguji the Wise and the Dream Traveler](../lv3)</li>
+			<li>Ivfvba 1-2: Yn-Ynxbbfun ~Fnperq Tebhaqf~</li>
+			<li>Ivfvba 1-Obff: Pynver Zbn Grzcyr ~Sbytnena gur Nezbe Ornfg~</li>
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Npg II: Gur Xvatqbz bs Wbl, Wbvynag</span>
@@ -23,6 +23,7 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>Ivfvba 2-1: Wbvynag Sha Cnex ~N Qngr Jvgu Gng~</li>
 			<li>Ivfvba 2-2: Whatyr Fyvqre ~Entvat Encvqf~</li>
 			<li>Ivfvba 2-Obff: Wbvynag Cynmn ~Yrcgvb gur Sybjre Pybja~</li>
+			<li>Obahf: Zbzrgg Ubhfr</li>
 		</ul>
 	</li>-->
 	<!--<li><span class="section-no">Npg III: Gur Xvatqbz bs Qvfpbeq, Ibyx</span>
