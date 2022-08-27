@@ -39,8 +39,14 @@ permalink: /liveblogs/
 [<img src="" alt="toarise banner" class="banner" />](./toarise/masterlist)
 <h4 style="text-align: center;">*Tales of Arise* (masterlist only)</h4>
 
-[<img src="" alt="k1 banner" class="banner" />](./k1-dtp/masterlist)
-<h4 style="text-align: center;">*Klonoa: Door to Phantomile* (masterlist only)</h4>
+
+[<img src="" alt="k1 banner" class="banner" />](./k1-dtp/)
+<h4 style="text-align: center;">*Klonoa: Door to Phantomile* ([masterlist](./k1-dtp/masterlist/))</h4>
+
+
+[<img src="" alt="k2 banner" class="banner" />](./k2-lv/)
+<h4 style="text-align: center;">*Klonoa 2: Lunatea's Veil* ([masterlist](./k2-lv/masterlist/))</h4>
+
 
 [<img src="" alt="vld banner" class="banner" />](./vld/)
 <h4 style="text-align: center;">*Voltron: Legendary Defender* ([masterlist](./vld/masterlist/))</h4>
