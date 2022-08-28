@@ -158,7 +158,9 @@ var pagi = {
 var publishOpts = {
   draft: true,
   private: true,
-  unlisted: true
+  unlisted: true,
+  future: false,
+  futureMeta: 'publishDate'
 };
 
 /* Template/layout engine plugin settings */
@@ -195,12 +197,13 @@ var cssminify = {
 };
 
 /* Image minifier settings */
-var imgminify = {
+/*var imgminify = {
+  disableDefaults: true,
   optimizationLevel: 3,
   svgoPlugins: [{
     removeViewBox: false
   }]
-};
+};*/
 
 // Toggle debug
 var log = false;
@@ -247,7 +250,7 @@ Metalsmith(dir.base)
   // Minify/compress files
   .use(htmlmin('*.html', minify))
   .use(cssmin(cssminify))
-  .use(imgmin(imgminify))
+  //.use(imgmin(imgminify))
 
   .use(sitemap(meta.site.url)) // Print xml file of sitemap for search engines
 
