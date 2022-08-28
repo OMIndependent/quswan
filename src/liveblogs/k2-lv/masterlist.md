@@ -12,7 +12,7 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Opening](../lv1)</li>
 			<li>[Vision 1-1: Sea of Tears ~The Encounter~](../lv2)</li>
 			<li>[Vision 1-Interlude: Baguji the Wise and the Dream Traveler](../lv3)</li>
-			<li>Ivfvba 1-2: Yn-Ynxbbfun ~Fnperq Tebhaqf~</li>
+			<li>[Vision 1-2: La-Lakoosha ~Sacred Grounds~](../lv4)</li>
 			<li>Ivfvba 1-Obff: Pynver Zbn Grzcyr ~Sbytnena gur Nezbe Ornfg~</li>
 		</ul>
 	</li>
