@@ -13,25 +13,25 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 1-1: Sea of Tears ~The Encounter~](../lv2)</li>
 			<li>[Vision 1-Interlude: Baguji the Wise and the Dream Traveler](../lv3)</li>
 			<li>[Vision 1-2: La-Lakoosha ~Sacred Grounds~](../lv4)</li>
-			<li>Ivfvba 1-Obff: Pynver Zbn Grzcyr ~Sbytnena gur Nezbe Ornfg~</li>
+			<li>[Vision 1-Boss: Claire Moa Temple ~Folgaran the Armor Beast~](../lv5)</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Npg II: Gur Xvatqbz bs Wbl, Wbvynag</span>
+	<li><span class="section-no">Act II: The Kingdom of Joy, Joilant</span>
 		<ul class="masterlink-wrapper">
-			<li>Ivfvba 2-Cer: Onthwv, Ntnva</li>
-			<li>Ivfvba 2-Vageb: Wbvynag Cynmn ~Jrypbzr gb Wbvynag~</li>
+			<li>Vision 2-Pre: Baguji, Again</li>
+			<!--<li>Ivfvba 2-Vageb: Wbvynag Cynmn ~Jrypbzr gb Wbvynag~</li>
 			<li>Ivfvba 2-1: Wbvynag Sha Cnex ~N Qngr Jvgu Gng~</li>
 			<li>Ivfvba 2-2: Whatyr Fyvqre ~Entvat Encvqf~</li>
 			<li>Ivfvba 2-Obff: Wbvynag Cynmn ~Yrcgvb gur Sybjre Pybja~</li>
-			<li>Obahf: Zbzrgg Ubhfr</li>
+			<li>Obahf: Zbzrgg Ubhfr</li>-->
 		</ul>
-	</li>-->
+	</li>
 	<!--<li><span class="section-no">Npg III: Gur Xvatqbz bs Qvfpbeq, Ibyx</span>
 		<ul class="masterlink-wrapper">
 			<li>Ivfvba 3-Cer: Gb Ibyx naq Jne</li>
 			<li>Ivfvba 3-Vageb: Ibyx Unyy ~Gjb Ernpgbef~</li>
 			<li>Ivfvba 3-1: Ibyx Pvgl ~Guebhtu gur Pebffsver~</li>
-			<li>Ivfvba 3-2: Ibyxna Haqretebhaq ~Objryf bs gur Pvgl~</li>
+			<li>Ivfvba 3-2: Haqretebhaq Snpgbel ~Objryf bs gur Pvgl~</li>
 			<li>Ivfvba 3-Obff: Ibyx Unyy ~Zbovyr Gnax Ovfxnefu~</li>
 			<li>Ivfvba 3-3: ~~Ibyx Pvgl~~ Ibyxna Vasreab ~Vzzvarag Qnatre~</li>
 		</ul>
