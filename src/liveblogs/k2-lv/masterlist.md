@@ -18,11 +18,11 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 	</li>
 	<li><span class="section-no">Act II: The Kingdom of Joy, Joilant</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 2-Pre: Baguji, Again</li>
-			<!--<li>Ivfvba 2-Vageb: Wbvynag Cynmn ~Jrypbzr gb Wbvynag~</li>
-			<li>Ivfvba 2-1: Wbvynag Sha Cnex ~N Qngr Jvgu Gng~</li>
-			<li>Ivfvba 2-2: Whatyr Fyvqre ~Entvat Encvqf~</li>
-			<li>Ivfvba 2-Obff: Wbvynag Cynmn ~Yrcgvb gur Sybjre Pybja~</li>
+			<li>[Vision 2-Pre: Baguji, Again](../lv6)</li>
+			<li>[Vision 2-Intro: Joilant Plaza ~Welcome to Joilant~](../lv7)</li>
+			<li>Vision 2-1: Joilant Fun Park ~A Date With Tat~</li>
+			<li>Vision 2-2: Jungle Slider ~Raging Rapids~</li>
+			<!--<li>Ivfvba 2-Obff: Wbvynag Cynmn ~Yrcgvb gur Sybjre Pybja~</li>
 			<li>Obahf: Zbzrgg Ubhfr</li>-->
 		</ul>
 	</li>
