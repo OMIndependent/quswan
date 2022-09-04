@@ -6,7 +6,7 @@ publishDate: 2022-09-03 17:30:00 -0800
 categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil playthroughs
 ---
 
-<p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2) \| [**Page 3**](#3) \| [**Page 4**](#4) \| [Miniboss: Ghost Balloons](#boss) \| [**Page 5**](#5)</p>
+<p class="entry-partination" markdown="1">[**Page 1**](#1) \| [**Page 2**](#2) \| [**Page 3**](#3) \| [**Page 4**](#4) \| [**Miniboss: Ghost Balloons**](#boss) \| [**Page 5**](#5)</p>
 
 <a name="1"></a>
 
@@ -14,7 +14,7 @@ Where to go next?
 
 <img src="https://i.imgur.com/MN8Ovt2.jpg" alt="new paths" id="hd-liveblog" width="480" height="270" />
 
-Theres two locations to choose from: the Park itself or the Jungle Slider.
+There's two locations to choose from: the Park itself or the Jungle Slider.
 
 Ah well, into the park we go!
 
@@ -48,7 +48,7 @@ She's way up there, huh?
 
 Klonoa points at her angrily! Tat takes it all in stride.
 
-**Tat**: "But isn't this a bit high, even for you? I'll let you in on a pretty useful trick. you see that Kiton over there?"
+**Tat**: "But isn't this a bit high, even for you? I'll let you in on a pretty useful trick. You see that Kiton over there?"
 
 There's a Kiton next to us!
 
@@ -196,7 +196,9 @@ The doll is complete!
 
 ---
 
-Lets see if the next area has the miniboss. I'm guessing the devs kept the miniboss as a callback to the first game.
+<p><h2 class="entry-title">Miniboss: Ghost Balloons</h2></p>
+
+Let's see if the next area has the miniboss. I'm guessing the devs kept the miniboss as a callback to the first game.
 
 I'm right, this is where the miniboss is!
 
