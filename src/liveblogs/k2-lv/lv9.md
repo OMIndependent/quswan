@@ -28,7 +28,7 @@ And I find the first grammar typo (?) here from **Lolo**: "You can go anywhere t
 
 Oh, Klonoa...
 
-This is actually the first time the franchise mentions a trait of Klonoa from Klonoa himself.
+This is actually the first time, to my knowledge, the franchise mentions a trait of Klonoa from Klonoa himself: he can't swim.
 
 Popka tells him to go.
 
