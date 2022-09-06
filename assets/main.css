@@ -41,7 +41,6 @@ figure  {
 /* Set variables */
 * {
   --links: 3;
-  --nav-height: 3.25em;
   --link-row-height: 3.75em;
 }
 
@@ -355,7 +354,10 @@ nav.nav-bar {
 }
 
 /* Pagination nav bar */
-.nav-pag a {
+.nav-pag {
+  text-align: center;
+}
+.nav-pag a, .nav-pag #pages {
   border: 1px #0a160a solid;
   background: #0a160a;
   border-radius: 0.25em;
@@ -371,6 +373,9 @@ nav.nav-bar {
 }
 .nav-pag #next {
   float: left;
+}
+.nav-pag #pages {
+  visibility: hidden;
 }
 
 /* For masterlist links in index liveblog pages */
@@ -442,15 +447,15 @@ p {
   .nav-bar ul.nav-list {
     /* Ensure links are in same row, not moved down */
     display: flex;
-    height: var(--nav-height); /* Each nav link is 3.25em high */
+    height: var(--link-row-height); /* Each nav link is 3.75em high */
     opacity: 1;
   }
   .nav-bar li a {
-    font-size: 1em;
+    font-size: 1.25em;
   }
   .nav-check:not(:checked) ~ ul.nav-list,
   .nav-check:checked ~ ul.nav-list {
-    height: var(--nav-height); /* Keeps nav links in one row */
+    height: var(--link-row-height); /* Keeps nav links in one row */
     -webkit-transition: none;
     -moz-transition: none;
     -o-transition: none;
@@ -459,6 +464,9 @@ p {
   }
   .nav-menu {
     display: none;
+  }
+  .nav-pag #pages {
+    visibility: visible;
   }
   img#liveblog {
     width: 480px;

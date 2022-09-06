@@ -40,6 +40,8 @@ mixin paginate
       div#next
         a(href='/' + pagination.next.path)
           | &laquo; Older
+    div#pages
+      = pagination.num + ' of ' + pagination.pages.length
 
 //- mixin for intensedebate comments
 mixin comments
