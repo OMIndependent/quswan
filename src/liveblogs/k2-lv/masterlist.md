@@ -22,20 +22,20 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 2-Intro: Joilant Plaza ~Welcome to Joilant~](../lv7)</li>
 			<li>[Vision 2-1: Joilant Fun Park ~A Date With Tat~](../lv8)</li>
 			<li>[Vision 2-2: Jungle Slider ~Raging Rapids~](../lv9)</li>
-			<li>Vision 2-Boss: Joilant Plaza ~Leptio the Flower Clown~</li>
-			<!--<li>Obahf: Zbzrgg Ubhfr</li>-->
+			<li>[Vision 2-Boss: Joilant Plaza ~Leptio the Flower Clown~](../lv10)</li>
+			<li>Bonus: Momett House</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Npg III: Gur Xvatqbz bs Qvfpbeq, Ibyx</span>
+	<li><span class="section-no">Act III: The Kingdom of Discord, Volk</span>
 		<ul class="masterlink-wrapper">
-			<li>Ivfvba 3-Cer: Gb Ibyx naq Jne</li>
-			<li>Ivfvba 3-Vageb: Ibyx Unyy ~Gjb Ernpgbef~</li>
+			<li>Vision 3-Pre: To Volk and War</li>
+			<!--<li>Ivfvba 3-Vageb: Ibyx Unyy ~Gjb Ernpgbef~</li>
 			<li>Ivfvba 3-1: Ibyx Pvgl ~Guebhtu gur Pebffsver~</li>
 			<li>Ivfvba 3-2: Haqretebhaq Snpgbel ~Objryf bs gur Pvgl~</li>
 			<li>Ivfvba 3-Obff: Ibyx Unyy ~Zbovyr Gnax Ovfxnefu~</li>
-			<li>Ivfvba 3-3: ~~Ibyx Pvgl~~ Ibyxna Vasreab ~Vzzvarag Qnatre~</li>
+			<li>Ivfvba 3-3: ~~Ibyx Pvgl~~ Ibyxna Vasreab ~Vzzvarag Qnatre~</li>-->
 		</ul>
-	</li>-->
+	</li>
 	<!--<li><span class="section-no">Npg IV: Gur Xvatqbz bs Vaqrpvfvba, Zven-Zven</span>
 		<ul class="masterlink-wrapper">
 			<li>Ivfvba 4-Cer: Irvyrq Shgher</li>
