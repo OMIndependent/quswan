@@ -23,14 +23,14 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 2-1: Joilant Fun Park ~A Date With Tat~](../lv8)</li>
 			<li>[Vision 2-2: Jungle Slider ~Raging Rapids~](../lv9)</li>
 			<li>[Vision 2-Boss: Joilant Plaza ~Leptio the Flower Clown~](../lv10)</li>
-			<li>Bonus: Momett House</li>
+			<li>[Bonus: Momett House](../lv11)</li>
 		</ul>
 	</li>
 	<li><span class="section-no">Act III: The Kingdom of Discord, Volk</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 3-Pre: To Volk and War</li>
-			<!--<li>Ivfvba 3-Vageb: Ibyx Unyy ~Gjb Ernpgbef~</li>
-			<li>Ivfvba 3-1: Ibyx Pvgl ~Guebhtu gur Pebffsver~</li>
+			<li>[Vision 3-Pre: To Volk and War](../lv12)</li>
+			<li>Vision 3-Intro: Volk Hall ~Two Reactors~</li>
+			<!--<li>Ivfvba 3-1: Ibyx Pvgl ~Guebhtu gur Pebffsver~</li>
 			<li>Ivfvba 3-2: Haqretebhaq Snpgbel ~Objryf bs gur Pvgl~</li>
 			<li>Ivfvba 3-Obff: Ibyx Unyy ~Zbovyr Gnax Ovfxnefu~</li>
 			<li>Ivfvba 3-3: ~~Ibyx Pvgl~~ Ibyxna Vasreab ~Vzzvarag Qnatre~</li>-->
