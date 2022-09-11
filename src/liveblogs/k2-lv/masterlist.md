@@ -29,10 +29,10 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 	<li><span class="section-no">Act III: The Kingdom of Discord, Volk</span>
 		<ul class="masterlink-wrapper">
 			<li>[Vision 3-Pre: To Volk and War](../lv12)</li>
-			<li>Vision 3-Intro: Volk Hall ~Two Reactors~</li>
-			<!--<li>Ivfvba 3-1: Ibyx Pvgl ~Guebhtu gur Pebffsver~</li>
+			<li>[Vision 3-Intro: Volk Hall ~Two Reactors~](../lv13)</li>
+			<li>Vision 3-1: Volk City ~Through the Crossfire~</li>
 			<li>Ivfvba 3-2: Haqretebhaq Snpgbel ~Objryf bs gur Pvgl~</li>
-			<li>Ivfvba 3-Obff: Ibyx Unyy ~Zbovyr Gnax Ovfxnefu~</li>
+			<!--<li>Ivfvba 3-Obff: Ibyx Unyy ~Zbovyr Gnax Ovfxnefu~</li>
 			<li>Ivfvba 3-3: ~~Ibyx Pvgl~~ Ibyxna Vasreab ~Vzzvarag Qnatre~</li>-->
 		</ul>
 	</li>
