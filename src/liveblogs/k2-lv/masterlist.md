@@ -30,10 +30,10 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 		<ul class="masterlink-wrapper">
 			<li>[Vision 3-Pre: To Volk and War](../lv12)</li>
 			<li>[Vision 3-Intro: Volk Hall ~Two Reactors~](../lv13)</li>
-			<li>Vision 3-1: Volk City ~Through the Crossfire~</li>
-			<li>Vision 3-2: Underground Factory ~Bowels of the City~</li>
-			<li>Vision 3-Boss: Volk Hall ~Mobile Tank Biskarsh~</li>
-			<!--<li>Ivfvba 3-3: ~~Ibyx Pvgl~~ Ibyxna Vasreab ~Vzzvarag Qnatre~</li>-->
+			<li>[Vision 3-1: Volk City ~Through the Crossfire~](../lv14)</li>
+			<li>[Vision 3-2: Underground Factory ~Bowels of the City~](../lv15)</li>
+			<li>[Vision 3-Boss: Volk Hall ~Mobile Tank Biskarsh~](../lv16)</li>
+			<li>Vision 3-3: ~~Volk City~~ Volkan Inferno ~Imminent Danger~</li>
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Npg IV: Gur Xvatqbz bs Vaqrpvfvba, Zven-Zven</span>
