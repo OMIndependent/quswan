@@ -38,10 +38,10 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 	</li>
 	<li><span class="section-no">Act IV: The Kingdom of Indecision, Mira-Mira</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 4-Pre: Veiled Future</li>
-			<li>Ivfvba 4-1: Vfuenf Nex ~Ba gb Zven-Zven~</li>
-			<!--<li>Ivfvba 4-2: Zbhagnvaf bs Zven-Zven ~Nycvar Jbaqreynaq~</li>
-			<li>Ivfvba 4-3: Znmr bs Zrzbevrf ~Gur Ynolevagu bs Vyyhfvbaf~</li>
+			<li>[Vision 4-Pre: Veiled Future](../lv18)</li>
+			<li>Vision 4-1: Ishras Ark ~On To Mira-Mira~</li>
+			<li>Ivfvba 4-2: Zbhagnvaf bs Zven-Zven ~Nycvar Jbaqreynaq~</li>
+			<!--<li>Ivfvba 4-3: Znmr bs Zrzbevrf ~Gur Ynolevagu bs Vyyhfvbaf~</li>
 			<li>Ivfvba 4-Obff: Vaqrpvfvba Cnff ~Cbybagr gur Ungpuyvat~</li>-->
 		</ul>
 	</li>
