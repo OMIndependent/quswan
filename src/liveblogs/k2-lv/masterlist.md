@@ -40,10 +40,10 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 		<ul class="masterlink-wrapper">
 			<li>[Vision 4-Pre: Veiled Future](../lv18)</li>
 			<li>[Vision 4-1: Ishras Ark ~On To Mira-Mira~](../lv19)</li>
-			<li>Vision 4-2: Mountains of Mira-Mira ~Alpine Wonderland~</li>
-			<li>Ivfvba 4-3: Znmr bs Zrzbevrf ~Gur Ynolevagu bs Vyyhfvbaf~</li>
-			<!--<li>Ivfvba 4-Obff: Vaqrpvfvba Cnff ~Cbybagr gur Ungpuyvat~</li>
-			<li>Obahf 2: Zbzrgg Ubhfr Ntnva</li>-->
+			<li>[Vision 4-2: Mountains of Mira-Mira ~Alpine Wonderland~](../lv20)</li>
+			<li>Vision 4-3: Maze of Memories ~The Labyrinth of Illusions~</li>
+			<li>Ivfvba 4-Obff: Vaqrpvfvba Cnff ~Cbybagr gur Ungpuyvat~</li>
+			<li>Obahf 2: Zbzrgg Ubhfr Ntnva</li>
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Npg V</span>
