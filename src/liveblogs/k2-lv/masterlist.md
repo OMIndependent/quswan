@@ -41,13 +41,15 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 4-Pre: Veiled Future](../lv18)</li>
 			<li>[Vision 4-1: Ishras Ark ~On To Mira-Mira~](../lv19)</li>
 			<li>[Vision 4-2: Mountains of Mira-Mira ~Alpine Wonderland~](../lv20)</li>
-			<li>Vision 4-3: Maze of Memories ~The Labyrinth of Illusions~</li>
-			<li>Ivfvba 4-Obff: Vaqrpvfvba Cnff ~Cbybagr gur Ungpuyvat~</li>
-			<li>Obahf 2: Zbzrgg Ubhfr Ntnva</li>
+			<li>[Vision 4-3: Maze of Memories ~The Labyrinth of Illusions~](../lv21)</li>
+			<li>Vision 4-Boss: Indecision Pass ~Polonte the Hatchling~</li>
+			<li>Bonus 2: Momett House Again</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Npg V</span>
+	<!--<li><span class="section-no">Npg V: Punbf</span>
 		<ul class="masterlink-wrapper">
+			<li>Ivfvba 5-Cer: Punbf Rafhrf</li>
+			<li>Ivfvba 5-1: ~~Yn-Ynxbbfun~~ Abkvbhf Yn-Ynxbbfun ~Gur Pngnfgebcur~</li>
 		</ul>
 	</li>-->
 	<!--<li><span class="section-no">Npg VI: Gur Xvatqbz bs Fbeebj</span>
