@@ -42,16 +42,16 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 4-1: Ishras Ark ~On To Mira-Mira~](../lv19)</li>
 			<li>[Vision 4-2: Mountains of Mira-Mira ~Alpine Wonderland~](../lv20)</li>
 			<li>[Vision 4-3: Maze of Memories ~The Labyrinth of Illusions~](../lv21)</li>
-			<li>Vision 4-Boss: Indecision Pass ~Polonte the Hatchling~</li>
-			<li>Bonus 2: Momett House Again</li>
+			<li>[Vision 4-Boss: Indecision Pass ~Polonte the Hatchling~](../lv22)</li>
+			<li>[Bonus 2: Momett House Again](../lv23)</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Npg V: Punbf</span>
+	<li><span class="section-no">Act V: Chaos</span>
 		<ul class="masterlink-wrapper">
-			<li>Ivfvba 5-Cer: Punbf Rafhrf</li>
+			<li>Vision 5-Pre: Chaos Ensues</li>
 			<li>Ivfvba 5-1: ~~Yn-Ynxbbfun~~ Abkvbhf Yn-Ynxbbfun ~Gur Pngnfgebcur~</li>
 		</ul>
-	</li>-->
+	</li>
 	<!--<li><span class="section-no">Npg VI: Gur Xvatqbz bs Fbeebj</span>
 		<ul class="masterlink-wrapper">
 		</ul>
