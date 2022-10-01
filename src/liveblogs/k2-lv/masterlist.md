@@ -48,9 +48,10 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 	</li>
 	<li><span class="section-no">Act V: Chaos</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 5-Pre: Chaos Ensues</li>
-			<li>Ivfvba 5-1: ~~Yn-Ynxbbfun~~ Abkvbhf Yn-Ynxbbfun ~Gur Pngnfgebcur~</li>
-			<!--<li>Ivfvba 5-2: ~~Frn bs Grnef~~ Qnex Frn bs Grnef ~Irvy bs Qnexarff~</li>-->
+			<li>[Vision 5-Pre: Chaos Ensues](../lv24)</li>
+			<li>[Vision 5-1: ~~La-Lakoosha~~ Noxious La-Lakoosha ~The Catastrophe~](../lv25)</li>
+			<li>Ivfvba 5-2: ~~Frn bs Grnef~~ Qnex Frn bs Grnef ~Irvy bs Qnexarff~</li>
+			<!--<li>Ivfvba 5-3: Rzcgl Frn bs Grnef ~Orlbaq gur Fnaqf~</li>-->
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Npg VI: Gur Xvatqbz bs Fbeebj</span>
