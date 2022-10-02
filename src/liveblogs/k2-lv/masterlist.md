@@ -50,8 +50,9 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 		<ul class="masterlink-wrapper">
 			<li>[Vision 5-Pre: Chaos Ensues](../lv24)</li>
 			<li>[Vision 5-1: ~~La-Lakoosha~~ Noxious La-Lakoosha ~The Catastrophe~](../lv25)</li>
-			<li>Ivfvba 5-2: ~~Frn bs Grnef~~ Qnex Frn bs Grnef ~Irvy bs Qnexarff~</li>
-			<!--<li>Ivfvba 5-3: Rzcgl Frn bs Grnef ~Orlbaq gur Fnaqf~</li>-->
+			<li>[Vision 5-2: ~~Sea of Tears~~ Dark Sea of Tears ~Veil of Darkness~](../lv26)</li>
+			<li>Vision 5-3: Empty Sea of Tears ~Beyond the Sands~</li>
+			<!--<li>Ivfvba 5-Obff: Rzoelb Pbzcnff ~Phefrq Yrbevan~</li>-->
 		</ul>
 	</li>
 	<!--<li><span class="section-no">Npg VI: Gur Xvatqbz bs Fbeebj</span>
