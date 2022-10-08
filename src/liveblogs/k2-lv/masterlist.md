@@ -52,11 +52,12 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 5-1: ~~La-Lakoosha~~ Noxious La-Lakoosha ~The Catastrophe~](../lv25)</li>
 			<li>[Vision 5-2: ~~Sea of Tears~~ Dark Sea of Tears ~Veil of Darkness~](../lv26)</li>
 			<li>[Vision 5-3: Empty Sea of Tears ~Beyond the Sands~](../lv27)</li>
-			<li>Vision 5-Boss: Embryo Compass ~Cursed Leorina~</li>
+			<li>[Vision 5-Boss: Embryo Compass ~Cursed Leorina~](../lv28)</li>
 		</ul>
 	</li>
-	<!--<li><span class="section-no">Npg VI: Gur Xvatqbz bs Fbeebj</span>
+	<li><span class="section-no">Act VI: Gur Xvatqbz bs Fbeebj</span>
 		<ul class="masterlink-wrapper">
+			<li>Vision 6-1: The Ark Revisited ~Countdown~</li>
 		</ul>
-	</li>-->
+	</li>
 </ul>
