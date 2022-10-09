@@ -55,9 +55,11 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 5-Boss: Embryo Compass ~Cursed Leorina~](../lv28)</li>
 		</ul>
 	</li>
-	<li><span class="section-no">Act VI: Gur Xvatqbz bs Fbeebj</span>
+	<li><span class="section-no">Act VI: The Kingdom of Sorrow</span>
 		<ul class="masterlink-wrapper">
-			<li>Vision 6-1: The Ark Revisited ~Countdown~</li>
+			<li>[Vision 6-1: The Ark Revisited ~Countdown~](../lv29)</li>
+			<li>Vision 6-2: The Kingdom of Sorrow ~Where Sunsets Dream~</li>
+			<!--<li>Ivfvba 6-3: Gur Sbetbggra Cngu ~Qryvirenapr~</li>-->
 		</ul>
 	</li>
 </ul>
