@@ -59,7 +59,8 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 		<ul class="masterlink-wrapper">
 			<li>[Vision 6-1: The Ark Revisited ~Countdown~](../lv29)</li>
 			<li>[Vision 6-2: The Kingdom of Sorrow ~Where Sunsets Dream~](../lv30)</li>
-			<li>Vision 6-3: The Forgotten Path ~Deliverance~</li>
+			<li>[Vision 6-3: The Forgotten Path ~Deliverance~](../lv31)</li>
+			<li>Bonus 3: All Dolls Collected</li>
 		</ul>
 	</li>
 </ul>

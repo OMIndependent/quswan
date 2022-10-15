@@ -11,7 +11,7 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 
 This playthrough will cover the Nintendo Switch remake.
 
-I started on **August 22, 2022**, and am currently playing through this game.
+I played through this game from **August 22, 2022** to **September 30, 2022**.
 
 <span class="nav-masterlist">[Here's the **masterlist** of links for the playthrough. (Unmarked spoilers ahead!)][masterlist]</span>
 
