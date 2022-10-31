@@ -61,9 +61,9 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Vision 6-2: The Kingdom of Sorrow ~Where Sunsets Dream~](../lv30)</li>
 			<li>[Vision 6-3: The Forgotten Path ~Deliverance~](../lv31)</li>
 			<li>[Bonus 3: All Dolls Collected](../lv32)</li>
-			<li>Final Vision: Terminus of Tears ~The King of Sorrow~ (Phase 1)</li>
-			<!--<li>Final Vision: Terminus of Tears ~The King of Sorrow~ (Phase 2)</li>
-			<li>Ending</li>-->
+			<li>[Final Vision: Terminus of Tears ~The King of Sorrow~ (Phase 1)](../lv33)</li>
+			<li>[Final Vision: Terminus of Tears ~The King of Sorrow~ (Phase 2)](../lv34)</li>
+			<li>Ending</li>
 		</ul>
 	</li>
 </ul>
