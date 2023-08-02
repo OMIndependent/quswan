@@ -63,7 +63,7 @@ categories: klonoa klonoa-2 klonoa-2-lunateas-veil lunateas-veil
 			<li>[Bonus 3: All Dolls Collected](../lv32)</li>
 			<li>[Final Vision: Terminus of Tears ~The King of Sorrow~ (Phase 1)](../lv33)</li>
 			<li>[Final Vision: Terminus of Tears ~The King of Sorrow~ (Phase 2)](../lv34)</li>
-			<li>Ending</li>
+			<li>[Ending](../lv35)</li>
 		</ul>
 	</li>
 </ul>
