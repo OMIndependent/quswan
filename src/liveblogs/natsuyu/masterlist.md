@@ -106,4 +106,7 @@ categories: natsume-yuujinchou natsume's-book-of-friends anime
       <li>6x11: What Matters</li>
     </ul>
   </li>
+  <li><span class="section-no">Season 7 (2023)</span>
+    <ul class="masterlink-wrapper"></ul>
+  </li>
 </ul>

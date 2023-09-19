@@ -19,12 +19,16 @@ The movie ***Natsume's Book of Friends: Tied to the Temporal World*** was releas
 
 Another full-length movie ***Natsume's Book of Friends: The Waking Rock and the Strange Visitor*** was released in theatres on January 16, 2021.
 
+For its 15th anniversary, [a seventh season][s7-press] [was announced][s7-vid] on July 1, 2023.
+
 This watchthrough will cover the entire series minus the animated shorts. I started watching through this wonderful show on **October 17, 2016**, and finished it on **September 30, 2018**.
 
 <span class="nav-masterlist">[Here's the **episode list** for *Natsume's Book of Friends*.][masterlist]</span>
 
 [natsuyu]:		https://en.wikipedia.org/wiki/Natsume's_Book_of_Friends
 [bb]:			https://en.wikipedia.org/wiki/Brain's_Base
+[s7-press]:		https://animehunch.com/natsumes-book-of-friends-season-7-gets-confirmed/
+[s7-vid]:		https://www.youtube.com/watch?v=UVt6Dc1otME
 [shuka]:		https://en.wikipedia.org/wiki/Shuka
 [tv-tokyo]:		https://en.wikipedia.org/wiki/TV_Tokyo
 [masterlist]: 	./masterlist/
