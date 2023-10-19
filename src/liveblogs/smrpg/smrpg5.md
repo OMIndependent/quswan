@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Super Mario RPG - Part 5: The Mushroom Kingdom"
 date: 2017-07-21 09-0800
-publishDate: 2023-10-20 19:00:00 -0800
+publishDate: 2023-10-19 12:00:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
