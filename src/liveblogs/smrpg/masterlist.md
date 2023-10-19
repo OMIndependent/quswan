@@ -12,7 +12,7 @@ categories: smrpg
   <li>[Part 2: Enter the Smithy Gang](../smrpg2/)</li>
   <li>[Part 3: A Little Tutorial](../smrpg3/)</li>
   <li>[Part 4: Mushroom Way](../smrpg4/)</li>
-  <li>Part 5: Mushroom Kingdom</li>
+  <li>[Part 5: Mushroom Kingdom](../smrpg5)</li>
   <li>Part 6: Mallow the Frog?</li>
   <li>Part 7: To Catch A <strike>Thief</strike> Crocodile</li>
   <li>Part 8: Bandit's Way</li>
