@@ -13,9 +13,9 @@ categories: smrpg
   <li>[Part 3: A Little Tutorial](../smrpg3/)</li>
   <li>[Part 4: Mushroom Way](../smrpg4/)</li>
   <li>[Part 5: Mushroom Kingdom](../smrpg5)</li>
-  <li>Part 6: Mallow the Frog?</li>
-  <li>Part 7: To Catch A <strike>Thief</strike> Crocodile</li>
-  <li>Part 8: Bandit's Way</li>
+  <li>[Part 6: Mallow the Frog?](../smrpg6)</li>
+  <li>[Part 7: To Catch A <strike>Thief</strike> (Crocodile) Thief](../smrpg7)</li>
+  <li>[Part 8: Bandit's Way](../smrpg8)</li>
   <li>Part 9: Rematch vs. Croco</li>
   <li>Part 10: Shy Guys on Pogo Sticks</li>
   <li>Part 11: More Shy Guys</li>
