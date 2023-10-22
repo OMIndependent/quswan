@@ -17,9 +17,9 @@ categories: smrpg
   <li>[Part 7: To Catch A <strike>Thief</strike> (Crocodile) Thief](../smrpg7)</li>
   <li>[Part 8: Bandit's Way](../smrpg8)</li>
   <li>[Part 9: Rematch vs. Croco](../smrpg9)</li>
-  <li>Part 10: Shy Guys on Pogo Sticks</li>
-  <li>Part 11: More Shy Guys</li>
-  <li>Part 12: The Mysterious Star Piece</li>
+  <li>[Part 10: Shy Guys on Pogo Sticks!](../smrpg10)</li>
+  <li>[Part 11: More Shy Guys & Mack](../smrpg11)</li>
+  <li>[Part 12: The Mysterious Star Piece](../smrpg12)</li>
   <li>Part 13: To Kero Sewers</li>
   <li>Part 14: Back Into the Sewers</li>
   <li>Part 15: Finishing Kero Sewers</li>
