@@ -16,7 +16,7 @@ categories: smrpg
   <li>[Part 6: Mallow the Frog?](../smrpg6)</li>
   <li>[Part 7: To Catch A <strike>Thief</strike> (Crocodile) Thief](../smrpg7)</li>
   <li>[Part 8: Bandit's Way](../smrpg8)</li>
-  <li>Part 9: Rematch vs. Croco</li>
+  <li>[Part 9: Rematch vs. Croco](../smrpg9)</li>
   <li>Part 10: Shy Guys on Pogo Sticks</li>
   <li>Part 11: More Shy Guys</li>
   <li>Part 12: The Mysterious Star Piece</li>
