@@ -2,7 +2,7 @@
 layout: entry.pug
 title: "Super Mario RPG - Part 9: Rematch vs. Croco"
 date: 2017-07-29 09-0800
-publishDate: 2021-10-21 19:00:00 -0800
+publishDate: 2023-10-21 19:00:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
