@@ -20,7 +20,7 @@ categories: smrpg
   <li>[Part 10: Shy Guys on Pogo Sticks!](../smrpg10)</li>
   <li>[Part 11: More Shy Guys & Mack](../smrpg11)</li>
   <li>[Part 12: The Mysterious Star Piece](../smrpg12)</li>
-  <li>Part 13: To Kero Sewers</li>
+  <li>[Part 13: To <strike>Ribbit</strike> Kero Sewers](../smrpg13)</li>
   <li>Part 14: Back Into the Sewers</li>
   <li>Part 15: Finishing Kero Sewers</li>
   <li>Part 16: Midas River</li>
