@@ -21,7 +21,7 @@ categories: smrpg
   <li>[Part 11: More Shy Guys & Mack](../smrpg11)</li>
   <li>[Part 12: The Mysterious Star Piece](../smrpg12)</li>
   <li>[Part 13: To <strike>Ribbit</strike> Kero Sewers](../smrpg13)</li>
-  <li>Part 14: Back Into the Sewers</li>
+  <li>[Part 14: Back Into the Sewers](../smrpg14)</li>
   <li>Part 15: Finishing Kero Sewers</li>
   <li>Part 16: Midas River</li>
   <li>Part 17: Tadpole Pond & Frogfucius</li>
