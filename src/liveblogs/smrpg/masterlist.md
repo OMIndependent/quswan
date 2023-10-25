@@ -22,8 +22,8 @@ categories: smrpg
   <li>[Part 12: The Mysterious Star Piece](../smrpg12)</li>
   <li>[Part 13: To <strike>Ribbit</strike> Kero Sewers](../smrpg13)</li>
   <li>[Part 14: Back Into the Sewers](../smrpg14)</li>
-  <li>Part 15: Finishing Kero Sewers</li>
-  <li>Part 16: Midas River</li>
+  <li>[Part 15: Finishing Kero Sewers](../smrpg15)</li>
+  <li>[Part 16: Midas River](../smrpg16)</li>
   <li>Part 17: Tadpole Pond & Frogfucius</li>
   <li>Part 18: Rose Way</li>
   <li>Part 19: Enter Rose Town and Geno</li>
