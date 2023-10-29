@@ -25,8 +25,8 @@ categories: smrpg
   <li>[Part 15: Finishing Kero Sewers](../smrpg15)</li>
   <li>[Part 16: Midas River](../smrpg16)</li>
   <li>[Part 17: Tadpole Pond & Frogfucius](../smrpg17)</li>
-  <li>Part 18: Rose Way</li>
-  <li>Part 19: Enter Rose Town and Geno</li>
+  <li>[Part 18: Rose Way](../smrpg18)</li>
+  <li>[Part 19: Enter Rose Town and Geno](../smrpg19)</li>
   <li>Part 20: Where's Geno?</li>
   <li>Part 21: Forest Maze</li>
   <li>Part 22: Finding Geno</li>
