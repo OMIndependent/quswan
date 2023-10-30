@@ -6,6 +6,8 @@ publishDate: 2017-10-12 11:01:14 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2)</p>
+
 <a name="1"></a>
 
 ***Aside:*** For any names or phrases that are unreadable, such as Znyybj, note that this is because these are [ciphered in rot13](http://rot13.com) to prevent spoilers from getting leaked to anyone who's not familiar with the game, and may want to play the game on their own someday.

@@ -27,7 +27,7 @@ categories: smrpg
   <li>[Part 17: Tadpole Pond & Frogfucius](../smrpg17)</li>
   <li>[Part 18: Rose Way](../smrpg18)</li>
   <li>[Part 19: Enter Rose Town and Geno](../smrpg19)</li>
-  <li>Part 20: Where's Geno?</li>
+  <li>[Part 20: Where's Geno?](../smrpg20)</li>
   <li>Part 21: Forest Maze</li>
   <li>Part 22: Finding Geno</li>
   <li>Part 23: Geno and Crew vs. Bowyer</li>
