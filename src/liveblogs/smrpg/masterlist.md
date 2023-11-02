@@ -31,8 +31,8 @@ categories: smrpg
   <li>[Part 21: Forest Maze](../smrpg21)</li>
   <li>[Part 22: Finding Geno](../smrpg22)</li>
   <li>[Part 23: Geno & Crew vs. Bowyer](../smrpg23)</li>
-  <li>Part 24: Return To Rose Town</li>
-  <li>Part 25: To Other Lands</li>
+  <li>[Part 24: Return To Rose Town](../smrpg24)</li>
+  <li>[Part 25: To Other Lands](../smrpg25)</li>
   <li>Part 26: Yo'ster Isle</li>
   <li>Part 27: Moleville</li>
   <li>Part 28: Inside the Mines</li>
