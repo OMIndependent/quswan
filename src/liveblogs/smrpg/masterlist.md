@@ -33,8 +33,8 @@ categories: smrpg
   <li>[Part 23: Geno & Crew vs. Bowyer](../smrpg23)</li>
   <li>[Part 24: Return To Rose Town](../smrpg24)</li>
   <li>[Part 25: To Other Lands](../smrpg25)</li>
-  <li>Part 26: Yo'ster Isle</li>
-  <li>Part 27: Moleville</li>
+  <li>[Part 26: Yo'ster Isle](../smrpg26)</li>
+  <li>[Part 27: Moleville](../smrpg27)</li>
   <li>Part 28: Inside the Mines</li>
   <li>Part 29: Chasing Croco</li>
   <li>Part 30: Rescuing Dyna and Mite</li>

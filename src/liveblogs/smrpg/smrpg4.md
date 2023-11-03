@@ -6,7 +6,7 @@ publishDate: 2017-10-17 13:40:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
-<p style="text-align: center;">[**Part 1**](#1) | [**Part 2**](#2)</p>
+<p class="entry-partination" markdown="1">[**Part 1**](#1) \| [**Part 2**](#2)</p>
 
 <a name="1"></a>
 
