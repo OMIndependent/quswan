@@ -35,7 +35,7 @@ categories: smrpg
   <li>[Part 25: To Other Lands](../smrpg25)</li>
   <li>[Part 26: Yo'ster Isle](../smrpg26)</li>
   <li>[Part 27: Moleville](../smrpg27)</li>
-  <li>Part 28: Inside the Mines</li>
+  <li>[Part 28: Inside the Mines](../smrpg28)</li>
   <li>Part 29: Chasing Croco</li>
   <li>Part 30: Rescuing Dyna and Mite</li>
   <li>Part 31: Punchinello</li>
