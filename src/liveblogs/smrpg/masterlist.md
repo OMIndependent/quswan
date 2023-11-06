@@ -36,7 +36,7 @@ categories: smrpg
   <li>[Part 26: Yo'ster Isle](../smrpg26)</li>
   <li>[Part 27: Moleville](../smrpg27)</li>
   <li>[Part 28: Inside the Mines](../smrpg28)</li>
-  <li>Part 29: Chasing Croco</li>
+  <li>[Part 29: Chasing Croco](../smrpg29)</li>
   <li>Part 30: Rescuing Dyna and Mite</li>
   <li>Part 31: Punchinello</li>
   <li>Part 32: Minecart Ride</li>
