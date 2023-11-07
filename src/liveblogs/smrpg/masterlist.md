@@ -37,9 +37,9 @@ categories: smrpg
   <li>[Part 27: Moleville](../smrpg27)</li>
   <li>[Part 28: Inside the Mines](../smrpg28)</li>
   <li>[Part 29: Chasing Croco](../smrpg29)</li>
-  <li>Part 30: Rescuing Dyna and Mite</li>
-  <li>Part 31: Punchinello</li>
-  <li>Part 32: Minecart Ride</li>
+  <li>[Part 30: Rescuing Dyna and Mite](../smrpg30)</li>
+  <li>[Part 31: Punchinello](../smrpg31)</li>
+  <li>[Part 32: Minecart Ride](../smrpg32)</li>
   <li>Part 33: Three Snifits and a Beetle</li>
   <li>Part 34: Booster Pass</li>
   <li>Part 35: Hi There, ~~Zuko~~ Bowser Here</li>
