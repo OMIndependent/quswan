@@ -41,9 +41,9 @@ categories: smrpg
   <li>[Part 31: Punchinello](../smrpg31)</li>
   <li>[Part 32: Minecart Ride](../smrpg32)</li>
   <li>[Part 33: Three Snifits and a Beetle](../smrpg33)</li>
-  <li>Part 34: Booster Pass</li>
-  <li>Part 35: Hi There, ~~Zuko~~ Bowser Here</li>
-  <li>Part 36: Booster Tower</li>
+  <li>[Part 34: Booster Pass](../smrpg34)</li>
+  <li>[Part 35: Hi There, ~~Zuko~~ Bowser Here](../smrpg35)</li>
+  <li>[Part 36: Booster Tower](../smrpg36)</li>
   <li>Part 37: Enter Booster</li>
   <li>Part 38: Toadofsky & Melody Bay</li>
   <li>Part 39: Dropping the Masher</li>
