@@ -40,7 +40,7 @@ categories: smrpg
   <li>[Part 30: Rescuing Dyna and Mite](../smrpg30)</li>
   <li>[Part 31: Punchinello](../smrpg31)</li>
   <li>[Part 32: Minecart Ride](../smrpg32)</li>
-  <li>Part 33: Three Snifits and a Beetle</li>
+  <li>[Part 33: Three Snifits and a Beetle](../smrpg33)</li>
   <li>Part 34: Booster Pass</li>
   <li>Part 35: Hi There, ~~Zuko~~ Bowser Here</li>
   <li>Part 36: Booster Tower</li>
