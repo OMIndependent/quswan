@@ -20,7 +20,7 @@ At the foot of the tower, we run into...**Bowser!** He's looking at Booster's To
 
 **Bowser:** "I miss the good old days...Toadstool screaming in terror, Mario rushing in to save her..."
 
-As he turns around to face us, Bowser's weeping like Steven...and jumps at the sight of Mario!
+As he turns around to face us, Bowser's weeping like <a href="https://media.tenor.com/zjI1m5BXnusAAAAC/steven-universe-crying.gif">Steven</a>...and jumps at the sight of Mario!
 
 Then he turns his back to him, telling himself to calm down, and not let Mario see him in that state.
 
