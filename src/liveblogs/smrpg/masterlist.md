@@ -47,7 +47,7 @@ categories: smrpg
   <li>[Part 37: Enter Booster](../smrpg37)</li>
   <li>[Part 38: Toadofsky & Melody Bay](../smrpg38)</li>
   <li>[Part 39: Dropping the Masher](../smrpg39)</li>
-  <li>Part 40: Climbing Booster's Tower</li>
+  <li>[Part 40: Climbing Booster's Tower](../smrpg40)</li>
   <li>Part 41: The Tippy Top of the Tower</li>
   <li>Part 42: Booster Hill</li>
   <li>Part 43: Marrymore</li>
