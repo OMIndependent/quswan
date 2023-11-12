@@ -48,8 +48,8 @@ categories: smrpg
   <li>[Part 38: Toadofsky & Melody Bay](../smrpg38)</li>
   <li>[Part 39: Dropping the Masher](../smrpg39)</li>
   <li>[Part 40: Climbing Booster's Tower](../smrpg40)</li>
-  <li>Part 41: The Tippy Top of the Tower</li>
-  <li>Part 42: Booster Hill</li>
+  <li>[Part 41: The Tippy Top of the Tower](../smrpg41)</li>
+  <li>[Part 42: Booster Hill](../smrpg42)</li>
   <li>Part 43: Marrymore</li>
   <li>Part 44: Reopening the Chapel</li>
   <li>Part 45: Return to the Mushroom Kingdom</li>
