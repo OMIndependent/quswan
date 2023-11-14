@@ -54,9 +54,9 @@ categories: smrpg
   <li>[Part 44: Reopening the Chapel](../smrpg44)</li>
   <li>[Part 45: Return to the Mushroom Kingdom](../smrpg45)</li>
   <li>[Part 46: A Royal Surprise](../smrpg46)</li>
-  <li>Part 47: Playing a New Tune</li>
-  <li>Part 48: Frogfucius Again and Star Hill</li>
-  <li>Part 49: Seaside Town</li>
+  <li>[Part 47: Playing a New Tune](../smrpg47)</li>
+  <li>[Part 48: Frogfucius Again and Star Hill](../smrpg48)</li>
+  <li>[Part 49: Seaside Town](../smrpg49)</li>
   <li>Part 50: Into the Sunken Ship</li>
   <li>Part 51: Deeper Into the Depths</li>
   <li>Part 52: The Giant Squid, or the Giant Blooper</li>
