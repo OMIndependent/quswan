@@ -51,9 +51,9 @@ categories: smrpg
   <li>[Part 41: The Tippy Top of the Tower](../smrpg41)</li>
   <li>[Part 42: Booster Hill](../smrpg42)</li>
   <li>[Part 43: Marrymore](../smrpg43)</li>
-  <li>Part 44: Reopening the Chapel</li>
-  <li>Part 45: Return to the Mushroom Kingdom</li>
-  <li>Part 46: A Royal Surprise</li>
+  <li>[Part 44: Reopening the Chapel](../smrpg44)</li>
+  <li>[Part 45: Return to the Mushroom Kingdom](../smrpg45)</li>
+  <li>[Part 46: A Royal Surprise](../smrpg46)</li>
   <li>Part 47: Playing a New Tune</li>
   <li>Part 48: Frogfucius Again and Star Hill</li>
   <li>Part 49: Seaside Town</li>
