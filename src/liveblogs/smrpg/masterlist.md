@@ -60,9 +60,9 @@ categories: smrpg
   <li>[Part 50: Into the Sunken Ship](../smrpg50)</li>
   <li>[Part 51: Deeper Into the Depths](../smrpg51)</li>
   <li>[Part 52: The Giant Squid, or the Giant Blooper](../smrpg52)</li>
-  <li>Part 53: Deeper Still Into the Deepest Depths</li>
-  <li>Part 54: Jonathan Jones, or Johnny</li>
-  <li>Part 54a: Finding a Certain Someone</li>
+  <li>[Part 53: Deeper Still Into the Deepest Depths](../smrpg53)</li>
+  <li>[Part 54: Jonathan Jones, or Johnny](../smrpg54)</li>
+  <li>[Part 54a: Finding a Certain Someone](../smrpg54a)</li>
   <li>Part 55: Return to Seaside</li>
   <li>Part 55a: Back To Meeting the Certain Someone</li>
   <li>Part 56: The Next Step</li>
