@@ -63,9 +63,9 @@ categories: smrpg
   <li>[Part 53: Deeper Still Into the Deepest Depths](../smrpg53)</li>
   <li>[Part 54: Jonathan Jones, or Johnny](../smrpg54)</li>
   <li>[Part 54a: Finding a Certain Someone](../smrpg54a)</li>
-  <li>Part 55: Return to Seaside</li>
-  <li>Part 55a: Back To Meeting the Certain Someone</li>
-  <li>Part 56: The Next Step</li>
+  <li>[Part 55: Return to Seaside](../smrpg55)</li>
+  <li>[Part 55a: Back To Meeting the Certain Someone](../smrpg55#a)</li>
+  <li>[Part 56: The Next Step](../smrpg56)</li>
   <li>Part 57: Land's End</li>
   <li>Part 57a: Mokura</li>
   <li>Part 58: Belome's Temple</li>
