@@ -6,7 +6,7 @@ publishDate: 2023-11-03 11:00:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
-<a href="https://youtu.be/oShuhcg9LlU">Here's the music for Yo'ster Isle.</a>
+[Here's the music for Yo'ster Isle.](https://youtu.be/oShuhcg9LlU)
 
 I talk to the Yoshis, who respond in chirps.
 

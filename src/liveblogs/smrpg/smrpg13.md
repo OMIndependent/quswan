@@ -26,7 +26,7 @@ Another warning from Mallow: some parts of the sewers might be dark...
 
 Mallow jumps in first, with Mario following.
 
-<a href="https://youtu.be/7kAkh0s4UGc">The sewers have some creepy organ music...</a>
+[The sewers have some creepy organ music...](https://youtu.be/7kAkh0s4UGc)
 
 I save my progress at the nearby block in the sewer before moving forward.
 

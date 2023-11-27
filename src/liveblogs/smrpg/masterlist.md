@@ -68,8 +68,8 @@ categories: smrpg
   <li>[Part 56: The Next Step](../smrpg56)</li>
   <li>[Part 57: Land's End](../smrpg57)</li>
   <li>[Part 57a: Mokura](../smrpg57#a)</li>
-  <li>Part 58: Belome's Temple</li>
-  <li>Part 59: Monstro Town</li>
+  <li>[Part 58: Belome's Temple](../smrpg58)</li>
+  <li>[Part 59: Monstro Town](../smrpg59)</li>
   <li>Part 60: The Three Musty Fears and Scavenging</li>
   <li>Part 60a: Culex, Take One</li>
   <li>Part 61: Finding the Sixth Star Piece</li>

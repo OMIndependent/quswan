@@ -98,13 +98,13 @@ So Frogfucius reveals the truth about Mallow, that Mallow's...
 
 <img src="http://i.imgur.com/jLrSJEl.png" alt="NOT A TADPOLE" width="360" height="270" id="liveblog" />
 
-<a href="https://youtu.be/0RkC0c665zg">**NOT a tadpole!!!**</a>
+[**NOT a tadpole!!!**](https://youtu.be/0RkC0c665zg)
 
 <img src="http://i.imgur.com/49ijlvm.png" alt="say what" width="360" height="270" id="liveblog" />
 
 Everyone plus the Lakitu come to the island in a hurry!
 
-<a href="https://youtu.be/kbamoPhIanc">Frogfucius tells his story about how he found Mallow.</a> So Frogfucius found Mallow from a basket falling from the Midas falls... (music in link)
+[Frogfucius tells his story about how he found Mallow.](https://youtu.be/kbamoPhIanc) So Frogfucius found Mallow from a basket falling from the Midas falls... (music in link)
 
 Mallow takes this news...as lightly as they can...
 

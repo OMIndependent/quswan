@@ -26,7 +26,7 @@ He turns to face us now. He tells us that he's trying to "entertain" Peach.
 
 He opens his big maw, probably to laugh, and the train moves away...
 
-<a href="https://youtu.be/7BX8G-22E5I">The music's now changed!</a>
+[The music's now changed!](https://youtu.be/7BX8G-22E5I)
 
 While leaving the corridor, I notice Booster running back to the corner where he came from on the tracks.
 

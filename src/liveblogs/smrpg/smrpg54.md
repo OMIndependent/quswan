@@ -98,4 +98,4 @@ Honestly, Johnny was easier than I expected. Probably it was because I took care
 
 **Five Star Pieces!!!** Oh my god!!! Two more to go!
 
-[Here's the map I used for the Sunken Ship.](http://www.mariouniverse.com/images/maps/snes/smrpg/seaside-sunkenship.png)
+[Here's the map I used for the Sunken Ship.](https://www.mariouniverse.com/wp-content/img/maps/snes/smrpg/seaside-sunkenship.png)

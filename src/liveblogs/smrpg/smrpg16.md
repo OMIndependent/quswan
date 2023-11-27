@@ -6,7 +6,7 @@ publishDate: 2023-10-25 11:05:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
-<a href="https://youtu.be/2CmfDbZ6j08">Here's the music for Midas River.</a>
+[Here's the music for Midas River.](https://youtu.be/2CmfDbZ6j08)
 
 Toad now appears and gives us a tutorial for this course.
 
@@ -38,7 +38,7 @@ The water's flooded the sewers once again...
 
 Noticed that the Hobgoblin's **Elegy** sounds like a macabre rendition of Für Elise...
 
-<a href="http://bit.ly/2v0cFHz">I checked a map of Kero Sewers online</a>, and it turns out I have to take a pipe from a place called Ynaq'f Raq in order to get that chest!
+[I checked a map of Kero Sewers online](http://bit.ly/2v0cFHz), and it turns out I have to take a pipe from a place called Ynaq'f Raq in order to get that chest!
 
 After getting into the pipe leading to Belome's chamber, it's time for the Midas River minigame again!
 

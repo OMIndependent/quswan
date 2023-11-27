@@ -10,13 +10,13 @@ categories: smrpg super-mario-rpg playthroughs
 
 <a name="1"></a>
 
-<a href="https://youtu.be/abDCsQrDLTE">Here's the famous, or infamous, Forest Maze theme, known as "Beware the Forest's Mushrooms".</a> It's also this tune, from a <a href="https://youtu.be/k_q9y5vSIrw">music video</a>, that first made me know about this game. There's also another <a href="https://youtu.be/QfXng_kD9ZA">music video of this song</a> from the same animator.
+[Here's the famous, or infamous, Forest Maze theme, known as "Beware the Forest's Mushrooms".](https://youtu.be/abDCsQrDLTE) It's also this tune, from a [music video](https://youtu.be/k_q9y5vSIrw), that first made me know about this game. There's also another [music video of this song](https://youtu.be/QfXng_kD9ZA) from the same animator.
 
-**ETA:** <a href="https://youtu.be/A19kkspb89I">Thanks to the announcement of the remake of this game, a remake of the original music video is up</a>.
+**ETA:** [Thanks to the announcement of the remake of this game, a remake of the original music video is up](https://youtu.be/A19kkspb89I).
 
 <img src="https://i.imgur.com/0gsZepl.png" alt="forest entrance" width="360" height="270" id="liveblog" />
 
-I head forward into the forest, and I see a <a href="https://www.mariowiki.com/Wiggler">**Wiggler**</a>, one of the most short-fused creatures in the Mario-verse, walking around a log...
+I head forward into the forest, and I see a [**Wiggler**](https://www.mariowiki.com/Wiggler), one of the most short-fused creatures in the Mario-verse, walking around a log...
 
 I sink down the log into a tunnel, where I see plenty of unfriendly fauna...
 

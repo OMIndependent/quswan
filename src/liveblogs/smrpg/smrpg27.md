@@ -6,7 +6,7 @@ publishDate: 2023-11-03 11:05:00 -0800
 categories: smrpg super-mario-rpg playthroughs
 ---
 
-<a href="https://youtu.be/Aa_AcCVQQeY">The music in this town sounds lively.</a>
+[The music in this town sounds lively.](https://youtu.be/Aa_AcCVQQeY)
 
 <img src="https://i.imgur.com/yld4uUb.png" alt="moleville" width="360" height="270" id="liveblog" />
 

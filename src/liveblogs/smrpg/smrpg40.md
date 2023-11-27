@@ -164,7 +164,7 @@ After getting the first Frog Coin in the room, I'm ambushed again!
 
 Frustrated, I look online to find tips on how to solve this room, and avoid any traps...
 
-I head back to the room with the parachuting Spookums, as I found out <a href="http://faqs.neoseeker.com/Games/SNES/super_mario_rpg_booster_tower.gif">from this map</a>, there's a hidden chest block with a Frog Coin in it!
+I head back to the room with the parachuting Spookums, as I found out [from this map](http://faqs.neoseeker.com/Games/SNES/super_mario_rpg_booster_tower.gif), there's a hidden chest block with a Frog Coin in it!
 
 After getting that, I head back to the room, gingerly taking my time collecting everything without stepping on a Fireball trap!
 
