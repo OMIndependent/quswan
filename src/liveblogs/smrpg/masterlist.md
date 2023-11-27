@@ -70,8 +70,8 @@ categories: smrpg
   <li>[Part 57a: Mokura](../smrpg57#a)</li>
   <li>[Part 58: Belome's Temple](../smrpg58)</li>
   <li>[Part 59: Monstro Town](../smrpg59)</li>
-  <li>Part 60: The Three Musty Fears and Scavenging</li>
-  <li>Part 60a: Culex, Take One</li>
+  <li>[Part 60: The Three Musty Fears and Scavenging](../smrpg60)</li>
+  <li>[Part 60a: Culex, Take One](../smrpg60#a)</li>
   <li>Part 61: Finding the Sixth Star Piece</li>
   <li>Part 62: Bean Valley</li>
   <li>Part 63: Visiting the Other Pipes</li>
