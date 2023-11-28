@@ -72,8 +72,8 @@ categories: smrpg
   <li>[Part 59: Monstro Town](../smrpg59)</li>
   <li>[Part 60: The Three Musty Fears and Scavenging](../smrpg60)</li>
   <li>[Part 60a: Culex, Take One](../smrpg60#a)</li>
-  <li>Part 61: Finding the Sixth Star Piece</li>
-  <li>Part 62: Bean Valley</li>
+  <li>[Part 61: Finding the Sixth Star Piece](../smrpg61)</li>
+  <li>[Part 62: Bean Valley](../smrpg62)</li>
   <li>Part 63: Visiting the Other Pipes</li>
   <li>Part 64: Sidequest III: The Search For A Casino</li>
   <li>Part 65: Nimbus Land</li>
