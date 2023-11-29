@@ -74,8 +74,8 @@ categories: smrpg
   <li>[Part 60a: Culex, Take One](../smrpg60#a)</li>
   <li>[Part 61: Finding the Sixth Star Piece](../smrpg61)</li>
   <li>[Part 62: Bean Valley](../smrpg62)</li>
-  <li>Part 63: Visiting the Other Pipes</li>
-  <li>Part 64: Sidequest III: The Search For A Casino</li>
+  <li>[Part 63: Visiting the Other Pipes](../smrpg63)</li>
+  <li>[Part 64: Sidequest III: The Search For A Casino](../smrpg64)</li>
   <li>Part 65: Nimbus Land</li>
   <li>Part 66: Inside Nimbus Castle</li>
   <li>Part 67: Playtime With Birdo</li>
