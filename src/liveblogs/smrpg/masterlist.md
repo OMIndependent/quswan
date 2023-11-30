@@ -76,7 +76,7 @@ categories: smrpg
   <li>[Part 62: Bean Valley](../smrpg62)</li>
   <li>[Part 63: Visiting the Other Pipes](../smrpg63)</li>
   <li>[Part 64: Sidequest III: The Search For A Casino](../smrpg64)</li>
-  <li>Part 65: Nimbus Land</li>
+  <li>[Part 65: Nimbus Land](../smrpg65)</li>
   <li>Part 66: Inside Nimbus Castle</li>
   <li>Part 67: Playtime With Birdo</li>
   <li>Part 68: Further Into Nimbus Castle</li>
