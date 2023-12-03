@@ -80,8 +80,8 @@ categories: smrpg
   <li>[Part 66: Inside Nimbus Castle](../smrpg66)</li>
   <li>[Part 67: Playtime With Birdo](../smrpg67)</li>
   <li>[Part 68: Further Into Nimbus Castle](../smrpg68)</li>
-  <li>Part 69: R&R in the Hot Springs and Other Sidequests</li>
-  <li>Part 70: Barrel Volcano</li>
+  <li>[Part 69: R&R in the Hot Springs and Other Sidequests](../smrpg69)</li>
+  <li>[Part 70: Barrel Volcano](../smrpg70)</li>
   <li>Part 71: Barreling Through and Meeting Hinopio</li>
   <li>Part 72: Czar Dragon</li>
   <li>Part 73: Mighty Axin' Axem Rangers</li>
