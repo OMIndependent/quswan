@@ -83,9 +83,9 @@ categories: smrpg
   <li>[Part 69: R&R in the Hot Springs and Other Sidequests](../smrpg69)</li>
   <li>[Part 70: Barrel Volcano](../smrpg70)</li>
   <li>[Part 71: Barreling Through and Meeting Hinopio](../smrpg71)</li>
-  <li>Part 72: Czar Dragon</li>
-  <li>Part 73: Mighty Axin' Axem Rangers</li>
-  <li>Part 74: Sidetracked</li>
+  <li>[Part 72: Czar Dragon](../smrpg72)</li>
+  <li>[Part 73: Mighty Axin' Axem Rangers](../smrpg73)</li>
+  <li>[Part 74: Sidetracked](../smrpg74)</li>
   <li>Part 75: Playing Scales</li>
   <li>Part 76: The Final Star Piece</li>
   <li>Part 77: Return to Bowser's Castle</li>
