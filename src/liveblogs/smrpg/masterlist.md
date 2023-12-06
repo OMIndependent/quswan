@@ -86,8 +86,8 @@ categories: smrpg
   <li>[Part 72: Czar Dragon](../smrpg72)</li>
   <li>[Part 73: Mighty Axin' Axem Rangers](../smrpg73)</li>
   <li>[Part 74: Sidetracked](../smrpg74)</li>
-  <li>Part 75: Playing Scales</li>
-  <li>Part 76: The Final Star Piece</li>
+  <li>[Part 75: Playing Scales](../smrpg75)</li>
+  <li>[Part 76: The Final Star Piece](../smrpg76)</li>
   <li>Part 77: Return to Bowser's Castle</li>
   <li>Part 78: The Last Three Rooms</li>
   <li>Part 79: The Final Room</li>
