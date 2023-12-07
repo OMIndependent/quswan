@@ -88,7 +88,7 @@ categories: smrpg
   <li>[Part 74: Sidetracked](../smrpg74)</li>
   <li>[Part 75: Playing Scales](../smrpg75)</li>
   <li>[Part 76: The Final Star Piece](../smrpg76)</li>
-  <li>Part 77: Return to Bowser's Castle</li>
+  <li>[Part 77: Return to Bowser's Castle](../smrpg77)</li>
   <li>Part 78: The Last Three Rooms</li>
   <li>Part 79: The Final Room</li>
   <li>Part 80: Boomer, the Last Soldier and Facing the Giant Sword</li>
