@@ -92,10 +92,10 @@ categories: smrpg
   <li>[Part 78: The Last Three Rooms](../smrpg78)</li>
   <li>[Part 79: The Final Room](../smrpg79)</li>
   <li>[Part 80: Boomer, the Last Soldier and Facing the Giant Sword](../smrpg80)</li>
-  <li>Part 81: Thoughts, and Some More Backtracking</li>
-  <li>Part 81a: Culex, Take Two</li>
-  <li>Part 81b: Jinx, Take One</li>
-  <li>Part 82: Through the Gate</li>
+  <li>[Part 81: Thoughts, and Some More Backtracking](../smrpg81)</li>
+  <li>[Part 81a: Culex, Take Two](../smrpg81#a)</li>
+  <li>[Part 81b: Jinx, Take One](../smrpg81#b)</li>
+  <li>[Part 82: Through the Gate](../smrpg82)</li>
   <li>Part 83: Deeper Still</li>
   <li>Part 84: Smithy's Factory</li>
   <li>Part 85: The Gunyolk</li>
