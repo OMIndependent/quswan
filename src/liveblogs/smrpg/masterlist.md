@@ -96,7 +96,7 @@ categories: smrpg
   <li>[Part 81a: Culex, Take Two](../smrpg81#a)</li>
   <li>[Part 81b: Jinx, Take One](../smrpg81#b)</li>
   <li>[Part 82: Through the Gate](../smrpg82)</li>
-  <li>Part 83: Deeper Still</li>
+  <li>[Part 83: Deeper Still](../smrpg83)</li>
   <li>Part 84: Smithy's Factory</li>
   <li>Part 85: The Gunyolk</li>
   <li>Part 86: Facing Smithy</li>
