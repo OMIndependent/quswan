@@ -99,6 +99,6 @@ categories: smrpg
   <li>[Part 83: Deeper Still](../smrpg83)</li>
   <li>[Part 84: Smithy's Factory](../smrpg84)</li>
   <li>[Part 85: The Gunyolk](../smrpg85)</li>
-  <li>Part 86: Facing Smithy</li>
+  <li>[Part 86: Facing Smithy](../smrpg86)</li>
   <li>Part 87: Finale</li>
 </ul>
