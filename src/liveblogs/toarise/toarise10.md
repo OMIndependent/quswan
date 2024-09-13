@@ -1,7 +1,7 @@
 ---
 layout: entry.pug
 title: "Tales of Arise - Part 10: To Ulzebek"
-date: 2022-12-02 09-0800
+date: 2021-12-02 09-0800
 publishDate: 2024-09-12 17:02:00 -0800
 categories: toarise tales-of-arise playthroughs
 ---

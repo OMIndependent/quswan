@@ -21,17 +21,21 @@ categories: toarise tales-of-arise
 					<li>[Part 8: Sandinus Ravine](../toarise8)</li>
 					<li>[Part 9: Campfire Stories](../toarise9)</li>
 					<li>[Part 10: To Ulzebek](../toarise10)</li>
-					<li>Part 11: Ulzebek</li>
-					<li>Part 12: Next Plans</li>
+					<li>[Part 11: Ulzebek](../toarise11)</li>
+					<li>[Part 12: Next Plans](../toarise12)</li>
 					<li>Part 13: Supply Procurement</li>
 					<li>Part 14: A Renan Castle</li>
 					<li>Part 15: Iglia Wastes</li>
 					<li>Part 16: Cooking</li>
 					<li>Part 17: Fagan Ruins (Page 1)</li>
 					<li>Part 17: Fagan Ruins (Pages 2-5)
-					<!--<li>Part 18: Grim News</li>
+					<li>Part 18: Grim News</li>
 					<li>Part 19: Kyrd Garrison</li>
-					<li>Part 20: Conviction</li>-->
+					<li>Part 20: Conviction</li>
+					<!--<li>Part 21: Forging From Scratch</li>
+					<li>Part 22: The Plan</li>
+					<li>Part 23: Taking Down Balseph</li>
+					<li>Part 24: Glanymede Castle</li>-->
 				</ul>
 			</li>
 			<!--<li><span class="section-no">Chapter 2</span>
