@@ -23,10 +23,10 @@ categories: toarise tales-of-arise
 					<li>[Part 10: To Ulzebek](../toarise10)</li>
 					<li>[Part 11: Ulzebek](../toarise11)</li>
 					<li>[Part 12: Next Plans](../toarise12)</li>
-					<li>Part 13: Supply Procurement</li>
-					<li>Part 14: A Renan Castle</li>
-					<li>Part 15: Iglia Wastes</li>
-					<li>Part 16: Cooking</li>
+					<li>[Part 13: Supply Procurement](../toarise13)</li>
+					<li>[Part 14: A Renan Castle](../toarise14)</li>
+					<li>[Part 15: Iglia Wastes](../toarise15)</li>
+					<li>[Part 16: Cooking](../toarise16)</li>
 					<li>Part 17: Fagan Ruins (Page 1)</li>
 					<li>Part 17: Fagan Ruins (Pages 2-5)
 					<li>Part 18: Grim News</li>
