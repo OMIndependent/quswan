@@ -27,8 +27,8 @@ categories: toarise tales-of-arise
 					<li>[Part 14: A Renan Castle](../toarise14)</li>
 					<li>[Part 15: Iglia Wastes](../toarise15)</li>
 					<li>[Part 16: Cooking](../toarise16)</li>
-					<li>Part 17: Fagan Ruins (Page 1)</li>
-					<li>Part 17: Fagan Ruins (Pages 2-5)
+					<li>[Part 17: Fagan Ruins (Page 1)](../toarise17-1)</li>
+					<li>[Part 17: Fagan Ruins (Pages 2-5)](../toarise17-2)</li>
 					<li>Part 18: Grim News</li>
 					<li>Part 19: Kyrd Garrison</li>
 					<li>Part 20: Conviction</li>
