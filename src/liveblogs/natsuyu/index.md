@@ -9,19 +9,19 @@ categories: natsume-yuujinchou natsume's-book-of-friends anime
 ---
 This is the main page of my liveblog of [*Natsume's Book of Friends*][natsuyu].
 
-Here's a general summary of the show taken from wikipedia:
+Here's a general, paraphrased summary of the show taken from wikipedia:
 
-***Natsume's Book of Friends*** (夏目友人帳 or *Natsume Yuujinchou*) is a Japanese fantasy manga series by Yuki Midorikawa. It began serialization by *Hakusensha* in the shoujo manga magazine *LaLa DX* in 2005, before switching to *LaLa* in 2008. The chapters have been collected in 27 bound volumes. The series is about Takashi Natsume, an orphaned teenage boy who can see spirits, who inherits from his grandmother the notebook she used to bind spirits under her control. *Natsume's Book of Friends* was a finalist for the first *Manga Taishou* award in 2008. 
+***Natsume's Book of Friends*** (夏目友人帳 or *Natsume Yuujinchou*) is a Japanese fantasy manga series by Yuki Midorikawa. It began serialization by *Hakusensha* in the shoujo manga magazine *LaLa DX* in 2005, before switching to *LaLa* in 2008. The chapters have been collected in 29 bound volumes. The series is about Takashi Natsume, an orphaned teenage boy who can see spirits, who inherits from his grandmother the notebook she used to bind spirits under her control.
 
-*Natsume's Book of Friends* has been adapted as a series of drama CDs, as well as an anime television series produced by [Brain's Base][bb] (seasons 1-4) and [Shuka][shuka] (seasons 5-6), which was broadcast on [TV Tokyo][tv-tokyo] for 6 seasons in 2008, 2009, 2011, 2012, 2016, and 2017.
+*Natsume's Book of Friends* has been adapted as a series of drama CDs, as well as an anime television series produced by [Brain's Base][bb] (for seasons 1-4) and [Shuka][shuka] (for seasons 5-7), which was broadcast on [TV Tokyo][tv-tokyo] for 7 seasons in 2008, 2009, 2011, 2012, 2016, 2017, and 2024.
 
 The movie ***Natsume's Book of Friends: Tied to the Temporal World*** was released in theatres on September 29, 2018.
 
 Another full-length movie ***Natsume's Book of Friends: The Waking Rock and the Strange Visitor*** was released in theatres on January 16, 2021.
 
-For its 15th anniversary, [a seventh season][s7-press] [was announced][s7-vid] on July 1, 2023.
+For its 15th anniversary, [a seventh season][s7-press] [was announced][s7-vid] on July 1, 2023. The seventh season was (finally!) broadcast from October 8 to December 24, 2024.
 
-This watchthrough will cover the entire series minus the animated shorts. I started watching through this wonderful show on **October 17, 2016**, and finished it on **September 30, 2018**.
+This watchthrough will cover the entire series minus the animated shorts. I started watching through this wonderful show on **October 17, 2016**, and finished six seasons of it on **September 30, 2018**. The liveblog for the seventh season will be done, but not uploaded soon.
 
 <span class="nav-masterlist">[Here's the **episode list** for *Natsume's Book of Friends*.][masterlist]</span>
 

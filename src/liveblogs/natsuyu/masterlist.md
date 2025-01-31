@@ -106,7 +106,20 @@ categories: natsume-yuujinchou natsume's-book-of-friends anime
       <li>6x11: What Matters</li>
     </ul>
   </li>
-  <li><span class="section-no">Season 7 (2023)</span>
-    <ul class="masterlink-wrapper"></ul>
+  <li><span class="section-no">Season 7 (2024)</span>
+    <ul class="masterlink-wrapper">
+      <li>7x01: The Fragment's Lament</li>
+      <li>7x02: ???</li>
+      <li>7x03: ???</li>
+      <li>7x04: ???</li>
+      <li>7x05: ???</li>
+      <li>7x06: ???</li>
+      <li>7x07: ???</li>
+      <li>7x08: ???</li>
+      <li>7x09: ???</li>
+      <li>7x10: ???</li>
+      <li>7x11: ???</li>
+      <li>7x12: ???</li>
+    </ul>
   </li>
 </ul>
