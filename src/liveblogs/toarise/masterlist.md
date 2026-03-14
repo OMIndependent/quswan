@@ -29,13 +29,13 @@ categories: toarise tales-of-arise
 					<li>[Part 16: Cooking](../toarise16)</li>
 					<li>[Part 17: Fagan Ruins (Page 1)](../toarise17-1)</li>
 					<li>[Part 17: Fagan Ruins (Pages 2-5)](../toarise17-2)</li>
-					<li>Part 18: Grim News</li>
-					<li>Part 19: Kyrd Garrison</li>
-					<li>Part 20: Conviction</li>
-					<!--<li>Part 21: Forging From Scratch</li>
+					<li>[Part 18: Grim News](../toarise18)</li>
+					<li>[Part 19: Kyrd Garrison](../toarise19)</li>
+					<li>[Part 20: Conviction](../toarise20)</li>
+					<li>Part 21: Forging From Scratch</li>
 					<li>Part 22: The Plan</li>
 					<li>Part 23: Taking Down Balseph</li>
-					<li>Part 24: Glanymede Castle</li>-->
+					<li>Part 24: Glanymede Castle</li>
 				</ul>
 			</li>
 			<!--<li><span class="section-no">Chapter 2</span>
